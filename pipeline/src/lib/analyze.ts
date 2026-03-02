@@ -231,7 +231,7 @@ export async function analyzeEdition(
     });
   }
 
-  // Run analysis in parallel (concurrency=3)
+  // Run analysis in parallel (concurrency=15)
   const total = toAnalyze.length;
   console.log(`  Analyzing ${total} clusters (concurrency=3)...`);
   let done = 0;
@@ -240,7 +240,7 @@ export async function analyzeEdition(
     done++;
     console.log(`  [${done}/${total}] analysis done`);
   });
-  await runConcurrent(tasks, 3);
+  await runConcurrent(tasks, 15);
 
   console.log(`  ✓ Analyzed ${total} multi-source clusters`);
   return total;

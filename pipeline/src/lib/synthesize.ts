@@ -261,7 +261,7 @@ export async function synthesizeEdition(
   );
 
   const total = toSynthesize.length;
-  console.log(`  Synthesizing ${total} clusters (concurrency=3)...`);
+  console.log(`  Synthesizing ${total} clusters (concurrency=15)...`);
 
   let done = 0;
   const tasks = toSynthesize.map((clusterId) => async () => {
@@ -282,7 +282,7 @@ export async function synthesizeEdition(
     return slug;
   });
 
-  const results = await runConcurrent(tasks, 3);
+  const results = await runConcurrent(tasks, 15);
   const created = results.filter((slug) => slug !== null).length;
 
   // Update edition
