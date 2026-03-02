@@ -1,10 +1,11 @@
 import { inArray } from "drizzle-orm";
 import type { SQLiteColumn } from "drizzle-orm/sqlite-core";
 
-const BATCH_SIZE = 500;
+// D1 REST API limit is 100 bound params per query (not 999 like native SQLite)
+const BATCH_SIZE = 90;
 
 /**
- * inArray but batched to avoid D1's 999 SQL variable limit.
+ * inArray but batched to avoid D1's bound parameter limit.
  * Returns all rows matching any of the ids across multiple queries.
  */
 export async function batchSelect<T>(
