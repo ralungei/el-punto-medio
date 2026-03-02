@@ -242,8 +242,8 @@ app.get("/editions.json", async (c) => {
   return c.json(result);
 });
 
-// GET /edition-:id.json
-app.get("/edition-:id.json", async (c) => {
+// GET /editions/:id
+app.get("/editions/:id", async (c) => {
   const editionId = parseInt(c.req.param("id"));
   if (isNaN(editionId)) return c.json({ error: "Invalid edition ID" }, 400);
 
@@ -281,7 +281,8 @@ app.get("/edition-:id.json", async (c) => {
 });
 
 // GET /article-:slug.json
-app.get("/article-:slug.json", async (c) => {
+// GET /articles/:slug
+app.get("/articles/:slug", async (c) => {
   const slug = c.req.param("slug");
   const db = drizzle(c.env.DB, { schema });
 

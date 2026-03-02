@@ -27,7 +27,7 @@ export async function loadLatestEdition(): Promise<{
 
   const latest = editions[0];
   const data = await fetchJSON<{ edition: Edition; articles: ArticleWithMeta[] }>(
-    `edition-${latest.id}.json`
+    `editions/${latest.id}`
   );
   return data;
 }
@@ -35,11 +35,11 @@ export async function loadLatestEdition(): Promise<{
 export async function loadEdition(
   id: number
 ): Promise<{ edition: Edition; articles: ArticleWithMeta[] } | null> {
-  return fetchJSON(`edition-${id}.json`);
+  return fetchJSON(`editions/${id}`);
 }
 
 export async function loadArticle(slug: string): Promise<ArticleDetail | null> {
-  return fetchJSON(`article-${slug}.json`);
+  return fetchJSON(`articles/${slug}`);
 }
 
 export async function loadSources(): Promise<Source[]> {
