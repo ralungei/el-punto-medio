@@ -6,4 +6,4 @@ compatibility_date = "2025-03-01"
 binding = "DB"
 database_name = "el-punto-medio-db"
 # Replace with actual database_id after running: wrangler d1 create el-punto-medio-db
-database_id = "1f0ca1b6-4899-40ec-b7be-bac6f88cab91"
+database_id = "15a88e33-e880-4f87-9ddc-c88c9aacee43"
