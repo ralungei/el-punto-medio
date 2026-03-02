@@ -1,0 +1,153 @@
+{
+  "id": 26,
+  "clusterId": 1322,
+  "editionId": 9,
+  "slug": "fbi-investiga-posible-terrorismo-en-tiroteo-de-austin-que-dejo-tres-muertos",
+  "headline": "FBI investiga posible terrorismo en tiroteo de Austin que dejó tres muertos",
+  "summary": "Un hombre atacó con arma de fuego a clientes de un bar en Austin durante la madrugada del domingo, causando tres fallecidos y 14 heridos. El atacante portaba ropa con símbolos islámicos e iraníes, lo que ha llevado al FBI a investigar posibles vínculos terroristas.",
+  "sections": {
+    "facts": "El tiroteo ocurrió en el **bar Buford's** de Austin aproximadamente a las 2:00 de la madrugada del domingo. El atacante, posteriormente identificado como **Ndiaga Diagne** de **53 años**, circuló varias veces alrededor del establecimiento en un vehículo SUV antes de abrir fuego desde las ventanillas contra los clientes que se encontraban en el patio exterior.\n\nTras el primer ataque desde el vehículo, el agresor estacionó y continuó disparando a pie con un rifle contra peatones en la calle **West Sixth**. La confrontación terminó cuando agentes de policía se encontraron con el sospechoso, quien murió en el lugar. El balance final fue de **tres fallecidos** (incluyendo al atacante) y **14 heridos**, algunos en estado grave.\n\nLa investigación tomó un giro cuando las autoridades encontraron que **Diagne** vestía una sudadera con la inscripción \"Propiedad de Alá\" y una camiseta con el diseño de la **bandera iraní**. El **agente especial del FBI Alex Doran** confirmó que se hallaron \"indicadores\" en el sospechoso y su vehículo que sugieren \"posible vínculo con el terrorismo\", aunque se negó a proporcionar detalles específicos. La jefa de policía de Austin, **Lisa Davis**, aclaró que no se encontraron explosivos en el automóvil del agresor.\n\nEl tiroteo coincidió temporalmente con los [bombardeos estadounidenses sobre Irán](/articulo/escalada-militar-en-oriente-proximo-tras-ataques-conjuntos-de-eeuu-e-israel-cont) iniciados horas antes, aunque las autoridades no han establecido una conexión definitiva entre ambos eventos. \"Aún es demasiado pronto en el proceso para determinar una motivación exacta\", declaró Doran, quien tampoco precisó si la investigación se centra en terrorismo doméstico o internacional.",
+    "coverage": [
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "Neutral-informativo",
+        "toneColor": "#4A90E2",
+        "summary": "Adopta un enfoque policial-investigativo centrado en los procedimientos oficiales y la cautela de las autoridades. Presenta los hechos cronológicamente sin establecer conexiones causales definitivas y enfatiza que la investigación está en curso."
+      },
+      {
+        "sourceName": "elDiario.es",
+        "tone": "Crítico-contextual",
+        "toneColor": "#E74C3C",
+        "summary": "Establece una conexión directa entre el tiroteo y los bombardeos sobre Irán, presentando el caso como posible consecuencia de la política exterior de Trump. Identifica al atacante por nombre y sugiere vínculos causales."
+      }
+    ],
+    "hidden": "La cobertura revela diferencias significativas en el **encuadre temporal y causal** del evento. Mientras La Vanguardia se centra exclusivamente en los aspectos policiales y evita mencionar el nombre del atacante, elDiario.es lo identifica explícitamente y establece una conexión directa con los bombardeos sobre Irán. Esta divergencia no es casual: **la omisión del nombre** en algunos medios puede responder a protocolos de no glorificación de atacantes, mientras que su inclusión en otros busca contextualizar políticamente el evento.\n\nLa **sincronización temporal** con los ataques militares estadounidenses representa el punto más controvertido de la cobertura. Un medio presenta esta coincidencia como dato relevante que sugiere motivación política, mientras otro la minimiza manteniendo el foco en los procedimientos investigativos. Esta diferencia refleja enfoques editoriales distintos sobre **cuándo es apropiado especular** sobre motivaciones sin confirmación oficial.\n\nTambién resulta notable la **ausencia de contexto** sobre la comunidad musulmana en Austin y las posibles repercusiones del caso en términos de discriminación o tensiones sociales. Ningún medio aborda las implicaciones para la población musulmana local ni incluye perspectivas de líderes comunitarios, lo que deja un vacío informativo importante sobre el **impacto social más amplio** del evento.",
+    "context": "Austin, la capital de Texas, es una ciudad conocida por su ambiente liberal y diverso dentro de un estado tradicionalmente conservador. El **bar Buford's**, escenario del ataque, se encuentra en el popular distrito de entretenimiento de **West Sixth Street**, una zona frecuentada por jóvenes y turistas que concentra numerosos bares y restaurantes.\n\nEl tiroteo ocurrió en un momento de máxima tensión geopolítica tras los [bombardeos conjuntos de Estados Unidos e Israel contra Irán](/articulo/escalada-militar-en-oriente-proximo-tras-ataques-conjuntos-de-eeuu-e-israel-cont), que marcaron una escalada significativa en el conflicto de Oriente Próximo. Estos ataques militares, iniciados durante la administración Trump, representan una de las confrontaciones más directas entre ambos países en décadas.\n\nLa investigación por **terrorismo** implica la intervención del FBI bajo protocolos específicos que consideran tanto el terrorismo doméstico (motivado por ideologías internas) como el internacional (vinculado a organizaciones o Estados extranjeros). La presencia de símbolos islámicos e iraníes en la vestimenta del atacante, combinada con la coincidencia temporal de los eventos, ha llevado a las autoridades a explorar posibles conexiones, aunque sin conclusiones definitivas hasta el momento.",
+    "questions": [
+      "¿Existe realmente una conexión entre los bombardeos sobre Irán y el tiroteo, o se trata de una coincidencia temporal?",
+      "¿Qué responsabilidad tienen los medios al especular sobre motivaciones terroristas antes de que concluya la investigación oficial?",
+      "¿Cómo puede este caso afectar a la percepción pública sobre la comunidad musulmana en Estados Unidos?",
+      "¿Es apropiado que algunos medios identifiquen al atacante mientras otros mantienen el anonimato?",
+      "¿Qué papel juega la polarización política actual en la interpretación de eventos como este?"
+    ]
+  },
+  "category": "internacional",
+  "categories": [
+    "internacional",
+    "sociedad"
+  ],
+  "imageUrl": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/01/69a48d833470e.jpeg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T09:53:45.300Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/01/69a48d833470e.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_40_40/uploads/1970/01/01/5fa159316b392.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/7c838ecd-07ac-437f-8b67-065f41a994ea_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4515,
+      "title": "El pistolero que mató a dos en Austin vestía sudadera con el lema “Propiedad de Alá” y camiseta de bandera iraní",
+      "url": "https://www.lavanguardia.com/internacional/20260301/11478654/fbi-investiga-posible-terrorismo-tiroteo-tres-muertos-bar-austin.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4595,
+      "title": "Las autoridades investigan una posible relación entre un tiroteo con tres muertes en Austin y los bombardeos de Trump sobre Irán",
+      "url": "https://www.eldiario.es/internacional/autoridades-investigan-posible-relacion-tiroteo-tres-muertes-austin-bombardeos-trump-iran_1_13031508.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

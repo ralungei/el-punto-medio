@@ -1,0 +1,296 @@
+{
+  "id": 25,
+  "clusterId": 492,
+  "editionId": 1,
+  "slug": "23-f-919-paginas-desclasificadas-reabren-el-debate-sobre-el-golpe-sin-despejar-s",
+  "headline": "23-F: 919 páginas desclasificadas reabren el debate sobre el golpe sin despejar sus grandes incógnitas",
+  "summary": "El Gobierno español hizo públicos el 25 de febrero de 2026 un total de 166 documentos y 919 páginas sobre el intento de golpe de Estado del 23 de febrero de 1981. La divulgación reactiva preguntas sin respuesta sobre el papel del Rey Juan Carlos I y la trama civil, mientras historiadores y medios discrepan sobre el alcance real de las novedades reveladas.",
+  "sections": {
+    "facts": "El **25 de febrero de 2026**, el Ejecutivo español procedió a la desclasificación de **166 documentos** que suman **919 páginas**, procedentes de tres ministerios: **Defensa**, **Exteriores** e **Interior**. Los archivos, accesibles desde la web de La Moncloa, incluyen tanto documentos mecanografiados como manuscritos, algunos en mal estado de conservación por el paso del tiempo. **RTVE** desarrolló además una herramienta de búsqueda basada en inteligencia artificial —con reconocimiento óptico de caracteres mediante la API de Mistral Pro— para facilitar su consulta pública.\n\nEntre los documentos más citados figura uno manuscrito sin autoría conocida, titulado **«Panorámica de operaciones en marcha»**, fechado en noviembre de **1980**. El texto describía tres tipos de planes de intervención contra el orden constitucional: civiles, militares y mixtos. Según este informe, la operación que finalmente se ejecutó —el asalto al Congreso liderado por el teniente coronel **Antonio Tejero**— era la considerada menos sofisticada y de menor rango, aunque la que el propio documento calificaba como más viable al existir «serios temores de que el hecho pueda ejecutarse y que triunfe». El texto también sitúa al político **Manuel Fraga**, uno de los redactores de la Constitución española de 1978, en dos de los tres escenarios golpistas descritos, mencionando contactos con militares en la costa levantina.\n\nEn paralelo a la desclasificación de los archivos centrales, una investigación del *Diari Segre* reveló que **Francisco Nicolás Gómez Iglesias**, conocido mediáticamente como «el pequeño Nicolás», es nieto de **Vicente Gómez Iglesias**, capitán de la Guardia Civil y miembro del **CESID** —antecesor del actual Centro Nacional de Inteligencia (CNI)—. Vicente Gómez Iglesias fue el único miembro de los servicios de inteligencia condenado por el golpe, con una pena que ascendió a seis años por auxilio a la rebelión, aunque fue indultado en **1984** por el Gobierno de **Felipe González**. Según la sentencia, participó en la organización del convoy de autobuses que transportó a los golpistas hasta el Congreso de los Diputados.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "Neutral",
+        "toneColor": "#5a9fd4",
+        "summary": "Adopta un enfoque histórico-documental ordenado por bloques temáticos, contrastando lo que ya era conocido con lo que aportan los nuevos documentos. Presta especial atención al documento 'Panorámica de operaciones en marcha', a la mención de Fraga en escenarios golpistas y a la cronología de llamadas desde La Zarzuela durante la noche del golpe. No recoge valoraciones académicas sobre el alcance real de las novedades ni cuestiona la narrativa oficial sobre el papel del Rey."
+      },
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "Moderado",
+        "toneColor": "#a0c4a0",
+        "summary": "Opta por un encuadre testimonial y generacional, usando la experiencia personal del autor como punto de partida para reflexionar sobre el clima político de la época y el legado antifranquista en Cataluña. Añade como ángulo propio el vínculo familiar de 'el pequeño Nicolás' con un condenado del 23-F, pero no analiza el contenido específico de los documentos desclasificados ni aborda figuras clave como Armada o Tejero."
+      },
+      {
+        "sourceName": "Público",
+        "tone": "Crítico",
+        "toneColor": "#e07b54",
+        "summary": "Centra su cobertura en la percepción que el CESID tenía del riesgo revolucionario de izquierda antes del golpe, poniendo de relieve que los informes de inteligencia señalaban al PCE y a grupos de extrema izquierda como vectores de desestabilización. No aborda ni el papel del Rey ni la trama militar, y prescinde de análisis historiográfico externo."
+      },
+      {
+        "sourceName": "RTVE",
+        "tone": "Neutral",
+        "toneColor": "#5a9fd4",
+        "summary": "Prioriza el análisis académico, recogiendo el consenso de varios historiadores universitarios que subrayan que los documentos aportan escasas novedades sustanciales —apenas matices sobre lo ya conocido gracias a décadas de investigación periodística e histórica—. Desarrolló además una herramienta de IA de acceso público para explorar los archivos, pero no profundiza en el contenido específico de documentos concretos ni menciona la implicación de Fraga."
+      }
+    ],
+    "hidden": "La gran ausencia compartida por la mayoría de los medios analizados es un tratamiento riguroso de **la pregunta que más interés despierta históricamente**: qué sabía exactamente el Rey Juan Carlos I antes y durante el golpe, y cuál fue su papel real en su desactivación. El País menciona las llamadas desde La Zarzuela sin cuestionar la narrativa oficial; RTVE se escuda en el escepticismo académico sin profundizar; Público ni siquiera lo aborda. Esta omisión generalizada no es neutral: sostener sin examen crítico la versión del Rey como garante de la democracia tiene consecuencias políticas directas, especialmente en un momento en que la figura de Juan Carlos I atraviesa un severo cuestionamiento público por otros asuntos. Que ningún medio empuje decididamente en esta dirección puede responder tanto a precaución legal como a inercias editoriales arraigadas.\n\nOtro elemento que pasa desapercibido es la relevancia de lo que **no** contienen los documentos: si 45 años después la desclasificación solo aporta «matices» —como señalan los historiadores citados por RTVE—, cabe preguntarse qué información sigue retenida o destruida, y por qué. Ningún medio explora con profundidad si los tres ministerios implicados entregaron la totalidad de sus archivos o si hubo selección previa del material. La **trama civil** del golpe —empresarios, periodistas y políticos que habrían dado cobertura o alentado la intentona— tampoco recibe el escrutinio que su magnitud histórica podría exigir, más allá de la mención puntual a Fraga. Que esta dimensión permanezca en penumbra cuatro décadas y media después revela tanto sobre los límites del relato oficial como sobre los incentivos que aún existen para no removerlo.",
+    "context": "El **23 de febrero de 1981**, un grupo de guardias civiles al mando del teniente coronel **Antonio Tejero** irrumpió armado en el Congreso de los Diputados de España durante la sesión de investidura del candidato a presidente **Leopoldo Calvo-Sotelo**, reteniendo a los diputados y al Gobierno en pleno. Simultáneamente, el general **Jaime Milans del Bosch** sacó los tanques a las calles de Valencia. El golpe fracasó tras la intervención televisada del Rey **Juan Carlos I**, que esa madrugada pidió a los capitanes generales lealtad a la Constitución. El **general Alfonso Armada**, exsecretario de la Casa Real, fue condenado por ser uno de los cerebros de la operación. España llevaba apenas seis años de democracia tras la muerte del dictador Francisco Franco en 1975.\n\nEl **CESID** (Centro Superior de Información de la Defensa) era el servicio de inteligencia militar español que operó entre 1977 y 2002, cuando fue disuelto y sustituido por el **CNI** (Centro Nacional de Inteligencia). El CESID tuvo un papel ambiguo en el contexto del golpe: algunos de sus miembros estuvieron implicados, mientras que otros elaboraron informes de seguimiento de las conspiraciones. **Manuel Fraga** fue un político de larga trayectoria que, siendo ministro con Franco, participó luego en la redacción de la Constitución de 1978 y fundó el partido conservador **Alianza Popular**, antecedente del actual Partido Popular. Su aparición en los informes del 23-F como nombre vinculado a contactos con militares golpistas es uno de los datos más controvertidos que afloran en la desclasificación.\n\nDesde el juicio celebrado en **1982**, la investigación sobre el 23-F ha avanzado fundamentalmente a través del periodismo de investigación y de la historia académica, no mediante la apertura oficial de archivos. Libros como *Anatomía de un instante* de **Javier Cercas** (2009) o las investigaciones del periodista **Ricardo Pardo Zancada** —uno de los propios militares implicados— contribuyeron a completar el relato. La desclasificación de 2026 llega impulsada por el presidente **Pedro Sánchez**, que anunció en febrero la apertura de «todos los documentos sobre el golpe de Estado», poniendo fin a décadas de secretismo oficial, aunque los historiadores consultados advierten que el grueso de lo relevante ya era conocido.",
+    "questions": [
+      "1. Si los historiadores coinciden en que los documentos aportan pocas novedades, ¿significa que la investigación independiente fue más eficaz que los mecanismos oficiales de transparencia, o que simplemente los archivos más sensibles siguen sin publicarse?",
+      "2. ¿Puede considerarse completa una desclasificación cuando no se sabe con certeza si los ministerios implicados entregaron la totalidad de sus fondos o realizaron una selección previa del material?",
+      "3. El papel del Rey Juan Carlos I en el 23-F ha sido históricamente ensalzado como salvador de la democracia. ¿Cambia ese juicio si se asume que pudo tener conocimiento previo de la conspiración, como apuntan algunas hipótesis no desmentidas por los nuevos documentos?",
+      "4. La trama civil del golpe —con posibles implicaciones de empresarios, periodistas y políticos— apenas ha recibido atención en la cobertura mediática. ¿A qué intereses sirve que esa dimensión siga en segundo plano cuatro décadas después?",
+      "5. ¿Qué diferencia existe entre una desclasificación genuina orientada a la verdad histórica y una operación de comunicación política? ¿Cómo podría el ciudadano distinguir una de la otra?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "sociedad"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/THDLU5HBOREFLLKVAXFRRVBDHE.jpg?auth=b165e683cbc8e7ebdfef4313ac38c3546fd705e0824d1cc77cd96326ebe94430&amp;width=1200",
+  "sourcesCount": 4,
+  "createdAt": "2026-03-02T13:41:37.813Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/THDLU5HBOREFLLKVAXFRRVBDHE.jpg?auth=b165e683cbc8e7ebdfef4313ac38c3546fd705e0824d1cc77cd96326ebe94430&amp;width=1200",
+      "source": "El País"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/05/22/664dea4ed2885.r_d.1805-1104.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/01/69a480fa4b465.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.publico.es/files/main_image_horizontal_desktop/uploads/2026/02/23/699c6d6dc15f0.jpeg",
+      "source": "Público"
+    },
+    {
+      "url": "https://www.publico.es/files/main_image_horizontal_desktop/uploads/2026/02/25/699f16984e890.jpeg",
+      "source": "Público"
+    },
+    {
+      "url": "https://www.publico.es/files/main_image_horizontal_desktop/uploads/2026/02/25/699f5945d86c4.jpeg",
+      "source": "Público"
+    },
+    {
+      "url": "https://img.rtve.es/imagenes/buscador-23f-lee-explora-todos-documentos-desclasificados-con-ayuda-ia/01772139691375.png",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://img.rtve.es/imagenes/vision-historiadores-papeles-23f-se-sabe/01772107802875.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://img.rtve.es/imagenes/error-cuatro-documentos-desclasificados-del-23f-permite-ver-datos-censurados/01772125128422.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://img2.rtve.es/a/16954869/?imgProgApi=imgBackground&amp;w=800",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://img2.rtve.es/a/16950720/?imgProgApi=imgBackground&amp;w=800",
+      "source": "RTVE"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 137,
+      "title": "Qué se sabía del 23-F y qué han desvelado los papeles desclasificados sobre el golpe de Estado",
+      "url": "https://elpais.com/espana/2026-02-28/que-se-sabia-del-23-f-y-que-han-desvelado-los-papeles-desclasificados-sobre-el-golpe-de-estado.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 336,
+      "title": "El abuelo paterno del pequeño Nicolás fue un espía del Cesid condenado por el 23-F",
+      "url": "https://www.lavanguardia.com/politica/20260302/11478875/abuelo-paterno-pequeno-nicolas-espia-cesid-condenado-23-f.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 362,
+      "title": "23-F: un testimonio personal",
+      "url": "https://www.lavanguardia.com/opinion/20260302/11478626/23-f-testimonio-personal.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 1295,
+      "title": "¿Qué sabía Juan Carlos I sobre el 23-F?: Estas son las incógnitas aún sin resolver del golpe de Estado",
+      "url": "https://www.publico.es/sociedad/video-sabia-juan-carlos-sobre-23-f-son-incognitas-aun-resolver-golpe.html",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "Público",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 1315,
+      "title": "¿Quién es la misteriosa Herminia? La amiga con quien compartió confidencias la mujer de Tejero la noche del golpe",
+      "url": "https://www.publico.es/politica/memoria-publica/misteriosa-herminia-mujer-tejero-compartio-confidencias-noche-golpe-amiga.html",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "Público",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 1316,
+      "title": "El miedo a una revolución, la pesadilla de los servicios secretos dos semanas antes del golpe del 23-F",
+      "url": "https://www.publico.es/politica/memoria-publica/miedo-revolucion-pesadilla-servicios-secretos-dos-semanas-golpe-23-f.html",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "Público",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 1481,
+      "title": "Buscador 23F | Lee y explora todos los documentos desclasificados con ayuda de la IA",
+      "url": "https://www.rtve.es/noticias/20260227/buscador-23f-lee-explora-todos-documentos-desclasificados-con-ayuda-ia/16956459.shtml",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 1482,
+      "title": "La visión de los historiadores sobre los papeles del 23F: qué se conoce y qué queda por saber",
+      "url": "https://www.rtve.es/noticias/20260226/vision-historiadores-papeles-23f-que-se-sabe/16955407.shtml",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 1483,
+      "title": "Un error en cuatro documentos desclasificados del 23F permite ver datos censurados",
+      "url": "https://www.rtve.es/noticias/20260226/error-cuatro-documentos-desclasificados-del-23f-permite-ver-datos-censurados/16956511.shtml",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 1543,
+      "title": "Muere el teniente coronel Antonio Tejero a los 93 años",
+      "url": "https://www.rtve.es/play/audios/24-horas/muere-teniente-coronel-antonio-tejero-93-anos/16954869",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 1546,
+      "title": "Desclasificación de documentos 23F: \"Hay cosas que nunca vamos a saber\"",
+      "url": "https://www.rtve.es/play/audios/24-horas/desclasificacion-documentos-del-23-hay-cosas-nunca-vamos-saber/16950720",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 8,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 9,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 11,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 12,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 13,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 14,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "id": 81,
+  "clusterId": 7511,
+  "editionId": 10,
+  "slug": "directivo-de-telefonica-evito-despido-de-socio-de-empresa-que-pago-661-000-a-zap",
+  "headline": "Directivo de Telefónica evitó despido de socio de empresa que pagó 661.000€ a Zapatero",
+  "summary": "Javier de Paz, adjunto al presidente de Telefónica, gestionó la protección laboral de Sergio Sánchez, accionista de Análisis Relevante, la empresa que abonó 661.000 euros a José Luis Rodríguez Zapatero y sus hijas. El directivo intervino para evitar su despido tras una denuncia por presunto acoso.",
+  "sections": {
+    "facts": "**Javier de Paz**, adjunto al presidente de **Telefónica** Marc Murtra, utilizó su posición directiva para proteger laboralmente a **Sergio Sánchez**, accionista de la empresa **Análisis Relevante**. Esta sociedad había pagado un total de **661.000 euros** al expresidente **José Luis Rodríguez Zapatero** y sus hijas, según revelan las investigaciones judiciales en curso.\n\nLa contratación de Sánchez en Telefónica se produjo en 2018 tras una doble gestión. **Félix Sanz Roldán**, entonces director del Centro Nacional de Inteligencia (CNI), solicitó inicialmente a la operadora que incorporase a Sánchez, quien dirigía el departamento de comunicación de los servicios secretos. Paralelamente, De Paz, que ocupaba el cargo de consejero y presidía la Comisión de Nombramientos y Retribuciones de la compañía, ejerció su influencia para asegurar la colocación.\n\nPosteriormente, cuando Sánchez enfrentó una denuncia interna por presunto acoso laboral presentada por una compañera del área de Seguridad Global, De Paz se movilizó nuevamente para evitar su despido de la empresa de telecomunicaciones. Las gestiones se realizaron a través de **Miguel Sánchez San Venancio**, responsable de Seguridad Global y exmiembro del CNI hasta 2016.\n\nEn paralelo, **Zapatero compareció este lunes** en la comisión de investigación del caso Koldo en el Senado, donde negó cualquier implicación en el rescate de la aerolínea Plus Ultra. El expresidente reconoció haber percibido **70.000 euros anuales** de Análisis Relevante, empresa propiedad de **Julio Martínez Martínez**, detenido el pasado 11 de diciembre junto al presidente de Plus Ultra por un presunto caso de blanqueo de dinero.",
+    "coverage": [
+      {
+        "sourceName": "20 Minutos",
+        "tone": "neutral",
+        "toneColor": "#4A90E2",
+        "summary": "Se centra exclusivamente en la comparecencia parlamentaria de Zapatero, detallando sus declaraciones sobre Plus Ultra y las cantidades económicas percibidas. No menciona las gestiones de De Paz en Telefónica ni la protección laboral de Sánchez."
+      },
+      {
+        "sourceName": "El Confidencial",
+        "tone": "crítico",
+        "toneColor": "#E94B3C",
+        "summary": "Enfoca el caso como un episodio de tráfico de influencias empresariales, detallando las maniobras internas en Telefónica para proteger a Sánchez. Destaca las conexiones entre CNI, Telefónica y Análisis Relevante, aunque el artículo aparece incompleto."
+      }
+    ],
+    "hidden": "La diferencia de enfoques revela **dos narrativas completamente distintas** del mismo caso. **20 Minutos omite por completo** las gestiones de influencia en Telefónica, centrándose únicamente en la dimensión parlamentaria del asunto Zapatero-Plus Ultra. Esta omisión es significativa porque elimina del relato la dimensión empresarial del caso: cómo las redes de influencia se extienden desde el ámbito político hacia las grandes corporaciones españolas.\n\n**El Confidencial, por el contrario, minimiza** la comparecencia parlamentaria para centrarse en las maniobras corporativas internas. Sin embargo, su artículo queda incompleto justo cuando debería explicar la resolución del conflicto interno en Telefónica, dejando al lector sin conocer el desenlace de las gestiones de De Paz. Esta interrupción narrativa impide valorar completamente la efectividad de las presiones ejercidas.\n\nLa **ausencia de fuentes oficiales** de Telefónica o del CNI en ambas coberturas también resulta llamativa. Ningún medio ha conseguido declaraciones institucionales que confirmen o desmientan las gestiones descritas, lo que deja importantes lagunas sobre la versión oficial de los hechos y las posibles consecuencias internas de estas actuaciones.",
+    "context": "**José Luis Rodríguez Zapatero** fue presidente del Gobierno de España entre 2004 y 2011, liderando dos legislaturas socialistas. **Plus Ultra** es una aerolínea venezolana con base en Madrid que recibió un rescate público de 53 millones de euros del Gobierno de Pedro Sánchez en 2020, durante la pandemia, decisión que ha generado controversia política y judicial.\n\n**Análisis Relevante** es la empresa consultora propiedad de **Julio Martínez Martínez**, considerado íntimo amigo de Zapatero. Esta sociedad actuó como intermediaria en los pagos al expresidente y sus hijas, cobrando a su vez de Plus Ultra. El pasado diciembre, Martínez Martínez fue detenido junto a los directivos de la aerolínea en una operación por presunto blanqueo de dinero, encontrándose más de 300.000 euros en efectivo en su domicilio.\n\n**Telefónica** es la principal operadora de telecomunicaciones de España y una de las mayores multinacionales del sector a nivel mundial. **Javier de Paz** ocupa el cargo de adjunto al presidente Marc Murtra y anteriormente fue consejero de la compañía. El **Centro Nacional de Inteligencia (CNI)** es el servicio de inteligencia español, dirigido hasta 2019 por **Félix Sanz Roldán**, quien posteriormente ha mantenido vínculos con el sector empresarial.\n\nEl **caso Koldo** es una investigación judicial sobre presunta corrupción en contratos públicos durante la pandemia, que ha derivado en múltiples ramificaciones incluyendo las operaciones financieras de Plus Ultra y sus conexiones políticas.",
+    "questions": [
+      "¿Qué responsabilidades tienen las grandes empresas españolas cuando acceden a peticiones de colocación laboral procedentes de altos cargos del Estado?",
+      "¿Cómo se pueden distinguir las gestiones legítimas de networking profesional del tráfico de influencias en el ámbito empresarial?",
+      "¿Qué mecanismos de transparencia deberían implementarse en las empresas del IBEX para evitar conflictos de interés en sus procesos de contratación?",
+      "¿Hasta qué punto las conexiones entre servicios de inteligencia y grandes corporaciones pueden comprometer la independencia de ambas instituciones?",
+      "¿Qué papel juegan las empresas consultoras como Análisis Relevante en las redes de influencia entre poder político y económico en España?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "economía"
+  ],
+  "imageUrl": "https://images.ecestaticos.com/4rX6ID_YndiuwniMUhMpW6r3hus=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd0e%2F2f4%2Fba0%2Fd0e2f4ba0e68f2569162337cf952a148.jpg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T13:08:17.119Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://images.ecestaticos.com/4rX6ID_YndiuwniMUhMpW6r3hus=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd0e%2F2f4%2Fba0%2Fd0e2f4ba0e68f2569162337cf952a148.jpg",
+      "source": "El Confidencial"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 8049,
+      "title": "Zapatero niega estar involucrado en el rescate de Plus Ultra pero admite que cobró 70.000 € anuales de la empresa de su \"amigo\" detenido | P. B. / A. M.",
+      "url": "https://www.20minutos.es/nacional/zapatero-niega-estar-involucrado-rescate-plus-ultra-pero-admite-que-cobro-70-000-anuales-empresa-su-amigo-detenido_6940584_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8326,
+      "title": "Javier de Paz evitó el despido de Telefónica del directivo que pagó 661.000 € a Zapatero y sus hijas",
+      "url": "https://www.elconfidencial.com/empresas/2026-03-02/zapatero-telefonica-javier-paz-plus-ultra-sergio-sanchez_4312218",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8328,
+      "title": "Zapatero reconoce que pidió a la consultora de Plus Ultra fichar a la agencia de sus hijas",
+      "url": "https://www.elconfidencial.com/espana/2026-03-02/zapatero-reconoce-que-pidio-a-la-consultora-de-plus-ultra-fichar-a-la-agencia-de-sus-hijas_4312443",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

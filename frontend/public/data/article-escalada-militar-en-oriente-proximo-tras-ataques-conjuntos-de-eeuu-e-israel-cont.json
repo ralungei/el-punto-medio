@@ -1,0 +1,351 @@
+{
+  "id": 23,
+  "clusterId": 1149,
+  "editionId": 9,
+  "slug": "escalada-militar-en-oriente-proximo-tras-ataques-conjuntos-de-eeuu-e-israel-cont",
+  "headline": "Escalada militar en Oriente Próximo tras ataques conjuntos de EEUU e Israel contra Irán",
+  "summary": "Los bombardeos coordinados estadounidense-israelíes contra territorio iraní han desencadenado represalias que afectan a múltiples países del Golfo Pérsico. Las autoridades iraníes reportan más de 550 víctimas fatales, mientras que los mercados mundiales registran fuertes caídas.",
+  "sections": {
+    "facts": "Los **Estados Unidos** e **Israel** ejecutaron ataques militares coordinados contra instalaciones iraníes durante el fin de semana, provocando una escalada sin precedentes en la región. La **Media Luna Roja iraní** ha confirmado más de **550 fallecidos** como consecuencia de estos bombardeos, aunque las cifras no han sido verificadas por fuentes independientes.\n\nLa respuesta de **Teherán** se ha extendido a varios países vecinos. **Omán** fue atacado por primera vez, con impactos en el puerto comercial de **Duqm** y contra un petrolero, causando cinco heridos entre tripulación y trabajadores portuarios. Los bombardeos iraníes también alcanzaron **Qatar**, **Kuwait** (un muerto), **Emiratos Árabes Unidos** (tres fallecidos) y **Arabia Saudí**, donde se registraron daños en la refinería de **Ras Tanura**.\n\n**Ali Larijani**, alto cargo de seguridad iraní, declaró que el objetivo son \"los activos estadounidenses en la región\" y advirtió: \"Si se usan bases en su país contra nosotros... las atacaremos. Estas bases no son territorio de esos países, sino de Estados Unidos\". Por su parte, las **Fuerzas de Defensa de Israel** confirmaron un ataque aéreo contra un \"alto mando terrorista\" de **Hezbolá** en **Beirut**.\n\nLa **Agencia Internacional de Energía Atómica** informó que \"no hay indicios de que ninguna de las instalaciones nucleares haya resultado dañada\". Los mercados financieros globales han reaccionado con fuertes descensos, mientras que el precio del petróleo experimenta volatilidad extrema ante las disrupciones en las refinerías del Golfo.",
+    "coverage": [
+      {
+        "sourceName": "El Mundo",
+        "tone": "alarmista",
+        "toneColor": "#ff6b35",
+        "summary": "Presenta el conflicto como una escalada que amenaza con convertirse en guerra regional. Enfatiza la extensión de los ataques iraníes por todo el Golfo y sugiere una planificación previa de meses por parte de Washington e Israel."
+      },
+      {
+        "sourceName": "La Razón",
+        "tone": "neutral informativo",
+        "toneColor": "#4a90e2",
+        "summary": "Adopta un formato de seguimiento cronológico de acontecimientos. Destaca las declaraciones diplomáticas europeas sobre la legitimidad de los ataques y el impacto en infraestructuras petroleras."
+      },
+      {
+        "sourceName": "El País",
+        "tone": "crítico",
+        "toneColor": "#d0021b",
+        "summary": "Cuestiona la legalidad de los ataques unilaterales y enfatiza las violaciones del derecho internacional. Destaca las críticas del gobierno español y las consecuencias humanitarias del conflicto."
+      }
+    ],
+    "hidden": "Los medios divergen significativamente en la contextualización de los ataques iniciales. **El País** minimiza la cobertura de las acciones iraníes previas que pudieron motivar la respuesta occidental, presentando los bombardeos como una agresión unilateral sin justificación aparente. Esta omisión impide al lector evaluar la proporcionalidad de la respuesta y los antecedentes del conflicto.\n\n**El Mundo** omite cifras específicas de víctimas iraníes y consecuencias económicas, centrándose en el aspecto militar y de seguridad regional. Esta selección puede reflejar una preferencia por enmarcar el conflicto desde la perspectiva de la amenaza que representa Irán, sin abordar el coste humanitario de los ataques.\n\n**La Razón** no profundiza en las implicaciones geopolíticas a largo plazo, limitándose al seguimiento cronológico. Mientras que este enfoque puede parecer más neutral, la ausencia de análisis sobre las consecuencias estratégicas priva al lector de elementos esenciales para comprender la magnitud del conflicto. La posición crítica francesa, destacada por este medio, contrasta con la falta de voces similares en otros medios, sugiriendo una selección editorial que puede influir en la percepción del respaldo internacional a los ataques.",
+    "context": "Este conflicto se enmarca en las tensiones históricas entre **Irán** y **Estados Unidos** desde la Revolución Islámica de 1979, agravadas por la retirada estadounidense del acuerdo nuclear de 2015. El **líder supremo iraní Ali Jamenei** ha sido la máxima autoridad del país desde 1989, dirigiendo una teocracia que Washington considera el principal desestabilizador de Oriente Próximo.\n\nLas relaciones entre **Israel** e **Irán** se han deteriorado progresivamente debido al programa nuclear iraní y el apoyo de Teherán a grupos como **Hezbolá** en Líbano y **Hamás** en Gaza, considerados organizaciones terroristas por Israel y Estados Unidos. Los países del **Golfo Pérsico** (Arabia Saudí, Emiratos Árabes Unidos, Kuwait, Qatar y Omán) mantienen relaciones complejas con ambos bandos: algunos han normalizado vínculos con Israel mientras mantienen tensiones sectarias con el Irán chií.\n\nLa **Agencia Internacional de Energía Atómica** es el organismo de Naciones Unidas encargado de supervisar el uso pacífico de la energía nuclear y verificar el cumplimiento del Tratado de No Proliferación Nuclear. Su papel resulta crucial en un conflicto donde el programa nuclear iraní constituye uno de los principales puntos de fricción. La región del Golfo concentra aproximadamente el 40% de las reservas mundiales de petróleo, convirtiendo cualquier conflicto en esta zona en una amenaza para la estabilidad energética global.",
+    "questions": [
+      "¿Qué papel juega el derecho internacional cuando las potencias actúan unilateralmente alegando legítima defensa?",
+      "¿Cómo pueden los países del Golfo mantener su neutralidad cuando sus territorios se convierten en campo de batalla?",
+      "¿Qué consecuencias tendrá esta escalada en el equilibrio de poder regional y en los precios energéticos mundiales?",
+      "¿Existe algún mecanismo diplomático efectivo para contener un conflicto que ya involucra a múltiples actores regionales?",
+      "¿Cómo afectará este conflicto a los esfuerzos internacionales para evitar la proliferación nuclear en la región?"
+    ]
+  },
+  "category": "internacional",
+  "categories": [
+    "internacional",
+    "economía"
+  ],
+  "imageUrl": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723913888361.jpg",
+  "sourcesCount": 3,
+  "createdAt": "2026-03-02T09:53:11.809Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723913888361.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724327895392.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723941788615.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e01-elmundo.uecdn.es/elmundo/2026/graficos/feb/atairan646.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723885142953.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724374558977.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/02/928A0BED-6A84-4D45-AD78-25BFCC6F1AF5/96.jpg?crop=5749,3234,x0,y299&width=1200&height=675&optimize=low&format=webply",
+      "source": "La Razón"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/XECKFF5GXVEHDO2HHPWVPRPDCM.jpg?auth=5ef3037325fcdd755b80b8c60eb34f72a9eec474e5b6e415b575156aa7d22e6f",
+      "source": "El País"
+    },
+    {
+      "url": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260302/1143501_084524_video_1800.mp4",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/44I4B6NMHFE3RMCTIVXWN6BLBQ.jpg?auth=20d4e0b4f4562af4e7f6dc937b074fbda79fb01292a2c41897140bd0855fdb83&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260301/1143429_221854_video_1800.mp4",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/EYUHICBDMJN4JNPFP7VOHWR42I.jpg?auth=dbb5d13bc1d222341d4a8ad39b0b9a62d9e48a2b8ca03a798a1662512cc0bf42&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/2KNUXT6FLBPPRLVZIYLAG6LLOM.jpg?auth=0af2cd37aabf13909eb1c7009849589cc1c02a82425dc99fbd27e43e7fb0aecd",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/UICRMEIGA5IWVBNC5X52SKEEAM.jpg?auth=0345d21170e12f6ffb4ab541e4376434d9bd4736c27046af2c7f70771768fcd1&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/ZE3BGW733NJZNEMC63YXZHOWSM.jpg?auth=988296c7d3ad0f2d0dc93746bdec3127cf755c0a3ded6b1572bafff5cf171fdb",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/S5GJWYZVPJAALH7542GIUVYZYY.jpg?auth=895a865f9346ea84a7603b4ea81ffc4b5a75503bba6028c30770f0db87414f8e",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/4DFIGZZA6RJO7E3V36AG7RXR6Y.jpg?auth=d794ca0b3fad6883179c42b53e448b605c2a9ef30cb7a622876d68060b46f54b",
+      "source": "El País"
+    },
+    {
+      "url": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260302/1143440_003904_video_1800.mp4",
+      "source": "El País"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4114,
+      "title": "Irán dispara el terror en el Golfo y EEUU e Israel aplastan sus defensas",
+      "url": "https://www.elmundo.es/internacional/2026/03/01/69a48b48fdddff80558b4576.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4115,
+      "title": "Hizbulá se une a la guerra con misiles y drones contra Israel, que responde bombardeando Beirut: \"Jamenei era nuestro Papa\"",
+      "url": "https://www.elmundo.es/internacional/2026/03/02/69a52c1efc6c83483b8b4589.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4116,
+      "title": "Así se viven los ataques en Israel: \"El eje de Irán sufrió un golpe demoledor\"",
+      "url": "https://www.elmundo.es/internacional/2026/03/02/69a494ebfc6c839b3f8b4581.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4117,
+      "title": "Movilizaciones de ira entre la comunidad musulmana chií: \"EEUU e Israel tendrán una guerra de años. La querían y la tienen\"",
+      "url": "https://www.elmundo.es/internacional/2026/03/01/69a47ffdfc6c83b4098b4578.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4118,
+      "title": "Las bolsas europeas reaccionan a la guerra de Irán con caídas mientras el precio del gas se dispara un 25%",
+      "url": "https://www.elmundo.es/economia/dinero-inversion/2026/03/02/69a54001e9cf4aed628b4575.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4172,
+      "title": "Ataque de Israel y EEUU a Irán, en directo: ataque bases estadounidenses, reacción de Trump y última hora de los muertos en Teherán",
+      "url": "https://www.larazon.es/internacional/ataque-israel-eeuu-iran-directo-ataque-bases-estadounidenses-muertos-negociacion-ultima-hora_2026030269a5323d9243cc133c6c2157.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4186,
+      "title": "Última hora del ataque de EE UU e Israel contra Irán, en directo | Más de 550 muertos en Irán por los ataques de Israel y EE UU desde el sábado, según la Media Luna Roja",
+      "url": "https://elpais.com/internacional/2026-03-02/ultima-hora-del-ataque-de-ee-uu-e-israel-contra-iran-en-directo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4187,
+      "title": "Israel causa más de 30 muertos en Líbano tras sumarse Hezbolá a la guerra",
+      "url": "https://elpais.com/internacional/2026-03-02/hezbola-se-suma-a-la-batalla-con-sus-primeros-proyectiles-desde-2024-e-israel-bombardea-libano.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4188,
+      "title": "La CIA siguió durante meses los movimientos de Jameneí a la espera del momento para lanzar el ataque que lo mató",
+      "url": "https://elpais.com/internacional/2026-03-02/la-cia-siguio-durante-meses-los-movimientos-de-jamenei-a-la-espera-del-momento-para-lanzar-el-ataque-que-lo-mato.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4189,
+      "title": "La clave de la réplica militar iraní: las ciudades de misiles ocultas en montañas",
+      "url": "https://elpais.com/internacional/2026-03-02/la-clave-de-la-replica-militar-irani-las-ciudades-de-misiles-ocultas-en-montanas.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4190,
+      "title": "El petróleo y el gas se disparan tras el ataque a Irán",
+      "url": "https://elpais.com/economia/2026-03-02/el-precio-del-petroleo-sube-con-fuerza-tras-el-ataque-a-iran.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4191,
+      "title": "Las aerolíneas mantienen suspendidos los vuelos a Oriente Próximo",
+      "url": "https://elpais.com/economia/2026-03-02/las-aerolineas-mantienen-suspendidos-los-vuelos-a-oriente-proximo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4192,
+      "title": "Francia, Alemania y Reino Unido se declaran dispuestos a atacar a Irán para defender sus intereses en la región",
+      "url": "https://elpais.com/internacional/2026-03-01/francia-alemania-y-reino-unido-se-declaran-dispuestas-a-atacar-a-iran-para-defender-sus-intereses-en-la-region.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4193,
+      "title": "España lidera la posición más dura en la UE frente a la guerra de Trump y Netanyahu",
+      "url": "https://elpais.com/espana/2026-03-01/espana-lidera-la-posicion-mas-dura-en-la-ue-frente-a-la-guerra-de-trump-y-netanyahu.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

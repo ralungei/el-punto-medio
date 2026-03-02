@@ -1,0 +1,470 @@
+{
+  "id": 25,
+  "clusterId": 1256,
+  "editionId": 9,
+  "slug": "escalada-militar-en-oriente-medio-tras-la-muerte-de-jamenei-dispara-las-tensione",
+  "headline": "Escalada militar en Oriente Medio tras la muerte de Jamenei dispara las tensiones regionales",
+  "summary": "Los ataques coordinados entre Estados Unidos e Israel han resultado en la muerte del líder supremo iraní Alí Jamenei, desencadenando represalias de Teherán contra múltiples países del Golfo y una respuesta de Hezbolá desde Líbano. El conflicto ha causado más de 590 víctimas mortales en la región.",
+  "sections": {
+    "facts": "Los bombardeos conjuntos estadounidenses e israelíes del pasado sábado contra objetivos militares iraníes en **Teherán**, **Isfahán**, **Natanz** y **Fordow** resultaron en la muerte del **ayatolá Alí Jamenei**, líder supremo de Irán desde 1989. La operación, denominada \"León Rugiente\", ha provocado **más de 550 fallecidos** en territorio iraní según fuentes locales.\n\nIrán ha respondido con ataques contra instalaciones en **Catar**, **Dubái**, **Baréin**, **Arabia Saudí** y **Kuwait**, donde un dron iraní causó la muerte de **tres soldados estadounidenses**. Paralelamente, **Hezbolá** ha lanzado proyectiles y drones contra la ciudad israelí de **Haifa**, lo que provocó bombardeos israelíes contra Beirut y el sur de Líbano que dejaron **31 víctimas mortales**.\n\nEl presidente estadounidense **Donald Trump** ha amenazado con golpear a Irán con \"una fuerza nunca antes vista\" si continúan las represalias. Mientras tanto, la nueva dirigencia iraní, encabezada por **Ali Larijani**, ha rechazado públicamente cualquier posibilidad de negociación con Washington, contradiciendo las declaraciones previas de Trump sobre una posible vía diplomática.\n\nTeherán ha decretado **40 días de luto oficial** por Jamenei mientras el país experimenta cortes masivos de internet, similar a lo ocurrido durante las protestas de enero. Ciudadanos iraníes que cruzan hacia Turquía reportan incomunicación generalizada y incertidumbre sobre la sucesión del liderazgo supremo.",
+    "coverage": [
+      {
+        "sourceName": "El Español",
+        "tone": "alarmista",
+        "toneColor": "#ff6b35",
+        "summary": "Presenta el conflicto como una \"Caja de Pandora\" abierta con consecuencias imprevisibles para toda la región. Enfatiza las cifras de víctimas y la extensión geográfica de los ataques, destacando el rechazo iraní a negociar con Trump como factor agravante de la crisis."
+      },
+      {
+        "sourceName": "OKDiario",
+        "tone": "sensacionalista",
+        "toneColor": "#d32f2f",
+        "summary": "Adopta un formato épico de \"última hora\" presentando el conflicto como una guerra total en desarrollo. Se centra en los aspectos más dramáticos como la muerte de Jamenei y las promesas de respuesta estadounidense con \"fuerza nunca vista\"."
+      },
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "moderado",
+        "toneColor": "#4caf50",
+        "summary": "Prioriza el enfoque humanitario recogiendo testimonios de ciudadanos iraníes en la frontera. Se centra en las divisiones sociales internas sobre el legado de Jamenei y la incertidumbre política que vive el país tras su muerte."
+      }
+    ],
+    "hidden": "Los medios consultados muestran **diferencias significativas** en sus prioridades informativas que pueden moldear la percepción pública del conflicto. Mientras los medios más conservadores enfatizan los aspectos bélicos y las amenazas de escalada, **minimizan las divisiones internas** que esta crisis podría generar en los países involucrados, especialmente en Estados Unidos donde el Congreso no fue consultado sobre la operación militar.\n\n**El Español y OKDiario omiten** completamente las posiciones de la Unión Europea y otros países no alineados, presentando el conflicto como una confrontación bilateral cuando en realidad involucra múltiples actores regionales e internacionales. Esta omisión es relevante porque **oculta las fisuras diplomáticas** que se están generando entre aliados occidentales sobre cómo gestionar la crisis.\n\n**La Vanguardia**, por el contrario, subestima los aspectos militares estratégicos y las implicaciones geopolíticas a largo plazo, centrándose excesivamente en testimonios personales. Esta selección editorial puede **minimizar la gravedad** de las implicaciones regionales del conflicto para el suministro energético global y la estabilidad de las rutas comerciales.",
+    "context": "**Alí Jamenei** ocupaba desde 1989 el cargo de **Líder Supremo de Irán**, la máxima autoridad política y religiosa del país, con poder sobre las fuerzas armadas, la política exterior y el sistema judicial. Su muerte representa un vacío de poder sin precedentes en la **República Islámica**, establecida tras la revolución de 1979 que derrocó al Sha Reza Pahlevi.\n\nLas tensiones entre **Estados Unidos e Irán** se remontan a la crisis de los rehenes de 1979-1981, pero se intensificaron tras la retirada estadounidense del acuerdo nuclear (JCPOA) en 2018 durante la primera presidencia de Trump. Irán respondió reduciendo progresivamente sus compromisos nucleares y aumentando su influencia regional a través de grupos como **Hezbolá** en Líbano, las milicias chiíes en Irak y los hutíes en Yemen.\n\n**Hezbolá**, fundado en 1985 con apoyo iraní, controla de facto el sur de Líbano y mantiene un arsenal de miles de cohetes y misiles. Su participación en el actual conflicto rompe el frágil alto el fuego acordado en noviembre de 2024 tras semanas de enfrentamientos con Israel. La organización forma parte del llamado **\"Eje de Resistencia\"**, la red de grupos armados respaldados por Irán que se extiende desde Líbano hasta Yemen, pasando por Siria e Irak.",
+    "questions": [
+      "¿Cómo afectará la muerte de Jamenei a la estabilidad interna de Irán y qué consecuencias podría tener para la región si el país entra en una crisis de sucesión?",
+      "¿Está justificada la escalada militar considerando que no hubo consulta previa al Congreso estadounidense ni a los aliados europeos?",
+      "¿Qué papel jugarán China y Rusia, principales socios comerciales de Irán, en esta crisis y cómo podría afectar esto al equilibrio geopolítico global?",
+      "¿Son sostenibles las amenazas de \"fuerza nunca vista\" de Trump cuando Estados Unidos mantiene compromisos militares en múltiples frentes internacionales?",
+      "¿Cómo puede la comunidad internacional prevenir que este conflicto regional se transforme en una guerra que afecte al suministro energético global?"
+    ]
+  },
+  "category": "internacional",
+  "categories": [
+    "internacional",
+    "economía"
+  ],
+  "imageUrl": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151330_261701734_1706x960.jpg",
+  "sourcesCount": 3,
+  "createdAt": "2026-03-02T09:53:42.132Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151330_261701734_1706x960.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744150948_261696838_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151310_261701513_1706x960.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151205_261700554_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151267_261701190_1706x960.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/02/28/actualidad/1003744150418_261688572_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/01/mundo/1003744151063_261698641_1706x960.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/02/09/actualidad/1003744123106_261336087_1706x960.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2016/01/18/invertia/economia/95500581_449729_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/imagen_final.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/imagen_final-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2025/11/24/repsol-le-gana-la-batalla-_a-hacienda-interior.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2025/11/24/repsol-le-gana-la-batalla-_a-hacienda-interior-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2025/12/10/bolsa-okdiario-destacada-ibex-35-1.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2025/12/10/bolsa-okdiario-destacada-ibex-35-1-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/extraccion-de-petroleo-en-eeuu.-ep.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/extraccion-de-petroleo-en-eeuu.-ep-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/01/69a4a274f0171.r_d.3009-1671-0.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2026/03/01/69a4a274f0171.r_d.3009-1671.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/02/69a5411b72743.r_d.1009-573-0.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/02/69a536f0a8e5a.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/02/66fd9d37b0c5b.r_d.1388-814-1795.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_40_40/uploads/2022/01/11/61ddbc80b7d7b.png",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/02/69a540c2b800d.r_d.5811-4499-548.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2026/03/02/69a541440bd0b.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/02/69a5411b72743.r_d.1009-573-2245.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_65_65/uploads/2026/01/27/69787623cea77.png",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/01/69a449837a16f.r_d.1171-779-1843.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2026/03/01/69a449837a16f.r_d.1171-779.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/05/19/682b050d3d90d.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_40_40/uploads/1970/01/01/5f9ad96d7c30c.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/02/69a535550fdfa.r_d.2179-1808-938.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/01/69a4acb5611fa.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2026/03/01/69a4acb5611fa.jpeg",
+      "source": "La Vanguardia"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4337,
+      "title": "El conflicto se extiende con ataques en el Golfo y Líbano: la nueva cúpula de Irán desmiente que quiera negociar con Trump",
+      "url": "https://www.elespanol.com/mundo/oriente-proximo/20260302/conflicto-extiende-ataques-golfo-libano-nueva-cupula-iran-desmiente-quiera-negociar-trump/1003744151302_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4338,
+      "title": "Las bolsas caen un 2% mientras el petróleo, el gas y el oro se disparan tras los ataques a Irán",
+      "url": "https://www.elespanol.com/invertia/mercados/20260302/bolsas-caen-petroleo-gas-oro-disparan-ataques-iran/1003744151308_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4339,
+      "title": "Francia, Alemania y Reino Unido se suman a la ofensiva de EEUU e Israel contra Irán tras la falta de acuerdo en la UE",
+      "url": "https://www.elespanol.com/mundo/europa/20260301/francia-alemania-reino-unido-suman-ataque-eeuu-israel-iran-falta-acuerdo-ue/1003744151230_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4340,
+      "title": "Bases de la OTAN en Turquía, Irak, Grecia y Rumanía, dentro del alcance de los misiles iraníes",
+      "url": "https://www.elespanol.com/observatorio-defensa/20260302/bases-otan-turquia-irak-grecia-rumania-dentro-alcance-misiles-iranies/1003744150931_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4342,
+      "title": "Repsol, Naturgy, aerolíneas y hoteleras, las empresas españolas más afectadas por la inestabilidad en el Golfo Pérsico",
+      "url": "https://www.elespanol.com/invertia/empresas/20260302/repsol-naturgy-aerolineas-hoteleras-afectados-ataques-golfo-persico/1003744151322_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4384,
+      "title": "Última hora de la guerra de Irán y EEUU en directo | Qué está pasando hoy, países atacados, bombardeos y noticias de Trump",
+      "url": "https://okdiario.com/internacional/ataque-eeuu-iran-directo-ultima-hora-ali-jamenei-hoy-16327798",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4392,
+      "title": "Repsol e Indra, ganadoras del conflicto en Irán: suben con fuerza en la apertura de la Bolsa",
+      "url": "https://okdiario.com/economia/mercados/repsol-indra-ganadoras-del-conflicto-iran-suben-fuerza-apertura-bolsa-16331404",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4409,
+      "title": "Las Bolsas se desploman en Europa tras los ataques a Irán y el dólar y el petróleo se disparan",
+      "url": "https://okdiario.com/economia/mercados/bolsa-espanola-2-marzo-2026-16331156",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4415,
+      "title": "Los mercados se hunden en Europa y el petróleo sube a máximos del año con el foco puesto en Irán",
+      "url": "https://okdiario.com/economia/petroleo-sube-mas-8-ataque-eeuu-israel-iran-16331030",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4444,
+      "title": "Irán incendia Oriente Medio mientras busca sucesor a Jamenei",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478671/iran-encara-transicion-incierta.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4445,
+      "title": "Última hora del ataque de EEUU e Israel a Irán | Más de 500 fallecidos, muerte de Jamenei, situación en Teherán y el Líbano, y la guerra en Irán",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478862/israel-iran-ee-uu-teheran-guerra-jerusalen-bombardeo-lideres-trump-ultima-hora-en-directo.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4446,
+      "title": "El petróleo y el gas se disparan ante el impacto en el suministro por el conflicto en Irán",
+      "url": "https://www.lavanguardia.com/economia/20260302/11478892/petroleo-dispara-impacto-suministro-guerra-iran.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4447,
+      "title": "Quiénes son los miembros del Consejo de Liderazgo que lideran Irán a la espera del sucesor de Jamenei",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478691/quienes-son-miembros-consejo-liderazgo-lideran-iran-espera-sucesor-jamenei.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4448,
+      "title": "Hizbulah ataca a Israel, que responde con bombardeos y mata a 31 personas en el Líbano",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478906/hizbulah-ataca-israel-bombardeos-mata-personas-libano-iran.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4450,
+      "title": "Fuertes caídas en las bolsas europeas y el Ibex 35 por el conflicto en Irán y Oriente Medio",
+      "url": "https://www.lavanguardia.com/economia/20260302/11478916/ibex-35-bolsa-iran-eeuu-oriente-medio-petroleo-precio.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4452,
+      "title": "Cerca de 30.000 españoles permanecen atrapados en Oriente Medio tras el inicio del conflicto en Irán: “No sabemos cuándo volver”",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478969/cerca-30-000-espanoles-permanecen-atrapados-oriente-medio-inicio-conflicto-iran-cuando-volver.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4453,
+      "title": "París, Berlín y Londres están dispuestos a atacar a Irán en defensa de sus intereses",
+      "url": "https://www.lavanguardia.com/internacional/20260301/11478678/paris-berlin-londres-dispuestos-atacar-iran-defensa-intereses.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4454,
+      "title": "Chipre aplaza una reunión de ministros de la UE por el impacto de un dron en la base británica",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478900/chipre-confirma-ataque-dron-base-britanica-akrotiri.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4457,
+      "title": "El Rey hace un llamamiento a la moderación para evitar el caos en Oriente Medio",
+      "url": "https://www.lavanguardia.com/vida/20260301/11478537/rey-aprovecha-arranque-mwc-pedir-dialogo-paz-oriente-medio.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

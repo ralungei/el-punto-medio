@@ -1,0 +1,146 @@
+{
+  "id": 66,
+  "clusterId": 7156,
+  "editionId": 10,
+  "slug": "tres-regiones-ofrecen-deducciones-fiscales-por-gastos-dentales-con-limites-varia",
+  "headline": "Tres regiones ofrecen deducciones fiscales por gastos dentales con límites variables",
+  "summary": "Cantabria, Canarias y Valencia permiten deducir parte de los gastos odontológicos en la declaración de renta. Los porcentajes oscilan entre el 10% y el 30%, con límites de ingresos que determinan el acceso al beneficio fiscal.",
+  "sections": {
+    "facts": "Un total de **tres comunidades autónomas** han establecido deducciones fiscales específicas para gastos odontológicos en sus tramos autonómicos del **IRPF**. Cada región aplica criterios diferenciados tanto en porcentajes como en límites de renta.\n\n**Cantabria** ofrece una deducción del **10%** de los gastos dentales, aplicable únicamente si los ingresos no superan los **33.000 euros** en declaración individual o **31.500 euros** en declaración conjunta. El límite máximo de deducción se establece en **500 euros** para declaraciones individuales y **700 euros** para conjuntas.\n\n**Canarias** permite recuperar hasta el **12%** de estos gastos, con umbrales de renta más elevados: **42.900 euros** para declaración individual y **57.200 euros** para conjunta. Los topes de deducción alcanzan los **500 euros** en individual y **840 euros** en modalidad conjunta.\n\nLa **Comunidad Valenciana** presenta el porcentaje más alto con un **30%** de deducción, aunque con límites más restrictivos. Solo beneficia a contribuyentes con ingresos inferiores a **32.000 euros** en individual y **48.000 euros** en conjunta, con un límite máximo de deducción de **150 euros**.",
+    "coverage": [
+      {
+        "sourceName": "La Razón",
+        "tone": "informativo",
+        "toneColor": "#4A90E2",
+        "summary": "Adopta un enfoque educativo basado en el consejo de un abogado en redes sociales. Detalla exhaustivamente los porcentajes y límites de cada comunidad, presentando la información como un consejo práctico que muchos contribuyentes podrían desconocer."
+      },
+      {
+        "sourceName": "OKDiario",
+        "tone": "promocional",
+        "toneColor": "#27AE60",
+        "summary": "Enmarca la noticia como 'buenas noticias confirmadas por Hacienda', enfatizando el beneficio económico. Se centra en el ahorro máximo posible y los requisitos documentales, aunque omite datos específicos de Valencia y algunos porcentajes."
+      }
+    ],
+    "hidden": "La cobertura revela **diferencias significativas en el enfoque informativo**. OKDiario omite completamente la **Comunidad Valenciana** de su análisis, mencionando solo Cantabria y Canarias, lo que podría responder a una estrategia editorial de simplificación que deja fuera información relevante para contribuyentes valencianos.\n\nAmbos medios **minimizan los requisitos documentales** necesarios para validar estas deducciones. La Razón no detalla qué formas de pago acepta Hacienda ni los requisitos de facturación, mientras que OKDiario apenas los menciona superficialmente. Esta omisión es crucial, ya que **muchas deducciones son rechazadas por deficiencias documentales**, no por incumplir los límites de renta.\n\nTambién se observa una **ausencia generalizada de contexto** sobre por qué solo estas tres regiones ofrecen estos beneficios fiscales. Ningún medio explica las razones políticas o presupuestarias detrás de estas decisiones autonómicas, ni menciona si otras comunidades han considerado medidas similares, lo que limitaría la comprensión del lector sobre el panorama fiscal nacional.",
+    "context": "Las **deducciones autonómicas** en el IRPF son competencias que la legislación española permite a las comunidades autónomas para establecer beneficios fiscales específicos en sus territorios. Cada región puede decidir qué gastos incentiva fiscalmente, siempre dentro del marco legal estatal.\n\nLa **salud bucodental** representa una de las principales carencias del sistema sanitario público español. A diferencia de otras especialidades médicas, los tratamientos dentales tienen una cobertura muy limitada en la sanidad pública, limitándose generalmente a urgencias y algunos casos específicos. Esto convierte los gastos odontológicos en un desembolso significativo para las familias españolas.\n\nEl **IRPF (Impuesto sobre la Renta de las Personas Físicas)** se estructura en dos tramos: el estatal, que es común para todo el país, y el autonómico, que permite a cada comunidad establecer sus propios tipos y deducciones. Esta estructura de financiación autonómica explica por qué solo algunas regiones han decidido incentivar fiscalmente los gastos sanitarios privados.\n\nLas **declaraciones de renta individuales y conjuntas** ofrecen diferentes ventajas según la situación económica y familiar. La modalidad conjunta suele beneficiar a parejas con ingresos muy desiguales, mientras que la individual puede ser más favorable cuando ambos cónyuges tienen rentas similares. Los límites diferenciados en estas deducciones reflejan esta realidad fiscal.",
+    "questions": [
+      "¿Por qué solo estas tres comunidades han decidido incentivar fiscalmente los gastos dentales mientras otras no lo hacen?",
+      "¿Resultan estos límites de renta suficientemente amplios para beneficiar a las clases medias que más sufren el coste de los tratamientos dentales?",
+      "¿Deberían estos beneficios fiscales extenderse a nivel nacional dado el déficit de cobertura dental en la sanidad pública?",
+      "¿Qué impacto real tienen estos incentivos en el acceso a la salud bucodental de la población?",
+      "¿Es justo que existan diferencias fiscales territoriales en el acceso a beneficios sanitarios?"
+    ]
+  },
+  "category": "economía",
+  "categories": [
+    "economía",
+    "sociedad",
+    "salud"
+  ],
+  "imageUrl": "https://okdiario.com/img/2026/02/06/ir-al-dentista-hara-que-ahorres-dinero-este-2026-en-estas-comunidades-autonomas.-635x358.jpg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T13:04:40.165Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://okdiario.com/img/2026/02/06/ir-al-dentista-hara-que-ahorres-dinero-este-2026-en-estas-comunidades-autonomas.-635x358.jpg",
+      "source": "OKDiario"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7797,
+      "title": "Un abogado resuelve las dudas: si fuiste al dentista el a&ntilde;o pasado podr&aacute;s \"llevarte una sorpresa\" en la",
+      "url": "https://www.larazon.es/economia/abogado-resuelve-dudas-fuiste-dentista-ano-pasado-podras-llevarte-sorpresa-declaracion-renta-b50m_2026030169a41b969243cc133c6a9cec.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7862,
+      "title": "Confirmado por Hacienda: si has ido al dentista en alguna de estas comunidades te corresponde una deducción...",
+      "url": "https://okdiario.com/economia/confirmada-hacienda-has-ido-dentista-alguna-estas-comunidades-te-corresponde-deduccion-del-irpf-16200331",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

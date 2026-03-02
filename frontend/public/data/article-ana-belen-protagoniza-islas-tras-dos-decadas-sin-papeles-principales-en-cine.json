@@ -1,0 +1,149 @@
+{
+  "id": 37,
+  "clusterId": 2837,
+  "editionId": 9,
+  "slug": "ana-belen-protagoniza-islas-tras-dos-decadas-sin-papeles-principales-en-cine",
+  "headline": "Ana Belén protagoniza 'Islas' tras dos décadas sin papeles principales en cine",
+  "summary": "La actriz y cantante regresa como protagonista cinematográfica en el drama 'Islas', dirigido por Marina Seresesky. Su última película como protagonista data de hace más de 20 años, aunque había mantenido actividad teatral y musical.",
+  "sections": {
+    "facts": "**Ana Belén** vuelve a protagonizar una película tras más de dos décadas alejada de los papeles principales en el cine español. Su nuevo trabajo es **'Islas'**, un drama dirigido por **Marina Seresesky** que se estrenó en salas el pasado 27 de febrero.\n\nEn la película, Belén interpreta a **Amparo**, una actriz en declive que regresa al hotel donde vivió su época de mayor éxito profesional. Allí conoce a **Toni**, personaje interpretado por **Manu Vega**, con quien inicia un proceso de introspección emocional. El reparto se completa con **Eva Llorach** y **Jorge Usón**.\n\nLa producción se rodó durante **cuatro semanas** en un hotel de **Tenerife** que permanecía en funcionamiento durante la filmación. Según la directora, el espacio hotelero funciona como un personaje más de la historia, subrayando la soledad de los protagonistas. El filme aborda temas como el aislamiento emocional y incluye referencias a la situación de migrantes africanos.\n\nLa carrera cinematográfica de Ana Belén comenzó en **1966** con la película 'Zampo y yo', cuando tenía 15 años. Durante la entrevista promocional, la artista declaró: \"Todo es política, desde que nos levantamos. Tú y yo aquí, eso es política\", en referencia a la dimensión social de su trabajo artístico.",
+    "coverage": [
+      {
+        "sourceName": "elDiario.es",
+        "tone": "Admirativo y nostálgico",
+        "toneColor": "#e74c3c",
+        "summary": "Presenta el regreso como un acontecimiento cultural relevante, enfatizando la trayectoria histórica de Ana Belén como icono de la Transición. Conecta su debut en 1966 con su estatus actual y destaca la importancia simbólica de su vuelta al cine tras una década de ausencia."
+      },
+      {
+        "sourceName": "El Periódico",
+        "tone": "Neutral y analítico",
+        "toneColor": "#3498db",
+        "summary": "Se centra en el análisis cinematográfico de la película, describiendo la trama, los temas tratados y el proceso de rodaje. Destaca los aspectos sociales del filme, como el tratamiento de la migración, sin enfatizar la dimensión histórica de la protagonista."
+      }
+    ],
+    "hidden": "La cobertura revela enfoques editoriales diferenciados que condicionan la comprensión del acontecimiento. **elDiario.es** construye una narrativa de regreso triunfal, presentando a Ana Belén como figura histórica cuya vuelta al cine trasciende lo meramente artístico. Esta perspectiva omite detalles técnicos y argumentales de la película, priorizando el valor simbólico del evento.\n\n**El Periódico** adopta un enfoque cinematográfico que analiza la obra como producto cultural contemporáneo, detallando aspectos técnicos y temáticos. Sin embargo, minimiza la dimensión histórica de la protagonista, tratando su regreso como un hecho profesional más que como un acontecimiento cultural significativo. Esta aproximación puede restar relevancia al contexto generacional y político que representa Ana Belén en la cultura española.\n\nAmbos medios coinciden en destacar las declaraciones sobre política, pero ninguno profundiza en las implicaciones de estas afirmaciones ni en cómo se relacionan con la trayectoria comprometida de la artista durante la Transición democrática.",
+    "context": "**Ana Belén** es una de las figuras más emblemáticas de la cultura española contemporánea. Nacida como **Ana Belén Villa San-Juan** en 1951, inició su carrera artística en la adolescencia y se convirtió en un símbolo de la **Transición democrática española** junto a su pareja, el cantautor **Víctor Manuel**. Durante los años 70 y 80, su trabajo musical y cinematográfico estuvo marcado por el compromiso político y social, convirtiéndose en referente cultural de la izquierda española.\n\nSu carrera cinematográfica incluye colaboraciones con directores como **Carlos Saura** y **Mario Camus**, alternando el cine con una exitosa trayectoria musical. Durante las últimas décadas ha mantenido actividad principalmente en teatro y música, con apariciones cinematográficas esporádicas, siendo su última película hace aproximadamente una década.\n\n**Marina Seresesky** representa una nueva generación de directoras españolas que abordan temáticas sociales contemporáneas. El cine español actual enfrenta desafíos de financiación y distribución, por lo que proyectos que cuentan con figuras reconocidas como Ana Belén pueden generar mayor visibilidad mediática y comercial.",
+    "questions": [
+      "¿Qué factores han motivado la ausencia prolongada de Ana Belén del cine como protagonista y qué representa su regreso actual?",
+      "¿Cómo influye la presencia de una figura histórica como Ana Belén en la visibilidad del cine español contemporáneo?",
+      "¿De qué manera los temas tratados en 'Islas' reflejan las preocupaciones sociales actuales de la sociedad española?",
+      "¿Qué papel juega el compromiso político histórico de Ana Belén en la recepción actual de su trabajo artístico?",
+      "¿Cómo se relaciona la representación de la migración en la película con el debate social contemporáneo sobre este tema en España?"
+    ]
+  },
+  "category": "cultura",
+  "categories": [
+    "cultura",
+    "sociedad"
+  ],
+  "imageUrl": "https://static.eldiario.es/clip/1f44da25-03fa-42bb-8061-88a30439e354_16-9-discover-aspect-ratio_default_0.jpg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T10:50:35.288Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://static.eldiario.es/clip/1f44da25-03fa-42bb-8061-88a30439e354_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/db6bc1b9-61fd-432b-9320-7b89ef8d7b97_alta-libre-aspect-ratio_default_0_x900y400.jpg",
+      "source": "El Periódico"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4608,
+      "title": "Ana Belén: “Todo es política, desde que nos levantamos. Tú y yo aquí, eso es política”",
+      "url": "https://www.eldiario.es/cultura/cine/ana-belen-politica-levantamos-politica_1_13025585.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 5000,
+      "title": "Ana Belén vuelve al cine casi 20 años después con 'Islas': \"Los miedos y las inseguridades son las de siempre\"",
+      "url": "https://www.elperiodico.com/es/ocio-y-cultura/20260302/ana-belen-vuelve-cine-20-anos-islas-127352539",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

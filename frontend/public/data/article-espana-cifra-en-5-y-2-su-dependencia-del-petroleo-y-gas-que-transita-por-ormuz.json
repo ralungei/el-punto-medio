@@ -1,0 +1,194 @@
+{
+  "id": 63,
+  "clusterId": 7106,
+  "editionId": 10,
+  "slug": "espana-cifra-en-5-y-2-su-dependencia-del-petroleo-y-gas-que-transita-por-ormuz",
+  "headline": "España cifra en 5% y 2% su dependencia del petróleo y gas que transita por Ormuz",
+  "summary": "El Gobierno español minimiza el impacto del posible cierre del estrecho de Ormuz tras la escalada militar en Irán, afirmando que solo el 5% del petróleo y el 2% del gas nacional pasa por esta vía. Los precios del crudo han subido más del 7% mientras los mercados evalúan las consecuencias del conflicto.",
+  "sections": {
+    "facts": "La **vicepresidenta tercera Sara Aagesen** ha declarado que España mantiene su suministro energético \"ampliamente diversificado\" y que únicamente el **5% del petróleo** y el **2% del gas natural** que consume el país transita por el **estrecho de Ormuz**. Estas declaraciones llegan después de que **Irán** amenazara con cerrar esta vía marítima en respuesta a los ataques de **Estados Unidos e Israel**.\n\nLos mercados energéticos han reaccionado con fuertes subidas: el **crudo Brent** europeo ha aumentado más del **7%**, superando los **78 dólares por barril**, mientras que el gas natural ha experimentado alzas del **20-25%**. Más de **200 buques petroleros** han evitado la ruta del estrecho según datos del transporte marítimo, y al menos tres petroleros resultaron dañados en los ataques del domingo.\n\nPor el **estrecho de Ormuz** circula habitualmente el **20% del gas natural licuado** y petróleo mundial, transportando **15 millones de barriles diarios** desde las monarquías petroleras del Golfo hacia los principales mercados asiáticos. La **energética Repsol** se ha visto beneficiada en bolsa por la subida de precios del crudo.\n\nSegún cálculos basados en datos del **Ministerio de Economía y Comercio**, España importó en 2025 combustibles por valor de **5.170 millones de euros** desde los países afectados por el bloqueo, principalmente **Arabia Saudí, Emiratos Árabes Unidos, Irak, Kuwait y Qatar**.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "Tranquilizador",
+        "toneColor": "#4CAF50",
+        "summary": "Enfatiza el mensaje gubernamental de calma destacando las bajas cifras de dependencia energética. Aprovecha la crisis para argumentar a favor de acelerar la transición hacia energías renovables como estrategia de independencia energética."
+      },
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "Técnico-neutro",
+        "toneColor": "#2196F3",
+        "summary": "Se centra en el análisis económico y bursátil del conflicto, destacando la coordinación europea y incluyendo valoraciones de expertos sobre inventarios energéticos y rutas alternativas de suministro."
+      },
+      {
+        "sourceName": "elDiario.es",
+        "tone": "Contextual",
+        "toneColor": "#FF9800",
+        "summary": "Prioriza la explicación geopolítica del conflicto, centrándose en la importancia estratégica global del estrecho de Ormuz y las consecuencias militares de la escalada en Oriente Medio."
+      },
+      {
+        "sourceName": "OKDiario",
+        "tone": "Alarmista",
+        "toneColor": "#F44336",
+        "summary": "Destaca el riesgo económico directo para España cuantificándolo en 5.170 millones de euros anuales. Presenta el cierre como una amenaza significativa desglosando las importaciones por países afectados."
+      }
+    ],
+    "hidden": "La divergencia en el tratamiento informativo revela **estrategias editoriales muy diferentes** sobre la misma crisis. Mientras **El País** aprovecha para reforzar la narrativa gubernamental de la transición energética, **OKDiario** enfatiza el impacto económico directo para generar alarma sobre la gestión oficial. Esta polarización oculta aspectos técnicos cruciales: ningún medio detalla las **rutas alternativas** disponibles ni los **costes adicionales** del transporte por vías más largas.\n\n**La omisión más significativa** es la falta de análisis sobre los **inventarios estratégicos** españoles y europeos, que determinarían la capacidad real de resistir un cierre prolongado. Tampoco se explican los **mecanismos de coordinación** de la Agencia Internacional de la Energía mencionados por Aagesen, ni qué **medidas específicas** podría activar España en caso de crisis prolongada.\n\nLa diferencia en las cifras presentadas también resulta llamativa: mientras el Gobierno destaca porcentajes bajos (**5% y 2%**), OKDiario traduce esto a una cifra absoluta impactante (**5.170 millones**). Esta **manipulación estadística** busca influir en la percepción pública del mismo dato según la línea editorial del medio.",
+    "context": "El **estrecho de Ormuz** es una vía marítima de apenas **33 kilómetros** de anchura situada entre **Irán** y la **península arábiga**, que conecta el Golfo Pérsico con el océano Índico. Por esta ruta pasa aproximadamente el **40% del petróleo mundial** y una quinta parte del gas natural licuado, convirtiéndola en la vía comercial energética más crítica del planeta.\n\n**Sara Aagesen** es la vicepresidenta tercera del Gobierno español y ministra para la Transición Ecológica desde 2021, responsable de la política energética nacional. Su cartera incluye la supervisión del suministro energético y la implementación de la estrategia de descarbonización española dentro del marco del **Pacto Verde Europeo**.\n\nLa escalada actual surge tras **ataques coordinados de Estados Unidos e Israel contra instalaciones iraníes**, en respuesta a acciones previas de **Irán** y sus grupos aliados en la región. **Irán** controla la orilla norte del estrecho de Ormuz y ha amenazado repetidamente con cerrar esta vía en crisis anteriores, aunque nunca lo había ejecutado completamente debido a las consecuencias económicas globales que implicaría.\n\nLas **monarquías petroleras del Golfo** mencionadas (**Arabia Saudí, Emiratos Árabes Unidos, Kuwait, Qatar**) son los principales exportadores mundiales de hidrocarburos y dependen crucialmente de esta ruta para transportar su producción hacia **Asia**, especialmente **China e India**, que son sus mayores compradores.",
+    "questions": [
+      "¿Son realmente insignificantes para España los porcentajes del 5% y 2% cuando se traducen a más de 5.000 millones de euros anuales?",
+      "¿Qué capacidad real tiene España para sustituir estos suministros por rutas alternativas sin impacto en precios?",
+      "¿Por qué algunos medios enfatizan la tranquilidad mientras otros alarman con las mismas cifras oficiales?",
+      "¿Hasta qué punto la crisis actual acelera realmente la transición energética o solo sirve como justificación política?",
+      "¿Qué papel juegan los inventarios estratégicos españoles y europeos en caso de un cierre prolongado del estrecho?"
+    ]
+  },
+  "category": "economia",
+  "categories": [
+    "economia",
+    "internacional"
+  ],
+  "imageUrl": "https://www.lavanguardia.com/files/image_65_65/uploads/2024/04/13/661a254948f6e.jpeg",
+  "sourcesCount": 4,
+  "createdAt": "2026-03-02T13:04:08.608Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://www.lavanguardia.com/files/image_65_65/uploads/2024/04/13/661a254948f6e.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://okdiario.com/img/2024/12/03/hallazgo-yacimiento-de-petroleo-635x358.jpg",
+      "source": "OKDiario"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7281,
+      "title": "Transición asegura que solo el 5% del petróleo y el 2% del gas que consume España pasa por el estrecho de Ormuz",
+      "url": "https://elpais.com/economia/2026-03-02/el-gobierno-asegura-que-solo-el-5-del-petroleo-y-el-2-del-gas-que-consume-espana-pasa-por-el-estrecho-de-ormuz.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7517,
+      "title": "El petróleo y el gas se disparan ante el impacto en el suministro por el conflicto en Irán",
+      "url": "https://www.lavanguardia.com/economia/20260302/11478892/petroleo-dispara-impacto-suministro-guerra-iran.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7541,
+      "title": "El Gobierno confía en la diversificación del suministro: solo el 5% del petróleo pasa por Ormuz",
+      "url": "https://www.lavanguardia.com/economia/20260302/11479258/gobierno-confia-diversificacion-suministro-5-petroleo-pasa-ormuz.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7680,
+      "title": "Qué es el estrecho de Ormuz y por qué es crucial para el suministro de petróleo",
+      "url": "https://www.eldiario.es/internacional/theguardian/estrecho-ormuz-crucial-suministro-petroleo_1_13031958.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7926,
+      "title": "España se juega 5.170 millones de euros al año de petróleo y gas en el cierre del Estrecho de Ormuz",
+      "url": "https://okdiario.com/economia/mercados/espana-juega-5-170-millones-euros-ano-petroleo-gas-cierre-del-estrecho-ormuz-16329195",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

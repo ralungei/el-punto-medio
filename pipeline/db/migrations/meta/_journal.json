@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1772372285608,
+      "tag": "0000_tearful_madelyne_pryor",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1772374387486,
+      "tag": "0001_past_speedball",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1772395154891,
+      "tag": "0002_funny_speedball",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1772401053951,
+      "tag": "0003_mysterious_vanisher",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1772408180711,
+      "tag": "0004_lowly_lila_cheney",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1772440500569,
+      "tag": "0005_thankful_hellcat",
+      "breakpoints": true
+    }
+  ]
+}

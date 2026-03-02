@@ -1,0 +1,157 @@
+{
+  "id": 24,
+  "clusterId": 1153,
+  "editionId": 9,
+  "slug": "la-presidenta-de-la-airef-defiende-la-independencia-del-organismo-al-finalizar-s",
+  "headline": "La presidenta de la AIReF defiende la independencia del organismo al finalizar su mandato",
+  "summary": "Cristina Herrero concluye este martes seis años como presidenta de la Autoridad Independiente de Responsabilidad Fiscal (AIReF), pidiendo que su sucesor no proceda del Gobierno para preservar la autonomía del organismo supervisor. La economista hace balance de una gestión marcada por la consolidación institucional y algunos conflictos con el Ejecutivo.",
+  "sections": {
+    "facts": "**Cristina Herrero** finaliza este martes su mandato de seis años como presidenta de la **Autoridad Independiente de Responsabilidad Fiscal (AIReF)**, el organismo encargado de supervisar las cuentas públicas españolas. La economista madrileña de 59 años, inspectora de Hacienda e interventora del Estado, considera que ha cumplido los tres objetivos que se marcó al asumir el cargo: dar mayor orientación al medio y largo plazo, consolidar la función evaluadora y acercar la institución a los ciudadanos.\n\nHerrero defiende que \"espero que mi sucesor no proceda del Gobierno\" para preservar la independencia del organismo, señalando que cualquiera de los actuales directores de la AIReF podría asumir la presidencia. Durante su mandato, el organismo ha vivido tensiones recientes con el Ejecutivo, especialmente por un conflicto sobre el **informe de pensiones**. El Gobierno encargó mediante decreto un nuevo estudio sobre sostenibilidad del sistema antes del plazo establecido, cuando la AIReF ya había realizado la evaluación que exige la ley el año pasado.\n\nLa presidenta saliente identifica como principal limitación que la **función evaluadora** de la AIReF no está completamente respaldada por su ley orgánica, sino que depende de encargos externos. \"Eso nos coloca en una situación de indefensión\", afirma Herrero, explicando que mientras pueden rechazar estudios solicitados por administraciones territoriales, están obligados a realizar los que encarga la Administración Central. La economista reconoce que \"la AIReF es molesta porque cualquier supervisor fiscal lo es en algunas ocasiones\", pero considera que se ha consolidado como un actor respetado en el panorama institucional español.",
+    "coverage": [
+      {
+        "sourceName": "El Mundo",
+        "tone": "neutral",
+        "toneColor": "#4CAF50",
+        "summary": "Enfoca la entrevista como un balance institucional del mandato, destacando los logros conseguidos y las preocupaciones sobre la independencia futura. Presenta el testimonio de Herrero de forma directa, sin ahondar en conflictos específicos recientes con el Gobierno."
+      },
+      {
+        "sourceName": "El País",
+        "tone": "moderado",
+        "toneColor": "#2196F3",
+        "summary": "Contextualiza la consolidación de la AIReF como supervisor fiscal \"molesto pero necesario\", profundizando en las tensiones procedimentales con el Ejecutivo. Destaca el conflicto específico sobre el informe de pensiones y los desafíos de blindaje institucional."
+      }
+    ],
+    "hidden": "Las diferencias en el enfoque revelan distintas prioridades informativas. **El Mundo** opta por presentar un balance más institucional y técnico, omitiendo deliberadamente las tensiones específicas con el Gobierno que sí detalla El País. Esta omisión puede responder a una línea editorial que prefiere no ahondar en conflictos que puedan generar controversia política adicional sobre la gestión gubernamental.\n\n**El País** profundiza en el carácter \"molesto\" de la supervisión fiscal y los conflictos procedimentales, elementos que El Mundo minimiza o ignora. Sin embargo, El País no desarrolla tanto el balance técnico de logros específicos que sí incluye El Mundo. Ambos medios coinciden en la preocupación central sobre la independencia, pero El País contextualiza mejor por qué esta preocupación surge de tensiones reales y no solo de principios abstractos.\n\nNingún medio aborda en profundidad las **implicaciones presupuestarias** de los desafíos que identifica Herrero, como la necesidad de planificar ajustes o la insuficiencia de la reforma de pensiones actual, aspectos que podrían tener mayor relevancia para la ciudadanía que los aspectos procedimentales del organismo.",
+    "context": "La **Autoridad Independiente de Responsabilidad Fiscal (AIReF)** es un organismo creado en 2013 por exigencia de la Unión Europea durante la crisis de deuda, con el objetivo de supervisar de forma independiente las cuentas públicas españolas. Su creación formó parte de los compromisos asumidos por España para acceder a los mecanismos de estabilidad europeos tras la crisis financiera de 2008-2012.\n\n**Cristina Herrero** asumió la presidencia en 2018, convirtiéndose en la segunda persona al frente del organismo tras José Luis Escrivá, actual ministro de Seguridad Social. Su perfil técnico como inspectora de Hacienda e interventora del Estado la situaba como una figura de consenso para liderar una institución que debe mantener autonomía respecto al poder político.\n\nLa AIReF tiene como funciones principales evaluar el cumplimiento de los objetivos de estabilidad presupuestaria, analizar la sostenibilidad de las finanzas públicas y realizar informes sobre el impacto de las políticas fiscales. Su **independencia** es crucial porque debe supervisar al mismo Gobierno que formalmente la tutela, una tensión estructural común en este tipo de organismos supervisores. La preocupación de Herrero sobre que su sucesor no proceda del Gobierno responde a la necesidad de mantener esta autonomía institucional, especialmente después de conflictos como el del informe de pensiones, donde el Ejecutivo utilizó un decreto para solicitar un estudio adicional fuera del calendario previsto.",
+    "questions": [
+      "¿Puede mantenerse realmente la independencia de un organismo supervisor cuando depende del mismo Gobierno al que debe controlar?",
+      "¿Son suficientes las salvaguardas legales actuales para proteger la autonomía de instituciones como la AIReF ante presiones políticas?",
+      "¿Qué consecuencias podría tener para la credibilidad del organismo que su próximo presidente proceda directamente del Gobierno?",
+      "¿Cómo afecta a la confianza ciudadana en las instituciones que organismos técnicos reconozcan ser \"molestos\" para el poder político?",
+      "¿Debería reformarse la ley orgánica de la AIReF para blindar completamente su función evaluadora?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "economía"
+  ],
+  "imageUrl": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/02/27/17721973015241.jpg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T09:53:12.362Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/02/27/17721973015241.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/02/27/17721973015241.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/WQXDHAC4KRELNPX6EDZYUU5LSM.jpg?auth=4942417e4ddf2142a2e2fa800687957bc28d9df70b03c7e36d448696cadaa784",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/ZTLEUVGL4RG4FAUM4N3MMOM7UY.jpg?auth=144d52747d5ded2d32ed2777275e82986547b81bcd697141c81903f5d3b4b4e0&amp;width=414",
+      "source": "El País"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4126,
+      "title": "Cristina Herrero, presidenta de la Autoridad Fiscal: \"Espero que mi sucesor no proceda del Gobierno. Es clave que la AIReF preserve su independencia\"",
+      "url": "https://www.elmundo.es/economia/macroeconomia/2026/03/01/69a19484fc6c83dd248b45c5.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4239,
+      "title": "Cristina Herrero: “La Airef es molesta porque cualquier supervisor fiscal lo es”",
+      "url": "https://elpais.com/economia/2026-03-02/cristina-herrero-la-airef-es-molesta-porque-cualquier-supervisor-fiscal-lo-es.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

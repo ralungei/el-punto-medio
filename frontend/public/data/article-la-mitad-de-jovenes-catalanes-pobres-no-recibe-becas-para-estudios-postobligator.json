@@ -1,0 +1,140 @@
+{
+  "id": 65,
+  "clusterId": 7150,
+  "editionId": 10,
+  "slug": "la-mitad-de-jovenes-catalanes-pobres-no-recibe-becas-para-estudios-postobligator",
+  "headline": "La mitad de jóvenes catalanes pobres no recibe becas para estudios postobligatorios",
+  "summary": "Un estudio de la Fundació Bofill revela que 41.181 de los 82.688 jóvenes de 16 a 18 años en situación de pobreza en Catalunya no reciben ayudas para continuar sus estudios tras la ESO. El gasto en becas representa solo el 1% del presupuesto educativo autonómico.",
+  "sections": {
+    "facts": "La **Fundació Bofill** ha presentado un informe que evidencia las deficiencias del sistema de becas para estudios postobligatorios en Catalunya. Durante el curso pasado, **82.688 jóvenes de entre 16 y 18 años** se encontraban en situación de pobreza en la comunidad autónoma. De este total, únicamente **41.507 recibieron algún tipo de beca** para cursar bachillerato, ciclos formativos o Programas de Formación y Inserción, mientras que **41.181 quedaron sin ninguna ayuda**.\n\nLos datos del estudio muestran que la **cobertura de becas alcanza solo al 15%** de los jóvenes de esta franja de edad, pese a que el **30% se encuentra en situación de pobreza**. Entre los estudiantes que efectivamente cursan estudios postobligatorios, la cobertura asciende al 19% de los **58.475 jóvenes** matriculados que viven en hogares con recursos económicos limitados.\n\nEl presupuesto destinado a becas postobligatorias en Catalunya representa únicamente el **1% del gasto** del Departament d'Educació, cifra inferior a la media estatal del 1,7% y considerablemente menor que comunidades como **Andalucía (2,9%), Madrid (2,5%) o Extremadura (2,3%)**. La fundación ha identificado que **16.200 jóvenes catalanes** en situación de pobreza no alcanzan siquiera la categoría de riesgo de pobreza establecida por los criterios estatales.\n\nLa **Fundació Bofill** ha solicitado al ejecutivo catalán que desarrolle una política propia de becas y que añada **134 millones de euros** a los 77 millones que actualmente recibe del Ministerio de Educación. La organización argumenta que el sistema actual se basa en criterios estatales que no se ajustan al coste de vida ni a la realidad social catalana.",
+    "coverage": [
+      {
+        "sourceName": "Público",
+        "tone": "Crítico",
+        "toneColor": "#c41e3a",
+        "summary": "Adopta un enfoque de denuncia social, subrayando que el sistema perpetúa la desigualdad y destacando la correlación entre pobreza familiar y abandono escolar. Presenta las cifras como evidencia de un fracaso institucional que afecta especialmente a los sectores más vulnerables."
+      },
+      {
+        "sourceName": "20 Minutos",
+        "tone": "Técnico",
+        "toneColor": "#1f77b4",
+        "summary": "Se centra en los aspectos administrativos y las propuestas de mejora del sistema. Enfatiza los porcentajes de cobertura y las recomendaciones específicas de la fundación, presentando el asunto como un problema técnico con soluciones concretas de financiación."
+      }
+    ],
+    "hidden": "Ambos medios coinciden en presentar las cifras principales del informe, pero difieren significativamente en el peso que otorgan a las consecuencias sociales del problema. **Público** incluye datos cruciales sobre la **relación directa entre renta familiar y abandono escolar** que 20 Minutos omite completamente: mientras que en hogares con mayores ingresos la tasa de abandono es del 3,8%, en los de menores recursos alcanza el 25,3%. Esta omisión es relevante porque contextualiza el impacto real de la falta de becas en las trayectorias vitales de los jóvenes.\n\nPor su parte, **20 Minutos** profundiza más en las **propuestas técnicas y el traspaso de competencias** desde enero de 2025, que permite a la Generalitat establecer criterios propios. Este enfoque en las soluciones administrativas puede interpretarse como una forma de presentar el problema como algo resoluble mediante ajustes burocráticos, minimizando su dimensión estructural.\n\nAmbos medios mencionan la comparación presupuestaria con otras comunidades autónomas, pero ninguno explora las posibles causas políticas o económicas detrás de esta **infrainversión relativa de Catalunya** en becas educativas, ni analiza si existe voluntad política real para implementar las mejoras propuestas por la fundación.",
+    "context": "El sistema educativo español establece la **educación obligatoria hasta los 16 años** (ESO), momento en que los estudiantes pueden optar por continuar con estudios postobligatorios como bachillerato, ciclos formativos de grado medio o programas específicos de formación e inserción. Las **becas para estos estudios** dependen tradicionalmente del Ministerio de Educación, aunque las comunidades autónomas pueden complementarlas con fondos propios.\n\nLa **Fundació Bofill** es una organización catalana creada en 1969 que se dedica al análisis y la promoción de políticas educativas. Ha desarrollado numerosos estudios sobre equidad educativa y es una referencia en el debate público sobre educación en Catalunya. Sus informes suelen influir en las decisiones políticas autonómicas.\n\nEl **traspaso de la gestión de becas** a la Generalitat, efectivo desde enero de 2025, forma parte del proceso de transferencias de competencias educativas del Estado a Catalunya. Este cambio permite al gobierno autonómico adaptar los criterios y cuantías a la realidad socioeconómica catalana, tradicionalmente caracterizada por un **coste de vida superior** a la media estatal, especialmente en el área metropolitana de Barcelona.\n\nEl problema del **abandono escolar temprano** ha sido una preocupación constante en España, que históricamente ha registrado tasas superiores a la media europea. La correlación entre nivel socioeconómico familiar y continuidad educativa es un fenómeno documentado que perpetúa las desigualdades sociales generación tras generación.",
+    "questions": [
+      "¿Es suficiente aumentar la financiación de becas o se necesitan reformas más profundas en el sistema educativo para garantizar la igualdad de oportunidades?",
+      "¿Cómo puede Catalunya equilibrar el desarrollo de criterios propios de becas con la necesidad de mantener la cohesión del sistema educativo español?",
+      "¿Qué papel deberían jugar las empresas y la sociedad civil en la financiación de la educación postobligatoria de jóvenes en situación vulnerable?",
+      "¿Existen modelos exitosos en otras regiones europeas que Catalunya podría adaptar para mejorar el acceso a la educación postobligatoria?",
+      "¿Hasta qué punto la falta de becas es causa directa del abandono escolar o existen otros factores socioeconómicos y culturales igual de determinantes?"
+    ]
+  },
+  "category": "sociedad",
+  "categories": [
+    "sociedad",
+    "economía"
+  ],
+  "imageUrl": null,
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T13:04:35.188Z",
+  "updatedAt": null,
+  "images": [],
+  "clusterSources": [
+    {
+      "id": 7754,
+      "title": "La mitad de los jóvenes catalanes en situación de pobreza no recibe ninguna beca para seguir estudiando después de la ESO",
+      "url": "https://www.publico.es/sociedad/mitad-jovenes-catalanes-situacion-pobreza-recibe-ninguna-beca-seguir-estudiando-despues.html",
+      "sourceId": 7,
+      "source": {
+        "id": 7,
+        "name": "Público",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 8107,
+      "title": "La Fundació Bofill alerta de que las becas solo llegan al 19% de los 58.475 estudiantes de secundaria y PFI en situación de pobreza",
+      "url": "https://www.20minutos.es/cataluna/fundacio-bofill-alerta-que-las-becas-solo-llegan-19-los-58-475-estudiantes-secundaria-pfi-situacion-pobreza_6940594_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

@@ -1,0 +1,795 @@
+{
+  "edition": {
+    "id": 10,
+    "type": "midday",
+    "publishedAt": "2026-03-02T13:08:17.121Z",
+    "articleCount": 23,
+    "status": "published",
+    "createdAt": "2026-03-02T12:59:15.265Z"
+  },
+  "articles": [
+    {
+      "id": 73,
+      "slug": "escalada-militar-en-oriente-medio-deja-mas-de-600-muertos-mientras-iran-rechaza-",
+      "headline": "Escalada militar en Oriente Medio deja más de 600 muertos mientras Irán rechaza negociar",
+      "summary": "Los bombardeos coordinados entre Estados Unidos e Israel contra Irán han causado al menos 555 víctimas según fuentes iraníes. Un incidente de fuego amigo ha derribado tres cazas estadounidenses en Kuwait, cuyos tripulantes resultaron ilesos. Los mercados energéticos registran fuertes subidas ante el cierre del estrecho de Ormuz.",
+      "category": "internacional",
+      "categories": [
+        "internacional",
+        "economía"
+      ],
+      "imageUrl": "https://www.lavanguardia.com/files/image_40_40/uploads/2022/01/11/61ddbc80b7d7b.png",
+      "images": [
+        {
+          "url": "https://www.lavanguardia.com/files/image_40_40/uploads/2022/01/11/61ddbc80b7d7b.png",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/image_65_65/uploads/2022/09/16/63243d6d16979.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://okdiario.com/img/2024/12/03/hallazgo-yacimiento-de-petroleo-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://img2.rtve.es/im/16960520/?w=900",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://img2.rtve.es/im/16960062/?w=900",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNzMxMDgyNDYxNzcyNDQyNTM1XzYzcTFqN3ZzZ3Brcmt0aHdibTg1dGJ0anp3a2ozdi5tcDQifQ.FDqiU7Mo0y9ZYV178gZoKe_qaRA8QU1SAeXd_NCLb8aMXatwfyLowxLBbkGyziQTh8Ejul8pEmi6ulugaqfgzFKUVMZ9aS5I8pxkXt8tP2EaQi6dzrB3eZXeoWqU8sAMBg7l28gwbpLpff4e2DBQG7wY-wIeFtnU3Mxnt3FYHG6xrAAqrNLTxryGhKu0rD9Wmdu9e3_1XPoiUFDdYn3Spnboui5rdbqKVW8JMJmWsRUJcHaKQ_M7nUzaUtUfQ0_yTLGbtLZA4FvdCGIfYgrKDT9hxCDn_m6BsCO_YU8skUv_k1IpVuehI1gY8ty3QKovOIqhtiWX1wvLvNTkSpVX9wERQLiDloRFHkvUC1zXjmDaQBkWKQWzESE0fAEbXBeMduLYTY9PndMI61fFbv68wy6nhj96hgOXOcn1caAJI87quGAyRsbXFEoTIa1m4UMfuWaXhxIp2XybwNU0iNnH-1MPdoMj6TKDtmFQ7ZYiL2sis60NyqLwLVdeq9Td7GPn/media-uploads/files/_20/202603/TVEE/upload_731082461772442535_63q1j7vsgpkrkthwbm85tbtjzwkj3v.mp4.0_10.jpg",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNzczNzI4ODcxNzcyMzkyOTczX3picmZjczVudmpxcmtnbl92MWMyZ3JnNV9yZHZnZi5tcDQifQ.ANIXx4Jx1rIeKd-EYyq-85RXRjWDBWLoyocPN7M_BEyoifiTQuVS8rpVcPtaJ67JfEtW0ayyvLtFeMtz9h2ppLsSz5LR-lWaZjRp4evvA4AzWMa96KnaCpCLNYq_-w43Td-oUvPhSMUT3qZswhyCXfM-m5dcxK83OjKJckh2q2QuS6LZa9bicFzoTyHy4bY3mxK6lKAr_H0937Pr9EQss-weeVBs_MThkOyxyIXEecxPQj9fhIlm0HsI0yxekw_tTaUK4VR-Mz2xaMQVVTsNPvr9w41f2MhNYorpHZxPwt42HjudUSp2D48QRDA6CV6i0y9w8ROY9D9HJYiCVcXJsXweSDJQoOkAqj_13K-GM22fdDkNxJKjxSwtrjPRV_f0ug08etc2eiBmNWFVllKWH_xNr8GxfKyDjZ7qrARLmgbHcIbjLYmKn6zB64pVneMgO776ixk3zUhQ0cSeIkB9mWEVbS4jXTUxIlT18Imvt20Zr5ScaNvWliWbyHOjWJrG/media-uploads/files/_20/202603/TVEE/upload_773728871772392973_zbrfcs5nvjqrkgn_v1c2grg5_rdvgf.mp4.0_10.jpg",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNDUwMzAxMjcxNzcyMzg3MDk3X2Iycmh2d3Ewcm5xZHcwZzBuZmJwbWJxejh3c3c5dC5tcDQifQ.gLIeOXIBDkBIcEMCAtZwc0qVay0DWJBYt5kA6oIOdZErJ7QD5Czl2MJVIC3Ds4DylOYthY8Uzjr0eYKdTVhlX4KAgjTI5AHB08NZ9zC48_qCqpbZCd-PYpx4f7rzFJ3gqztFgJBeNnts_OgerZ7m7jERJwsidfHW97nNld3cJ9qfF3eGfFO8gV-xlON90LglJ-uvDTf0WnW53KGrPpYs2XU_xfkO4WVVFzr7B7_hJLacZ8n1Zf_KrSLh4colaw8vV__ekUGw9JY06y0Ync3-bNbbA7lRLLcb92hQBOEpxTStBIWSR0XRkv6-3s4zHqCrh1-DnaykIas5TWz3lGqUbRm7Fw3M_6YjkNOO2ghMutgkAc3FCn38s7M28oL7m6nQnu6aKzXhTrNjg3zXTrbV11BNxq5YASaPUMjcx7jDmMJEjAX5yYni4X7umuLlIHIQD_uUHvnb6xRSXn9SiLAjpFqNEptCONkpcbavXZlF_g_tFgWiLpI7IkIChOUfh13L/media-uploads/files/_20/202603/TVEE/upload_450301271772387097_b2rhvwq0rnqdw0g0nfbpmbqz8wsw9t.mp4.0_10.jpg",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNzAwNzc5MjIxNzcyMzcwMjE2X2pmNV84bl90Y2MyM2p2M25xZHpzcjJuZGhsaHNzNy5tcDQifQ.cBtANnE2MhBv2XTQDkUqkCQW9AsPo5KpDn1zUhjMGNLTR8gOvLTRgCVV0NT_XB-Lj5qxOKkNxVY7n1xG6FGBejkVDSLyU7ZOZuDj7Xa5aSBQfjL-3y-6JLhyk84DAKhcL5UtWjppa0s_gQgwiOyi1VJFaD7b_OCoIPuKBK5YnwsMozpC6xlsJojYKKRj-JQIVUKSRJD21mt61UeMojVXG1fhDfLiVVnbe9Z94V6lexqGxDz4xm9Jf--ONiJ4Ac1wBq0S8fRLyGGA9z3AWtscpN4KoHVzIdkqq_m5Les-8cjP7aDvu0csdyYuuqYyoY2PpUbTlJN8OLf8h_IcxhrQFO73R6gZ5sfLuYouHXIYLF-uem9JrhOZ2zpKHG_4PeM-40XyL2e-I6jNafbVfH3HDxQfnNxEkW8EwWw3DcitRKadLSawdJNMKS3e4fcbKg04RutRl3kT1aiQmy5YIDoYAHyvhD4c7XaY-A8AiAG5aEUtNnmaCCHhvyxIAavt4grl/media-uploads/files/_20/202603/TVEE/upload_700779221772370216_jf5_8n_tcc23jv3nqdzsr2ndhlhss7.mp4.0_10.jpg",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://img2.rtve.es/im/16959132/?w=900",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://img.rtve.es/p/135932/logo/?w=320",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://images.ecestaticos.com/3IX9M73eRydwZSu0tGt8L1Hla4Y=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd3f%2F921%2F3ca%2Fd3f9213ca4bdb50c22844537d2f95597.jpg",
+          "source": "El Confidencial"
+        },
+        {
+          "url": "https://images.ecestaticos.com/rI4h-A2_2vpF29EiW3eWWQlZYQE=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff27%2F9fe%2F3ab%2Ff279fe3ab0d0575050750db75e0158e3.jpg",
+          "source": "El Confidencial"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151967_261709179_1024x576.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/02/28/actualidad/1003744150418_261688572_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/02/28/actualidad/1003744149917_261681488_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744150727_261693655_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151714_261706363_1706x3349.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744150835_261694987_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151639_261705550_1024x576.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151056_261698514_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151205_261700554_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s2.elespanol.com/upload/arte/noticias/internacional/2026-eeuu-iran/20260302-22-iran-organizacion-poder.png",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2016/01/18/invertia/economia/95500581_449729_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/02/28/actualidad/1003744150213_261685923_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151779_261707199_1024x576.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744150870_261695380_320x180.jpg",
+          "source": "El Español"
+        }
+      ],
+      "sourcesCount": 8,
+      "createdAt": "2026-03-02T13:06:13.277Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 64,
+      "slug": "el-mwc-2026-arranca-en-barcelona-con-la-ia-como-foco-pero-marcado-por-la-tension",
+      "headline": "El MWC 2026 arranca en Barcelona con la IA como foco pero marcado por la tensión geopolítica",
+      "summary": "La vigésima edición del Mobile World Congress ha comenzado en Barcelona con expectativas de reunir a más de 110.000 profesionales, aunque el conflicto de Oriente Próximo ha afectado a la asistencia con cancelaciones de vuelos y actividades suspendidas.",
+      "category": "tecnología",
+      "categories": [
+        "tecnología",
+        "internacional",
+        "economía"
+      ],
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/3LK7PB2LIVDB7NKK3PFCA3Q6RU.jpg?auth=51f47bf96a2fa2a052fb33a5419e1447f5dc98cc4082b136d2ee14f231a3d4b3&amp;width=414",
+      "images": [
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/3LK7PB2LIVDB7NKK3PFCA3Q6RU.jpg?auth=51f47bf96a2fa2a052fb33a5419e1447f5dc98cc4082b136d2ee14f231a3d4b3&amp;width=414",
+          "source": "El País"
+        },
+        {
+          "url": "https://img2.rtve.es/im/16960210/?w=900",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNDMzNDk3MzUxNzcyNDQ2NDkyX2JybnprbV9zXzAwa2I4ejE3Ymtka19fdzdjY3Rodi5tcDQifQ.izvIUE35LCWBIxLeKEv2nK0mf8VA327U9H4z0FPbwOWEcjlFji7z1IOL_jcxUTaqyK9ejoHpN5m1c6w-jxbyyP7Pek1O1gLvlbE1XcLqVfTnJYOL5ru9sGMkI1AOSfGJtIYjkSXQaz5_LrB-nBytoCm_KCdMepFV0rmQh47q_GW3ZQC_YF9QSkbDLQ2QdZuRYy_-19GoQrumNui8_8N0XP6xsc-5HRhMus5MmM8HfYJ-YivdD-lFL-muZmqsE3rhMdLPHcEEmLV6vwDh0FlzI21lIvPzDaGdjVDTbm0kWpEt38cWxdpCiJUxhAEJIvLUx-gtYeOaLN7MfektM5dBeo0QHEjH2Uhta6d4lER0zg6gKBd_zlhDvydmGwt78MLk0Humevj8hzGzTbE3GnOApzMwnxpP5RzipPDvfhDbzFw2NruJyCPwLU5e3HCjijS-Q7x1G1MV5T_LCwEMktqfG9RfIYnZIGZ6BWiiA8BZ6gkhjGjVXv9Y5ULjrxrBWbpF/media-uploads/files/_20/202603/TVEE/upload_433497351772446492_brnzkm_s_00kb8z17bkdk__w7ccthv.mp4.0_10.jpg",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNjM1NDY4MzExNzcyMzk4ODI0X3JmaGxiMXJtM3M0bnJxYzZzM3Y3OV9iendfOG5iZC5tcDQifQ.On3L-3qONJYQSjfJ6u3FYpGxDRk538oGsJGr7PEjuZZFvGtwCk3SbqzVd3aO5jYb_-h7oeuAuMqxy5sOE4qe-GkvJwJMROEqrxxJmnAo5lM2AOWsZRv5Z59Z6L3jNa8vUpS0w06O-TbOi6SH1Cn0iVZIM9perMD4Int86IV72Y_hqqJKcvKZYJMLWhf_QhSe-FRa1XfOlwFLk9cZfUWWVwQqYkh3aEo2vq11QVB0LGMjqo7eQ3uvyXC52KXAwrw9Rn5EU2GTcxp6zKXqPzn5DCdIO1X89uAZJmdO0gsDVI9RkRVpVqVitMI4yNVE7SDxP3xM7b0hQym0LypO6WUVgS7Cssf1tkCHhRnYgMA-uRlfSbwriSYLWBHyyKc9BfOf6mUe0FhE15JOMXiYxfGS_toDss_JeuG8N6c-LTvOEJGYIU8vkfSZi4gEkw1_COdf09ei59GSoooSls6ReTcduZPlOdY4XRM5qx7fMOi9VZmna0SKUS1rdDgQLOZmMShO/media-uploads/files/_20/202603/TVEE/upload_635468311772398824_rfhlb1rm3s4nrqc6s3v79_bzw_8nbd.mp4.0_10.jpg",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfMTE1MzIxMjIxNzcyMzkyOTY5X2ZkX3RienFxM21oMDd3YndjNXdmcm5iYmxzY2JiYy5tcDQifQ.pI-Po7N4t4u6iqP_3107mFrad2Ce5CR-7juYaBQbmjq8o5oEnzI37-gZL5bx1hkpjxeDDFSeLlQTs4jyZ41PDcAhLhg-60R5IpXIC8lgvIIw1b06hJO0W0P53_6GT4gV8uv2H4R7RVocaQqHaNNTBXNy_lSog2AnLXxKiXuP-8zfVcFqSOZfgApjN3KFxvZ_iIaxaYJRq_hAaGyFZGjznlUdmYEdiq-f7p_AoH2FpnmPZTt26NCVosOdPU7dEq0-LCI9ZgVugw9a9G5p77j-qEPAJ45HR21qNinbgE3-EBkLzaCL2q5-sD4zxAoT8JWmTGoRRYgJPc5AQUpDPT34N3auUqDhwy9HBOKka0qVRZN0ga6DTgu71krO3w1_SmW-3YSsILgJrClWxpZ23_kLP2FhgOTxHfFANMxSMMAqk-yatHNyNfT5dQNP_oR5eEhe2-XB8MzjMQ_gGCjM0VHrRlC-qsU44DZr0zEXHyIO1D39IjDbyDhbEedUgtdciQjH/media-uploads/files/_20/202603/TVEE/upload_115321221772392969_fd_tbzqq3mh07wbwc5wfrnbblscbbc.mp4.0_10.jpg",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://images.ecestaticos.com/WipJ18R4DteLjfQu0eIyiqd8Mno=/0x0:1200x691/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F788%2Fc8a%2F134%2F788c8a134ff8149eee4b56a1b11780a6.jpg",
+          "source": "El Confidencial"
+        }
+      ],
+      "sourcesCount": 5,
+      "createdAt": "2026-03-02T13:04:22.143Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 61,
+      "slug": "los-domingos-arrasa-en-los-goya-2026-mientras-el-activismo-marca-la-gala-de-barc",
+      "headline": "'Los domingos' arrasa en los Goya 2026 mientras el activismo marca la gala de Barcelona",
+      "summary": "La película de Alauda Ruiz de Azúa se impuso en las cinco categorías principales de los Premios Goya 2026, mientras que 'Sirat' de Oliver Laxe dominó los galardones técnicos con seis estatuillas. La ceremonia celebrada en Barcelona estuvo marcada por el activismo pro-palestino, con numerosos asistentes luciendo pins con sandías.",
+      "category": "cultura",
+      "categories": [
+        "cultura",
+        "política"
+      ],
+      "imageUrl": "https://static.eldiario.es/clip/335fa6ed-06d8-4fbd-b6f5-0aae378b8e88_16-9-discover-aspect-ratio_default_0.jpg",
+      "images": [
+        {
+          "url": "https://static.eldiario.es/clip/335fa6ed-06d8-4fbd-b6f5-0aae378b8e88_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNTU1MTk1MTExNzcyMzIwODc0XzRsaF96dm5fc2tqbDV2aDd3X3JzdnRxOGdtZ2Ruei5tcDQifQ.cX2gMyZZm2f3BFQ_d40MCDM2SYXnvM_YF6kF2qf62w5nDuSe3PWBapXcts2_Q9Hv0LtZEhMYQJyZrlSQDzB7in6B7FB85BQ9LvTk1ZdZtqEBKubLKQMtnrdcjz903c1ejULjuo9nceRZsqBbv1Dv3ur9sO_gtjN2FKTHtrObdHzw1lGx36USxDzm-SorwJaDHbrJkao2ANvpVgdA9qctYZU0xEp4WKeBHz2wk940dfMSM02K_gTxlWrsH9pAGdVMpkRoDn0XjsybHKSNCujKPrRrQCCFExKyxIBTV0ohHSM0_yDNDvjuHx2B_OhqWWy9ph2QrMHcZ409eh6SeDyY2JGu5gzzX4q1_I4arU4wMJPcUfCTGYSrwHZqNSyv6IQSEDj7xdFiQufzR2gpjj8UFqDVVi6Qm_O2tZfcgKu7vdgAiXzfnMQmjMjZqozCY850Dynh0yGgVAtsDZMLtD-K4dyfotlvJdf7yHncTE44XaUQx-Jg2CQ81VbNb0Io6xUe/media-uploads/files/_20/202603/TVEE/upload_555195111772320874_4lh_zvn_skjl5vh7w_rsvtq8gmgdnz.mp4.0_10.jpg",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfMjAzNzAyNTkxNzcyMzIwODc5X3dua2xzN3RrcWs1Y19qNmR6cXFrZjdkc2xqbG12ZC5tcDQifQ.Z6nUSjHI6xxjb5j3fkxQLThJfIsERN0CanSbvu1-t6n-sGvTjlq9SKcUoCY0Ork5EwFsDtz2yxbzZp_cINHRaxo8crudGgJQwuqm68ZPvetSDVdvoJP6VFChVkFnlCmjihcJk73vpF2cIs9u6D-r7E70m1wmJYm9G_yxGQwUj5oU9pgpC9aWAp7OvYt_7kVNJnOrGb6uVCda4Xl984RiyaNrrVw_0iMlsXG99APv-OJCBuGHR9doouA1nZBJNXq1stBJ0N3NaKXsdv1P5yyq9EGqX7Dq5xGaNF51TsNR6aiAkKcjArPOPicjcelQ5kWq1cy24aNxh6aiVOdCx-W0ktZ2XOJcEwQiqIhNibs32jJ1vsZ3XYacdkPOLn_6zbNDB1Kv9iH2bKHbmOrpn50XZX6O1t1IkPhMBewtbRu-pCDJ5tbKtqL8-x_rW41R-GqYwJu4rver-B8ad4eyugLzIHFLYDvxBmaPFRmsiAxw5remEuYc-3jLEEjFj-kOBjT0/media-uploads/files/_20/202603/TVEE/upload_203702591772320879_wnkls7tkqk5c_j6dzqqkf7dsljlmvd.mp4.0_10.jpg",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://img2.rtve.es/im/16959254/?w=900",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://img.rtve.es/p/27730/logo/?w=320",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744150641_261692309_320x180.jpg",
+          "source": "El Español"
+        }
+      ],
+      "sourcesCount": 4,
+      "createdAt": "2026-03-02T13:03:39.596Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 63,
+      "slug": "espana-cifra-en-5-y-2-su-dependencia-del-petroleo-y-gas-que-transita-por-ormuz",
+      "headline": "España cifra en 5% y 2% su dependencia del petróleo y gas que transita por Ormuz",
+      "summary": "El Gobierno español minimiza el impacto del posible cierre del estrecho de Ormuz tras la escalada militar en Irán, afirmando que solo el 5% del petróleo y el 2% del gas nacional pasa por esta vía. Los precios del crudo han subido más del 7% mientras los mercados evalúan las consecuencias del conflicto.",
+      "category": "economia",
+      "categories": [
+        "economia",
+        "internacional"
+      ],
+      "imageUrl": "https://www.lavanguardia.com/files/image_65_65/uploads/2024/04/13/661a254948f6e.jpeg",
+      "images": [
+        {
+          "url": "https://www.lavanguardia.com/files/image_65_65/uploads/2024/04/13/661a254948f6e.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://okdiario.com/img/2024/12/03/hallazgo-yacimiento-de-petroleo-635x358.jpg",
+          "source": "OKDiario"
+        }
+      ],
+      "sourcesCount": 4,
+      "createdAt": "2026-03-02T13:04:08.608Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 74,
+      "slug": "la-audiencia-nacional-rechaza-la-denuncia-contra-laporta-por-blanqueo-por-compet",
+      "headline": "La Audiencia Nacional rechaza la denuncia contra Laporta por blanqueo por competencia",
+      "summary": "El magistrado Santiago Pedraz declina investigar las acusaciones contra el presidente del FC Barcelona por falta de competencia territorial. La denuncia puede trasladarse ahora a los juzgados de Barcelona.",
+      "category": "deportes",
+      "categories": [
+        "deportes",
+        "política"
+      ],
+      "imageUrl": "https://www.lavanguardia.com/files/image_40_40/uploads/2025/11/18/691c62299cadb.jpeg",
+      "images": [
+        {
+          "url": "https://www.lavanguardia.com/files/image_40_40/uploads/2025/11/18/691c62299cadb.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/imagen_recortada-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/01/11/actualidad/1003744085233_260860239_320x180.jpg",
+          "source": "El Español"
+        }
+      ],
+      "sourcesCount": 4,
+      "createdAt": "2026-03-02T13:06:35.782Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 77,
+      "slug": "un-diputado-del-pp-declara-que-mazon-no-tenia-que-estar-en-el-cecopi-durante-la-",
+      "headline": "Un diputado del PP declara que Mazón no tenía que estar en el CECOPI durante la DANA",
+      "summary": "Avelino Mascarell, diputado responsable de bomberos en Valencia, testificó ante la jueza que investiga la DANA que los presentes en el centro de emergencias no estaban pendientes de Carlos Mazón porque ya estaba la consellera. La magistrada cuestionó la credibilidad de su testimonio por sus múltiples lagunas de memoria.",
+      "category": "política",
+      "categories": [
+        "política",
+        "sociedad"
+      ],
+      "imageUrl": "https://www.lavanguardia.com/files/image_65_65/uploads/2023/12/30/658fda11e0119.jpeg",
+      "images": [
+        {
+          "url": "https://www.lavanguardia.com/files/image_65_65/uploads/2023/12/30/658fda11e0119.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://okdiario.com/img/2025/12/11/fachada-juzgados-catarroja-635x358.jpg",
+          "source": "OKDiario"
+        }
+      ],
+      "sourcesCount": 4,
+      "createdAt": "2026-03-02T13:07:17.865Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 78,
+      "slug": "machado-anuncia-su-regreso-a-venezuela-en-semanas-tras-captura-de-maduro-por-eeu",
+      "headline": "Machado anuncia su regreso a Venezuela en semanas tras captura de Maduro por EEUU",
+      "summary": "La líder opositora María Corina Machado confirma que volverá a Venezuela en pocas semanas para impulsar la transición democrática. Su anuncio llega tras la intervención militar estadounidense del 3 de enero que capturó a Nicolás Maduro, dejando a Delcy Rodríguez como presidenta interina.",
+      "category": "internacional",
+      "categories": [
+        "internacional",
+        "política"
+      ],
+      "imageUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/R5LJDY2L65CW7HONNLPI7LTORM.jpg",
+      "images": [
+        {
+          "url": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/R5LJDY2L65CW7HONNLPI7LTORM.jpg",
+          "source": "El País"
+        },
+        {
+          "url": "https://images.ecestaticos.com/08p8VnFC1tpd6YxrksFtmjc-Mg0=/94x0:2117x1517/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6d9%2F27c%2F93b%2F6d927c93ba54f61433413e623b419120.jpg",
+          "source": "El Confidencial"
+        }
+      ],
+      "sourcesCount": 4,
+      "createdAt": "2026-03-02T13:07:32.585Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 80,
+      "slug": "zapatero-niega-en-el-senado-haber-facilitado-el-rescate-de-plus-ultra-y-defiende",
+      "headline": "Zapatero niega en el Senado haber facilitado el rescate de Plus Ultra y defiende sus contratos",
+      "summary": "El expresidente José Luis Rodríguez Zapatero compareció ante la comisión de investigación del Senado para responder sobre su relación con el rescate a la aerolínea Plus Ultra y sus contratos con empresas vinculadas al empresario Julio Martínez, imputado en el caso.",
+      "category": "política",
+      "categories": [
+        "política",
+        "economía"
+      ],
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/M56EXSWUTREWTKKN5M3DHS26VU.jpg?auth=da2f17be1faec76c49e0e5a681671ff4167fdd6075b2ba86acbaacf535de751d&amp;width=414",
+      "images": [
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/M56EXSWUTREWTKKN5M3DHS26VU.jpg?auth=da2f17be1faec76c49e0e5a681671ff4167fdd6075b2ba86acbaacf535de751d&amp;width=414",
+          "source": "El País"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/9951e9c1-9c4c-4d2f-a908-969976eff335_16-9-aspect-ratio_default_0_x447y63.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/fc309b19-d080-49e0-b358-63d4cc4372d4_16-9-aspect-ratio_default_0_x534y81.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/ff60e133-340a-4533-8914-459866f293a7_16-9-aspect-ratio_default_0_x577y89.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/6c297e41-84e9-40f1-848c-804d07600119_16-9-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/98304fd9-edcc-4208-8c91-e5ddf7755943_16-9-aspect-ratio_default_0_x2072y367.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/e8f5d7ee-ae2f-4f46-9c44-c685e4511d15_16-9-aspect-ratio_default_0_x1635y0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/bf82c932-0c98-4a62-ad5c-c690f23d5ce5_16-9-aspect-ratio_default_0_x1790y258.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/3c0b5b19-7a59-4006-ba5a-b40d5b6f6950_16-9-aspect-ratio_default_0_x2793y488.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/ee10627b-40bb-41d9-833e-70ac613ce9cd_16-9-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/975465c2-2b0c-40ba-951a-af9e16564321_16-9-aspect-ratio_default_0_x2096y458.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/452986c3-3ea4-45c3-bad4-b202aec9b681_16-9-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/cec22f98-d0ac-4fe0-9ecf-ce2263652e3b_16-9-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/7cb08cc4-39e9-4237-a9b9-dcb6f734565b_16-9-aspect-ratio_default_0_x1903y254.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/zapatero1-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/zapatero-senado-comparecencia-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151743_261706794_1024x576.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/02/02/actualidad/1003744112874_261209073_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744115658_261242394_320x180.jpg",
+          "source": "El Español"
+        }
+      ],
+      "sourcesCount": 4,
+      "createdAt": "2026-03-02T13:08:13.217Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 62,
+      "slug": "detenido-un-joven-venezolano-tras-confesar-el-asesinato-de-su-casera-en-madrid",
+      "headline": "Detenido un joven venezolano tras confesar el asesinato de su casera en Madrid",
+      "summary": "Un ciudadano venezolano de 20 años se presentó voluntariamente en una comisaría de Carabanchel para confesar que había matado a su casera, una española de 31 años. La Policía halló posteriormente el cadáver en la vivienda de la calle Oropéndola.",
+      "category": "sociedad",
+      "categories": [
+        "sociedad",
+        "política"
+      ],
+      "imageUrl": "https://okdiario.com/img/2026/03/02/imagen_recortada-26-635x358.jpg",
+      "images": [
+        {
+          "url": "https://okdiario.com/img/2026/03/02/imagen_recortada-26-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/01/29/actualidad/1003744108871_261708572_1024x576.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/02/17/actualidad/1003744133365_261467772_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151612_261705172_1024x576.jpg",
+          "source": "El Español"
+        }
+      ],
+      "sourcesCount": 3,
+      "createdAt": "2026-03-02T13:04:00.489Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 69,
+      "slug": "el-mwc-de-barcelona-afronta-su-vigesima-edicion-entre-celebracion-institucional-",
+      "headline": "El MWC de Barcelona afronta su vigésima edición entre celebración institucional y protesta",
+      "summary": "El Mobile World Congress arrancó este lunes en Barcelona con 3.000 expositores y previsión de 110.000 visitantes, mientras organizaciones sociales protestaban contra empresas israelíes y denunciaban el modelo tecnológico actual. TMB reforzó el transporte público con servicios especiales.",
+      "category": "tecnología",
+      "categories": [
+        "tecnología",
+        "sociedad"
+      ],
+      "imageUrl": "https://www.lavanguardia.com/uploads/2026/02/27/69a172351b895.jpeg",
+      "images": [
+        {
+          "url": "https://www.lavanguardia.com/uploads/2026/02/27/69a172351b895.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://images.ecestaticos.com/PQZVc9SVQUPfIroU4VBUCbUzeuI=/0x0:2272x1381/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1a1%2F54e%2F091%2F1a154e09151f43059f171f3c7470eb9e.jpg",
+          "source": "El Confidencial"
+        }
+      ],
+      "sourcesCount": 3,
+      "createdAt": "2026-03-02T13:05:17.848Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 72,
+      "slug": "el-gobierno-activa-un-sistema-para-denunciar-abusos-en-practicas-estudiantiles",
+      "headline": "El Gobierno activa un sistema para denunciar abusos en prácticas estudiantiles",
+      "summary": "El Ministerio de Juventud lanza un buzón anónimo donde estudiantes y exbecarios pueden reportar irregularidades durante sus prácticas formativas. La iniciativa busca combatir la explotación laboral juvenil mediante denuncias que se tramitarán a través de la Inspección de Trabajo.",
+      "category": "política",
+      "categories": [
+        "política",
+        "sociedad"
+      ],
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/YC27FR4FAZHAVDOMTVXFQBDP3Q.jpg?auth=f6b95385b923394cb510db5fac296e37cb32b2c96587064e652edc906d7ec5b5&amp;width=414&amp;height=311&amp;smart=true",
+      "images": [
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/YC27FR4FAZHAVDOMTVXFQBDP3Q.jpg?auth=f6b95385b923394cb510db5fac296e37cb32b2c96587064e652edc906d7ec5b5&amp;width=414&amp;height=311&amp;smart=true",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/JXUDLZMQ55OEPLNCA4CGUQFDD4.jpg?auth=effb356b388d0cbf4c4ecb1acf6d228622b3799d97172a2022e6188f2e2a018e&amp;width=414&amp;height=311&amp;smart=true",
+          "source": "El País"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/image_65_65/uploads/1970/01/01/5fa158efd4c9b.jpeg",
+          "source": "La Vanguardia"
+        }
+      ],
+      "sourcesCount": 3,
+      "createdAt": "2026-03-02T13:06:05.005Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 75,
+      "slug": "shakira-bate-record-historico-con-400-000-espectadores-en-el-zocalo-de-ciudad-de",
+      "headline": "Shakira bate récord histórico con 400.000 espectadores en el Zócalo de Ciudad de México",
+      "summary": "La cantante colombiana cerró su gira mexicana ante 400.000 personas en un concierto gratuito que duplicó su anterior marca de 2007. El evento superó los registros de Los Fabulosos Cadillacs y Grupo Firme en la misma plaza histórica.",
+      "category": "cultura",
+      "categories": [
+        "cultura",
+        "sociedad"
+      ],
+      "imageUrl": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724534413615.jpg",
+      "images": [
+        {
+          "url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724534413615.jpg",
+          "source": "El Mundo"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2026/03/02/69a52931e8106.r_d.885-646.jpeg",
+          "source": "La Vanguardia"
+        }
+      ],
+      "sourcesCount": 3,
+      "createdAt": "2026-03-02T13:06:47.556Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 79,
+      "slug": "la-fiscalia-querella-al-expresidente-de-la-diputacion-de-lugo-por-presunto-acoso",
+      "headline": "La Fiscalía querella al expresidente de la Diputación de Lugo por presunto acoso sexual",
+      "summary": "El ministerio público ha interpuesto una querella contra José Tomé tras recibir una denuncia particular por hechos ocurridos en septiembre de 2025. Tomé dimitió en diciembre como presidente de la Diputación lucense pero conserva la alcaldía de Monforte de Lemos.",
+      "category": "política",
+      "categories": [
+        "política",
+        "sociedad"
+      ],
+      "imageUrl": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724507746086.jpg",
+      "images": [
+        {
+          "url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724507746086.jpg",
+          "source": "El Mundo"
+        },
+        {
+          "url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/12/17655470169199.jpg",
+          "source": "El Mundo"
+        },
+        {
+          "url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744052913_260447956_320x180.jpg",
+          "source": "El Español"
+        }
+      ],
+      "sourcesCount": 3,
+      "createdAt": "2026-03-02T13:07:51.025Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 76,
+      "slug": "espana-niega-apoyo-militar-contra-iran-y-eeuu-retira-sus-aviones-cisterna-de-las",
+      "headline": "España niega apoyo militar contra Irán y EEUU retira sus aviones cisterna de las bases",
+      "summary": "El Gobierno español rechaza participar en operaciones militares contra Irán, lo que provoca la retirada de aeronaves estadounidenses de las bases de Morón y Rota. Los mercados financieros reaccionan con subidas del petróleo superiores al 9% y caídas bursátiles generalizadas.",
+      "category": "internacional",
+      "categories": [
+        "internacional",
+        "economía",
+        "política"
+      ],
+      "imageUrl": null,
+      "images": [],
+      "sourcesCount": 3,
+      "createdAt": "2026-03-02T13:06:52.836Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 59,
+      "slug": "herrero-defiende-su-gestion-en-airef-ante-las-tensiones-con-el-gobierno-por-el-i",
+      "headline": "Herrero defiende su gestión en Airef ante las tensiones con el Gobierno por el informe de pensiones",
+      "summary": "La presidenta saliente de la Autoridad Independiente de Responsabilidad Fiscal hace balance de sus seis años al frente del organismo supervisor. Considera positivo el trabajo realizado aunque reconoce que quedan retos pendientes, especialmente en el blindaje legal de las funciones evaluadoras.",
+      "category": "política",
+      "categories": [
+        "política",
+        "economía"
+      ],
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/ZTLEUVGL4RG4FAUM4N3MMOM7UY.jpg?auth=144d52747d5ded2d32ed2777275e82986547b81bcd697141c81903f5d3b4b4e0&amp;width=414",
+      "images": [
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/ZTLEUVGL4RG4FAUM4N3MMOM7UY.jpg?auth=144d52747d5ded2d32ed2777275e82986547b81bcd697141c81903f5d3b4b4e0&amp;width=414",
+          "source": "El País"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/image_65_65/uploads/2022/09/16/63243d6d16979.jpeg",
+          "source": "La Vanguardia"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T13:03:29.881Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 60,
+      "slug": "manu-sanchez-habla-del-derecho-al-lujo-de-la-izquierda-y-sufre-ataques-en-redes",
+      "headline": "Manu Sánchez habla del 'derecho al lujo' de la izquierda y sufre ataques en redes",
+      "summary": "El humorista sevillano participó en 'Lo de Évole' donde defendió que la izquierda también puede disfrutar del lujo sin culpa. Posteriormente mostró los insultos y amenazas recibidos en redes sociales, donde le desean que vuelva su cáncer.",
+      "category": "cultura",
+      "categories": [
+        "cultura",
+        "sociedad"
+      ],
+      "imageUrl": "https://www.lavanguardia.com/files/image_40_40/uploads/2026/02/24/699d4c0a8e681.jpeg",
+      "images": [
+        {
+          "url": "https://www.lavanguardia.com/files/image_40_40/uploads/2026/02/24/699d4c0a8e681.jpeg",
+          "source": "La Vanguardia"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T13:03:31.869Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 66,
+      "slug": "tres-regiones-ofrecen-deducciones-fiscales-por-gastos-dentales-con-limites-varia",
+      "headline": "Tres regiones ofrecen deducciones fiscales por gastos dentales con límites variables",
+      "summary": "Cantabria, Canarias y Valencia permiten deducir parte de los gastos odontológicos en la declaración de renta. Los porcentajes oscilan entre el 10% y el 30%, con límites de ingresos que determinan el acceso al beneficio fiscal.",
+      "category": "economía",
+      "categories": [
+        "economía",
+        "sociedad",
+        "salud"
+      ],
+      "imageUrl": "https://okdiario.com/img/2026/02/06/ir-al-dentista-hara-que-ahorres-dinero-este-2026-en-estas-comunidades-autonomas.-635x358.jpg",
+      "images": [
+        {
+          "url": "https://okdiario.com/img/2026/02/06/ir-al-dentista-hara-que-ahorres-dinero-este-2026-en-estas-comunidades-autonomas.-635x358.jpg",
+          "source": "OKDiario"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T13:04:40.165Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 67,
+      "slug": "la-desigualdad-salarial-de-genero-se-mantiene-por-encima-del-15-en-espana",
+      "headline": "La desigualdad salarial de género se mantiene por encima del 15% en España",
+      "summary": "Un estudio de la Fundación Mujeres revela que la brecha salarial entre hombres y mujeres oscila entre el 15% y el 20%. Paralelamente, un informe internacional advierte que el progreso global hacia la igualdad de género avanza tan lentamente que podría requerir más de un siglo para cerrarse completamente.",
+      "category": "sociedad",
+      "categories": [
+        "sociedad",
+        "economía"
+      ],
+      "imageUrl": "https://img2.rtve.es/p/1001380/imgbackground/?h=320",
+      "images": [
+        {
+          "url": "https://img2.rtve.es/p/1001380/imgbackground/?h=320",
+          "source": "RTVE"
+        },
+        {
+          "url": "https://s3.elespanol.com/2025/04/09/actualidad/1003743705674_254600092_320x180.jpg",
+          "source": "El Español"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T13:04:57.017Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 68,
+      "slug": "belgica-suprime-las-prestaciones-de-desempleo-indefinidas-limitandolas-a-dos-ano",
+      "headline": "Bélgica suprime las prestaciones de desempleo indefinidas limitándolas a dos años",
+      "summary": "El gobierno belga elimina el cobro de subsidios por desempleo de duración ilimitada, estableciendo un máximo de dos años. La medida entra en vigor mediante un calendario progresivo que se completará en julio de 2027, pese a la oposición sindical.",
+      "category": "economía",
+      "categories": [
+        "economía",
+        "política",
+        "sociedad"
+      ],
+      "imageUrl": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723570090108.jpg",
+      "images": [
+        {
+          "url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723570090108.jpg",
+          "source": "El Mundo"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T13:05:05.868Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 71,
+      "slug": "amazon-incrementa-su-inversion-en-espana-hasta-33-700-millones-para-centros-de-d",
+      "headline": "Amazon incrementa su inversión en España hasta 33.700 millones para centros de datos en Aragón",
+      "summary": "La multinacional tecnológica eleva en 18.000 millones su compromiso inicial de inversión para desarrollar infraestructura de computación en la nube e inteligencia artificial. El proyecto se desarrollará hasta 2035 y prevé generar cerca de 30.000 empleos anuales.",
+      "category": "tecnología",
+      "categories": [
+        "tecnología",
+        "economía"
+      ],
+      "imageUrl": "https://images.ecestaticos.com/Bk32IbgMZfmApm1lk9TZH5KhyxA=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc27%2Fceb%2F3c4%2Fc27ceb3c4d22e99c65565015b36cf7ec.jpg",
+      "images": [
+        {
+          "url": "https://images.ecestaticos.com/Bk32IbgMZfmApm1lk9TZH5KhyxA=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc27%2Fceb%2F3c4%2Fc27ceb3c4d22e99c65565015b36cf7ec.jpg",
+          "source": "El Confidencial"
+        },
+        {
+          "url": "https://s3.elespanol.com/2024/01/25/invertia/disruptores/autonomias/aragon/827677482_239395709_320x180.jpg",
+          "source": "El Español"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T13:05:38.525Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 81,
+      "slug": "directivo-de-telefonica-evito-despido-de-socio-de-empresa-que-pago-661-000-a-zap",
+      "headline": "Directivo de Telefónica evitó despido de socio de empresa que pagó 661.000€ a Zapatero",
+      "summary": "Javier de Paz, adjunto al presidente de Telefónica, gestionó la protección laboral de Sergio Sánchez, accionista de Análisis Relevante, la empresa que abonó 661.000 euros a José Luis Rodríguez Zapatero y sus hijas. El directivo intervino para evitar su despido tras una denuncia por presunto acoso.",
+      "category": "política",
+      "categories": [
+        "política",
+        "economía"
+      ],
+      "imageUrl": "https://images.ecestaticos.com/4rX6ID_YndiuwniMUhMpW6r3hus=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd0e%2F2f4%2Fba0%2Fd0e2f4ba0e68f2569162337cf952a148.jpg",
+      "images": [
+        {
+          "url": "https://images.ecestaticos.com/4rX6ID_YndiuwniMUhMpW6r3hus=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd0e%2F2f4%2Fba0%2Fd0e2f4ba0e68f2569162337cf952a148.jpg",
+          "source": "El Confidencial"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T13:08:17.119Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 70,
+      "slug": "junts-anuncia-enmienda-a-la-totalidad-contra-los-presupuestos-catalanes-de-2026",
+      "headline": "Junts anuncia enmienda a la totalidad contra los presupuestos catalanes de 2026",
+      "summary": "La formación de Carles Puigdemont rechaza las cuentas públicas aprobadas por el Govern de Salvador Illa el pasado viernes. La portavoz Mònica Sales critica el acuerdo del ejecutivo socialista con los Comunes en materia de vivienda.",
+      "category": "política",
+      "categories": [
+        "política"
+      ],
+      "imageUrl": "https://www.lavanguardia.com/files/image_65_65/uploads/1970/01/01/5f9ad949d5452.jpeg",
+      "images": [
+        {
+          "url": "https://www.lavanguardia.com/files/image_65_65/uploads/1970/01/01/5f9ad949d5452.jpeg",
+          "source": "La Vanguardia"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T13:05:28.192Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    },
+    {
+      "id": 65,
+      "slug": "la-mitad-de-jovenes-catalanes-pobres-no-recibe-becas-para-estudios-postobligator",
+      "headline": "La mitad de jóvenes catalanes pobres no recibe becas para estudios postobligatorios",
+      "summary": "Un estudio de la Fundació Bofill revela que 41.181 de los 82.688 jóvenes de 16 a 18 años en situación de pobreza en Catalunya no reciben ayudas para continuar sus estudios tras la ESO. El gasto en becas representa solo el 1% del presupuesto educativo autonómico.",
+      "category": "sociedad",
+      "categories": [
+        "sociedad",
+        "economía"
+      ],
+      "imageUrl": null,
+      "images": [],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T13:04:35.188Z",
+      "updatedAt": null,
+      "editionType": "midday"
+    }
+  ]
+}

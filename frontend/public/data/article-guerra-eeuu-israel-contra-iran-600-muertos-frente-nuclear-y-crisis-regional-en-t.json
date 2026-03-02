@@ -1,0 +1,532 @@
+{
+  "id": 83,
+  "clusterId": 7507,
+  "editionId": 10,
+  "slug": "guerra-eeuu-israel-contra-iran-600-muertos-frente-nuclear-y-crisis-regional-en-t",
+  "headline": "Guerra EEUU-Israel contra Irán: 600 muertos, frente nuclear y crisis regional en tercer día",
+  "summary": "Los ataques coordinados de Estados Unidos e Israel contra Irán, iniciados el 28 de febrero de 2026, han entrado en su tercera jornada con al menos 600 muertos, la muerte del líder supremo Ali Jamenei, ataques a instalaciones nucleares y la entrada de Hezbolá en el conflicto. Irán rechaza negociar mientras persistan las operaciones militares.",
+  "sections": {
+    "facts": "El **28 de febrero de 2026**, Estados Unidos e Israel lanzaron ataques militares coordinados contra **Irán** en operaciones denominadas por el Pentágono como *Operation Epic Fury* y por Israel como *Operación León Rugiente*. Los objetivos incluyeron localizaciones en **Teherán, Isfahán, Qom, Karaj y Kermanshah**, entre ellas el complejo residencial del **líder supremo Ali Jamenei**, quien falleció a consecuencia de los bombardeos. El presidente estadounidense **Donald Trump** anunció el inicio de \"operaciones de combate importantes\" con el objetivo declarado de impedir que Irán obtuviera armas nucleares, mientras que el primer ministro israelí **Benjamín Netanyahu** afirmó que el ataque duraría \"lo que sea necesario\".\n\nEn su tercera jornada, el conflicto suma [al menos **600 muertos**](/articulo/guerra-eeuu-israel-contra-iran-mas-de-600-muertos-frente-regional-abierto-y-alar): **555 en Irán** según la Media Luna Roja, **35 en Líbano**, **9 en Israel** y varios en países del Golfo Pérsico, incluidos **cuatro soldados estadounidenses**. Irán ha respondido lanzando misiles contra Tel Aviv, Haifa y Jerusalén Este, así como contra bases estadounidenses en la región. El embajador iraní ante la **OIEA** (Organismo Internacional de Energía Atómica de la ONU), Reza Najafi, denunció ante la junta de gobernadores del organismo que las instalaciones nucleares de **Natanz** habían sido atacadas. El director del organismo, **Rafael Grossi**, señaló que no disponía de indicios que confirmaran impactos en instalaciones nucleares, aunque reconoció no haber podido contactar con las autoridades nucleares iraníes.\n\nTras la muerte de Jamenei, el presidente iraní **Masud Pezeshkian** compareció por primera vez en televisión estatal calificando el fallecimiento del líder supremo como \"una gran tragedia\" y confirmando que el **Consejo de Liderazgo** —compuesto por el propio Pezeshkian, el jefe del Poder Judicial Golam Hosein Mohseni Eyei y el ayatolá Alireza Arafi— asumió funciones de manera provisional de acuerdo con el artículo 111 de la Constitución iraní. El Gobierno de Irán rechazó públicamente cualquier negociación con Estados Unidos mientras continuaran los ataques. En paralelo, **Hezbolá** lanzó tres proyectiles contra el norte de Israel en la madrugada del lunes, rompiendo el alto el fuego vigente desde 2024, lo que desencadenó bombardeos israelíes sobre el sur del Líbano y Beirut con un balance de 31 muertos según el Ministerio de Sanidad libanés.\n\nEn España, el Gobierno negó que las bases de **Rota y Morón** hubieran sido utilizadas para los ataques. El ministro de Exteriores, **José Manuel Albares**, fue taxativo: \"No se usan y no se usarán las bases para nada que no esté dentro del convenio y para nada que no tenga encaje en la Carta de las Naciones Unidas\". El embajador iraní en Madrid, **Reza Zabib**, advirtió que cualquier localización empleada en la \"agresión\" sería considerada un \"objetivo legítimo\", en una advertencia que implícitamente alcanza a las instalaciones estadounidenses en territorio español. Puede consultar más sobre la posición española en [esta información previa](/articulo/espana-niega-apoyo-militar-contra-iran-y-eeuu-retira-sus-aviones-cisterna-de-las).",
+    "coverage": " [{\"sourceName\":\"RTVE\",\"tone\":\"Neutral descriptivo\",\"toneColor\":\"#4a90d9\",\"summary\":\"Ofrece la cobertura más completa en términos de datos concretos: cifras desglosadas de víctimas por país, nombres oficiales de las operaciones militares y mapa del conflicto. Confirma la muerte de Jamenei y el rechazo iraní a negociar. Resulta el relato más equilibrado en cuanto a amplitud de hechos cubiertos.\"},{\"sourceName\":\"Público\",\"tone\":\"Analítico geopolítico\",\"toneColor\":\"#e07b39\",\"summary\":\"Enmarca el conflicto desde la perspectiva estratégica del Eje de la Resistencia y la capacidad iraní de regionalizar la guerra. Analiza el debilitamiento progresivo de los aliados de Irán en los últimos años como factor clave. Aporta profundidad analítica aunque sin datos actualizados de víctimas.\"},{\"sourceName\":\"El País\",\"tone\":\"Moderado informativo\",\"toneColor\":\"#5aaa6e\",\"summary\":\"Centra su relato en la entrada de Hezbolá en el conflicto y las consecuencias para el Líbano, incluyendo la decisión del primer ministro Nawaf Salam de prohibir toda actividad militar de la milicia. Aporta el contexto de la crisis interna libanesa pero omite las negociaciones y la dimensión nuclear.\"},{\"sourceName\":\"elDiario.es\",\"tone\":\"Neutral factual\",\"toneColor\":\"#6bbf8e\",\"summary\":\"Se concentra en la denuncia iraní ante la OIEA sobre el ataque a Natanz y la respuesta cautelosa de Rafael Grossi. Es el único medio que aborda con detalle la dimensión nuclear del conflicto, aunque sin desarrollar el contexto bélico más amplio.\"},{\"sourceName\":\"El Confidencial\",\"tone\":\"Analítico expectante\",\"toneColor\":\"#b0b0b0\",\"summary\":\"Examina el papel de Netanyahu en el diseño estratégico del conflicto y abre el debate sobre si el objetivo real es un cambio de régimen en Irán. Incorpora voces académicas críticas y testimonios de la oposición iraní en el exilio, pero prescinde de datos militares y cifras de víctimas.\"},{\"sourceName\":\"El Periódico\",\"tone\":\"Neutral defensivo\",\"toneColor\":\"#a0c4e0\",\"summary\":\"Su cobertura se limita casi por completo a la posición española sobre las bases de Rota y Morón, con declaraciones gubernamentales y reacciones de Izquierda Unida. No aborda el desarrollo del conflicto ni sus dimensiones internacional o humanitaria.\"},{\"sourceName\":\"ABC\",\"tone\":\"Neutral técnico\",\"toneColor\":\"#d9a94a\",\"summary\":\"Dedica su espacio al análisis institucional de la Guardia Revolucionaria iraní y a la advertencia del embajador iraní en Madrid sobre posibles represalias. Omite completamente las cifras de víctimas y el estado actual del conflicto.\"},{\"sourceName\":\"La Vanguardia\",\"tone\":\"Neutral práctico\",\"toneColor\":\"#9b59b6\",\"summary\":\"Opta por un encuadre centrado en la transición de poder en Irán, explicando quiénes componen el Consejo de Liderazgo provisional. Aporta información útil sobre la estructura constitucional iraní, aunque desconectada del desarrollo bélico en curso.\"}]",
+    "hidden": "La dimensión humanitaria del conflicto —más de **600 muertos en tres días**— recibe una cobertura llamativamente desigual. Medios como ABC, El Confidencial o El Periódico prácticamente eluden las cifras de víctimas o las mencionan de manera marginal, mientras se enfocan en ángulos institucionales, estratégicos o domésticos. Esta selección no es inocente: restar visibilidad al coste humano de una operación militar tiende a facilitar su aceptación implícita, al desplazar la discusión hacia la lógica geopolítica y alejarla del impacto concreto sobre la población civil iraní.\n\nLa **cuestión nuclear** es otro punto de fractura significativa. Solo elDiario.es desarrolla con detalle la denuncia iraní sobre el ataque a **Natanz** y la respuesta ambigua de la OIEA: Grossi ni confirma ni desmiente, pero reconoce que no ha podido contactar con las autoridades iraníes. Este detalle —que un organismo internacional de supervisión nuclear haya perdido el contacto con el país atacado— es de enorme relevancia para evaluar los riesgos de contaminación radiológica o escalada atómica, y sin embargo ningún otro medio le da cobertura relevante. Su omisión generalizada puede responder a que introduce un nivel de alarma que complica el relato de una operación presentada como quirúrgica y controlada.\n\nFinalmente, el debate sobre un posible **cambio de régimen** como objetivo real de la operación aparece casi exclusivamente en El Confidencial, que además incorpora voces académicas que lo cuestionan abiertamente. Que este debate sea invisible en la mayoría de coberturas resulta significativo: si el objetivo declarado es la desnuclearización pero el objetivo real fuera la desestabilización del régimen iraní, las implicaciones jurídicas, diplomáticas y humanitarias serían radicalmente distintas. La ausencia de este debate en gran parte de los medios deja al lector sin herramientas para evaluar la legitimidad y los fines reales del conflicto.",
+    "context": "**Irán** es una república islámica gobernada desde la revolución de 1979 por un sistema dual: un presidente electo y un **líder supremo** con poder absoluto sobre las fuerzas armadas, la justicia y la política exterior. Hasta su muerte en estos ataques, **Ali Jamenei** ocupaba ese cargo desde 1989. Su figura no era solo simbólica: controlaba la **Guardia Revolucionaria Islámica**, un cuerpo militar paralelo al ejército regular con enorme poder económico y político, descrito por analistas como un \"estado dentro del estado\". El programa nuclear iraní ha sido el principal foco de tensión con Occidente durante décadas: Irán sostiene que es de uso civil, mientras Estados Unidos e Israel lo consideran una vía encubierta hacia el armamento atómico.\n\nEl conflicto actual no surgió de la nada. Desde los años 2000, Israel y Estados Unidos han realizado operaciones de sabotaje, ciberataques y asesinatos selectivos contra el programa nuclear iraní. En **2024**, una guerra abierta entre Israel y Hezbolá —el principal aliado armado de Irán, con base en el Líbano— concluyó con un alto el fuego pero debilitó profundamente a la milicia. Ese mismo año, Israel asesinó al histórico líder de Hezbolá, **Hasán Nasrallah**. También en ese período cayó el régimen sirio de Bashar al Asad, aliado de Irán, lo que cortó la ruta terrestre de suministro entre Irán y el Líbano. El **Eje de la Resistencia** —la red de milicias regionales financiadas y coordinadas por Irán que incluye a Hezbolá, los hutíes de Yemen, Hamás en Gaza y milicias chiíes en Irak— llegó a este conflicto ya muy debilitado.\n\nLa escalada directa que culminó en estos ataques tiene como antecedente inmediato un ataque israelí previo en **junio de 2025** que se produjo tras indicios, detectados por la OIEA, de que Irán violaba sus compromisos nucleares. Desde entonces, las negociaciones entre Washington y Teherán se habían mantenido en un hilo muy fino. El **28 de febrero de 2026**, ese hilo se rompió con el lanzamiento de los ataques coordinados que mataron a Jamenei. Ahora, con un liderazgo provisional en Teherán, los aliados regionales de Irán activándose y las instalaciones nucleares bajo sospecha de haber sido alcanzadas, el conflicto combina una guerra convencional con una crisis de gobernanza interna iraní y un riesgo nuclear cuya magnitud aún no ha podido ser verificada de forma independiente.\n\n**España** aparece en la ecuación porque en su territorio se encuentran las bases de **Rota** (Cádiz) y **Morón** (Sevilla), instalaciones cedidas a Estados Unidos en virtud de un convenio bilateral de defensa. El Gobierno español ha negado su uso para estos ataques, pero la advertencia del embajador iraní convierte su mera existencia en un factor de riesgo para la seguridad nacional. Puede ampliar información sobre la dependencia energética española respecto a la región en [este artículo sobre el estrecho de Ormuz](/articulo/espana-cifra-en-5-y-2-su-dependencia-del-petroleo-y-gas-que-transita-por-ormuz).",
+    "questions": "{\"questions\":[\"¿Justifica el objetivo de impedir que Irán obtenga armas nucleares el coste humano de más de 600 muertos en tres días de conflicto?\",\"Si el objetivo real de la operación es un cambio de régimen y no solo la desnuclearización, ¿cambia tu valoración moral y jurídica de los ataques?\",\"¿Qué responsabilidad tienen los países que acogen bases militares estadounidenses —como España— ante un conflicto que no han declarado ni votado?\",\"¿Puede la comunidad internacional, y en particular la OIEA, garantizar la seguridad nuclear cuando ha perdido el contacto con las autoridades iraníes durante una guerra activa?\",\"¿El debilitamiento del Eje de la Resistencia en los últimos dos años hacía este ataque más seguro o más impredecible en sus consecuencias regionales?\"]}"
+  },
+  "category": "internacional",
+  "categories": [
+    "internacional",
+    "sociedad"
+  ],
+  "imageUrl": "https://s1.abcstatics.com/comun/2015/img/autor/autor-1047-foto-13.jpeg?width=90",
+  "sourcesCount": 8,
+  "createdAt": "2026-03-02T13:17:08.454Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://s1.abcstatics.com/comun/2015/img/autor/autor-1047-foto-13.jpeg?width=90",
+      "source": "ABC"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/44I4B6NMHFE3RMCTIVXWN6BLBQ.jpg?auth=20d4e0b4f4562af4e7f6dc937b074fbda79fb01292a2c41897140bd0855fdb83&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/MWKSUOAQCNHCXDGU4K7SKY74FI.jpg?auth=f176e331b851b132e577c9c551346c819b5056fc75a4861579715717f4d13867&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_40_40/uploads/2022/01/11/61ddbc80b7d7b.png",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2026/03/01/69a4a274f0171.r_d.3009-1671.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2026/03/02/69a585c238ac6.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2026/03/01/69a49b48bdedc.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/5ce1d8d1-4e8a-4f9a-83b8-63c0d13a1806_16-9-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://img2.rtve.es/im/16960520/?w=900",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://img2.rtve.es/im/16960062/?w=900",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNzMxMDgyNDYxNzcyNDQyNTM1XzYzcTFqN3ZzZ3Brcmt0aHdibTg1dGJ0anp3a2ozdi5tcDQifQ.FDqiU7Mo0y9ZYV178gZoKe_qaRA8QU1SAeXd_NCLb8aMXatwfyLowxLBbkGyziQTh8Ejul8pEmi6ulugaqfgzFKUVMZ9aS5I8pxkXt8tP2EaQi6dzrB3eZXeoWqU8sAMBg7l28gwbpLpff4e2DBQG7wY-wIeFtnU3Mxnt3FYHG6xrAAqrNLTxryGhKu0rD9Wmdu9e3_1XPoiUFDdYn3Spnboui5rdbqKVW8JMJmWsRUJcHaKQ_M7nUzaUtUfQ0_yTLGbtLZA4FvdCGIfYgrKDT9hxCDn_m6BsCO_YU8skUv_k1IpVuehI1gY8ty3QKovOIqhtiWX1wvLvNTkSpVX9wERQLiDloRFHkvUC1zXjmDaQBkWKQWzESE0fAEbXBeMduLYTY9PndMI61fFbv68wy6nhj96hgOXOcn1caAJI87quGAyRsbXFEoTIa1m4UMfuWaXhxIp2XybwNU0iNnH-1MPdoMj6TKDtmFQ7ZYiL2sis60NyqLwLVdeq9Td7GPn/media-uploads/files/_20/202603/TVEE/upload_731082461772442535_63q1j7vsgpkrkthwbm85tbtjzwkj3v.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNzczNzI4ODcxNzcyMzkyOTczX3picmZjczVudmpxcmtnbl92MWMyZ3JnNV9yZHZnZi5tcDQifQ.ANIXx4Jx1rIeKd-EYyq-85RXRjWDBWLoyocPN7M_BEyoifiTQuVS8rpVcPtaJ67JfEtW0ayyvLtFeMtz9h2ppLsSz5LR-lWaZjRp4evvA4AzWMa96KnaCpCLNYq_-w43Td-oUvPhSMUT3qZswhyCXfM-m5dcxK83OjKJckh2q2QuS6LZa9bicFzoTyHy4bY3mxK6lKAr_H0937Pr9EQss-weeVBs_MThkOyxyIXEecxPQj9fhIlm0HsI0yxekw_tTaUK4VR-Mz2xaMQVVTsNPvr9w41f2MhNYorpHZxPwt42HjudUSp2D48QRDA6CV6i0y9w8ROY9D9HJYiCVcXJsXweSDJQoOkAqj_13K-GM22fdDkNxJKjxSwtrjPRV_f0ug08etc2eiBmNWFVllKWH_xNr8GxfKyDjZ7qrARLmgbHcIbjLYmKn6zB64pVneMgO776ixk3zUhQ0cSeIkB9mWEVbS4jXTUxIlT18Imvt20Zr5ScaNvWliWbyHOjWJrG/media-uploads/files/_20/202603/TVEE/upload_773728871772392973_zbrfcs5nvjqrkgn_v1c2grg5_rdvgf.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNDUwMzAxMjcxNzcyMzg3MDk3X2Iycmh2d3Ewcm5xZHcwZzBuZmJwbWJxejh3c3c5dC5tcDQifQ.gLIeOXIBDkBIcEMCAtZwc0qVay0DWJBYt5kA6oIOdZErJ7QD5Czl2MJVIC3Ds4DylOYthY8Uzjr0eYKdTVhlX4KAgjTI5AHB08NZ9zC48_qCqpbZCd-PYpx4f7rzFJ3gqztFgJBeNnts_OgerZ7m7jERJwsidfHW97nNld3cJ9qfF3eGfFO8gV-xlON90LglJ-uvDTf0WnW53KGrPpYs2XU_xfkO4WVVFzr7B7_hJLacZ8n1Zf_KrSLh4colaw8vV__ekUGw9JY06y0Ync3-bNbbA7lRLLcb92hQBOEpxTStBIWSR0XRkv6-3s4zHqCrh1-DnaykIas5TWz3lGqUbRm7Fw3M_6YjkNOO2ghMutgkAc3FCn38s7M28oL7m6nQnu6aKzXhTrNjg3zXTrbV11BNxq5YASaPUMjcx7jDmMJEjAX5yYni4X7umuLlIHIQD_uUHvnb6xRSXn9SiLAjpFqNEptCONkpcbavXZlF_g_tFgWiLpI7IkIChOUfh13L/media-uploads/files/_20/202603/TVEE/upload_450301271772387097_b2rhvwq0rnqdw0g0nfbpmbqz8wsw9t.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNzAwNzc5MjIxNzcyMzcwMjE2X2pmNV84bl90Y2MyM2p2M25xZHpzcjJuZGhsaHNzNy5tcDQifQ.cBtANnE2MhBv2XTQDkUqkCQW9AsPo5KpDn1zUhjMGNLTR8gOvLTRgCVV0NT_XB-Lj5qxOKkNxVY7n1xG6FGBejkVDSLyU7ZOZuDj7Xa5aSBQfjL-3y-6JLhyk84DAKhcL5UtWjppa0s_gQgwiOyi1VJFaD7b_OCoIPuKBK5YnwsMozpC6xlsJojYKKRj-JQIVUKSRJD21mt61UeMojVXG1fhDfLiVVnbe9Z94V6lexqGxDz4xm9Jf--ONiJ4Ac1wBq0S8fRLyGGA9z3AWtscpN4KoHVzIdkqq_m5Les-8cjP7aDvu0csdyYuuqYyoY2PpUbTlJN8OLf8h_IcxhrQFO73R6gZ5sfLuYouHXIYLF-uem9JrhOZ2zpKHG_4PeM-40XyL2e-I6jNafbVfH3HDxQfnNxEkW8EwWw3DcitRKadLSawdJNMKS3e4fcbKg04RutRl3kT1aiQmy5YIDoYAHyvhD4c7XaY-A8AiAG5aEUtNnmaCCHhvyxIAavt4grl/media-uploads/files/_20/202603/TVEE/upload_700779221772370216_jf5_8n_tcc23jv3nqdzsr2ndhlhss7.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://img2.rtve.es/im/16959132/?w=900",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://img.rtve.es/p/135932/logo/?w=320",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://images.ecestaticos.com/6JI-cv-euyabYR1Mqd3Vf1la6-k=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F8f4%2Fcd2%2Fa9a%2F8f4cd2a9a67f5db7f8e7e4d7abddc7bb.jpg",
+      "source": "El Confidencial"
+    },
+    {
+      "url": "https://images.ecestaticos.com/jOPovbsNiPOO17U-2daBDI1P6TY=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F6dc%2F7d1%2Ff90%2F6dc7d1f90900fa94fad7c64650976695.jpg",
+      "source": "El Confidencial"
+    },
+    {
+      "url": "https://images.ecestaticos.com/fvss61uRiTe5KQ6M1bU-31TRib0=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F05f%2Fae4%2F44c%2F05fae444cbb91d2ff0847d42b33a6a23.jpg",
+      "source": "El Confidencial"
+    },
+    {
+      "url": "https://images.ecestaticos.com/3boKlyBMtxR44EfnVSZvuiQ1Qxo=/0x0:1716x1024/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd8c%2F121%2Ff72%2Fd8c121f7257890325f8cac49b372c562.jpg",
+      "source": "El Confidencial"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7237,
+      "title": "El embajador de Irán en Madrid avisa de que cualquier localización usada en la «agresión» es un «objetivo l...",
+      "url": "https://www.abc.es/internacional/embajador-iran-madrid-avisa-localizacion-usada-agresion-20260302131023-nt.html",
+      "sourceId": 3,
+      "source": {
+        "id": 3,
+        "name": "ABC",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7242,
+      "title": "Guardia Revolucionaria iraní: el origen y el colosal armamento de las fuerzas especiales de los ayatolás",
+      "url": "https://www.abc.es/historia/guardia-revolucionaria-irani-origen-colosal-armamento-fuerzas-20260302095625-nt.html",
+      "sourceId": 3,
+      "source": {
+        "id": 3,
+        "name": "ABC",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7276,
+      "title": "Israel causa más de 30 muertos en Líbano tras sumarse Hezbolá a la guerra",
+      "url": "https://elpais.com/internacional/2026-03-02/hezbola-se-suma-a-la-batalla-con-sus-primeros-proyectiles-desde-2024-e-israel-bombardea-libano.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7348,
+      "title": "Munir e Iván Sánchez, en su escapada de Irán: “Veíamos algunos misiles que se estrellaban en el cielo con las defensas del país”",
+      "url": "https://elpais.com/deportes/futbol/2026-03-01/munir-e-ivan-sanchez-han-salido-de-iran-via-turquia-y-llegaran-a-espana-en-proximas-horas.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7434,
+      "title": "Putin pierde a Maduro y Jameneí en dos meses y acusa a Trump de violar “todas las normas” en otro golpe sin respuesta del Kremlin",
+      "url": "https://elpais.com/internacional/2026-03-01/putin-pierde-a-maduro-y-jamenei-en-dos-meses-y-acusa-a-trump-de-violar-todas-las-normas-en-otro-golpe-sin-respuesta-del-kremlin.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7519,
+      "title": "Quiénes son los miembros del Consejo de Liderazgo que lideran Irán a la espera del sucesor de Jamenei",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478691/quienes-son-miembros-consejo-liderazgo-lideran-iran-espera-sucesor-jamenei.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7523,
+      "title": "Irán encara una transición incierta",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478671/iran-encara-transicion-incierta.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7539,
+      "title": "Un marcha lenta de cerca de 200 coches VTC enturbia la inauguración del Mobile",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260302/11479268/marcha-lenta-cerca-200-coches-vtc-enturbia-inauguracion-mobile.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7548,
+      "title": "Miles de congresistas del Mobile World Congress (MWC) pierden sus vuelos a Barcelona por los ataques a Irán",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260302/11478665/miles-congresistas-mobile-pierden-vuelos-barcelona-ataques-iran.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7685,
+      "title": "Irán declara ante la agencia atómica de la ONU que Israel ha atacado la instalación nuclear de Natanz",
+      "url": "https://www.eldiario.es/internacional/ultima-hora-ataque-eeuu-e-israel-iran-directo_6_13031686_1119436.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7772,
+      "title": "Teherán invoca al debilitado Eje de la Resistencia para intentar regionalizar la guerra y forzar una negociación",
+      "url": "https://www.publico.es/internacional/teheran-invoca-debilitado-eje-resistencia-intentar-regionalizar-guerra-forzar-negociacion.html",
+      "sourceId": 7,
+      "source": {
+        "id": 7,
+        "name": "Público",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 8134,
+      "title": "Irán dice que no negociará con Estados Unidos mientras siguen los ataques en una guerra que suma ya 600 muertos",
+      "url": "https://www.rtve.es/noticias/20260302/guerra-iran-eeuu-israel-tercera-jornada-bombardeos/16960361.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8136,
+      "title": "Un dron iraní impacta en una base británica en Chipre y evacúan un aeropuerto cercano",
+      "url": "https://www.rtve.es/noticias/20260302/dron-irani-impacta-base-britanica-chipre-evacuan-aeropuerto-cercano/16960864.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8138,
+      "title": "El rey emérito permanece en Abu Dabi \"bien\" y \"tranquilo\" tras el ataque de EE.UU. e Israel sobre Irán",
+      "url": "https://www.rtve.es/noticias/20260302/rey-emerito-permanece-abu-dhabi-mantiene-su-intencion-viajar-a-sanxenxo-este-mes/16960764.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8139,
+      "title": "Bulos, fotos y vídeos falsos del ataque a Irán de EE.UU. e Israel",
+      "url": "https://www.rtve.es/noticias/20260301/bulos-fotos-videos-falsos-del-ataque-a-iran-eeuu-israel/16960042.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8144,
+      "title": "Hizbulá entra en la gv3rra de Irán y at4ca a Israel desde el Líbano. Israel responde y causa al menos 31 mv3rtos y 149 heridos en el país.",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/22e84795dd2b26c194ab",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8148,
+      "title": "Irán ataca a un petrolero con bandera de Palaos en el estrecho de Ormuz.",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/facce984a170acced3d1",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8149,
+      "title": "La posición de Irán como gran productor de petróleo del mundo afecta directamente al comercio global y los mercados internacionales.",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/627ffc6232bef1123fc3",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8152,
+      "title": "El líder supremo de Irán, Alí Jamenei, figuraba desde hace años en la diana de Israel y en el último año se había convertido en un objetivo también para los Estados Unidos",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/4e3255a1722a79ecfb39",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8162,
+      "title": "Trump insta a los militares y la Guardia Revolucionaria iraní a \"rendirse o afrontar una muerte segura\"",
+      "url": "https://www.rtve.es/noticias/20260302/donald-trump-venganza-muertes-estadounidenses-iran/16960250.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8163,
+      "title": "Francia, Alemania y Reino Unido amenazan con atacar Irán en defensa de sus intereses",
+      "url": "https://www.rtve.es/noticias/20260302/francia-alemania-reino-unido-atacar-iran-defensa-intereses/16960255.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8164,
+      "title": "La muerte de Alí Jameneí aboca al régimen de Irán a una sucesión en sus horas más bajas",
+      "url": "https://www.rtve.es/noticias/20260301/proceso-sucesion-jamenei-iran/16959579.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8167,
+      "title": "La Guardia Revolucionaria, el frágil pilar que defiende al régimen iraní",
+      "url": "https://www.rtve.es/noticias/20260301/guardia-revolucionaria-fragil-pilar-defiende-regimen-irani/16903915.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8168,
+      "title": "Mapas y vídeos del ataque militar de Israel y Estados Unidos y la respuesta de Irán",
+      "url": "https://www.rtve.es/noticias/20260228/mapas-datos-ataque-israel-eeuu-iran/16958995.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8177,
+      "title": "¿Qué pasará con el petróleo? La duración del conflicto entre Estados Unidos e Irán será clave",
+      "url": "https://www.rtve.es/noticias/20260301/cuanto-subira-petroleo-trump-invade-iran/16946590.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8230,
+      "title": "Sánchez ve un \"atropello de la legalidad internacional\" el ataque \"unilateral\" de Israel y Estados Unidos contra Irán",
+      "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/sanchez-ve-atropello-legalidad-internacional-ataque-unilateral-israel-estados-unidos-contra-iran/16959336",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8245,
+      "title": "Conflicto en Irán: \"Difícilmente habrá un cambio de régimen\"",
+      "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/estados-unidos-israel-atacan-iran-dificilmente-habra-cambio-regimen/16960333",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8286,
+      "title": "El Gobierno rechaza el uso de las bases de Rota y Morón para los ataques aéreos de EEUU a Irán",
+      "url": "https://www.elperiodico.com/es/politica/20260302/gobierno-rechaza-bases-rota-moron-ataques-iran-eeuu-127446745",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 8321,
+      "title": "El 'endgame' de Israel con Irán: de nuevo, todo pasa por el prisma de Benjamín Netanyahu",
+      "url": "https://www.elconfidencial.com/mundo/2026-03-02/israel-iran-guerra-netanyahu-nuclear-1hms_4312356",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8322,
+      "title": "Tres opciones en Irán: cambio de régimen, caos o resistencia a ultranza y negociación",
+      "url": "https://www.elconfidencial.com/mundo/2026-03-02/iran-guerra-regimen-trump-nuclear-1hms_4312314",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8324,
+      "title": "El momento de la oposición iraní: \"Estamos esperando a que el Sha nos pida salir a la calle\"",
+      "url": "https://www.elconfidencial.com/mundo/2026-03-02/iranies-oposicion-cambio-de-regimen-la-gran-incognita-de-hoy_4312329",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8362,
+      "title": "La teoría del ahorcado y otras tres hipótesis que explican el ataque contra Irán",
+      "url": "https://blogs.elconfidencial.com/espana/takoma/2026-03-01/trump-iran-ataque-motivos_4312083",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "id": 79,
+  "clusterId": 7509,
+  "editionId": 10,
+  "slug": "la-fiscalia-querella-al-expresidente-de-la-diputacion-de-lugo-por-presunto-acoso",
+  "headline": "La Fiscalía querella al expresidente de la Diputación de Lugo por presunto acoso sexual",
+  "summary": "El ministerio público ha interpuesto una querella contra José Tomé tras recibir una denuncia particular por hechos ocurridos en septiembre de 2025. Tomé dimitió en diciembre como presidente de la Diputación lucense pero conserva la alcaldía de Monforte de Lemos.",
+  "sections": {
+    "facts": "La **Fiscalía Provincial de Lugo** ha presentado una querella contra **José Tomé**, quien dimitió en diciembre como presidente de la Diputación de Lugo tras una denuncia por presunto **acoso sexual**. Los hechos denunciados habrían tenido lugar en **septiembre de 2025** contra una mujer, según informó el ministerio público en un comunicado oficial.\n\nLa Fiscalía considera que los acontecimientos \"están suficientemente determinados y poseen indicios fundados de criminalidad\" para ejercer inmediatamente la acción penal. El ministerio público estima que los hechos podrían constituir un **delito de acoso sexual** o un **delito de abuso en el ejercicio de la función pública**, por lo que ha abierto diligencias de investigación preprocesal.\n\nTras conocerse la denuncia a través del canal interno del **PSdeG-PSOE**, Tomé solicitó la baja de militancia en el partido y presentó su renuncia como presidente diputacional. Sin embargo, se mantiene como **alcalde de Monforte de Lemos** en calidad de no adscrito, aunque conserva el apoyo del grupo municipal socialista. También permanece como diputado provincial sin adscripción partidista.\n\nLa denuncia inicial fue presentada por **al menos seis mujeres** a través de los mecanismos internos del partido socialista. Según esta información, varios dirigentes del PSdeG habrían tenido conocimiento de los acontecimientos denunciados antes de que se hicieran públicos.",
+    "coverage": [
+      {
+        "sourceName": "El Mundo",
+        "tone": "Crítico",
+        "toneColor": "#d32f2f",
+        "summary": "Se centra en la estrategia política del PSOE para gestionar la crisis y las maniobras de Tomé para conservar poder local. Destaca las críticas del PP gallego al partido socialista por intentar 'hacer componendas' en este asunto."
+      },
+      {
+        "sourceName": "RTVE",
+        "tone": "Neutral",
+        "toneColor": "#1976d2",
+        "summary": "Adopta un enfoque jurídico-informativo priorizando el desarrollo procesal. Se centra en la querella fiscal y los fundamentos legales que la sustentan, sin abordar el contexto político más amplio."
+      },
+      {
+        "sourceName": "El Español",
+        "tone": "Moderado",
+        "toneColor": "#388e3c",
+        "summary": "Combina información legal con el impacto político en la estructura del PSdeG. Equilibra datos sobre la querella fiscal con el estatus actual de Tomé y la crisis interna del partido socialista gallego."
+      }
+    ],
+    "hidden": "La cobertura revela diferencias significativas en la contextualización política del caso. **El Mundo omite completamente** que la Fiscalía se ha querellado contra Tomé, información central que constituye el núcleo de la noticia. Esta omisión resulta llamativa dado que otros medios la consideran el hecho principal.\n\nExiste también una **disparidad notable** en el tratamiento del número de denunciantes. Mientras algunos medios mencionan específicamente que fueron \"al menos seis mujeres\" quienes presentaron la denuncia inicial, otros se limitan a hablar de \"una mujer\" en referencia solo a los hechos de septiembre. Esta diferencia numérica es relevante porque indica la posible **magnitud del problema** más allá del caso específico que investiga la Fiscalía.\n\nLa cobertura política también muestra **enfoques divergentes** sobre las responsabilidades del PSdeG. Algunos medios destacan las críticas del PP sobre el conocimiento previo de la dirección socialista, mientras otros minimizan este aspecto. Esta selección editorial sugiere diferentes interpretaciones sobre si el caso refleja un problema individual o **sistémico dentro del partido**.",
+    "context": "**José Tomé** es un político del PSdeG-PSOE que hasta diciembre ocupaba la presidencia de la **Diputación de Lugo**, institución que gestiona competencias provinciales como carreteras, cooperación municipal y servicios sociales. Simultáneamente ejercía como alcalde de **Monforte de Lemos**, municipio de la provincia lucense con unos 18.000 habitantes.\n\nLa **Fiscalía Provincial** es el órgano del ministerio público encargado de ejercer la acción penal en nombre del Estado. Cuando presenta una querella, actúa como acusación pública en el proceso judicial. Los **delitos de acoso sexual** están tipificados en el Código Penal y pueden conllevar penas de prisión, mientras que el **abuso en el ejercicio de la función pública** se refiere al uso indebido del cargo para obtener beneficios impropios.\n\nEste caso se enmarca en un contexto más amplio de denuncias por **acoso sexual en la política española**. En los últimos años, varios casos han sacudido diferentes partidos políticos, llevando a dimisiones y procesamientos judiciales. El **PSdeG-PSOE** es la federación gallega del Partido Socialista, que governa la Diputación de Lugo en coalición con otras fuerzas políticas.\n\nLas **diligencias de investigación preprocesal** son un mecanismo que permite a la Fiscalía investigar hechos antes de presentarlos ante el juez. El hecho de que se haya decidido presentar directamente la querella indica que los fiscales consideran que existen elementos suficientes para sostener la acusación.",
+    "questions": [
+      "¿Qué responsabilidades políticas corresponden a los dirigentes del PSdeG que presuntamente conocían los hechos denunciados?",
+      "¿Es compatible mantener un cargo público de representación mientras se enfrenta a una querella por estos delitos?",
+      "¿Cómo afecta este caso a la credibilidad institucional de la Diputación de Lugo y el Ayuntamiento de Monforte?",
+      "¿Son suficientes los mecanismos internos de los partidos para abordar denuncias de acoso sexual o se necesitan protocolos externos?",
+      "¿Qué precedentes existen en casos similares sobre la continuidad en cargos públicos durante procesos judiciales?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "sociedad"
+  ],
+  "imageUrl": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724507746086.jpg",
+  "sourcesCount": 3,
+  "createdAt": "2026-03-02T13:07:51.025Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724507746086.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2025/12/12/17655470169199.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744052913_260447956_320x180.jpg",
+      "source": "El Español"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7476,
+      "title": "La Fiscalía se querella contra José Tomé, ex presidente de la Diputación de Lugo, tras recibir una denuncia por acoso sexual",
+      "url": "https://www.elmundo.es/galicia/2026/03/02/69a57356e4d4d853108b4593.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 7477,
+      "title": "Jos� Tom� renuncia a la Presidencia de la Diputaci�n de Lugo pero seguir� en funciones hasta el 30 de diciembre",
+      "url": "https://www.elmundo.es/galicia/2025/12/12/693c03f9e4d4d8ec4e8b457e.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8170,
+      "title": "La Fiscalía se querella contra el expresidente de la Diputación de Lugo por un presunto caso de abuso sexual",
+      "url": "https://www.rtve.es/noticias/20260302/fiscalia-se-querella-contra-expresidente-diputacion-lugo-por-presunto-caso-abuso-sexual/16960797.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8538,
+      "title": "La Fiscalía de Lugo se querella contra José Tomé tras recibir una denuncia contra él por acoso sexual",
+      "url": "https://www.elespanol.com/quincemil/actualidad/provincia-de-lugo/20260302/fiscalia-lugo-querella-jose-tome-recibir-denuncia-acoso-sexual/1003744151677_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

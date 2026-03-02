@@ -1,0 +1,149 @@
+{
+  "id": 59,
+  "clusterId": 7012,
+  "editionId": 10,
+  "slug": "herrero-defiende-su-gestion-en-airef-ante-las-tensiones-con-el-gobierno-por-el-i",
+  "headline": "Herrero defiende su gestión en Airef ante las tensiones con el Gobierno por el informe de pensiones",
+  "summary": "La presidenta saliente de la Autoridad Independiente de Responsabilidad Fiscal hace balance de sus seis años al frente del organismo supervisor. Considera positivo el trabajo realizado aunque reconoce que quedan retos pendientes, especialmente en el blindaje legal de las funciones evaluadoras.",
+  "sections": {
+    "facts": "**Cristina Herrero** finaliza este martes su mandato como presidenta de la **Airef**, tras seis años dirigiendo el organismo creado por exigencia de la Unión Europea para supervisar las finanzas públicas españolas. En su primera entrevista como responsable de la institución, la inspectora de Hacienda de 59 años valora como positivo el trabajo desarrollado, aunque admite que \"la Airef es molesta porque cualquier supervisor fiscal lo es en algunas ocasiones\".\n\nDurante su gestión, Herrero impulsó tres líneas estratégicas: orientar la actividad hacia el **medio y largo plazo**, consolidar la función evaluadora y acercar el organismo a la ciudadanía. Sin embargo, identifica como asignatura pendiente el fortalecimiento legal de las competencias de evaluación, que actualmente se sustentan en un decreto y no cuentan con el mismo blindaje que las funciones de supervisión recogidas en la **ley orgánica**.\n\nLa tensión más reciente surgió cuando el Gobierno encargó a la Airef elaborar un nuevo **informe sobre pensiones** mediante decreto, dos años antes de lo legalmente previsto. Herrero descarta que el Ejecutivo haya intentado \"deliberadamente socavar la independencia\" del organismo, aunque subraya la vulnerabilidad jurídica que supone esta situación. Paralelamente, critica a la **Comisión Europea** por eximir a España de presentar su plan presupuestario, considerando que el país carece de tradición en planificación presupuestaria a largo plazo.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "neutral-descriptivo",
+        "toneColor": "#4a90e2",
+        "summary": "Presenta un balance institucional equilibrado de la década de funcionamiento de Airef. Destaca especialmente el conflicto reciente sobre el informe de pensiones y la necesidad de blindar legalmente las funciones evaluadoras del organismo."
+      },
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "neutral-propositivo",
+        "toneColor": "#5cb85c",
+        "summary": "Se centra en las propuestas de mejora institucional y las críticas constructivas al sistema presupuestario. Enfatiza la falta de tradición española en planificación presupuestaria y las críticas a la Comisión Europea por eximir a España de presentar su plan."
+      }
+    ],
+    "hidden": "Los medios consultados coinciden en los aspectos fundamentales pero muestran **énfasis diferentes** que revelan sus prioridades editoriales. El País profundiza más en el conflicto institucional con el Gobierno sobre las pensiones, sugiriendo mayor interés en las tensiones políticas inmediatas. Esta cobertura puede reflejar su posicionamiento crítico con la gestión económica del Ejecutivo actual.\n\nPor el contrario, La Vanguardia minimiza la polémica sobre pensiones y destaca las críticas de Herrero a la **Comisión Europea** por eximir a España de presentar su plan presupuestario. Esta omisión es significativa porque sugiere un enfoque menos confrontativo con el Gobierno español y más crítico con las instituciones europeas. El medio catalán también enfatiza la **falta de tradición presupuestaria** española, un diagnóstico que trasciende colores políticos.\n\nAmbos medios evitan profundizar en las implicaciones de que la función evaluadora de Airef carezca de blindaje legal completo, un aspecto técnico pero crucial para entender la **vulnerabilidad institucional** del organismo ante presiones políticas futuras.",
+    "context": "La **Autoridad Independiente de Responsabilidad Fiscal (Airef)** fue creada en 2013 por exigencia de la Unión Europea durante la crisis de deuda soberana. Su función principal es supervisar las cuentas públicas españolas y evaluar el cumplimiento de los objetivos de déficit y deuda establecidos en los tratados europeos. El organismo nació como parte de las reformas impuestas por Bruselas para fortalecer la disciplina fiscal en los países miembros.\n\n**Cristina Herrero**, inspectora de Hacienda y interventora del Estado, asumió la presidencia en 2018 sucediendo a José Luis Escrivá, actual ministro de Seguridad Social. Durante su mandato, la Airef ha ganado relevancia como voz técnica independiente, elaborando informes que en ocasiones han incomodado al Gobierno por sus recomendaciones sobre gasto público y reformas estructurales.\n\nEl conflicto sobre el **informe de pensiones** surgió cuando el Ejecutivo encargó mediante decreto un nuevo estudio antes del plazo legal establecido. La Airef debe evaluar cada tres años la sostenibilidad del sistema de pensiones, pero el Gobierno solicitó un informe extraordinario, generando dudas sobre posibles injerencias políticas. La **función evaluadora** del organismo, que incluye estos estudios sectoriales, se sustenta jurídicamente en un decreto y no en la ley orgánica fundacional, lo que la hace más vulnerable a modificaciones o presiones externas.",
+    "questions": [
+      "¿Debe reforzarse el blindaje legal de organismos supervisores como Airef para garantizar su independencia frente a presiones políticas?",
+      "¿Es problemático que España carezca de tradición en planificación presupuestaria a largo plazo cuando otros países europeos la tienen consolidada?",
+      "¿Qué intereses pueden estar detrás de solicitar informes extraordinarios sobre pensiones fuera de los plazos establecidos legalmente?",
+      "¿Cómo afecta a la credibilidad de un organismo supervisor que reconozca públicamente ser 'molesto' para el poder político?",
+      "¿Debería la Comisión Europea ser más exigente con España en materia de planificación presupuestaria o es comprensible la flexibilidad mostrada?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "economía"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/ZTLEUVGL4RG4FAUM4N3MMOM7UY.jpg?auth=144d52747d5ded2d32ed2777275e82986547b81bcd697141c81903f5d3b4b4e0&amp;width=414",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T13:03:29.881Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/ZTLEUVGL4RG4FAUM4N3MMOM7UY.jpg?auth=144d52747d5ded2d32ed2777275e82986547b81bcd697141c81903f5d3b4b4e0&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_65_65/uploads/2022/09/16/63243d6d16979.jpeg",
+      "source": "La Vanguardia"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7372,
+      "title": "Cristina Herrero: “La Airef es molesta porque cualquier supervisor fiscal lo es”",
+      "url": "https://elpais.com/economia/2026-03-02/cristina-herrero-la-airef-es-molesta-porque-cualquier-supervisor-fiscal-lo-es.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7602,
+      "title": "Cristina Herrero (Airef): “La UE se equivoca al eximir a España de presentar un plan presupuestario”",
+      "url": "https://www.lavanguardia.com/economia/20260302/11478628/cristina-herrero-airef-ue-equivoca-eximir-espana-presentar-presupuestos.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

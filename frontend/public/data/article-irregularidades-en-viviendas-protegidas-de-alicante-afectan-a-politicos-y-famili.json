@@ -1,0 +1,150 @@
+{
+  "id": 38,
+  "clusterId": 2845,
+  "editionId": 9,
+  "slug": "irregularidades-en-viviendas-protegidas-de-alicante-afectan-a-politicos-y-famili",
+  "headline": "Irregularidades en viviendas protegidas de Alicante afectan a políticos y familiares",
+  "summary": "El escándalo de las viviendas protegidas de **Les Naus** en Alicante ha destapado adjudicaciones irregulares que beneficiaron a políticos y sus familiares. La **exconcejal Rocío Gómez** y otras figuras públicas obtuvieron inmuebles destinados a personas sin alternativas habitacionales, mientras se documenta el contraste entre el propósito social de estos pisos y las lujosas reformas posteriores.",
+  "sections": {
+    "facts": "La promoción de viviendas protegidas de **Les Naus** representa la primera construcción de este tipo en Alicante en dos décadas, destinada originalmente a personas con recursos limitados que no pueden acceder al mercado libre. Las investigaciones han revelado que entre los beneficiarios figuran **Rocío Gómez**, exconcejal de Urbanismo, quien obtuvo una vivienda junto con sus suegros, aprovechando su posición en el ayuntamiento.\n\nLa **Cooperativa Les Naus** se adjudicó el contrato de compra de la parcela municipal en 2022, comprometiéndose inicialmente a completar los trabajos en 13 meses para obtener puntos adicionales en el concurso. Sin embargo, en febrero de 2025 el Ayuntamiento aprobó una extensión del plazo hasta 22 meses, justificada por cambios normativos que exigían mayor superficie para zonas verdes.\n\nLas investigaciones también han documentado casos de reformas lujosas en estos inmuebles. Uno de los pisos, que recayó en un hijo de una concejala del PP de San Vicente, fue objeto de una renovación integral que transformó lo que se describe como \"una simple vivienda de promoción sin alma\" en un espacio \"con aspecto neoclásico luminoso\", según declaraciones del diseñador responsable.\n\nEl proceso de adjudicación se rigió por el **Decreto 106/2021** del gobierno del Botànic, aunque posteriormente el **Consell de Mazón** aprobó modificaciones normativas en diciembre de 2024 que elevaron el tope de renta para acceder a estas promociones y aumentaron el precio máximo por metro cuadrado de 2.200 a 2.400 euros.",
+    "coverage": [
+      {
+        "sourceName": "elDiario.es",
+        "tone": "Crítico y mordaz",
+        "toneColor": "#d73027",
+        "summary": "Adopta un enfoque ético centrado en la psicología de la corrupción política y la impunidad. Critica duramente la \"desfachatez\" de los políticos implicados y utiliza un tono irónico para describir las reformas lujosas, presentando el caso como ejemplo de la hipocresía del poder."
+      },
+      {
+        "sourceName": "El Periódico",
+        "tone": "Técnico y analítico",
+        "toneColor": "#4575b4",
+        "summary": "Se concentra en el análisis jurídico-administrativo del proceso, explicando qué normativas se aplicaron y cuándo. Aborda las diferencias entre los decretos del Botànic y Mazón, los plazos de construcción y las responsabilidades institucionales sin entrar en valoraciones morales."
+      }
+    ],
+    "hidden": "La cobertura mediática revela enfoques complementarios pero con **omisiones estratégicas significativas**. El enfoque ético de elDiario.es, aunque efectivo para generar indignación ciudadana, obvia completamente el análisis técnico-legal que ayudaría a entender cómo fue posible la irregularidad y qué mecanismos fallaron. Esta omisión puede responder a una estrategia editorial que prioriza el impacto emocional sobre la comprensión sistémica.\n\nPor el contrario, El Periódico centra su análisis en aspectos normativos y procedimentales, pero **minimiza la dimensión ética y los casos concretos de adjudicatarios irregulares**. Esta aproximación técnica, aunque rigurosa, puede diluir la gravedad del escándalo al presentarlo como un mero problema administrativo en lugar de un caso de aprovechamiento del poder público.\n\n**Ambos medios coinciden en no abordar las implicaciones más amplias**: ninguno analiza el impacto en la crisis de vivienda asequible en Alicante, ni explora si estos casos representan una práctica extendida o aislada. Tampoco se cuestiona la efectividad de los controles existentes para prevenir este tipo de irregularidades, información crucial para evaluar si el problema es sistémico o circunstancial.",
+    "context": "Las **viviendas de protección oficial (VPO)** son inmuebles construidos con ayudas públicas y destinados a personas con ingresos limitados que no pueden acceder al mercado libre. Estas promociones tienen precios regulados, requisitos de renta máxima y períodos de protección durante los cuales no pueden venderse libremente.\n\nAlicante atraviesa una **crisis habitacional** que ha convertido la vivienda protegida en un recurso especialmente escaso. La promoción de Les Naus representa la primera construcción de este tipo en la ciudad en dos décadas, lo que aumenta su valor como bien público y agrava la irregularidad de las adjudicaciones.\n\n**Rocío Gómez** ocupaba el cargo de concejal de Urbanismo en el momento de las adjudicaciones, posición desde la cual tenía acceso privilegiado a información sobre el proceso y capacidad de influencia en las decisiones municipales. Su implicación junto con la de otros familiares de cargos públicos ha convertido el caso en un ejemplo de conflicto de intereses.\n\nEl **marco normativo autonómico** ha experimentado cambios recientes: el gobierno del Botànic (coalición de PSOE, Compromís y Podemos) estableció criterios más restrictivos para el acceso a vivienda protegida, mientras que el actual **Consell de Mazón** (Partido Popular) ha flexibilizado algunos requisitos y aumentado los topes de precio, generando debate sobre la orientación de las políticas públicas de vivienda.",
+    "questions": [
+      "¿Qué mecanismos de control fallaron para permitir que personas con acceso privilegiado a información pública se beneficiaran de un recurso destinado a quienes no tienen alternativas habitacionales?",
+      "¿Las reformas normativas del Consell de Mazón facilitan o dificultan que se repitan casos similares en futuras promociones de vivienda protegida?",
+      "¿Este escándalo refleja problemas puntuales en Alicante o evidencia deficiencias sistémicas en los procesos de adjudicación de vivienda pública en España?",
+      "¿Qué responsabilidades tienen las instituciones autonómicas frente a las municipales en la supervisión de estos procesos, y cómo se puede mejorar la transparencia?",
+      "¿El contraste entre el propósito social de estas viviendas y las lujosas reformas posteriores sugiere la necesidad de controles más estrictos sobre el uso de los inmuebles protegidos?"
+    ]
+  },
+  "category": "sociedad",
+  "categories": [
+    "sociedad",
+    "economía",
+    "política"
+  ],
+  "imageUrl": "https://static.eldiario.es/clip/f9a62624-d837-4cfa-85b5-011b3aca26a3_16-9-discover-aspect-ratio_default_0.jpg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T10:51:07.896Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://static.eldiario.es/clip/f9a62624-d837-4cfa-85b5-011b3aca26a3_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/f6de2d60-d1b8-4b20-af2e-e7e1bec67591_alta-libre-aspect-ratio_default_0.jpg",
+      "source": "El Periódico"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4619,
+      "title": "Poco estamos hablando del escándalo de las VPO en Alicante",
+      "url": "https://www.eldiario.es/opinion/zona-critica/hablando-escandalo-vpo-alicante_129_13031435.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 4926,
+      "title": "Los pisos de Les Naus de Alicante cuentan con la \"protección\" de Mazón y se vendieron a precio del Botànic",
+      "url": "https://www.elperiodico.com/es/politica/20260302/pisos-les-naus-alicante-cuentan-127433875",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

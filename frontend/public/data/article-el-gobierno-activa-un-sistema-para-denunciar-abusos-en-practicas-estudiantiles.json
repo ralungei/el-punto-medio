@@ -1,0 +1,175 @@
+{
+  "id": 72,
+  "clusterId": 7502,
+  "editionId": 10,
+  "slug": "el-gobierno-activa-un-sistema-para-denunciar-abusos-en-practicas-estudiantiles",
+  "headline": "El Gobierno activa un sistema para denunciar abusos en prácticas estudiantiles",
+  "summary": "El Ministerio de Juventud lanza un buzón anónimo donde estudiantes y exbecarios pueden reportar irregularidades durante sus prácticas formativas. La iniciativa busca combatir la explotación laboral juvenil mediante denuncias que se tramitarán a través de la Inspección de Trabajo.",
+  "sections": {
+    "facts": "El **Ministerio de Juventud e Infancia**, dirigido por **Sira Rego**, ha puesto en funcionamiento un sistema de denuncias anónimas para que estudiantes en prácticas puedan reportar irregularidades empresariales. El buzón, gestionado por el **Instituto de la Juventud de España (Injuve)**, permite denunciar situaciones como la asignación de tareas no relacionadas con la formación, la sustitución encubierta de trabajadores de plantilla, la falta de tutorización adecuada o el exceso de responsabilidades ajenas al ámbito formativo.\n\nLas denuncias recibidas serán trasladadas al **Organismo Estatal de Inspección de Trabajo y Seguridad Social** para su investigación y posibles actuaciones. Esta herramienta se presenta como respuesta a lo que el ministerio describe como \"altos grados de explotación laboral\" históricos en el colectivo de estudiantes en prácticas.\n\nLa iniciativa se enmarca dentro del **Estatuto del Becario**, aprobado por el Consejo de Ministros a finales de 2025 tras negociaciones con sindicatos y sin respaldo patronal. Esta normativa establece sanciones de hasta **225.000 euros** para empresas que vulneren los derechos de las personas becarias. Según datos mencionados en la cobertura mediática, un **42% de jóvenes** habría experimentado algún tipo de explotación laboral durante sus prácticas.",
+    "coverage": [
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "Neutral institucional",
+        "toneColor": "#4A90E2",
+        "summary": "Presenta la medida como una respuesta institucional coordinada entre ministerios a un problema histórico. Enfatiza la colaboración gubernamental y las cifras de sanciones económicas del Estatuto del Becario."
+      },
+      {
+        "sourceName": "20 Minutos",
+        "tone": "Práctico descriptivo",
+        "toneColor": "#7B68EE",
+        "summary": "Se centra en el funcionamiento concreto del buzón y los tipos específicos de abusos denunciables. Destaca el anonimato de las denuncias y el concepto de 'falsos becarios' como objetivo a erradicar."
+      }
+    ],
+    "hidden": "La cobertura disponible muestra divergencias en el énfasis informativo que revelan diferentes prioridades editoriales. **La Vanguardia** menciona la participación de **Yolanda Díaz** en la presentación de la medida, un detalle relevante que sugiere coordinación al más alto nivel gubernamental, mientras que **20 Minutos** omite esta información, focalizándose exclusivamente en los aspectos técnicos del sistema.\n\nAdemás, **La Vanguardia** contextualiza la iniciativa mencionando un precedente catalán de 2019 donde organizaciones juveniles ya habían implementado un buzón similar, información que aporta perspectiva histórica sobre el problema pero que otros medios no recogen. Esta omisión puede restar profundidad al análisis de si se trata de una innovación gubernamental o de la institucionalización de una práctica ya existente en el activismo juvenil.",
+    "context": "El **Estatuto del Becario** es una normativa que busca regular las prácticas formativas de estudiantes en empresas, diferenciándolas claramente del trabajo remunerado. Tradicionalmente, muchas empresas han utilizado las figuras de becarios y estudiantes en prácticas como mano de obra barata, asignándoles responsabilidades propias de empleados sin ofrecer la correspondiente compensación económica ni garantías laborales.\n\n**Sira Rego** es la ministra de Juventud e Infancia, un ministerio creado en la actual legislatura con el objetivo de abordar políticas específicas para estos colectivos. **Yolanda Díaz** es la vicepresidenta segunda y ministra de Trabajo, responsable de las políticas laborales generales del país.\n\nEl **Instituto de la Juventud de España (Injuve)** es el organismo público encargado de desarrollar políticas de juventud, mientras que la **Inspección de Trabajo** es la autoridad competente para investigar infracciones laborales y aplicar sanciones. La coordinación entre ambas instituciones representa un intento de crear un canal específico para problemas que tradicionalmente han quedado en una zona gris entre la formación y el ámbito laboral.",
+    "questions": [
+      "¿Será efectivo un sistema de denuncias anónimas para combatir prácticas empresariales arraigadas o requiere cambios estructurales más profundos?",
+      "¿Por qué la patronal no respaldó el Estatuto del Becario y qué resistencias puede generar esta nueva medida?",
+      "¿Cómo se garantizará que las denuncias no sean utilizadas de forma malintencionada por estudiantes descontentos con evaluaciones académicas?",
+      "¿Qué papel juegan las universidades en la supervisión de las prácticas formativas de sus estudiantes?",
+      "¿Es suficiente la coordinación entre Juventud y Trabajo o se necesita mayor implicación del Ministerio de Educación?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "sociedad"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/YC27FR4FAZHAVDOMTVXFQBDP3Q.jpg?auth=f6b95385b923394cb510db5fac296e37cb32b2c96587064e652edc906d7ec5b5&amp;width=414&amp;height=311&amp;smart=true",
+  "sourcesCount": 3,
+  "createdAt": "2026-03-02T13:06:05.005Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/YC27FR4FAZHAVDOMTVXFQBDP3Q.jpg?auth=f6b95385b923394cb510db5fac296e37cb32b2c96587064e652edc906d7ec5b5&amp;width=414&amp;height=311&amp;smart=true",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/JXUDLZMQ55OEPLNCA4CGUQFDD4.jpg?auth=effb356b388d0cbf4c4ecb1acf6d228622b3799d97172a2022e6188f2e2a018e&amp;width=414&amp;height=311&amp;smart=true",
+      "source": "El País"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_65_65/uploads/1970/01/01/5fa158efd4c9b.jpeg",
+      "source": "La Vanguardia"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7318,
+      "title": "Artículos escritos por Elsa Fernández-Santos López | EL PAÍS",
+      "url": "https://elpais.com/autor/elsa-fernandez-santos",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7366,
+      "title": "Artículos escritos por Jesús-Sérvulo González Moreno | EL PAÍS",
+      "url": "https://elpais.com/autor/jesus-servulo-gonzalez",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7622,
+      "title": "Juventud pone en marcha el buzón del becario, para denunciar irregularidades en las prácticas",
+      "url": "https://www.lavanguardia.com/vida/20260302/11478680/juventud-pone-marcha-buzon-becario-denunciar-irregularidades-practicas.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8052,
+      "title": "El Gobierno lanza un buzón para que los becarios denuncien los abusos y \"fraudes\" de las empresas durante sus prácticas",
+      "url": "https://www.20minutos.es/nacional/gobierno-lanza-un-buzon-para-que-los-becarios-denuncien-los-abusos-fraudes-las-empresas-durante-sus-practicas_6940453_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

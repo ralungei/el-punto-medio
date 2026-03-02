@@ -1,0 +1,149 @@
+{
+  "id": 47,
+  "clusterId": 6643,
+  "editionId": 9,
+  "slug": "juventud-crea-un-buzon-anonimo-para-denunciar-explotacion-laboral-en-practicas-e",
+  "headline": "Juventud crea un buzón anónimo para denunciar explotación laboral en prácticas estudiantiles",
+  "summary": "El Ministerio de Juventud e Infancia pone en marcha un sistema de denuncias online para que estudiantes en prácticas puedan reportar abusos laborales de forma anónima. La herramienta se presenta como complemento al estatuto del becario, que contempla multas de hasta 225.000 euros.",
+  "sections": {
+    "facts": "El **Ministerio de Juventud e Infancia** ha activado el denominado **'Buzón de las Becarias'**, una plataforma digital donde estudiantes actuales y anteriores pueden denunciar de forma anónima irregularidades durante sus períodos de prácticas laborales. La ministra **Sira Rego** y la vicepresidenta **Yolanda Díaz** presentaron oficialmente la iniciativa, que permitirá reportar situaciones como la falta de relación entre estudios y práctica, sustitución encubierta de trabajadores de plantilla, ausencia de tutorización o asignación de tareas que exceden el ámbito formativo.\n\nEl **Instituto de la Juventud** actuará como receptor de las denuncias y las trasladará a la **Inspección de Trabajo** para las investigaciones correspondientes. Según datos oficiales de la Encuesta de Juventud de 2023, el **42% de los jóvenes** ha experimentado situaciones de explotación durante sus prácticas. La Inspección de Trabajo realizó **802 actuaciones** relacionadas con prácticas estudiantiles en el último período, logrando aflorar **187 empleos** encubiertos.\n\nEsta medida se enmarca dentro del **Estatuto del Becario**, un anteproyecto de ley aprobado en Consejo de Ministros que establece sanciones económicas de hasta **225.000 euros** para empresas que vulneren los derechos de personas en prácticas. La normativa, desarrollada tras negociaciones con sindicatos y sin el respaldo de la patronal, debe completar su tramitación parlamentaria en un contexto de mayoría conservadora en el Congreso.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "Crítico-escéptico",
+        "toneColor": "#ff6b35",
+        "summary": "Enmarca la iniciativa en el contexto político adverso, destacando las pocas posibilidades de que el estatuto prospere debido a la mayoría conservadora. Enfatiza los datos específicos de actuaciones de Inspección de Trabajo y presenta la medida como complementaria a una normativa con futuro incierto."
+      },
+      {
+        "sourceName": "20 Minutos",
+        "tone": "Neutral-descriptivo",
+        "toneColor": "#4a90e2",
+        "summary": "Se centra en el funcionamiento práctico del buzón y sus objetivos de protección laboral. Destaca las sanciones económicas contempladas en el estatuto y explica el mecanismo técnico de tramitación de denuncias a través del Instituto de la Juventud."
+      }
+    ],
+    "hidden": "La cobertura revela enfoques diferenciados que pueden condicionar la percepción ciudadana sobre la efectividad de la medida. **El País** subraya deliberadamente las dificultades políticas para la aprobación del estatuto del becario, lo que puede generar escepticismo sobre la utilidad real del buzón como herramienta aislada. Esta perspectiva, aunque factualmente correcta, podría desincentivar el uso de la plataforma por parte de estudiantes que la perciban como un gesto simbólico sin respaldo legislativo sólido.\n\nPor el contrario, **20 Minutos** omite casi por completo el contexto parlamentario adverso y se centra en el aspecto operativo, presentando la iniciativa como una herramienta funcional independientemente del destino legislativo del estatuto. Este enfoque puede transmitir mayor confianza en la efectividad inmediata de la medida, pero también oculta las limitaciones estructurales que podrían comprometer su impacto a largo plazo. La ausencia de datos sobre actuaciones previas de Inspección de Trabajo en este medio priva al lector de elementos para valorar la magnitud real del problema.",
+    "context": "Las **prácticas laborales estudiantiles** en España han sido históricamente objeto de controversia por situaciones de explotación encubierta, donde estudiantes realizan funciones equivalentes a empleados sin derechos laborales básicos ni remuneración adecuada. El **Estatuto del Becario** surge como respuesta legislativa a estas irregularidades, estableciendo un marco normativo específico que distingue entre prácticas formativas legítimas y relaciones laborales encubiertas.\n\n**Sira Rego**, ministra de Juventud e Infancia desde la reconfiguración del Gobierno en 2023, pertenece a Izquierda Unida y ha impulsado políticas de protección de derechos laborales juveniles. **Yolanda Díaz**, vicepresidenta segunda y ministra de Trabajo, lidera desde 2020 la agenda social del ejecutivo de coalición, incluyendo reformas laborales y mejoras en condiciones de empleo precario.\n\nLa **Inspección de Trabajo** es el órgano administrativo competente para vigilar el cumplimiento de la legislación laboral y puede imponer sanciones a empresas infractoras. Su colaboración con el nuevo buzón de denuncias representa una estrategia para detectar irregularidades que tradicionalmente permanecían ocultas por la vulnerabilidad de los estudiantes ante posibles represalias. El contexto político actual, con mayoría conservadora en el Congreso tras las elecciones de 2023, condiciona las posibilidades de aprobación definitiva del estatuto del becario, lo que convierte a medidas como el buzón de denuncias en alternativas de implementación inmediata sin requerir aprobación parlamentaria.",
+    "questions": [
+      "¿Será suficiente un sistema de denuncias anónimas para proteger efectivamente a estudiantes en prácticas si no se aprueba el marco legal del estatuto del becario?",
+      "¿Qué garantías existen de que las empresas no tomen represalias indirectas contra estudiantes que denuncien, pese al anonimato del sistema?",
+      "¿Cómo puede medirse el éxito de esta iniciativa: por el número de denuncias recibidas, las sanciones impuestas o la mejora real de las condiciones de prácticas?",
+      "¿Qué responsabilidad tienen las universidades y centros formativos en supervisar las condiciones de las prácticas que facilitan a sus estudiantes?",
+      "¿Es prioritario aprobar primero el estatuto del becario o implementar medidas como este buzón puede generar cambios efectivos por sí solo?"
+    ]
+  },
+  "category": "sociedad",
+  "categories": [
+    "sociedad",
+    "política"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/V3IS34D65RFWTED7ZEHX2FN62U.jpg?auth=d19b83a80a97f734b62eef5b06c3c2bb612a3eb314dff0501db02ca4af447e24",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T11:59:00.356Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/V3IS34D65RFWTED7ZEHX2FN62U.jpg?auth=d19b83a80a97f734b62eef5b06c3c2bb612a3eb314dff0501db02ca4af447e24",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/04/6909e5119a7b2.jpeg",
+      "source": "20 Minutos"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4209,
+      "title": "Juventud activa un buzón para que los becarios denuncien de forma anónima si sufren explotación laboral",
+      "url": "https://elpais.com/economia/2026-03-02/juventud-activa-un-buzon-para-que-los-becarios-denuncien-de-forma-anonima-si-sufren-explotacion-laboral.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4714,
+      "title": "El Gobierno lanza un buzón para que los becarios denuncien los abusos y \"fraudes\" de las empresas durante sus prácticas",
+      "url": "https://www.20minutos.es/nacional/gobierno-lanza-un-buzon-para-que-los-becarios-denuncien-los-abusos-fraudes-las-empresas-durante-sus-practicas_6940453_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

@@ -1,0 +1,736 @@
+{
+  "id": 73,
+  "clusterId": 7501,
+  "editionId": 10,
+  "slug": "escalada-militar-en-oriente-medio-deja-mas-de-600-muertos-mientras-iran-rechaza-",
+  "headline": "Escalada militar en Oriente Medio deja más de 600 muertos mientras Irán rechaza negociar",
+  "summary": "Los bombardeos coordinados entre Estados Unidos e Israel contra Irán han causado al menos 555 víctimas según fuentes iraníes. Un incidente de fuego amigo ha derribado tres cazas estadounidenses en Kuwait, cuyos tripulantes resultaron ilesos. Los mercados energéticos registran fuertes subidas ante el cierre del estrecho de Ormuz.",
+  "sections": {
+    "facts": "Las operaciones militares conjuntas entre **Estados Unidos** e **Israel** contra **Irán** han provocado al menos **555 muertos** en territorio iraní según cifras de la **Media Luna Roja**, organización afiliada a la Cruz Roja Internacional. Entre las víctimas destaca el **ayatolá Alí Jamenei**, líder supremo iraní, así como gran parte de la cúpula militar del país. Un bombardeo contra una escuela primaria en la localidad de **Manab** habría causado **185 fallecidos**.\n\nUn grave incidente ha marcado la jornada cuando **tres cazas F-15E estadounidenses** fueron derribados por error por las defensas antiaéreas kuwaitíes durante operaciones activas. El **Mando Central estadounidense (Centcom)** confirmó que los **seis tripulantes** se eyectaron con éxito y se encuentran \"sanos y salvos\". Vídeos difundidos en redes sociales muestran una de las aeronaves en llamas precipitándose hacia tierra en las inmediaciones de la base militar de **Ali Al Salem**.\n\nLa respuesta iraní ha incluido lanzamientos de misiles contra **Tel Aviv**, **Haifa** y **Jerusalén Este**, además de ataques con drones contra instalaciones en países del Golfo Pérsico. El aeropuerto de **Doha** y refinerías saudíes han sido objetivos de estas represalias, según confirmaron las autoridades locales.\n\nLos mercados financieros han reaccionado con volatilidad extrema. El **petróleo Brent** registró subidas superiores al **13%** en las primeras horas de negociación asiática, superando los **80 dólares por barril**. El **Ibex 35** español perdió más del **2%** en la apertura, mientras las cotizaciones energéticas mostraron comportamientos dispares según su exposición al [suministro del Golfo Pérsico](https://articulo/espana-cifra-en-5-y-2-su-dependencia-del-petroleo-y-gas-que-transita-por-ormuz).",
+    "coverage": [
+      {
+        "sourceName": "El Mundo",
+        "tone": "crítico",
+        "toneColor": "#d32f2f",
+        "summary": "Enfatiza el rechazo iraní al diálogo y los ataques a refinerías saudíes. Sorprendentemente omite por completo el incidente de fuego amigo en Kuwait."
+      },
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "neutral",
+        "toneColor": "#1976d2",
+        "summary": "Adopta un enfoque técnico-militar centrándose específicamente en el derribo de los cazas F-15E y las circunstancias del incidente."
+      },
+      {
+        "sourceName": "elDiario.es",
+        "tone": "neutral",
+        "toneColor": "#1976d2",
+        "summary": "Cobertura exclusivamente económica del impacto bursátil, ignorando completamente los aspectos militares y humanitarios del conflicto."
+      },
+      {
+        "sourceName": "OKDiario",
+        "tone": "alarmista",
+        "toneColor": "#ff9800",
+        "summary": "Cuantifica el impacto económico español en 5.170 millones de euros anuales por el cierre del estrecho de Ormuz, omitiendo desarrollos militares."
+      },
+      {
+        "sourceName": "RTVE",
+        "tone": "neutral",
+        "toneColor": "#1976d2",
+        "summary": "Ofrece cobertura factual integral con mapas y datos verificables, destacando víctimas civiles y objetivos militares atacados."
+      },
+      {
+        "sourceName": "El Periódico",
+        "tone": "crítico",
+        "toneColor": "#d32f2f",
+        "summary": "Prioriza las víctimas civiles y incluye declaraciones iraníes críticas con la política estadounidense de Trump."
+      },
+      {
+        "sourceName": "El Confidencial",
+        "tone": "moderado",
+        "toneColor": "#4caf50",
+        "summary": "Análisis técnico-financiero profundo del impacto en mercados energéticos sin mencionar aspectos humanitarios del conflicto."
+      },
+      {
+        "sourceName": "El Español",
+        "tone": "neutral",
+        "toneColor": "#1976d2",
+        "summary": "Destaca declaraciones oficiales españolas sobre limitada dependencia energética del Golfo Pérsico, sin detallar desarrollos militares."
+      }
+    ],
+    "hidden": "La cobertura revela **patrones significativos de omisión selectiva** que alteran sustancialmente la comprensión del conflicto. **El Mundo**, tradicionalmente crítico con Irán, omite completamente el **grave incidente de fuego amigo** que costó tres cazas estadounidenses, un hecho que podría cuestionar la eficacia de la coordinación militar occidental. Esta omisión es especialmente llamativa dado que otros medios lo sitúan como desarrollo principal de la jornada.\n\n**Los medios económicos especializados** (elDiario.es, El Confidencial, OKDiario) **evitan sistemáticamente** mencionar las **víctimas civiles iraníes**, centrándose exclusivamente en cotizaciones y pérdidas comerciales. Esta perspectiva puramente financiera deshumaniza el conflicto y puede influir en la percepción pública sobre la proporcionalidad de los ataques. Es revelador que **ningún medio conservador** destaque específicamente el bombardeo de la **escuela primaria en Manab** que habría causado 185 víctimas.\n\n**RTVE y El Periódico** son los únicos que proporcionan **cifras concretas de víctimas civiles** según fuentes iraníes, información que otros medios minimizan o ignoran deliberadamente. Esta disparidad sugiere **diferentes criterios editoriales** sobre qué aspectos del conflicto merecen atención prioritaria, condicionando así la formación de opinión pública sobre la legitimidad y proporcionalidad de las operaciones militares.",
+    "context": "**Irán** es una república teocrática dirigida por un **líder supremo** (ayatolá) que concentra el poder ejecutivo, legislativo y militar. **Alí Jamenei**, fallecido en estos bombardeos, ejercía este cargo desde 1989 y era considerado la máxima autoridad del país. Su muerte representa un vacío de poder sin precedentes en la estructura política iraní.\n\nEl **estrecho de Ormuz** constituye una de las **rutas marítimas más estratégicas del mundo**, por donde transita aproximadamente el **20% del petróleo global**. Su cierre por parte de Irán supone un mecanismo de presión económica con impacto inmediato en los mercados energéticos internacionales. España mantiene una **dependencia limitada** de estas rutas, estimada en torno al [5% para petróleo y 2% para gas](https://articulo/espana-cifra-en-5-y-2-su-dependencia-del-petroleo-y-gas-que-transita-por-ormuz).\n\nLa **Guardia Revolucionaria iraní** (CGRI) es una fuerza militar de élite creada tras la revolución de 1979 para proteger el régimen teocrático. Opera paralelamente al ejército regular y controla milicias armadas en países como Líbano (**Hezbolá**), Siria, Irak y Yemen. Estados Unidos la considera organización terrorista desde 2019.\n\nEste conflicto se inscribe en una **escalada de tensiones históricas** entre Washington-Tel Aviv y Teherán, alimentadas por el **programa nuclear iraní**, el **apoyo a grupos armados** en la región y las **sanciones económicas estadounidenses**. La retirada de Estados Unidos del acuerdo nuclear de 2015 durante el mandato de Trump agravó significativamente estas tensiones.",
+    "questions": [
+      "¿Cómo puede afectar la muerte del ayatolá Jamenei a la estabilidad interna de Irán y la sucesión del poder?",
+      "¿Es proporcional la respuesta militar conjunta considerando las víctimas civiles reportadas en instalaciones como la escuela de Manab?",
+      "¿Qué intereses pueden explicar que algunos medios omitan el incidente de fuego amigo mientras otros lo destacan?",
+      "¿Hasta qué punto el cierre del estrecho de Ormuz puede sostener Irán económica y militarmente a medio plazo?",
+      "¿Cómo pueden los países del Golfo Pérsico mantener su neutralidad cuando sus territorios se convierten en campos de batalla?"
+    ]
+  },
+  "category": "internacional",
+  "categories": [
+    "internacional",
+    "economía"
+  ],
+  "imageUrl": "https://www.lavanguardia.com/files/image_40_40/uploads/2022/01/11/61ddbc80b7d7b.png",
+  "sourcesCount": 8,
+  "createdAt": "2026-03-02T13:06:13.277Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://www.lavanguardia.com/files/image_40_40/uploads/2022/01/11/61ddbc80b7d7b.png",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_65_65/uploads/2022/09/16/63243d6d16979.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://okdiario.com/img/2024/12/03/hallazgo-yacimiento-de-petroleo-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://img2.rtve.es/im/16960520/?w=900",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://img2.rtve.es/im/16960062/?w=900",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNzMxMDgyNDYxNzcyNDQyNTM1XzYzcTFqN3ZzZ3Brcmt0aHdibTg1dGJ0anp3a2ozdi5tcDQifQ.FDqiU7Mo0y9ZYV178gZoKe_qaRA8QU1SAeXd_NCLb8aMXatwfyLowxLBbkGyziQTh8Ejul8pEmi6ulugaqfgzFKUVMZ9aS5I8pxkXt8tP2EaQi6dzrB3eZXeoWqU8sAMBg7l28gwbpLpff4e2DBQG7wY-wIeFtnU3Mxnt3FYHG6xrAAqrNLTxryGhKu0rD9Wmdu9e3_1XPoiUFDdYn3Spnboui5rdbqKVW8JMJmWsRUJcHaKQ_M7nUzaUtUfQ0_yTLGbtLZA4FvdCGIfYgrKDT9hxCDn_m6BsCO_YU8skUv_k1IpVuehI1gY8ty3QKovOIqhtiWX1wvLvNTkSpVX9wERQLiDloRFHkvUC1zXjmDaQBkWKQWzESE0fAEbXBeMduLYTY9PndMI61fFbv68wy6nhj96hgOXOcn1caAJI87quGAyRsbXFEoTIa1m4UMfuWaXhxIp2XybwNU0iNnH-1MPdoMj6TKDtmFQ7ZYiL2sis60NyqLwLVdeq9Td7GPn/media-uploads/files/_20/202603/TVEE/upload_731082461772442535_63q1j7vsgpkrkthwbm85tbtjzwkj3v.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNzczNzI4ODcxNzcyMzkyOTczX3picmZjczVudmpxcmtnbl92MWMyZ3JnNV9yZHZnZi5tcDQifQ.ANIXx4Jx1rIeKd-EYyq-85RXRjWDBWLoyocPN7M_BEyoifiTQuVS8rpVcPtaJ67JfEtW0ayyvLtFeMtz9h2ppLsSz5LR-lWaZjRp4evvA4AzWMa96KnaCpCLNYq_-w43Td-oUvPhSMUT3qZswhyCXfM-m5dcxK83OjKJckh2q2QuS6LZa9bicFzoTyHy4bY3mxK6lKAr_H0937Pr9EQss-weeVBs_MThkOyxyIXEecxPQj9fhIlm0HsI0yxekw_tTaUK4VR-Mz2xaMQVVTsNPvr9w41f2MhNYorpHZxPwt42HjudUSp2D48QRDA6CV6i0y9w8ROY9D9HJYiCVcXJsXweSDJQoOkAqj_13K-GM22fdDkNxJKjxSwtrjPRV_f0ug08etc2eiBmNWFVllKWH_xNr8GxfKyDjZ7qrARLmgbHcIbjLYmKn6zB64pVneMgO776ixk3zUhQ0cSeIkB9mWEVbS4jXTUxIlT18Imvt20Zr5ScaNvWliWbyHOjWJrG/media-uploads/files/_20/202603/TVEE/upload_773728871772392973_zbrfcs5nvjqrkgn_v1c2grg5_rdvgf.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNDUwMzAxMjcxNzcyMzg3MDk3X2Iycmh2d3Ewcm5xZHcwZzBuZmJwbWJxejh3c3c5dC5tcDQifQ.gLIeOXIBDkBIcEMCAtZwc0qVay0DWJBYt5kA6oIOdZErJ7QD5Czl2MJVIC3Ds4DylOYthY8Uzjr0eYKdTVhlX4KAgjTI5AHB08NZ9zC48_qCqpbZCd-PYpx4f7rzFJ3gqztFgJBeNnts_OgerZ7m7jERJwsidfHW97nNld3cJ9qfF3eGfFO8gV-xlON90LglJ-uvDTf0WnW53KGrPpYs2XU_xfkO4WVVFzr7B7_hJLacZ8n1Zf_KrSLh4colaw8vV__ekUGw9JY06y0Ync3-bNbbA7lRLLcb92hQBOEpxTStBIWSR0XRkv6-3s4zHqCrh1-DnaykIas5TWz3lGqUbRm7Fw3M_6YjkNOO2ghMutgkAc3FCn38s7M28oL7m6nQnu6aKzXhTrNjg3zXTrbV11BNxq5YASaPUMjcx7jDmMJEjAX5yYni4X7umuLlIHIQD_uUHvnb6xRSXn9SiLAjpFqNEptCONkpcbavXZlF_g_tFgWiLpI7IkIChOUfh13L/media-uploads/files/_20/202603/TVEE/upload_450301271772387097_b2rhvwq0rnqdw0g0nfbpmbqz8wsw9t.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNzAwNzc5MjIxNzcyMzcwMjE2X2pmNV84bl90Y2MyM2p2M25xZHpzcjJuZGhsaHNzNy5tcDQifQ.cBtANnE2MhBv2XTQDkUqkCQW9AsPo5KpDn1zUhjMGNLTR8gOvLTRgCVV0NT_XB-Lj5qxOKkNxVY7n1xG6FGBejkVDSLyU7ZOZuDj7Xa5aSBQfjL-3y-6JLhyk84DAKhcL5UtWjppa0s_gQgwiOyi1VJFaD7b_OCoIPuKBK5YnwsMozpC6xlsJojYKKRj-JQIVUKSRJD21mt61UeMojVXG1fhDfLiVVnbe9Z94V6lexqGxDz4xm9Jf--ONiJ4Ac1wBq0S8fRLyGGA9z3AWtscpN4KoHVzIdkqq_m5Les-8cjP7aDvu0csdyYuuqYyoY2PpUbTlJN8OLf8h_IcxhrQFO73R6gZ5sfLuYouHXIYLF-uem9JrhOZ2zpKHG_4PeM-40XyL2e-I6jNafbVfH3HDxQfnNxEkW8EwWw3DcitRKadLSawdJNMKS3e4fcbKg04RutRl3kT1aiQmy5YIDoYAHyvhD4c7XaY-A8AiAG5aEUtNnmaCCHhvyxIAavt4grl/media-uploads/files/_20/202603/TVEE/upload_700779221772370216_jf5_8n_tcc23jv3nqdzsr2ndhlhss7.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://img2.rtve.es/im/16959132/?w=900",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://img.rtve.es/p/135932/logo/?w=320",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://images.ecestaticos.com/3IX9M73eRydwZSu0tGt8L1Hla4Y=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fd3f%2F921%2F3ca%2Fd3f9213ca4bdb50c22844537d2f95597.jpg",
+      "source": "El Confidencial"
+    },
+    {
+      "url": "https://images.ecestaticos.com/rI4h-A2_2vpF29EiW3eWWQlZYQE=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Ff27%2F9fe%2F3ab%2Ff279fe3ab0d0575050750db75e0158e3.jpg",
+      "source": "El Confidencial"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151967_261709179_1024x576.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/02/28/actualidad/1003744150418_261688572_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/02/28/actualidad/1003744149917_261681488_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744150727_261693655_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151714_261706363_1706x3349.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744150835_261694987_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151639_261705550_1024x576.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151056_261698514_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151205_261700554_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s2.elespanol.com/upload/arte/noticias/internacional/2026-eeuu-iran/20260302-22-iran-organizacion-poder.png",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2016/01/18/invertia/economia/95500581_449729_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/02/28/actualidad/1003744150213_261685923_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151779_261707199_1024x576.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744150870_261695380_320x180.jpg",
+      "source": "El Español"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7454,
+      "title": "Kuwait derriba tres aviones de combate de EEUU en un incidente de \"fuego amigo\"",
+      "url": "https://www.elmundo.es/internacional/2026/03/02/69a58700e9cf4a8a7c8b4588.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 7456,
+      "title": "Irán ataca una refinería en Arabia Saudí y eleva la tensión con los países del Golfo",
+      "url": "https://www.elmundo.es/economia/2026/03/02/69a55de7fc6c8351218b4595.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 7505,
+      "title": "Kuwait derriba por error un caza F-15 de Estados Unidos",
+      "url": "https://www.elmundo.es/internacional/2026/03/02/69a5680ce4d4d823068b4575-video.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 7526,
+      "title": "EE.UU. pierde tres cazas en Kuwait por “fuego amigo”",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478947/kuwait-confirma-aviones-militares-ee-uu-han-estrellado-territorio.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7601,
+      "title": "Las empresas de defensa, excepto Indra, crecen en bolsa al calor de la guerra en Irán",
+      "url": "https://www.lavanguardia.com/economia/20260302/11479064/empresas-defensa-excepto-indra-crecen-bolsa-calor-guerra-iran.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7687,
+      "title": "El Ibex cae con fuerza y el precio del petróleo se dispara tras el ataque a Irán",
+      "url": "https://www.eldiario.es/economia/ibex-cae-3-pierde-17-900-puntos-ataque-iran_1_13031782.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7926,
+      "title": "España se juega 5.170 millones de euros al año de petróleo y gas en el cierre del Estrecho de Ormuz",
+      "url": "https://okdiario.com/economia/mercados/espana-juega-5-170-millones-euros-ano-petroleo-gas-cierre-del-estrecho-ormuz-16329195",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 8134,
+      "title": "Irán dice que no negociará con Estados Unidos mientras siguen los ataques en una guerra que suma ya 600 muertos",
+      "url": "https://www.rtve.es/noticias/20260302/guerra-iran-eeuu-israel-tercera-jornada-bombardeos/16960361.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8136,
+      "title": "Un dron iraní impacta en una base británica en Chipre y evacúan un aeropuerto cercano",
+      "url": "https://www.rtve.es/noticias/20260302/dron-irani-impacta-base-britanica-chipre-evacuan-aeropuerto-cercano/16960864.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8139,
+      "title": "Bulos, fotos y vídeos falsos del ataque a Irán de EE.UU. e Israel",
+      "url": "https://www.rtve.es/noticias/20260301/bulos-fotos-videos-falsos-del-ataque-a-iran-eeuu-israel/16960042.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8144,
+      "title": "Hizbulá entra en la gv3rra de Irán y at4ca a Israel desde el Líbano. Israel responde y causa al menos 31 mv3rtos y 149 heridos en el país.",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/22e84795dd2b26c194ab",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8148,
+      "title": "Irán ataca a un petrolero con bandera de Palaos en el estrecho de Ormuz.",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/facce984a170acced3d1",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8149,
+      "title": "La posición de Irán como gran productor de petróleo del mundo afecta directamente al comercio global y los mercados internacionales.",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/627ffc6232bef1123fc3",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8152,
+      "title": "El líder supremo de Irán, Alí Jamenei, figuraba desde hace años en la diana de Israel y en el último año se había convertido en un objetivo también para los Estados Unidos",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/4e3255a1722a79ecfb39",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8162,
+      "title": "Trump insta a los militares y la Guardia Revolucionaria iraní a \"rendirse o afrontar una muerte segura\"",
+      "url": "https://www.rtve.es/noticias/20260302/donald-trump-venganza-muertes-estadounidenses-iran/16960250.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8163,
+      "title": "Francia, Alemania y Reino Unido amenazan con atacar Irán en defensa de sus intereses",
+      "url": "https://www.rtve.es/noticias/20260302/francia-alemania-reino-unido-atacar-iran-defensa-intereses/16960255.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8164,
+      "title": "La muerte de Alí Jameneí aboca al régimen de Irán a una sucesión en sus horas más bajas",
+      "url": "https://www.rtve.es/noticias/20260301/proceso-sucesion-jamenei-iran/16959579.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8167,
+      "title": "La Guardia Revolucionaria, el frágil pilar que defiende al régimen iraní",
+      "url": "https://www.rtve.es/noticias/20260301/guardia-revolucionaria-fragil-pilar-defiende-regimen-irani/16903915.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8168,
+      "title": "Mapas y vídeos del ataque militar de Israel y Estados Unidos y la respuesta de Irán",
+      "url": "https://www.rtve.es/noticias/20260228/mapas-datos-ataque-israel-eeuu-iran/16958995.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8177,
+      "title": "¿Qué pasará con el petróleo? La duración del conflicto entre Estados Unidos e Irán será clave",
+      "url": "https://www.rtve.es/noticias/20260301/cuanto-subira-petroleo-trump-invade-iran/16946590.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8230,
+      "title": "Sánchez ve un \"atropello de la legalidad internacional\" el ataque \"unilateral\" de Israel y Estados Unidos contra Irán",
+      "url": "https://www.rtve.es/play/videos/telediario-fin-de-semana/sanchez-ve-atropello-legalidad-internacional-ataque-unilateral-israel-estados-unidos-contra-iran/16959336",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8245,
+      "title": "Conflicto en Irán: \"Difícilmente habrá un cambio de régimen\"",
+      "url": "https://www.rtve.es/play/audios/las-mananas-de-rne/estados-unidos-israel-atacan-iran-dificilmente-habra-cambio-regimen/16960333",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8283,
+      "title": "Irán cifra en más de 550 los muertos por los bombardeos de EEUU e Israel",
+      "url": "https://www.elperiodico.com/es/internacional/20260302/media-luna-roja-eleva-555-127438673",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 8358,
+      "title": "Petróleo al alza, bolsa a la baja: ¿turbulencia coyuntural o 'shock' estructural?",
+      "url": "https://www.elconfidencial.com/economia/el-beneficio-de-la-duda/2026-03-01/el-petroleo-cerro-el-viernes-en-73-dolares-cuanto-subira-cuando-reabra-el-mercado-el-lunes_4312308",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8366,
+      "title": "El sector defensa y las petroleras se disparan en bolsa tras los ataques a Irán",
+      "url": "https://www.elconfidencial.com/mercados/2026-03-02/sector-defensa-y-las-petroleras-se-disparan-en-bolsa_4312519",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8468,
+      "title": "El petróleo sube un 7% tras llegar a dispararse casi un 14% en la apertura",
+      "url": "https://www.elconfidencial.com/mercados/2026-03-02/el-petroleo-se-dispara-un-10-en-la-apertura-asiatica-y-supera-los-80-dolares-el-barril_4312359",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8497,
+      "title": "Israel y EEUU atacan Irán, última hora en directo | La Guardia Revolucionaria iraní lanza un ataque contra la oficina de Netanyahu",
+      "url": "https://www.elespanol.com/mundo/20260228/guerra-iran-israel-eeuu-conflicto-lideres-oriente-medio-ataques-trump-teheran-bombardeo-ultima-hora/1003744149902_10.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8499,
+      "title": "Francia, Alemania y Reino Unido se suman a la ofensiva de EEUU e Israel contra Irán tras la falta de acuerdo en la UE",
+      "url": "https://www.elespanol.com/mundo/europa/20260301/francia-alemania-reino-unido-suman-ataque-eeuu-israel-iran-falta-acuerdo-ue/1003744151230_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8500,
+      "title": "Trump se abre a dialogar con los ayatolás supervivientes en Irán tras los bombardeos y alimenta la idea de la \"vía venezolana\"",
+      "url": "https://www.elespanol.com/mundo/oriente-proximo/20260302/trump-abre-dialogar-ejecutivo-provisional-iran-bombardeos-alimenta-idea-via-venezolana/1003744151159_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8501,
+      "title": "Bases de la OTAN en Turquía, Irak, Grecia y Rumanía, dentro del alcance de los misiles iraníes",
+      "url": "https://www.elespanol.com/observatorio-defensa/20260302/bases-otan-turquia-irak-grecia-rumania-dentro-alcance-misiles-iranies/1003744150931_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8502,
+      "title": "El petróleo sube un 10% y el comercio mundial contiene el aliento tras el ataque de Irán en el estrecho de Ormuz",
+      "url": "https://www.elespanol.com/invertia/mercados/materias-primas/20260302/petroleo-sube-comercio-mundial-contiene-aliento-ataque-iran-estrecho-ormuz/1003744150819_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8523,
+      "title": "El conflicto se extiende con ataques en el Golfo y Líbano: la nueva cúpula de Irán desmiente que quiera negociar con Trump",
+      "url": "https://www.elespanol.com/mundo/oriente-proximo/20260302/conflicto-extiende-ataques-golfo-libano-nueva-cupula-iran-desmiente-quiera-negociar-trump/1003744151302_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8525,
+      "title": "Albares convoca al embajador iraní para condenar los ataques de represalia a países de Oriente Medio y a Chipre",
+      "url": "https://www.elespanol.com/espana/20260302/albares-convoca-embajador-irani-condenar-ataques-paises-oriente-medio-chipre/1003744151877_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8526,
+      "title": "Von der Leyen llama a la desescalada en la guerra de Irán: \"La única solución duradera es la diplomática\"",
+      "url": "https://www.elespanol.com/mundo/europa/20260302/von-der-leyen-llama-desescalada-guerra-iran-unica-solucion-duradera-diplomatica/1003744151582_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8527,
+      "title": "Las contradicciones de Trump sobre Irán en 48h: de pedir a la población derribar el régimen a afirmar que Teherán negociará",
+      "url": "https://www.elespanol.com/mundo/oriente-proximo/20260302/contradicciones-trump-iran-pedir-poblacion-derribar-regimen-afirmar-teheran-negociara/1003744151491_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8528,
+      "title": "Las bolsas caen un 2% mientras el petróleo, el gas y el oro se disparan tras los ataques a Irán",
+      "url": "https://www.elespanol.com/invertia/mercados/20260302/bolsas-caen-petroleo-gas-oro-disparan-ataques-iran/1003744151308_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8531,
+      "title": "La República Islámica de Irán, ante su transición más incierta: así elegirán los clérigos a su próximo líder supremo",
+      "url": "https://www.elespanol.com/mundo/oriente-proximo/20260301/republica-islamica-iran-transicion-incierta-elegiran-clerigos-proximo-lider-supremo/1003744150996_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8532,
+      "title": "Repsol, Naturgy, aerolíneas y hoteleras, las empresas españolas más afectadas por la inestabilidad en el Golfo Pérsico",
+      "url": "https://www.elespanol.com/invertia/empresas/20260302/repsol-naturgy-aerolineas-hoteleras-afectados-ataques-golfo-persico/1003744151322_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8542,
+      "title": "La jugada en la sombra de Bin Salman, el príncipe heredero saudí: presionó a Trump junto a Israel para atacar Irán",
+      "url": "https://www.elespanol.com/mundo/oriente-proximo/20260302/jugada-sombra-bin-salman-principe-heredero-saudi-presiono-trump-junto-israel-atacar-iran/1003744151237_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8588,
+      "title": "Los españoles atrapados en Abu Dhabi, Arabia Saudí o Doha por los ataques en Oriente Próximo: \"Sólo quiero volver\"",
+      "url": "https://www.elespanol.com/reportajes/20260302/espanoles-atrapados-abu-dhabi-arabia-saudi-doha-ataques-oriente-proximo-solo-quiero-volver/1003744150037_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8594,
+      "title": "Incertidumbre en los mercados de petróleo y gas: si Irán cierra Ormuz, el 'tapón' provocaría que la UE necesitaría más a EEUU",
+      "url": "https://www.elespanol.com/invertia/empresas/energia/20260302/incertidumbre-mercados-petroleo-gas-iran-cierra-ormuz-tapon-provocaria-ue-necesitaria-eeuu/1003744151177_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8664,
+      "title": "El testimonio de Munir tras huir de Irán por el bombardeo de Estados Unidos: \"Vimos los misiles, es algo que impresiona\"",
+      "url": "https://www.elespanol.com/deportes/futbol/20260302/testimonio-munir-huir-iran-bombardeo-unidos-vimos-misiles-impresiona/1003744151605_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8727,
+      "title": "Un español en Dubai, tras los ataques de Irán: \"Veo desde mi cama pasar los misiles y la embajada no contesta\"",
+      "url": "https://www.elespanol.com/corazon/bluper/20260302/espanol-dubai-ataques-iran-veo-cama-pasar-misiles-embajada-no-contesta/1003744151667_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

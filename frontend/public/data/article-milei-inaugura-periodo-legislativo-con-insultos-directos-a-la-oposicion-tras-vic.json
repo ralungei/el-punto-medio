@@ -1,0 +1,218 @@
+{
+  "id": 56,
+  "clusterId": 6973,
+  "editionId": 9,
+  "slug": "milei-inaugura-periodo-legislativo-con-insultos-directos-a-la-oposicion-tras-vic",
+  "headline": "Milei inaugura período legislativo con insultos directos a la oposición tras victorias parlamentarias",
+  "summary": "El presidente argentino Javier Milei inauguró las sesiones ordinarias del Congreso con un discurso de una hora y cuarenta minutos caracterizado por ataques verbales hacia la oposición, incluyendo calificativos como 'ladrones', 'chorros' y 'asesinos'. El acto se produjo después de que su partido lograra aprobar importantes reformas legislativas en los últimos meses.",
+  "sections": {
+    "facts": "**Javier Milei** inauguró el 1 de marzo las sesiones ordinarias del Congreso argentino con un discurso que combinó la presentación de logros económicos con insultos directos hacia los legisladores opositores. Durante **una hora y cuarenta minutos**, el mandatario utilizó términos como **'ladrones'**, **'chorros'**, **'delincuentes'**, **'golpistas'** y **'asesinos'** dirigidos a diputados y senadores de la oposición, especialmente del kirchnerismo.\n\nEl presidente llegó al Palacio Legislativo acompañado de su hermana **Karina Milei**, secretaria de Presidencia, y la vicepresidenta **Victoria Villarruel**, con quien mantiene distanciamiento desde hace meses. Durante su intervención, Milei celebró la aprobación de tres grandes reformas legislativas, destacando especialmente la **reforma laboral** que permite jornadas de hasta doce horas y restringe el derecho de huelga.\n\nEn el plano económico, el mandatario reivindicó la reducción del **30% del gasto público**, el logro de **superávit fiscal** y la bajada de la inflación como principales éxitos de sus dos años de gobierno. También anunció que el Gobierno profundizará las reformas en áreas tributaria, electoral, civil, comercial, aduanera y judicial.\n\nEl discurso incluyó referencias internacionales cuando Milei expresó su apoyo a las operaciones militares de Estados Unidos e Israel, pronunciando la frase **'Make America great again'** en inglés. Asimismo, defendió la reducción de la **edad de imputabilidad a los 14 años** y reafirmó su agenda de privatizaciones y apertura de importaciones.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "moderado",
+        "toneColor": "#4A90E2",
+        "summary": "Se enfoca en los aspectos político-estratégicos, presentando a Milei en su momento de mayor fortaleza parlamentaria. Destaca los logros legislativos y el debilitamiento de la oposición peronista, pero omite mencionar el tono agresivo y los insultos específicos del discurso."
+      },
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "analítico",
+        "toneColor": "#8E44AD",
+        "summary": "Ofrece un análisis ideológico sobre las raíces del anarcocapitalismo de Milei, contextualizando sus políticas dentro de corrientes de pensamiento económico. No aborda el discurso específico sino que se centra en explicar la doctrina política del presidente."
+      },
+      {
+        "sourceName": "elDiario.es",
+        "tone": "crítico",
+        "toneColor": "#E74C3C",
+        "summary": "Presenta el evento como una degradación institucional, caracterizando a Milei como un 'agitador verborrágico'. Enfatiza los insultos específicos y la actitud presidencial, proporcionando menos detalle sobre las políticas concretas aprobadas."
+      },
+      {
+        "sourceName": "El Periódico",
+        "tone": "crítico",
+        "toneColor": "#F39C12",
+        "summary": "Combina la crítica al tono agresivo con un repaso equilibrado de las medidas políticas. Describe el discurso como 'trumpismo recargado' y detalla tanto los insultos específicos como las reformas aprobadas, incluyendo el contexto internacional."
+      }
+    ],
+    "hidden": "La cobertura revela **diferencias significativas en la jerarquización** de los aspectos de la noticia que sugieren distintas agendas editoriales. **El País** omite completamente mencionar los insultos y la agresividad verbal que caracterizan el evento, concentrándose exclusivamente en los logros legislativos de Milei. Esta omisión no es casual: minimiza la controversia institucional para presentar una imagen de **fortaleza política sin costes democráticos**.\n\n**La Vanguardia** adopta un enfoque completamente diferente al ignorar el discurso específico y centrarse en un análisis ideológico profundo. Esta estrategia editorial **descontextualiza los hechos inmediatos** para ofrecer una reflexión más amplia sobre el pensamiento político de Milei, lo que puede diluir la gravedad del evento concreto que motiva la noticia.\n\nLos medios más críticos (**elDiario.es** y **El Periódico**) coinciden en destacar la degradación institucional, pero **elDiario.es** proporciona menos información sobre las políticas específicas aprobadas. Esta diferencia sugiere que algunos medios priorizan la **denuncia del estilo** sobre la **información sustantiva de las reformas**, lo que puede dejar al lector sin elementos suficientes para evaluar el impacto real de las medidas más allá de la forma en que se presentan.",
+    "context": "**Javier Milei** es un economista y político argentino que asumió la presidencia de Argentina en diciembre de 2023 tras ganar las elecciones con un discurso **anarcocapitalista** radical. Su partido, **La Libertad Avanza**, defiende la reducción drástica del Estado, la dolarización de la economía y la eliminación de organismos públicos. Milei ganó popularidad como tertuliano televisivo conocido por su agresividad verbal y sus ataques a lo que denomina **'la casta política'**.\n\nEl **kirchnerismo** es el movimiento político liderado por **Cristina Fernández de Kirchner**, expresidenta argentina (2007-2015) y actual figura central del peronismo. Kirchner fue condenada a seis años de prisión por corrupción en el caso conocido como 'Vialidad', aunque cumple arresto domiciliario mientras continúan los recursos judiciales. El kirchnerismo representa la principal oposición al gobierno de Milei y defiende políticas de protección social y mayor intervención estatal.\n\nLa **inauguración de sesiones ordinarias** del Congreso argentino se celebra cada 1 de marzo y es el momento en que el presidente presenta ante la Asamblea Legislativa un informe sobre el estado de la nación y los planes de gobierno. Es un acto institucional de gran relevancia en el calendario político argentino, tradicionalmente caracterizado por la solemnidad y el respeto institucional.",
+    "questions": [
+      "¿Es compatible la agresividad verbal sistemática de un presidente con el funcionamiento saludable de las instituciones democráticas?",
+      "¿Cómo afecta el estilo confrontacional de Milei a la capacidad de diálogo y consenso necesarios para gobernar un país polarizado?",
+      "¿Las reformas legislativas aprobadas por Milei representan un cambio estructural positivo para Argentina o profundizan las desigualdades sociales?",
+      "¿Qué papel juega la espectacularización de la política en la erosión o fortalecimiento de la confianza ciudadana en las instituciones?",
+      "¿Es posible separar el análisis de las políticas públicas del estilo personal y comunicativo de quien las implementa?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "internacional"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/NQE642LYGFP3NO53J5QMGCJEUA.jpg?auth=c3faf24ab27e3cef43604293f4c751105f21ce2b1ac913755b70c0ec9d8fca7b",
+  "sourcesCount": 4,
+  "createdAt": "2026-03-02T12:01:21.464Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/NQE642LYGFP3NO53J5QMGCJEUA.jpg?auth=c3faf24ab27e3cef43604293f4c751105f21ce2b1ac913755b70c0ec9d8fca7b",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/KFFNJZPINVMEFL3WPDFC53V5L4.jpg?auth=b5cb8d47f573865330ca2d5cdd1906ee5fdee2118f1556098d4680036e7c4024&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/HJ6Z2CE2WZNUZFSXWO42KGYYP4.jpg?auth=269b67e82241ad1b2940df033ccd08993df4cdfc0c95ba064b7bef576a314fab",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/QI2POX5VVROQRLACCYNDOSMKKU.jpg?auth=176955834176dcaa45ed978a687c87a23735315986fbe19db5166e9f481e5ee1&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/27/68ffb18983f21.r_d.2595-1730-903.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2021/05/27/60afe23f2fd46.r_d.1082-26.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/54697f12-bac5-4985-9d0c-550fd1f893aa_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/fa71dd1c-3a10-4939-ad3f-1752553d455f_alta-libre-aspect-ratio_default_0_x600y225.jpg",
+      "source": "El Periódico"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4237,
+      "title": "Milei inaugura el año legislativo con su discurso más violento: “Ladrones, golpistas, asesinos”",
+      "url": "https://elpais.com/argentina/2026-03-02/milei-inaugura-el-ano-legislativo-con-su-discurso-mas-violento-ladrones-golpistas-asesinos.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4266,
+      "title": "Milei ruge en Argentina contra todo y con el Congreso a sus pies",
+      "url": "https://elpais.com/argentina/2026-03-01/milei-ruge-en-argentina-contra-todo-y-con-el-congreso-a-sus-pies.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4495,
+      "title": "Qué hay detrás del anarcocapitalismo de Milei (y de quién lo ha aprendido)",
+      "url": "https://www.lavanguardia.com/historiayvida/historia-contemporanea/20260302/11478490/que-hay-detras-anarcocapitalismo-milei-aprendido.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4612,
+      "title": "Un desencajado Milei llena de insultos a la oposición el arranque de las sesiones del Congreso en Argentina",
+      "url": "https://www.eldiario.es/internacional/javier-milei-argentina_1_13031665.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 4925,
+      "title": "Milei inaugura la Asamblea Legislativa con una catarata de insultos e improperios",
+      "url": "https://www.elperiodico.com/es/internacional/20260302/milei-asamblea-legislativa-insultos-127433205",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

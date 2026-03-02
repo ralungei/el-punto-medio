@@ -1,0 +1,149 @@
+{
+  "id": 2,
+  "clusterId": 6,
+  "editionId": 1,
+  "slug": "un-lince-iberico-procedente-de-valencia-muere-atropellado-en-madrid-el-primero-e",
+  "headline": "Un lince ibérico procedente de Valencia muere atropellado en Madrid, el primero en la región",
+  "summary": "Un ejemplar de lince ibérico fue hallado muerto en el margen de la carretera M-203 de San Fernando de Henares tras sufrir un atropello, convirtiéndose en el primer caso registrado de este tipo en la Comunidad de Madrid. El animal portaba microchip y había llegado desde la Comunidad Valenciana.",
+  "sections": {
+    "facts": "Un particular alertó a la **Guardia Civil** al descubrir el cadáver de un **lince ibérico** en el arcén de la carretera **M-203**, a su paso por **San Fernando de Henares**, en el este de la Comunidad de Madrid. Los medios discrepan sobre la fecha exacta del aviso: *El País* sitúa el hallazgo en jueves, mientras que *20 Minutos* lo fecha en viernes. Agentes del **Servicio de Protección de la Naturaleza (Seprona)** se desplazaron hasta el lugar, realizaron una inspección ocular, levantaron acta del cadáver y lo trasladaron bajo cadena de custodia al **Centro de Recuperación de Animales Silvestres (CRAS)** de la Comunidad de Madrid.\n\nEl examen del animal reveló traumatismos y lesiones compatibles con un atropello. El ejemplar llevaba un **microchip** de identificación que permitió determinar su procedencia: había realizado un desplazamiento desde la **Comunidad Valenciana** hasta Madrid. Las autoridades madrileñas han confirmado que se trata del primer lince muerto en un atropello registrado en la región, aunque no es el primer caso de mortalidad no natural: en **diciembre de 2024**, apareció en El Molar el cadáver de un macho adulto al que habían disparado y al que se le habían amputado la cabeza y las patas.\n\nEn el plano estadístico nacional, durante **2024** se registraron en España más de **200 muertes no naturales** de linces ibéricos, de las cuales alrededor del **75%** fueron causadas por atropellos en carretera, según datos del **Ministerio para la Transición Ecológica y el Reto Demográfico**. Este tipo de siniestros ocurre con especial frecuencia durante las fases de dispersión, cuando los ejemplares jóvenes abandonan sus territorios de origen en busca de nuevas áreas.\n\nEn paralelo, la Comunidad de Madrid ha dado pasos recientes hacia la consolidación de la especie en su territorio. Desde **agosto de 2024**, un ejemplar macho llamado **Uraclio**, de dos años y medio, se ha establecido de forma estable en la zona noreste de la región, procedente de Guadalajara. La administración autonómica también ha alcanzado un acuerdo con **Patrimonio Nacional** para incorporar el monte de **El Pardo** a las áreas contempladas en el plan de reintroducción del lince ibérico.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "Conservacionista e institucional",
+        "toneColor": "#4a90d9",
+        "summary": "El diario sitúa el atropello dentro de un relato más amplio sobre la recuperación de la especie en Madrid, destacando el contexto estadístico, la presencia del lince Uraclio y los planes de reintroducción autonómicos. El enfoque es propicio a valorar los esfuerzos institucionales, aunque omite mencionar que el caso está bajo investigación oficial por parte de la Guardia Civil."
+      },
+      {
+        "sourceName": "20 Minutos",
+        "tone": "Informativo y policial",
+        "toneColor": "#7ed321",
+        "summary": "El medio se ciñe a los hechos inmediatos del hallazgo y destaca el papel protagonista de la Guardia Civil, subrayando que la causa de muerte permanece bajo investigación y utilizando una formulación más cautelosa: 'posible atropello'. No incluye ningún dato sobre conservación, estadísticas de mortalidad ni contexto ecológico."
+      }
+    ],
+    "hidden": "La diferencia más llamativa entre ambas coberturas no es solo de tono, sino de universo informativo: **20 Minutos** narra un suceso policial con datos mínimos, mientras que **El País** construye una pieza de política ambiental con el mismo hecho como detonante. Esta divergencia no es inocente: el lector de 20 Minutos desconoce que en 2024 murieron más de 200 linces de forma no natural en España, que tres cuartas partes de esas muertes fueron por atropello, o que existe un lince residente estable en Madrid. Sin ese contexto, el suceso queda reducido a una anécdota puntual sin dimensión sistémica.\n\nPor otro lado, **El País omite que el caso sigue abierto como investigación oficial**, un dato relevante porque implica que la causa de muerte no está formalmente confirmada: solo es compatible con un atropello. Esta omisión empuja al lector hacia una conclusión más cerrada de la que los hechos permiten. La cautela de 20 Minutos al hablar de 'posible atropello' es técnicamente más rigurosa, aunque su parquedad informativa impide al lector comprender la gravedad del problema. Ambos defectos son simétricos pero inversos: uno dice demasiado poco sobre los hechos; el otro da demasiado por sentado sobre sus causas.\n\nTambién destaca la **discrepancia en la fecha del aviso** —jueves según El País, viernes según 20 Minutos— que ninguno de los dos medios aclara. Aunque pueda parecer un detalle menor, en una noticia donde la cadena de custodia y el protocolo policial son relevantes, la fecha exacta no es trivial. Que ambos medios la den por cierta sin matizarla revela una falta de contraste de fuentes que afecta a la credibilidad básica del relato.",
+    "context": "El **lince ibérico** (*Lynx pardinus*) es el félido más amenazado del planeta y una especie endémica de la Península Ibérica. A principios del siglo XXI, su población se había reducido a poco más de un centenar de individuos, concentrados en dos núcleos en Andalucía. Gracias a programas de cría en cautividad, reintroducción y protección del hábitat impulsados por España y Portugal con fondos europeos, la especie ha experimentado una notable recuperación: a mediados de la década de 2020 superaba los 1.000 ejemplares censados. Sin embargo, la mortalidad por causas no naturales —especialmente atropellos en carretera— sigue siendo uno de los principales obstáculos para su consolidación.\n\nLos **desplazamientos de dispersión** son una fase crítica en la vida de los linces jóvenes: al alcanzar la madurez, abandonan el territorio donde nacieron para buscar áreas nuevas donde establecerse. Durante estos viajes, a menudo de cientos de kilómetros, los animales cruzan infraestructuras viarias sin adaptaciones específicas, lo que los expone a un riesgo de atropello muy elevado. Es en este contexto donde se inscriben casos como el de San Fernando de Henares: un animal procedente de la Comunidad Valenciana que se desplazaba hacia o por la región de Madrid.\n\nLa **Comunidad de Madrid** no formaba parte históricamente del área de distribución del lince ibérico en los planes de reintroducción más antiguos, pero la llegada espontánea de ejemplares en dispersión ha llevado a la administración autonómica a tomar medidas activas. El monte de **El Pardo**, una extensa zona forestal periurbana gestionada por Patrimonio Nacional —el organismo público que administra los bienes del Estado vinculados a la Corona—, ha sido identificado como un hábitat potencialmente adecuado para acoger una población estable de la especie.\n\nEl **Seprona** es la unidad especializada de la Guardia Civil encargada de la protección del medio natural y la fauna silvestre. Su intervención en casos de muerte de especies protegidas es obligatoria por ley, ya que el lince ibérico está catalogado como especie en peligro de extinción tanto en la legislación española como en la europea, y su muerte —sea por la causa que sea— puede constituir un delito penal.",
+    "questions": [
+      "- ¿Debería España invertir más en medidas de seguridad vial específicas para la fauna en zonas de dispersión del lince, aunque ello suponga un coste económico elevado?",
+      "- ¿Es suficiente con proteger legalmente la especie, o la recuperación real del lince ibérico requiere transformaciones más profundas en el modelo de infraestructuras y urbanismo?",
+      "- ¿Qué responsabilidad tienen los conductores que atropellan animales protegidos, y debería el marco penal ser más estricto en estos casos?",
+      "- ¿Cómo deberían los medios equilibrar la cobertura de sucesos individuales —un animal muerto— con el contexto estructural que los hace posibles?",
+      "- Si el lince ibérico ha logrado recuperarse gracias a décadas de esfuerzo colectivo, ¿qué dice sobre las prioridades de la sociedad el hecho de que los atropellos sigan siendo la principal causa de muerte no natural?"
+    ]
+  },
+  "category": "ciencia",
+  "categories": [
+    "ciencia",
+    "sociedad"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/IGEM5D2NOFG7PLXPMW253Y2ENA.jpg?auth=8490bd126010e8d61e4cd2f9ad173bfb99f605a35e7084aa0a5530142da56898&amp;width=1200",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T13:34:19.582Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/IGEM5D2NOFG7PLXPMW253Y2ENA.jpg?auth=8490bd126010e8d61e4cd2f9ad173bfb99f605a35e7084aa0a5530142da56898&amp;width=1200",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/03/11/el-lince-iberico-amplia-su-territorio-con-nuevas-poblaciones-en-cuenca-y-palencia.jpeg",
+      "source": "20 Minutos"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 82,
+      "title": "Un lince muere atropellado por primera vez en una carretera de Madrid",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-03-02/un-lince-muere-atropellado-en-una-carretera-de-madrid.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 1401,
+      "title": "Hallan muerto a un lince ibérico en una cuneta en San Fernando de Henares",
+      "url": "https://www.20minutos.es/madrid/hallan-muerto-un-lince-iberico-una-cuneta-san-fernando-henares_6940581_0.html",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 8,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 9,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 11,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 12,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 13,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 14,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    }
+  ]
+}

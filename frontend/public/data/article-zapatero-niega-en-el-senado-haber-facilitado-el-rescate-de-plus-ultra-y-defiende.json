@@ -1,0 +1,427 @@
+{
+  "id": 80,
+  "clusterId": 7510,
+  "editionId": 10,
+  "slug": "zapatero-niega-en-el-senado-haber-facilitado-el-rescate-de-plus-ultra-y-defiende",
+  "headline": "Zapatero niega en el Senado haber facilitado el rescate de Plus Ultra y defiende sus contratos",
+  "summary": "El expresidente José Luis Rodríguez Zapatero compareció ante la comisión de investigación del Senado para responder sobre su relación con el rescate a la aerolínea Plus Ultra y sus contratos con empresas vinculadas al empresario Julio Martínez, imputado en el caso.",
+  "sections": {
+    "facts": "**José Luis Rodríguez Zapatero** compareció este lunes en la comisión de investigación del **caso Koldo** del Senado, a petición del Partido Popular, para aclarar su vinculación con el rescate público de **53 millones de euros** concedido a la aerolínea **Plus Ultra** durante la pandemia. El expresidente negó categóricamente haber facilitado dicho rescate: \"No, en absoluto. Nadie me ha pedido nada para Plus Ultra jamás\", declaró ante los senadores.\n\nZapatero reveló que desde 2020 mantiene un contrato como consultor con **Análisis Relevante**, empresa propiedad de **Julio Martínez**, por el cual ha facturado una media de **70.000 euros brutos anuales**. El acuerdo incluía también servicios de la empresa de comunicación de sus hijas. Según informaciones previas, el monto total del contrato ascendería a unos **600.000 euros** entre 2020 y 2025.\n\nEl empresario **Julio Martínez** se encuentra imputado en el caso Plus Ultra por presuntos desvíos irregulares de parte del préstamo público. Su empresa Análisis Relevante habría recibido casi **medio millón de euros** de Plus Ultra por asesorías relacionadas con problemas de la aerolínea en Venezuela. Durante la comparecencia, Zapatero se negó a facilitar sus conversaciones de WhatsApp con Martínez, alegando \"derecho a la intimidad\".\n\nLa sesión se desarrolló en un clima de fuerte confrontación política. Los senadores del PP acusaron a Zapatero de actuar como \"lobista de regímenes totalitarios\", mientras el expresidente calificó las acusaciones de \"enormes falsedades\" y \"difamaciones\", asegurando que \"ganaré pese a sus mentiras\".",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "Neutral",
+        "toneColor": "#4A90E2",
+        "summary": "Ofrece cobertura equilibrada centrándose en las declaraciones directas de Zapatero y sus respuestas específicas a cada acusación. Incluye datos concretos sobre ingresos como consultor sin editorializar sobre su legitimidad."
+      },
+      {
+        "sourceName": "elDiario.es",
+        "tone": "Contextual",
+        "toneColor": "#7B68EE",
+        "summary": "Enmarca la comparecencia como un 'juicio político' del PP, proporcionando contexto sobre la situación económica de Zapatero y explicando las conexiones empresariales sin prejuzgar su legalidad."
+      },
+      {
+        "sourceName": "OKDiario",
+        "tone": "Crítico",
+        "toneColor": "#FF6B6B",
+        "summary": "Estructura la información como un listado de negaciones de Zapatero, sugiriendo incredulidad ante sus respuestas. Enfatiza las conexiones con Venezuela y establece paralelos con otros casos polémicos como el del fiscal general."
+      },
+      {
+        "sourceName": "El Español",
+        "tone": "Sensacionalista",
+        "toneColor": "#FF8C00",
+        "summary": "Presenta la comparecencia como un enfrentamiento directo, destacando las declaraciones más combativas de ambas partes. Utiliza un enfoque de confrontación política más que de análisis técnico del caso."
+      }
+    ],
+    "hidden": "Los medios muestran **diferencias significativas en el contexto temporal** que proporcionan. Mientras algunos mencionan que la comparecencia coincide con campaña electoral en Castilla y León, otros omiten este dato que podría explicar el timing político de la citación. Esta omisión es relevante porque contextualiza la comparecencia dentro de una estrategia electoral más amplia.\n\nExiste también **disparidad en el tratamiento de las cifras económicas**. Algunos medios se limitan a mencionar los 70.000 euros anuales declarados por Zapatero, mientras otros aportan el dato más completo de 600.000 euros totales del contrato hasta 2025. Esta diferencia de detalle puede influir significativamente en la percepción del lector sobre la magnitud económica de la relación contractual.\n\nFinalmente, hay **omisiones notables sobre aspectos técnicos del caso Plus Ultra**. Ningún medio profundiza en los criterios legales que justificaron el rescate público original, ni en si los servicios de consultoría prestados por Análisis Relevante tenían relación directa con dicho rescate. Esta información sería crucial para que los lectores puedan evaluar si existe una conexión real entre ambos asuntos o si se trata de coincidencias temporales sin vinculación causal.",
+    "context": "**José Luis Rodríguez Zapatero** fue presidente del Gobierno de España entre 2004 y 2011 por el Partido Socialista. Desde que abandonó La Moncleda, ha desarrollado una intensa actividad como consultor internacional, especialmente en temas relacionados con América Latina, donde ha participado en procesos de diálogo político en países como Venezuela.\n\nEl **caso Plus Ultra** se refiere al rescate público de 53 millones de euros que el Gobierno concedió en 2020 a esta aerolínea durante la pandemia de COVID-19, en el marco de las ayudas a empresas estratégicas. La investigación judicial se centra en presuntos desvíos irregulares de parte de estos fondos públicos y en las conexiones empresariales de algunos implicados.\n\nLa **comisión de investigación del caso Koldo** en el Senado fue creada para investigar la trama de corrupción que afecta a varios contratos públicos durante la pandemia. **Koldo García**, exasesor del exministro José Luis Ábalos, es una figura central en esta investigación que abarca desde mascarillas hasta otros contratos públicos. El Partido Popular, que tiene mayoría absoluta en el Senado, ha utilizado esta comisión para citar a diversos dirigentes socialistas.\n\n**Julio Martínez** es un empresario que mantiene vínculos tanto con Plus Ultra como con Zapatero a través de su empresa Análisis Relevante. Su imputación en el caso ha generado interrogantes sobre si existió algún tipo de influencia o facilitación irregular en el proceso de concesión del rescate público a la aerolínea.",
+    "questions": [
+      "¿Existe alguna evidencia concreta que vincule los servicios de consultoría de Zapatero con el proceso de rescate de Plus Ultra, o se trata de una coincidencia temporal?",
+      "¿Son legales y éticos los contratos de consultoría de expresidentes con empresas privadas, especialmente cuando estas tienen relación con decisiones gubernamentales posteriores?",
+      "¿Responde la estrategia del PP de citar a Zapatero durante una campaña electoral a una búsqueda legítima de transparencia o a una instrumentalización política del caso?",
+      "¿Qué mecanismos de control existen para evitar que los rescates públicos a empresas puedan ser utilizados posteriormente para beneficiar a terceros?",
+      "¿Deberían los expresidentes tener limitaciones específicas en sus actividades profesionales posteriores para evitar conflictos de interés?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "economía"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/M56EXSWUTREWTKKN5M3DHS26VU.jpg?auth=da2f17be1faec76c49e0e5a681671ff4167fdd6075b2ba86acbaacf535de751d&amp;width=414",
+  "sourcesCount": 4,
+  "createdAt": "2026-03-02T13:08:13.217Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/M56EXSWUTREWTKKN5M3DHS26VU.jpg?auth=da2f17be1faec76c49e0e5a681671ff4167fdd6075b2ba86acbaacf535de751d&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/9951e9c1-9c4c-4d2f-a908-969976eff335_16-9-aspect-ratio_default_0_x447y63.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/fc309b19-d080-49e0-b358-63d4cc4372d4_16-9-aspect-ratio_default_0_x534y81.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/ff60e133-340a-4533-8914-459866f293a7_16-9-aspect-ratio_default_0_x577y89.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/6c297e41-84e9-40f1-848c-804d07600119_16-9-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/98304fd9-edcc-4208-8c91-e5ddf7755943_16-9-aspect-ratio_default_0_x2072y367.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/e8f5d7ee-ae2f-4f46-9c44-c685e4511d15_16-9-aspect-ratio_default_0_x1635y0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/bf82c932-0c98-4a62-ad5c-c690f23d5ce5_16-9-aspect-ratio_default_0_x1790y258.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/3c0b5b19-7a59-4006-ba5a-b40d5b6f6950_16-9-aspect-ratio_default_0_x2793y488.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/ee10627b-40bb-41d9-833e-70ac613ce9cd_16-9-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/975465c2-2b0c-40ba-951a-af9e16564321_16-9-aspect-ratio_default_0_x2096y458.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/452986c3-3ea4-45c3-bad4-b202aec9b681_16-9-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/cec22f98-d0ac-4fe0-9ecf-ce2263652e3b_16-9-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/7cb08cc4-39e9-4237-a9b9-dcb6f734565b_16-9-aspect-ratio_default_0_x1903y254.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/zapatero1-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/zapatero-senado-comparecencia-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151743_261706794_1024x576.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/02/02/actualidad/1003744112874_261209073_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744115658_261242394_320x180.jpg",
+      "source": "El Español"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7286,
+      "title": "Zapatero, sobre si facilitó el rescate de la aerolínea Plus Ultra: “No, en absoluto”",
+      "url": "https://elpais.com/espana/2026-03-02/comparecencia-de-zapatero-en-la-comision-del-caso-koldo-del-senado-para-explicar-su-relacion-con-plus-ultra-en-directo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7690,
+      "title": "'Juicio' a Zapatero en el Senado: del bulo de la mina de oro al contrato sospechoso con un imputado del 'caso Plus Ultra'",
+      "url": "https://www.eldiario.es/politica/juicio-zapatero-senado-bulo-mina-oro-contrato-sospechoso-imputado-caso-plus-ultra_1_13025425.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7697,
+      "title": "Zapatero niega la acusación del PP de que la empresa a la que facturó como consultor era una sociedad instrumental para cobrar de Plus Ultra",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119459.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7698,
+      "title": "Zapatero afirma que el empresario que lo contrató como consultor “nunca” le pidió “nada extraño”",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119455.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7700,
+      "title": "Zapatero: \"Me parece fundamental recuperar el diálogo Junts-PSOE; no aprovechar estos momentos es malo para España\"",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119443.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7701,
+      "title": "Zapatero admite que “facilitó” que Maduro recibiera a Javier Hidalgo para negociar una deuda de Air Europa",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119442.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7702,
+      "title": "Zapatero asegura su respaldo a Pedro Sánchez: \"Soy leal al PSOE hasta el último día de mi vida\"",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119438.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7703,
+      "title": "Zapatero denuncia el “acoso” a sus hijas en su actividad privada: “No han tenido ni un contrato con la Administración pública”",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119437.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7704,
+      "title": "Zapatero, a Vox sobre si Sánchez lo ha defenestrado: “Qué más quisieran ustedes”",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119435.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7705,
+      "title": "Zapatero dice que tuvo “muy buena relación” con Santos Cerdán desde que le conoció en 2023",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119433.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7706,
+      "title": "Zapatero recuerda la carta en la que el 'Pollo' Carvajal desmentía que le hubieran regalado una mina de oro en Venezuela",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119432.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7707,
+      "title": "Zapatero niega tener relación alguna con el sobre que Aldama dice que le dio Delcy Rodríguez: “Es una patraña”",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119430.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7708,
+      "title": "Zapatero: “Yo sí tengo sentido de estado y defendí a Aznar ante el señor Chávez”",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119429.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7709,
+      "title": "Zapatero admite que la contratación de sus hijas por la empresa que asesoró a Plus Ultra fue idea suya: \"Fue parte del acuerdo\"",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119427.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7712,
+      "title": "Zapatero declara en la comisión de investigación del caso Koldo en el Senado",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119422.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7876,
+      "title": "El PP acorrala a Zapatero por los whatsapp con Julio Martínez: \"¿Los ha borrado como el fiscal general?\"",
+      "url": "https://okdiario.com/espana/pp-acorrala-zapatero-whatsapp-julio-martinez-borrado-como-fiscal-general-16334183",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7877,
+      "title": "Las 16 negaciones de Zapatero en el Senado: ni comisión por el rescate de Plus Ultra ni pagos del chavismo",
+      "url": "https://okdiario.com/espana/16-negaciones-zapatero-senado-ni-comision-rescate-plus-ultra-ni-pagos-del-chavismo-16332688",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 8522,
+      "title": "Comparecencia de Zapatero en el Senado, en directo | El PP acusa a Zapatero de ser un \"lobista de regímenes totalitarios\" y él avisa: \"Ganaré pese a sus mentiras sobre Plus Ultra y Venezuela\"",
+      "url": "https://www.elespanol.com/espana/politica/20260302/zapatero-directo-senado-ultima-hora-plus-ultra-venezuela-koldo-caso/1003744151288_10.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8533,
+      "title": "Maíllo califica de \"estafa\" los informes de Zapatero para ‘Julito' Martínez tras analizarlos con IA : \"Son un corta y pega\"",
+      "url": "https://www.elespanol.com/espana/politica/20260302/maillo-acusa-estafa-zapatero-informes-julito-martinez-analizarlos-ia-corta-pega/1003744151822_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8534,
+      "title": "Zapatero admite en el Senado que sabía que 'Julito' Martínez trabajaba para la aerolínea Plus Ultra cuando le pagaba a él como consultor",
+      "url": "https://www.elespanol.com/espana/politica/20260302/zapatero-admite-sabia-julito-martinez-trabajaba-plus-ultra-pagaba-consultor/1003744151348_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

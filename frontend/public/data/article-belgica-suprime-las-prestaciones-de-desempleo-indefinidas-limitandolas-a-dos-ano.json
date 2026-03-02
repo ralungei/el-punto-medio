@@ -1,0 +1,146 @@
+{
+  "id": 68,
+  "clusterId": 7280,
+  "editionId": 10,
+  "slug": "belgica-suprime-las-prestaciones-de-desempleo-indefinidas-limitandolas-a-dos-ano",
+  "headline": "Bélgica suprime las prestaciones de desempleo indefinidas limitándolas a dos años",
+  "summary": "El gobierno belga elimina el cobro de subsidios por desempleo de duración ilimitada, estableciendo un máximo de dos años. La medida entra en vigor mediante un calendario progresivo que se completará en julio de 2027, pese a la oposición sindical.",
+  "sections": {
+    "facts": "El ejecutivo belga ha puesto en marcha una reforma que suprime las **prestaciones por desempleo de duración indefinida**, limitándolas a un máximo de **dos años**. La medida afecta inicialmente a todas las solicitudes presentadas desde marzo de 2026, mientras que los beneficiarios previos seguirán un régimen transitorio con eliminación progresiva.\n\nLa **Oficina Nacional de Empleo belga (ONEM)** implementará la supresión mediante **seis \"olas\" consecutivas**. La primera fase ya eliminó las ayudas para personas con más de 20 años acumulados de desempleo completo, así como para receptores de subsidios de inserción que comenzaron a cobrarlos antes del 1 de enero de 2025.\n\nEl sistema también modifica las **prestaciones de inserción** destinadas a jóvenes y personas con poca experiencia laboral, cuya duración queda reducida a **12 meses**. Sin embargo, la normativa contempla excepciones para colectivos específicos como artistas, pescadores y mayores de 55 años con al menos 30 años de servicio.\n\nEl gobierno federal justifica la reforma como una respuesta a la **escasez de mano de obra** que atraviesa el país. Los sindicatos han rechazado frontalmente la medida y han presentado recursos ante instancias judiciales. El calendario establece que el **1 de julio de 2027** quedará completamente eliminado el sistema de desempleo indefinido en Bélgica.",
+    "coverage": [
+      {
+        "sourceName": "El Mundo",
+        "tone": "neutral",
+        "toneColor": "#6B7280",
+        "summary": "Presenta la información de forma equilibrada, centrándose en los aspectos técnicos y procedimentales. Detalla el calendario de implementación por \"olas\" y las excepciones previstas, sin valoraciones políticas sobre la medida."
+      },
+      {
+        "sourceName": "La Razón",
+        "tone": "favorable",
+        "toneColor": "#10B981",
+        "summary": "Utiliza la noticia para defender que España debería seguir el ejemplo belga. Critica el sistema español de subsidios como una herramienta de clientelismo electoral y presenta la reforma belga como un modelo a imitar."
+      }
+    ],
+    "hidden": "La cobertura revela diferencias significativas en el enfoque editorial. **El Mundo** ofrece información técnica sin valoración política, omitiendo cualquier análisis sobre las implicaciones que esta medida podría tener para otros países europeos, incluida España. Esta omisión evita generar debates sobre la viabilidad de reformas similares en territorio español.\n\n**La Razón**, por el contrario, utiliza la noticia belga como pretexto para una crítica directa al sistema español de subsidios, presentándolo como \"clientelismo electoral\". Este enfoque revela una agenda editorial clara: legitimar reformas similares en España mediante el ejemplo internacional. Sin embargo, omite detalles cruciales como las demandas sindicales ante el Tribunal Constitucional belga, información que podría matizar la presentación de la medida como un éxito indiscutible.\n\nAmbos medios minimizan el contexto socioeconómico específico de Bélgica que justifica la reforma, como los datos concretos sobre escasez de mano de obra o las tasas de desempleo estructural. Esta omisión impide al lector evaluar si las circunstancias belgas son extrapolables a otros países con diferentes realidades laborales.",
+    "context": "**Bélgica** mantiene tradicionalmente uno de los sistemas de protección social más generosos de Europa, con prestaciones por desempleo que, hasta ahora, podían extenderse indefinidamente tras agotar el período contributivo inicial. Este modelo se estableció en el contexto de la reconstrucción europea tras la Segunda Guerra Mundial, cuando los países desarrollaron amplios estados de bienestar.\n\nEl **primer ministro belga** lidera un gobierno federal en un país con una estructura política compleja, dividido entre las regiones de Flandes, Valonia y Bruselas-Capital, cada una con competencias específicas en materia laboral. La reforma se produce en un contexto de tensiones crecientes sobre el mercado laboral europeo, donde muchos países enfrentan simultáneamente altas tasas de desempleo juvenil y escasez de trabajadores en sectores específicos.\n\nLos **sindicatos belgas** tienen tradicionalmente un poder de negociación elevado y suelen presentar recursos ante el **Tribunal Constitucional** cuando consideran que las reformas laborales vulneran derechos adquiridos. La **Oficina Nacional de Empleo (ONEM)** es el organismo público responsable de gestionar las prestaciones por desempleo en el país.\n\nEsta reforma se enmarca en una tendencia europea más amplia de revisión de los sistemas de bienestar, donde gobiernos de diferentes signos políticos buscan equilibrar la protección social con la sostenibilidad fiscal y la activación laboral, especialmente en un contexto de envejecimiento demográfico y cambios en el mercado de trabajo.",
+    "questions": [
+      "¿Es sostenible económicamente mantener prestaciones por desempleo indefinidas en el actual contexto demográfico europeo?",
+      "¿Qué diferencias estructurales entre Bélgica y España harían viable o inviable una reforma similar?",
+      "¿Cómo pueden los gobiernos equilibrar la protección social con la activación laboral sin generar exclusión social?",
+      "¿Qué papel deberían jugar los sindicatos en el diseño de reformas que afectan a derechos laborales consolidados?",
+      "¿Existen alternativas a la limitación temporal que mantengan los incentivos para la búsqueda activa de empleo?"
+    ]
+  },
+  "category": "economía",
+  "categories": [
+    "economía",
+    "política",
+    "sociedad"
+  ],
+  "imageUrl": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723570090108.jpg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T13:05:05.868Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723570090108.jpg",
+      "source": "El Mundo"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7504,
+      "title": "Bélgica dice adiós a la prestación del paro de por vida",
+      "url": "https://www.elmundo.es/economia/2026/03/01/69a403b1e85ecefe268b4583.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 7827,
+      "title": "El fin de los subsidiados de por vida",
+      "url": "https://www.larazon.es/opinion/fin-subsidiados-vida_2026030269a4cc142f00a04688302cef.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

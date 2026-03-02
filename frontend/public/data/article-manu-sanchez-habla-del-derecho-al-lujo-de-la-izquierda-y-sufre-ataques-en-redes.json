@@ -1,0 +1,145 @@
+{
+  "id": 60,
+  "clusterId": 7027,
+  "editionId": 10,
+  "slug": "manu-sanchez-habla-del-derecho-al-lujo-de-la-izquierda-y-sufre-ataques-en-redes",
+  "headline": "Manu Sánchez habla del 'derecho al lujo' de la izquierda y sufre ataques en redes",
+  "summary": "El humorista sevillano participó en 'Lo de Évole' donde defendió que la izquierda también puede disfrutar del lujo sin culpa. Posteriormente mostró los insultos y amenazas recibidos en redes sociales, donde le desean que vuelva su cáncer.",
+  "sections": {
+    "facts": "**Manu Sánchez** participó en el programa **'Lo de Évole'** grabado en el teatro Cartuja Center CITE de Sevilla ante un público que incluía políticos como **Juanma Moreno Bonilla** y **María Jesús Montero**. Durante la entrevista, el humorista sevillano defendió lo que denominó el \"derecho a las gambas\", argumentando que \"hay mucha gente de derechas que cree que las gambas son solo para ellos\".\n\nSánchez explicó que durante años sintió culpa por comprarse un coche caro, confesando que \"me daba cosa que me vieran, que pareciera que tengo ego\". Según relató, fue su padre quien le convenció de que disfrutar de lo conseguido con esfuerzo no debería generar vergüenza. El humorista defendió su posición afirmando: \"Yo trabajo mucho, pago el máximo de impuestos y con lo que gano me compro lo que me da la gana\".\n\nTras la emisión del programa, **Manu Sánchez** compartió en redes sociales una serie de mensajes de odio recibidos de cuentas identificadas como de ultraderecha. Entre los insultos destacan amenazas y referencias a su enfermedad pasada, incluyendo deseos de que regrese el **cáncer** que padeció. **Jordi Évole** mostró su solidaridad publicando: \"Se acabó. Hay que responder a toda esta gentuza. Son amenazas. Es odio. Siempre en tu equipo, Manu\".",
+    "coverage": [
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "Neutro",
+        "toneColor": "#4A90E2",
+        "summary": "Presenta el evento como un espectáculo teatral centrándose en las reflexiones sociopolíticas del humorista. Destaca sus declaraciones sobre el derecho al lujo y el concepto de 'socialismo de yates y chalés', pero omite completamente los ataques recibidos en redes sociales."
+      },
+      {
+        "sourceName": "Público",
+        "tone": "Favorable",
+        "toneColor": "#E74C3C",
+        "summary": "Enfoca la cobertura exclusivamente en el problema del acoso digital, presentando a Sánchez como víctima de ataques ultras. Destaca la solidaridad de Évole y los mensajes crueles sobre su enfermedad, pero omite por completo el contenido del programa televisivo."
+      }
+    ],
+    "hidden": "La cobertura revela **dos narrativas completamente diferentes** sobre el mismo suceso, sugiriendo una clara división ideológica en el tratamiento informativo. **La Vanguardia** construye un relato centrado en el debate sociopolítico, presentando a Sánchez como un humorista que reflexiona sobre prejuicios de clase, pero **omite deliberadamente** los ataques de odio posteriores. Esta omisión es significativa porque minimiza las consecuencias reales que pueden tener ciertos discursos públicos.\n\nPor el contrario, **Público** invierte completamente la perspectiva: ignora el contenido del programa que generó la polémica y se centra exclusivamente en victimizar a Sánchez. Esta **omisión del contexto original** impide al lector entender qué provocó los ataques, presentando una narrativa incompleta que favorece la polarización. La ausencia de las declaraciones sobre \"gambas\" y \"derecho al lujo\" en Público sugiere una estrategia editorial para evitar debates internos en la izquierda sobre consumo y coherencia ideológica.\n\n**Ningún medio ofrece una visión completa**: La Vanguardia informa sobre la causa pero no sobre las consecuencias, mientras Público hace exactamente lo contrario. Esta **fragmentación informativa** obliga al ciudadano a consultar múltiples fuentes para comprender realmente lo ocurrido, evidenciando cómo los sesgos editoriales pueden distorsionar la realidad al seleccionar qué aspectos destacar u omitir.",
+    "context": "**Manu Sánchez** es un humorista sevillano que ha ganado popularidad en los últimos años por su estilo directo y sus comentarios sobre política y sociedad. Se define ideológicamente de izquierdas y ha trabajado para medios como **Canal Sur**, la televisión pública andaluza. En el pasado padeció cáncer, experiencia que ha compartido públicamente y que algunos usuarios han utilizado para atacarle.\n\n**'Lo de Évole'** es un programa de entrevistas presentado por **Jordi Évole** en La Sexta, conocido por abordar temas políticos y sociales con un enfoque cercano y directo. Évole, periodista catalán, también ha sido objetivo frecuente de ataques en redes sociales por sus posiciones políticas. El programa suele grabarse en diferentes ciudades españolas ante público en vivo.\n\nEl debate sobre el **\"derecho al lujo\" de la izquierda** es recurrente en España, donde tradicionalmente se ha cuestionado la coherencia de políticos o figuras públicas progresistas que disfrutan de un alto nivel de vida. Este \"complejo de culpa\" ha sido analizado por sociólogos como una herencia cultural que asocia la izquierda con la austeridad obligatoria, generando tensiones internas sobre consumo y estatus social en sectores progresistas.",
+    "questions": [
+      "¿Es legítimo cuestionar el estilo de vida de las figuras públicas según su ideología política?",
+      "¿Cómo afecta la fragmentación informativa a la comprensión ciudadana de los hechos?",
+      "¿Debe la izquierda sentir culpa por el éxito económico individual?",
+      "¿Son los ataques en redes sociales una consecuencia inevitable del debate público?",
+      "¿Qué responsabilidad tienen los medios al seleccionar qué aspectos de una noticia destacar u omitir?"
+    ]
+  },
+  "category": "cultura",
+  "categories": [
+    "cultura",
+    "sociedad"
+  ],
+  "imageUrl": "https://www.lavanguardia.com/files/image_40_40/uploads/2026/02/24/699d4c0a8e681.jpeg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T13:03:31.869Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://www.lavanguardia.com/files/image_40_40/uploads/2026/02/24/699d4c0a8e681.jpeg",
+      "source": "La Vanguardia"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7643,
+      "title": "El humorista Manu Sánchez reivindica el “derecho a las gambas” en ‘Lo de Évole’: “Hay mucha gente de derechas que se cree que son solo para ellos”",
+      "url": "https://www.lavanguardia.com/television/20260301/11478699/humorista-manu-sanchez-reivindica-derecho-gambas-evole-hay-gente-derechas-cree-son.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7764,
+      "title": "El humorista Manu Sánchez muestra los insultos y amenazas de ultras que recibe en las redes y Jordi Évole responde: \"Siempre en tu equipo, Manu\"",
+      "url": "https://www.publico.es/tremending/humorista-manu-sanchez-muestra-insultos-amenazas-ultras-recibe-redes-jordi-evole-responde-siempre-equipo-manu.html",
+      "sourceId": 7,
+      "source": {
+        "id": 7,
+        "name": "Público",
+        "politicalLean": "left"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

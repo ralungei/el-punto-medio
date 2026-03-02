@@ -1,0 +1,144 @@
+{
+  "id": 70,
+  "clusterId": 7397,
+  "editionId": 10,
+  "slug": "junts-anuncia-enmienda-a-la-totalidad-contra-los-presupuestos-catalanes-de-2026",
+  "headline": "Junts anuncia enmienda a la totalidad contra los presupuestos catalanes de 2026",
+  "summary": "La formación de Carles Puigdemont rechaza las cuentas públicas aprobadas por el Govern de Salvador Illa el pasado viernes. La portavoz Mònica Sales critica el acuerdo del ejecutivo socialista con los Comunes en materia de vivienda.",
+  "sections": {
+    "facts": "**Junts per Catalunya** ha confirmado que presentará una **enmienda a la totalidad** contra el proyecto de presupuestos de la **Generalitat** para 2026, aprobado por el Govern de **Salvador Illa** el pasado viernes. La decisión fue anunciada por la presidenta del grupo parlamentario, **Mònica Sales**, durante una comparecencia en el **Parlament**.\n\nLa formación postconvergente se suma así al rechazo ya anunciado por **PP** y **Vox**, configurando una oposición parlamentaria que cuestiona las primeras cuentas públicas del presidente socialista. Sales ha dirigido sus críticas principalmente al **pacto alcanzado entre el Govern y los Comunes** en materia de vivienda, acusando al ejecutivo de exportar \"el modelo de Ada Colau en Barcelona a toda Catalunya\".\n\nMientras tanto, **Esquerra Republicana** mantiene abiertas las negociaciones con el **PSC** sobre la recaudación del **IRPF** por parte de la administración catalana. Los republicanos han amenazado con presentar también una enmienda a la totalidad si no se resuelven sus demandas, lo que podría hacer inviable la tramitación de los presupuestos. El debate parlamentario sobre las enmiendas a la totalidad tendrá lugar dentro de **20 días**, dejando margen para posibles acuerdos de última hora.",
+    "coverage": [
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "Neutral",
+        "toneColor": "#4A90E2",
+        "summary": "Enfoque procedimental que contextualiza la enmienda dentro del juego parlamentario habitual. Destaca las negociaciones pendientes con múltiples partidos y el acuerdo con los Comunes como punto de fricción principal."
+      },
+      {
+        "sourceName": "La Razón",
+        "tone": "Crítico",
+        "toneColor": "#E74C3C",
+        "summary": "Presenta la enmienda como confrontación directa contra Illa, enfatizando las declaraciones más duras de Sales sobre \"dependencia, incompetencia e inestabilidad\" del Govern y caracterizando la tramitación como cuestión de confianza."
+      }
+    ],
+    "hidden": "La diferencia de cobertura revela distintos enfoques interpretativos sobre la gravedad de la situación. **La Razón** amplifica las declaraciones más confrontativas de Sales, presentando la enmienda como \"rechazo frontal\" al modelo de gobierno, mientras **La Vanguardia** relativiza el conflicto como parte de la negociación parlamentaria normal. Esta diferencia de énfasis puede influir en cómo los lectores perciben si se trata de una crisis de gobernabilidad o de tensiones políticas habituales.\n\nTambién existe una **omisión significativa sobre el alcance real** de la amenaza presupuestaria. Si bien ambos medios mencionan que ERC mantiene negociaciones, no profundizan en que la suma de enmiendas de Junts, PP, Vox y potencialmente ERC podría **tumbar definitivamente los presupuestos**, forzando al Govern a prorrogar las cuentas de 2025. Esta posibilidad, crucial para entender las consecuencias políticas, queda minimizada en ambas coberturas.",
+    "context": "**Salvador Illa** lidera el primer gobierno socialista en Catalunya desde 2003, tras ganar las elecciones autonómicas de mayo de 2024 por un escaso margen. Su ejecutivo depende de acuerdos puntuales con diferentes fuerzas para sacar adelante sus iniciativas, ya que el **PSC** no tiene mayoría absoluta en el **Parlament**.\n\n**Junts per Catalunya**, liderado por **Carles Puigdemont** desde el exilio, es el principal partido de la oposición y representa el sector independentista más crítico con el actual gobierno. **Mònica Sales** actúa como portavoz parlamentaria de la formación postconvergente, que ve en cada votación una oportunidad para debilitar al ejecutivo de Illa.\n\nEl **pacto con los Comunes** en materia de vivienda incluye medidas como limitaciones a los precios del alquiler y restricciones a los pisos turísticos, políticas que generan fuerte oposición en sectores económicos y partidos de centro-derecha. Este acuerdo reproduce en Catalunya las políticas aplicadas por **Ada Colau** durante su mandato como alcaldesa de Barcelona, lo que explica las críticas de Junts sobre \"exportar el modelo Colau\".\n\nLa **enmienda a la totalidad** es un mecanismo parlamentario que permite rechazar íntegramente un proyecto de ley o presupuestos, impidiendo su tramitación. Si prospera, obligaría al Govern a presentar un nuevo proyecto o prorrogar los presupuestos anteriores, complicando significativamente su capacidad de gobierno.",
+    "questions": [
+      "¿Puede Illa mantener la gobernabilidad si fracasan sus primeros presupuestos?",
+      "¿Qué papel jugará ERC: bisagra decisiva o oposición total?",
+      "¿Refleja esta crisis las dificultades estructurales de gobernar Catalunya sin mayorías claras?",
+      "¿Hasta qué punto las políticas de vivienda dividen realmente a la sociedad catalana?",
+      "¿Busca Junts una alternativa de gobierno o simplemente desgastar a Illa?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política"
+  ],
+  "imageUrl": "https://www.lavanguardia.com/files/image_65_65/uploads/1970/01/01/5f9ad949d5452.jpeg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T13:05:28.192Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://www.lavanguardia.com/files/image_65_65/uploads/1970/01/01/5f9ad949d5452.jpeg",
+      "source": "La Vanguardia"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7563,
+      "title": "Junts presentará una enmienda a la totalidad a los presupuestos de Illa",
+      "url": "https://www.lavanguardia.com/politica/20260302/11479035/junts-presentara-enmienda-totalidad-presupuestos-illa.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7828,
+      "title": "Junts presenta una enmienda a la totalidad a los presupuestos de Illa para 2026",
+      "url": "https://www.larazon.es/espana/junts-presenta-enmienda-totalidad-presupuestos-illa-2026_2026030269a57b6c9243cc133c6cabcd.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

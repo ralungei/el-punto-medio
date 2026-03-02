@@ -1,0 +1,153 @@
+{
+  "id": 35,
+  "clusterId": 2819,
+  "editionId": 9,
+  "slug": "el-gobierno-crea-un-buzon-anonimo-para-denunciar-irregularidades-en-las-practica",
+  "headline": "El Gobierno crea un buzón anónimo para denunciar irregularidades en las prácticas laborales",
+  "summary": "El Ministerio de Juventud e Infancia ha puesto en marcha un canal de denuncias anónimas para que estudiantes en prácticas puedan reportar abusos laborales a la Inspección de Trabajo. La herramienta busca combatir la explotación de becarios mediante la sustitución encubierta de trabajadores regulares.",
+  "sections": {
+    "facts": "El **Ministerio de Juventud e Infancia**, dirigido por **Sira Rego**, ha lanzado oficialmente el **'Buzón de las Becarias'**, un sistema de denuncias anónimas gestionado por el **Instituto de la Juventud de España (Injuve)** en colaboración con el **Organismo Estatal de Inspección de Trabajo y Seguridad Social**. La herramienta permite a estudiantes y antiguos becarios reportar irregularidades durante sus períodos formativos.\n\nLas situaciones denunciables incluyen la falta de relación entre estudios y práctica realizada, la sustitución encubierta de empleados de plantilla, la realización de tareas idénticas al personal contratado, la ausencia de tutorización adecuada y la asignación de responsabilidades que exceden el ámbito formativo. El **Injuve** recopilará estas denuncias y las trasladará a la **Inspección de Trabajo** para las investigaciones correspondientes.\n\nSegún datos ministeriales de **2023**, el **42%** de los jóvenes en prácticas ha experimentado algún tipo de explotación laboral. La iniciativa se enmarca dentro del **Estatuto del Becario**, aprobado recientemente por el Gobierno tras negociaciones con sindicatos y sin el respaldo patronal, que establece multas de hasta **225.000 euros** para empresas que incumplan los derechos de las personas en formación.",
+    "coverage": [
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "Neutral institucional",
+        "toneColor": "#4A90E2",
+        "summary": "Presenta la medida como parte de una política estructurada, destacando la colaboración interministerial y conectándola con antecedentes catalanes similares. Enfatiza el marco normativo del Estatuto del Becario y proporciona datos sobre explotación juvenil del 42%."
+      },
+      {
+        "sourceName": "20 Minutos",
+        "tone": "Favorable a la medida",
+        "toneColor": "#28A745",
+        "summary": "Utiliza terminología más directa sobre 'fraudes' empresariales y abusos. Subraya los tipos específicos de irregularidades denunciables y destaca las sanciones económicas de hasta 225.000 euros previstas en el Estatuto del Becario."
+      }
+    ],
+    "hidden": "La cobertura revela diferencias significativas en el **encuadre narrativo** de la misma iniciativa. Mientras **La Vanguardia** adopta un enfoque más institucional, presentando la medida como parte de una política estructurada y mencionando precedentes autonómicos que legitiman la iniciativa, **20 Minutos** emplea un lenguaje más combativo al hablar explícitamente de 'fraudes' y 'abusos empresariales', términos que el primer medio evita cuidadosamente.\n\nEsta diferencia terminológica no es casual: refleja posturas editoriales distintas sobre el papel del Estado en la regulación laboral. **La Vanguardia** minimiza la conflictividad al presentar la medida como colaboración institucional rutinaria, mientras **20 Minutos** la enmarca como una respuesta necesaria ante prácticas empresariales abusivas sistemáticas. Ambos medios omiten mencionar la **reacción patronal** al Estatuto del Becario, cuya ausencia de respaldo empresarial sugiere resistencias que ningún medio analiza en profundidad.\n\nLa ausencia de **voces críticas** o empresariales en ambas coberturas impide al lector conocer los argumentos contrarios a la medida, limitando su capacidad de formar una opinión completa sobre sus potenciales efectos en el mercado laboral juvenil.",
+    "context": "El **sistema de prácticas profesionales** en España ha sido tradicionalmente un punto de fricción entre el mundo educativo y empresarial. Los **convenios de prácticas** permiten a estudiantes acceder a experiencia laboral real, pero históricamente han generado controversias por su potencial uso como mano de obra gratuita o de bajo coste. El **Ministerio de Juventud e Infancia** es una cartera creada en la actual legislatura, dirigida por **Sira Rego**, exdiputada de Unidas Podemos, con el objetivo específico de abordar problemáticas juveniles.\n\nEl **Estatuto del Becario** representa la primera regulación integral de los derechos de estudiantes en prácticas en España. Su aprobación siguió años de negociaciones entre el Gobierno, sindicatos y organizaciones empresariales, aunque estas últimas finalmente no respaldaron el texto. La norma establece límites claros sobre horarios, funciones y condiciones de las prácticas, además de un régimen sancionador que puede alcanzar los **225.000 euros** en multas.\n\nLa **Inspección de Trabajo** es el organismo público encargado de vigilar el cumplimiento de la legislación laboral, incluyendo ahora las condiciones de las prácticas profesionales. Su colaboración con el **Instituto de la Juventud (Injuve)** busca crear un canal directo entre estudiantes afectados y la autoridad competente para investigar irregularidades. Esta iniciativa toma como referencia experiencias previas en **Cataluña**, donde organizaciones juveniles crearon sistemas similares en **2019** para denunciar abusos en prácticas formativas.",
+    "questions": [
+      "¿Será efectivo un sistema de denuncias anónimas para combatir prácticas empresariales arraigadas o requiere medidas complementarias?",
+      "¿Cómo equilibrar la protección de estudiantes en prácticas con las necesidades empresariales de formación práctica real?",
+      "¿Por qué la patronal no respaldó el Estatuto del Becario y qué impacto puede tener esta ausencia de consenso?",
+      "¿Existen incentivos suficientes para que las empresas mejoren voluntariamente las condiciones de las prácticas?",
+      "¿Puede esta medida reducir las oportunidades de prácticas disponibles si las empresas perciben mayor riesgo regulatorio?"
+    ]
+  },
+  "category": "sociedad",
+  "categories": [
+    "sociedad",
+    "política"
+  ],
+  "imageUrl": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/10/28/5fa5395f2dcbe.jpeg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T10:50:32.413Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/10/28/5fa5395f2dcbe.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_65_65/uploads/1970/01/01/5fa158efd4c9b.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/04/6909e5119a7b2.jpeg",
+      "source": "20 Minutos"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4546,
+      "title": "Juventud pone en marcha el buzón del becario, para denunciar irregularidades en las prácticas",
+      "url": "https://www.lavanguardia.com/vida/20260302/11478680/juventud-pone-marcha-buzon-becario-denunciar-irregularidades-practicas.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4714,
+      "title": "El Gobierno lanza un buzón para que los becarios denuncien los abusos y \"fraudes\" de las empresas durante sus prácticas",
+      "url": "https://www.20minutos.es/nacional/gobierno-lanza-un-buzon-para-que-los-becarios-denuncien-los-abusos-fraudes-las-empresas-durante-sus-practicas_6940453_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

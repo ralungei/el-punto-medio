@@ -1,0 +1,149 @@
+{
+  "id": 30,
+  "clusterId": 2646,
+  "editionId": 9,
+  "slug": "tenerife-registra-su-septimo-enjambre-sismico-de-febrero-con-senales-ineditas",
+  "headline": "Tenerife registra su séptimo enjambre sísmico de febrero con señales inéditas",
+  "summary": "La isla canaria acumula miles de pequeños terremotos localizados al oeste del Teide desde principios de mes. Los expertos detectan por primera vez nuevos tipos de señales sísmicas, aunque descartan riesgo inmediato de erupción.",
+  "sections": {
+    "facts": "**Tenerife** ha experimentado su **séptimo enjambre sísmico** durante el mes de febrero, una cifra que supera los registros de los últimos nueve años. Los terremotos, de pequeña magnitud, se concentran al **oeste de Las Cañadas del Teide** a profundidades de entre **7 y 9 kilómetros**.\n\n**Stavros Meletlidis**, vulcanólogo del **Instituto Geográfico Nacional (IGN)**, confirma que desde aproximadamente el **10 de febrero** se registran \"señales que es la primera vez que registramos\". **Itahiza Domínguez**, director del IGN en Canarias, reconoció el 19 de febrero que la actividad volcánica se sitúa \"un pasito más allá\", aunque el instituto mantiene que no varía la probabilidad de erupción a corto o medio plazo.\n\nEl **volcán Teide** mantiene actividad sísmica continuada desde **2004**, según los registros oficiales. Los expertos describen los eventos actuales como \"movimiento de algo que interactúa con otra cosa que no es totalmente sólida\", descartando la imagen simplificada de magma ascendente. Para confirmar una posible erupción, los científicos necesitarían detectar **deformación del terreno** y **cambios gravitatorios**, además de sismicidad perceptible por la población días antes del evento.\n\nEl jueves se registró un terremoto adicional con epicentro en el **volcán de Enmedio**, localizado en el mar entre Tenerife y Gran Canaria, que fue sentido por la población pero no guarda relación con la actividad del Teide.",
+    "coverage": [
+      {
+        "sourceName": "El Mundo",
+        "tone": "Alarmista",
+        "toneColor": "#ff6b35",
+        "summary": "Combina referencias mitológicas guanches con análisis técnico para crear un relato dramático sobre la preparación insuficiente ante el riesgo volcánico. Enfatiza el crecimiento demográfico en zonas peligrosas y critica hablar de 'normalidad' en la situación actual."
+      },
+      {
+        "sourceName": "Newtral",
+        "tone": "Moderado",
+        "toneColor": "#4a90e2",
+        "summary": "Adopta un encuadre científico-técnico que contextualiza la actividad sísmica como normal en un sistema volcánico activo. Explica los indicadores necesarios para predecir erupciones y diferencia entre eventos relacionados y no relacionados con el Teide."
+      }
+    ],
+    "hidden": "La cobertura revela enfoques contrastantes sobre la **gestión del riesgo** y la **comunicación pública**. El Mundo destaca aspectos sociodemográficos cruciales que Newtral omite: el **crecimiento exponencial** de la población en zonas de riesgo volcánico, particularmente en Santiago del Teide, y las deficiencias en planificación de evacuaciones masivas. Esta omisión es significativa porque la densidad poblacional actual convierte cualquier evento volcánico en un desafío logístico sin precedentes.\n\nPor el contrario, Newtral profundiza en aspectos técnicos que El Mundo minimiza: los **diferentes tipos de señales volcánicas**, la distinción entre eventos sísmicos relacionados y no relacionados con el Teide, y las **métricas específicas** que los científicos utilizan para evaluar el riesgo. Esta diferencia sugiere públicos objetivo distintos: uno enfocado en las implicaciones sociales inmediatas, otro en la comprensión científica del fenómeno.\n\nAmbos medios coinciden en rechazar el término \"nueva normalidad\" utilizado por las autoridades, pero por razones opuestas: El Mundo considera prematuro hablar de normalidad sin preparación adecuada, mientras Newtral argumenta que es normal en términos científicos pero requiere monitoreo continuo.",
+    "context": "El **Teide** es un volcán activo ubicado en el centro de Tenerife, la isla más poblada del archipiélago canario con cerca de un millón de habitantes. A 3.715 metros de altura, constituye el pico más alto de España y uno de los volcanes más vigilados del mundo debido a su potencial destructivo y la densidad poblacional de su entorno.\n\nLa **actividad volcánica** en Canarias se debe a su origen como punto caliente volcánico sobre la placa africana. Las islas han experimentado múltiples erupciones históricas, siendo la más reciente la del volcán de **La Palma en 2021**, que destruyó miles de viviendas y obligó a evacuar a miles de personas. Esta experiencia reciente ha intensificado la preocupación sobre la preparación ante futuros eventos volcánicos.\n\nEl **Instituto Geográfico Nacional** mantiene una red de vigilancia sísmica y volcánica en todo el archipiélago, monitorizando parámetros como terremotos, deformación del terreno, emisiones de gases y temperatura. Los **enjambres sísmicos** son series de pequeños terremotos concentrados en una zona y tiempo específicos, frecuentes en áreas volcánicas activas pero no necesariamente indicativos de erupciones inminentes.\n\nLa **mitología guanche**, mencionada en algunos medios, forma parte del patrimonio cultural de Tenerife. Los guanches, pobladores prehispánicos de la isla, consideraban el Teide (Echeyde) como morada de Guayota, una deidad maligna, lo que refleja el respeto ancestral hacia la actividad volcánica de la montaña.",
+    "questions": [
+      "¿Es apropiado que las autoridades utilicen términos como 'nueva normalidad' para describir una situación de actividad sísmica inédita?",
+      "¿Cómo debería equilibrarse la información científica técnica con la necesidad de preparar a la población sin generar alarma innecesaria?",
+      "¿Está Tenerife suficientemente preparada para evacuar a su población en caso de una erupción volcánica mayor?",
+      "¿Qué responsabilidad tienen los medios de comunicación en la gestión del riesgo volcánico a través de su cobertura informativa?",
+      "¿Deberían limitarse los desarrollos urbanísticos en zonas de alto riesgo volcánico independientemente de la actividad sísmica actual?"
+    ]
+  },
+  "category": "ciencia",
+  "categories": [
+    "ciencia",
+    "sociedad"
+  ],
+  "imageUrl": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/02/27/17722096338102.jpg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T10:49:28.975Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/02/27/17722096338102.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/02/28/17722743548687.jpg",
+      "source": "El Mundo"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4127,
+      "title": "El experto que planifica cómo evacuar Tenerife si el Teide entra en erupción: \"No hay zona con riesgo cero\"",
+      "url": "https://www.elmundo.es/cronica/2026/03/01/69a1c5f2e85ecefc5d8b459b.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4434,
+      "title": "Nadie sabe qué está pasando en las entrañas de Tenerife: “Es ‘anómalo’ en la isla, normal en una región volcánica”",
+      "url": "https://www.newtral.es/tenerife-enjambres-sismicos-anomalia-volcan-no-erupcion/20260301",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "Newtral",
+        "politicalLean": "center-left"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": 67,
+  "clusterId": 7182,
+  "editionId": 10,
+  "slug": "la-desigualdad-salarial-de-genero-se-mantiene-por-encima-del-15-en-espana",
+  "headline": "La desigualdad salarial de género se mantiene por encima del 15% en España",
+  "summary": "Un estudio de la Fundación Mujeres revela que la brecha salarial entre hombres y mujeres oscila entre el 15% y el 20%. Paralelamente, un informe internacional advierte que el progreso global hacia la igualdad de género avanza tan lentamente que podría requerir más de un siglo para cerrarse completamente.",
+  "sections": {
+    "facts": "La **Fundación Mujeres** ha publicado datos que sitúan la brecha salarial entre géneros en **España entre el 15% y el 20%**. Según explica **María José Carretero**, una de las autoras del estudio, esta diferencia tiene raíces que se remontan a la etapa formativa y se consolida en el mercado laboral debido a la concentración femenina en sectores tradicionalmente peor remunerados.\n\nEl impacto de esta desigualdad se extiende más allá del salario inmediato. Las diferencias se acumulan durante toda la trayectoria profesional, resultando en pensiones femeninas que llegan a ser **un 31% inferiores** a las masculinas, lo que incrementa el riesgo de exclusión social en la tercera edad.\n\nA nivel internacional, el **Foro Económico Mundial** ha documentado que la brecha de género global apenas ha mejorado **cuatro décimas** en el último año, alcanzando el 68,8% de cierre de la desigualdad total. Un informe de **OBS Business School** dirigido por la profesora **Marta Grañó Calvete** identifica que gran parte de la desigualdad persiste porque \"no se ve, no se mide y, por tanto, no se gestiona\".\n\nLos datos internacionales revelan que diariamente se dedican **más de 16.000 millones de horas** mundiales a tareas domésticas y de cuidados no remunerados. La **ONU Mujeres** documenta que las mujeres destinan **2,5 veces más horas diarias** que los hombres a estas labores, mientras que la **Organización Internacional del Trabajo** estima que **708 millones de mujeres** están fuera del mercado laboral debido a responsabilidades de cuidados no remunerados.",
+    "coverage": [
+      {
+        "sourceName": "RTVE",
+        "tone": "analítico",
+        "toneColor": "#4A90E2",
+        "summary": "Adopta un enfoque estructural del problema, destacando las causas sistémicas como la feminización de sectores mal pagados y el impacto acumulativo en las pensiones. Presenta la desigualdad como un fenómeno con raíces profundas que requiere análisis detallado de sus mecanismos."
+      },
+      {
+        "sourceName": "El Español",
+        "tone": "alarmista",
+        "toneColor": "#FF6B6B",
+        "summary": "Enfatiza la lentitud del progreso con una proyección temporal dramática de más de 100 años para alcanzar la igualdad. Destaca el trabajo doméstico no remunerado como factor invisible clave y señala la paradoja de una percepción juvenil de que el feminismo ha cumplido sus objetivos."
+      }
+    ],
+    "hidden": "La cobertura revela diferencias significativas en el enfoque temporal y la contextualización del problema. **RTVE se centra en el panorama nacional** con datos específicos españoles y testimonios de expertas locales, mientras que **El Español prioriza el contexto internacional** con proyecciones a largo plazo del Foro Económico Mundial. Esta diferencia de enfoque puede influir en cómo el lector percibe la urgencia del problema: como una cuestión estructural española que requiere reformas graduales, o como un estancamiento global que demanda medidas más drásticas.\n\n**El factor del trabajo doméstico no remunerado** recibe tratamientos dispares. El Español lo presenta como elemento central invisible de la desigualdad, con cifras globales impactantes, mientras que RTVE lo omite completamente de su análisis. Esta omisión es significativa porque el trabajo de cuidados no remunerado constituye uno de los pilares fundamentales de la brecha económica de género, según organismos internacionales.\n\nTambién emerge una **divergencia en la percepción generacional** del problema. El Español destaca que el 52% de jóvenes españoles considera que el feminismo ha superado sus objetivos, un dato del CIS que contrasta con la persistencia de las cifras de desigualdad. Esta percepción juvenil, ausente en la cobertura de RTVE, resulta crucial para entender los obstáculos futuros en la implementación de políticas de igualdad.",
+    "context": "La **brecha salarial de género** se refiere a la diferencia promedio entre los salarios que perciben hombres y mujeres por trabajos equivalentes. Este fenómeno se mide típicamente como el porcentaje de diferencia entre el salario medio masculino y femenino. La **Fundación Mujeres** es una organización española sin ánimo de lucro dedicada a promover la igualdad de género y los derechos de las mujeres a través de investigación, formación e incidencia política.\n\nEl problema de la desigualdad salarial tiene múltiples dimensiones. La **segregación ocupacional** ocurre cuando mujeres y hombres se concentran en diferentes sectores laborales, siendo los tradicionalmente feminizados (educación, cuidados, servicios sociales) generalmente peor remunerados. Esta situación se origina durante la formación académica y se consolida en las decisiones profesionales posteriores.\n\nEl **Foro Económico Mundial** es una organización internacional que anualmente publica el Índice Global de Brecha de Género, midiendo disparidades entre hombres y mujeres en cuatro áreas: participación y oportunidades económicas, logros educativos, salud y supervivencia, y empoderamiento político. Su metodología evalúa 146 países y se ha convertido en referencia mundial para medir el progreso hacia la igualdad.\n\nLa cuestión del **trabajo de cuidados no remunerado** incluye todas las tareas domésticas, cuidado de menores, personas mayores o dependientes que tradicionalmente han recaído sobre las mujeres. La **ONU Mujeres** es la entidad de las Naciones Unidas dedicada a la igualdad de género, mientras que la **OIT (Organización Internacional del Trabajo)** es el organismo de la ONU que establece normas laborales internacionales y promueve el trabajo decente.",
+    "questions": [
+      "¿Por qué persiste la concentración femenina en sectores tradicionalmente peor remunerados a pesar de décadas de políticas de igualdad?",
+      "¿Cómo puede explicarse la percepción juvenil de que el feminismo ha cumplido sus objetivos cuando las cifras objetivas muestran desigualdades persistentes?",
+      "¿Qué impacto tendría en la economía española reconocer y remunerar el trabajo de cuidados actualmente invisible?",
+      "¿Son suficientes las medidas actuales para acelerar el cierre de la brecha salarial o se necesitan políticas más transformadoras?",
+      "¿Qué papel juegan las expectativas sociales y culturales en perpetuar la división de roles que alimenta la desigualdad económica?"
+    ]
+  },
+  "category": "sociedad",
+  "categories": [
+    "sociedad",
+    "economía"
+  ],
+  "imageUrl": "https://img2.rtve.es/p/1001380/imgbackground/?h=320",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T13:04:57.017Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://img2.rtve.es/p/1001380/imgbackground/?h=320",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://s3.elespanol.com/2025/04/09/actualidad/1003743705674_254600092_320x180.jpg",
+      "source": "El Español"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 8253,
+      "title": "La brecha salarial entre hombres y mujeres supera el 15%",
+      "url": "https://www.rtve.es/play/audios/mediodia-en-rne/brecha-salarial-entre-hombres-mujeres-supera-15/16946689",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8575,
+      "title": "La brecha de género se reduce solo 4 décimas en un año: a este ritmo llegaremos a la igualdad ni en un siglo",
+      "url": "https://www.elespanol.com/enclave-ods/historias/20260302/brecha-genero-reduce-solo-decimas-ano-ritmo-llegaremos-igualdad-siglo/1003744148582_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

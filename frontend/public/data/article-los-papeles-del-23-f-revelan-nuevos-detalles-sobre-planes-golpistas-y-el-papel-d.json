@@ -1,0 +1,208 @@
+{
+  "id": 50,
+  "clusterId": 6776,
+  "editionId": 9,
+  "slug": "los-papeles-del-23-f-revelan-nuevos-detalles-sobre-planes-golpistas-y-el-papel-d",
+  "headline": "Los papeles del 23-F revelan nuevos detalles sobre planes golpistas y el papel del Rey",
+  "summary": "La desclasificación de 166 documentos oficiales sobre el golpe de Estado del 23 de febrero de 1981 aporta información inédita sobre los planes conspirativos previos y confirma con nuevos datos el papel anti-golpista de Juan Carlos I durante la asonada.",
+  "sections": {
+    "facts": "El **Gobierno** español desclasificó el pasado 25 de febrero un total de **166 documentos** compuestos por **919 páginas** procedentes de los ministerios de Defensa, Exteriores e Interior sobre el intento de golpe de Estado del 23 de febrero de 1981. Los archivos incluyen un informe manuscrito titulado **'Panorámica de operaciones en marcha'**, fechado en noviembre de 1980, que detalla tres planes de intervención diferentes: civiles, militares y mixtos cívico-militares.\n\nEl documento, sin autoría identificada, califica como la menos sofisticada y con dirigentes de menor rango precisamente la operación que finalmente se ejecutó, denominada de **\"expontáneos\"** en el manuscrito. Paradójicamente, era considerada la más viable al expresar \"serios temores de que el hecho pueda ejecutarse y que triunfe\". El análisis sitúa al político **Manuel Fraga**, uno de los padres de la Constitución, en dos de los tres escenarios golpistas de carácter militar, señalando que \"1 político (Fraga)\" había logrado convocar \"a varios generales\" en la \"costa levantina\".\n\nRespecto al **Rey Juan Carlos I**, los documentos del Centro Nacional de Inteligencia confirman que \"a lo largo de las primeras horas y durante toda la noche\" respondió numerosas llamadas de autoridades civiles, instituciones y representaciones políticas y sindicales, tranquilizándolas y aconsejándoles mantener la serenidad. Hacia las 20:00 horas ya había decidido pronunciar un discurso en televisión, aunque la emisión no pudo realizarse hasta la **01:12 de la madrugada** debido a que la sede de TVE estaba tomada por militares. Estas revelaciones han llevado al líder del **PP, Alberto Núñez Feijóo**, a declarar que sería \"deseable\" el regreso de Juan Carlos I a España, considerando que los archivos deberían servir para \"reconciliar a los españoles con quien paró el golpe de Estado\".",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "Analítico-documental",
+        "toneColor": "#3498db",
+        "summary": "Adopta un enfoque comparativo estructurado entre lo que ya se conocía del 23-F y lo que revelan los nuevos documentos. Prioriza el análisis del contenido específico del informe 'Panorámica de operaciones en marcha' y las implicaciones de Manuel Fraga en los planes golpistas."
+      },
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "Personal-memorialístico",
+        "toneColor": "#9b59b6",
+        "summary": "Utiliza la experiencia personal del autor como hilo conductor para reflexionar sobre el contexto político y social de la época. Se centra más en las vivencias durante el golpe que en el análisis detallado de los documentos desclasificados."
+      },
+      {
+        "sourceName": "El Periódico",
+        "tone": "Favorable al Rey",
+        "toneColor": "#27ae60",
+        "summary": "Presenta los documentos como validación del papel anti-golpista de Juan Carlos I e incorpora la dimensión política actual con las declaraciones de Feijóo pidiendo su regreso. Enfatiza las evidencias que respaldan la actuación del monarca contra el golpe."
+      }
+    ],
+    "hidden": "La cobertura mediática muestra **omisiones significativas** que afectan la comprensión completa de los documentos desclasificados. Mientras El País profundiza en las **implicaciones de Manuel Fraga** en los planes golpistas, El Periódico omite completamente esta información comprometedora, centrándose exclusivamente en exaltar el papel del Rey. Esta omisión no es casual: mencionar que un padre de la Constitución aparece vinculado a escenarios golpistas podría generar incomodidad en sectores conservadores y cuestionar narrativas establecidas sobre la Transición.\n\nPor otro lado, **La Vanguardia** minimiza el contenido específico de los documentos afirmando que \"no aportan nada\", lo cual contradice la evidencia de nueva información sobre planes conspirativos y cronologías precisas. Esta posición podría reflejar una preferencia por mantener el foco en aspectos emocionales y memorísticos antes que en revelaciones históricas potencialmente incómodas. La ausencia generalizada de **valoraciones de expertos historiadores** o análisis sobre las consecuencias políticas actuales de estos hallazgos también limita el debate público informado sobre la relevancia real de estas revelaciones para la comprensión histórica del periodo.",
+    "context": "El **23 de febrero de 1981** se produjo en España el último intento de golpe de Estado de la historia democrática contemporánea. El teniente coronel **Antonio Tejero** irrumpió en el Congreso de los Diputados durante la votación de investidura de Leopoldo Calvo-Sotelo como presidente del Gobierno, reteniendo a todos los parlamentarios. Simultáneamente, el capitán general de Valencia, **Jaime Milans del Bosch**, declaró el estado de guerra en su región, mientras que en Madrid se movilizaron unidades de la División Acorazada Brunete.\n\n**Juan Carlos I**, proclamado Rey en 1975 tras la muerte de Franco, desempeñó un papel crucial al rechazar públicamente el golpe en un mensaje televisado en la madrugada del 24 de febrero, ordenando a las Fuerzas Armadas el mantenimiento del orden constitucional. Su actuación fue determinante para el fracaso del golpe. **Manuel Fraga** fue ministro durante el franquismo, presidente de Alianza Popular (antecesora del actual PP) y una figura central en la redacción de la Constitución de 1978 como miembro de los \"padres de la Constitución\".\n\nEl contexto político de 1981 estaba marcado por la **inestabilidad gubernamental** tras la dimisión de Adolfo Suárez en enero, la crisis económica, el problema del terrorismo de ETA y las tensiones dentro del propio ejército ante los cambios democráticos. Muchos militares veían con recelo la descentralización autonómica y la legalización de partidos de izquierda, generando un clima propicio para movimientos desestabilizadores que los nuevos documentos revelan con mayor detalle.",
+    "questions": [
+      "¿Qué implicaciones tiene para la historia de la Transición que Manuel Fraga aparezca vinculado a escenarios golpistas siendo uno de los padres de la Constitución?",
+      "¿Por qué algunos medios omiten información comprometedora sobre actores políticos relevantes al informar sobre documentos históricos desclasificados?",
+      "¿Deberían estas revelaciones influir en el debate actual sobre el regreso de Juan Carlos I a España, o son cuestiones separadas?",
+      "¿Qué otros documentos o testimonios podrían seguir clasificados sobre este período y por qué razones?",
+      "¿Cómo afecta al relato oficial de la Transición conocer que existían múltiples planes golpistas más sofisticados que el que finalmente se ejecutó?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "sociedad"
+  ],
+  "imageUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/LLLWAR2XIZAY3BQW36QV4HZMPQ.jpg",
+  "sourcesCount": 3,
+  "createdAt": "2026-03-02T11:59:36.086Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/LLLWAR2XIZAY3BQW36QV4HZMPQ.jpg",
+      "source": "El País"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/01/69a480fa4b465.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2026/03/01/69a480fa4b465.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/53bc7aec-9281-44fc-9175-5b3aac990a13_alta-libre-aspect-ratio_default_0_x1200y533.jpg",
+      "source": "El Periódico"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/102d9a78-dba7-4225-90b5-bccca1fdf175_alta-libre-aspect-ratio_default_0.jpg",
+      "source": "El Periódico"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/7993b9ad-6127-4a99-afcb-fa8f263fd6a3_alta-libre-aspect-ratio_default_0_x1000y477.jpg",
+      "source": "El Periódico"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/ffa8f7a4-7f5b-4b0c-b640-1f4e20ac57e0_alta-libre-aspect-ratio_default_0_x900y399.jpg",
+      "source": "El Periódico"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4261,
+      "title": "Qué se sabía del 23-F y qué han desvelado los papeles desclasificados sobre el golpe de Estado",
+      "url": "https://elpais.com/espana/2026-02-28/que-se-sabia-del-23-f-y-que-han-desvelado-los-papeles-desclasificados-sobre-el-golpe-de-estado.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4506,
+      "title": "23-F: un testimonio personal",
+      "url": "https://www.lavanguardia.com/opinion/20260302/11478626/23-f-testimonio-personal.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4964,
+      "title": "Feijóo pide el regreso de Juan Carlos I tras la desclasificación de los papeles del 23F",
+      "url": "https://www.elperiodico.com/es/politica/20260226/feijoo-regreso-juan-carlos-rey-espana-127291232",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4965,
+      "title": "Los papeles del 23F desclasificados ahora por el Gobierno reflejan a un Juan Carlos I ajeno al golpe de Estado",
+      "url": "https://www.elperiodico.com/es/politica/20260226/papeles-desclasificados-golpe-estado-23f-juan-carlos-ajeno-golpe-127293857",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4967,
+      "title": "Javier Cercas, sobre los papeles desclasificados del 23-F: \"Los bulos y rumores van a seguir porque esto es un negocio\"",
+      "url": "https://www.elperiodico.com/es/politica/20260226/javier-cercas-papeles-desclasificados-23-pedro-sanchez-servicio-democracia-127291858",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

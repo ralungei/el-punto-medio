@@ -1,0 +1,911 @@
+{
+  "id": 82,
+  "clusterId": 7500,
+  "editionId": 10,
+  "slug": "guerra-eeuu-israel-contra-iran-mas-de-600-muertos-frente-regional-abierto-y-alar",
+  "headline": "Guerra EEUU-Israel contra Irán: más de 600 muertos, frente regional abierto y alarma nuclear",
+  "summary": "Los ataques militares de Estados Unidos e Israel contra Irán, iniciados el sábado, han desencadenado una escalada regional que suma más de 600 muertos, ha arrastrado a Líbano al conflicto y genera alarmas sobre riesgo nuclear, impacto económico global y tensiones diplomáticas en Europa.",
+  "sections": {
+    "facts": "El **sábado 28 de febrero de 2026**, Israel lanzó una operación militar denominada **'León Rugiente'** contra objetivos en territorio iraní, incluyendo las ciudades de **Teherán, Isfahán, Natanz y Fordow**. Estados Unidos se sumó a la ofensiva con bombardeos propios. En el transcurso de los ataques murió el **líder supremo iraní, Alí Jamenei**, lo que provocó que Teherán decretara **40 días de luto oficial**. La Media Luna Roja cifra en **555 las víctimas mortales en Irán**, mientras el cómputo total de muertos en el conjunto del conflicto supera los **600**, según distintas fuentes. Cuatro soldados estadounidenses han fallecido durante las operaciones, según confirmó el ejército de EEUU.\n\nEl conflicto se amplió el lunes cuando **Hizbolá**, el grupo armado chií libanés aliado de Irán, lanzó cohetes y drones contra el norte de Israel, alegando vengar la muerte de Jamenei. En respuesta, el ejército israelí ejecutó una intensa campaña de bombardeos sobre los suburbios sur de **Beirut** y el sur del Líbano, que causó **31 muertos y 149 heridos**, según el Ministerio de Salud libanés. Por su parte, la **Guardia Revolucionaria Islámica de Irán** aseguró haber atacado con misiles la oficina del primer ministro israelí, **Benjamín Netanyahu**, en Jerusalén. Irán también lanzó misiles contra bases militares de países aliados de EEUU en la región, con explosiones registradas en **Abu Dhabi, Dubái, Doha, Manama y Kuwait**. El Ministerio de Defensa de Kuwait confirmó que \"varios\" aviones de guerra estadounidenses —tres cazas F-15— se estrellaron en su territorio tras ser alcanzados por sus propias defensas aéreas; todos los tripulantes sobrevivieron. En la ciudad israelí de **Beersheva**, 19 personas resultaron heridas por el impacto de un misil iraní.\n\nEl **director general de la OIEA, Rafael Grossi**, advirtió que la situación es \"muy preocupante\" y que no puede descartarse \"una posible liberación radiológica con consecuencias graves\", aunque precisó que hasta el momento no hay indicios de que las instalaciones nucleares iraníes hayan sido dañadas ni se han detectado aumentos de radiación en países vecinos. Grossi señaló que el organismo no ha podido restablecer comunicación con las autoridades reguladoras iraníes y alertó de que países como Baréin, Irak, Kuwait, Omán, Catar y Arabia Saudí también han sido atacados y utilizan aplicaciones nucleares. Los mercados reaccionaron con fuertes caídas bursátiles, una subida del precio del petróleo de un **10%** y del gas natural de un **40%**, en un contexto de preocupación por el cierre del **estrecho de Ormuz**, paso clave para el suministro energético mundial. [España cifra su dependencia del petróleo y gas que transita por Ormuz en un 5% y un 2% respectivamente](/articulo/espana-cifra-en-5-y-2-su-dependencia-del-petroleo-y-gas-que-transita-por-ormuz).\n\nEn el plano diplomático español, la ministra de Defensa, **Margarita Robles**, negó que las bases de **Rota y Morón** hayan prestado o vayan a prestar apoyo a la operación: \"Rotundamente no, en las bases que hay en Morón de la Frontera y en Rota no se ha dado ningún tipo de asistencia\". Hasta 11 aviones cisterna tipo KC-135 abandonaron las bases andaluzas con destino a Alemania, Reino Unido y otros países europeos. [España niega apoyo militar contra Irán y EEUU retira sus aviones cisterna de las bases](/articulo/espana-niega-apoyo-militar-contra-iran-y-eeuu-retira-sus-aviones-cisterna-de-las). El embajador iraní en España, **Reza Zabib**, advirtió que Irán \"va a reaccionar y va a defender su soberanía\" y, preguntado por las bases españolas, señaló que su país \"responderá a cualquier\" instalación que participe en los ataques.",
+    "coverage": " [{ \"sourceName\": \"El País\", \"tone\": \"Alarmista\", \"toneColor\": \"#e07b39\", \"summary\": \"Cobertura en directo con énfasis en el número de víctimas (600 muertos) y la extensión del conflicto. Incorpora declaraciones críticas de miembros del Gobierno español como Yolanda Díaz y Sira Rego, que califican la operación de 'ataque imperialista'. No profundiza en el contexto histórico del programa nuclear iraní.\" }, { \"sourceName\": \"El Mundo\", \"tone\": \"Moderado\", \"toneColor\": \"#8a8a8a\", \"summary\": \"Sigue el conflicto con un ángulo humanizado, destacando el impacto en ciudadanos españoles que evacúan países del Golfo. Reporta los principales hechos militares —misiles iraníes, bombardeos en Beirut, incidente de Kuwait— pero omite cifras globales de víctimas y el debate sobre las instalaciones nucleares.\" }, { \"sourceName\": \"ABC\", \"tone\": \"Neutral-técnico\", \"toneColor\": \"#6aaa6a\", \"summary\": \"Centra su cobertura en las declaraciones de la OIEA sobre el estado de las instalaciones nucleares iraníes y la llamada internacional a la contención. No menciona víctimas civiles ni la escalada regional, ofreciendo un retrato parcial del alcance del conflicto.\" }, { \"sourceName\": \"La Vanguardia\", \"tone\": \"Neutral\", \"toneColor\": \"#6aaa6a\", \"summary\": \"Adopta un encuadre económico-financiero, con especial atención a las caídas bursátiles, la subida del petróleo y el gas, y el cierre del estrecho de Ormuz. Cubre los frentes militares pero deja en segundo plano las víctimas civiles y el debate diplomático.\" }, { \"sourceName\": \"elDiario.es\", \"tone\": \"Crítico\", \"toneColor\": \"#c0392b\", \"summary\": \"Opta por un ángulo periférico, destacando la investigación policial sobre un tiroteo en Austin (Texas) que podría estar motivado por los bombardeos. Aporta contexto histórico desde 1953, pero no detalla el desarrollo bélico ni las cifras de víctimas del conflicto principal.\" }, { \"sourceName\": \"Público\", \"tone\": \"Crítico\", \"toneColor\": \"#c0392b\", \"summary\": \"Utiliza la expresión 'guerra iniciada por Israel y EEUU' en su titular, reflejando un posicionamiento editorial claro. Reporta 555 muertos en Irán y el ataque iraní a la oficina de Netanyahu. No aborda la advertencia nuclear de la OIEA ni el impacto económico global.\" }, { \"sourceName\": \"La Razón\", \"tone\": \"Neutral\", \"toneColor\": \"#6aaa6a\", \"summary\": \"Prioriza la posición española: la negativa de las bases de Rota y Morón a participar y la muerte de cuatro soldados estadounidenses. Ofrece un seguimiento factual sin contextualizar el conflicto históricamente ni ofrecer cifras completas de víctimas civiles.\" }, { \"sourceName\": \"OKDiario\", \"tone\": \"Favorable a la operación\", \"toneColor\": \"#e07b39\", \"summary\": \"Enmarca el ataque israelí como 'preventivo' y centrado en 'eliminar amenazas'. Destaca la muerte del líder iraní y la respuesta de Trump. Omite deliberadamente las críticas internacionales y las cifras de víctimas civiles, construyendo una narrativa de legitimidad de la operación.\" }, { \"sourceName\": \"20 Minutos\", \"tone\": \"Alarmista\", \"toneColor\": \"#e07b39\", \"summary\": \"Pone el foco en la posible extensión del conflicto a Europa, con el impacto de un dron iraní en una base británica en Chipre y las declaraciones del embajador iraní en Madrid advirtiendo sobre bases de EEUU en el continente. Deja sin cubrir otros frentes del conflicto.\" }, { \"sourceName\": \"El Periódico\", \"tone\": \"Moderado\", \"toneColor\": \"#8a8a8a\", \"summary\": \"Destaca la advertencia de Rafael Grossi (OIEA) sobre el riesgo de accidente nuclear, siendo el único medio que desarrolla este ángulo en profundidad. Subraya que no hay daños confirmados en instalaciones atómicas pero sí incomunicación con las autoridades iraníes. Omite la escalada regional y las víctimas en Líbano.\" }, { \"sourceName\": \"El Confidencial\", \"tone\": \"Crítico-analítico\", \"toneColor\": \"#9b59b6\", \"summary\": \"Analiza el impacto geopolítico para España de la retirada de aviones cisterna de Rota y Morón, con datos de seguimiento de vuelos. Argumenta que el distanciamiento español de Washington podría beneficiar estratégicamente a Marruecos. No cubre el desarrollo del combate ni las víctimas.\" }, { \"sourceName\": \"El Español\", \"tone\": \"Sensacionalista\", \"toneColor\": \"#e74c3c\", \"summary\": \"Centra su apertura en la situación personal del rey emérito Juan Carlos I, retenido en Abu Dhabi por el cierre del espacio aéreo. El conflicto bélico actúa como mero telón de fondo de una historia de interés humano con escaso valor informativo sobre la guerra.\" }]",
+    "hidden": "La cobertura mediática revela fracturas de encuadre que van más allá de la ideología: **ningún medio integra en un solo relato** las cuatro dimensiones simultáneas del conflicto —el frente militar, el riesgo nuclear, el impacto económico y la posición diplomática española—. Cada cabecera selecciona una de estas patas y la convierte en su historia principal, lo que impide al lector formarse una imagen completa. Así, medios como **La Vanguardia** o **El Confidencial** desarrollan con detalle el impacto en mercados o la reconfiguración estratégica de las bases, pero prácticamente silencian a las víctimas civiles. El efecto es que el lector de uno de estos medios puede terminar con la sensación de que el conflicto es principalmente un problema económico o geopolítico para España, no una catástrofe humana con más de 600 muertos.\n\nEl **riesgo de accidente nuclear**, advertido formalmente por el director general de la OIEA, apenas aparece desarrollado fuera de **El Periódico**. Se trata de una omisión de primer orden: la posibilidad de una liberación radiológica comparable o superior al área de una gran ciudad es una amenaza de consecuencias globales, no un detalle técnico. Que la mayoría de medios lo mencione de pasada —o directamente lo ignore— puede obedecer a la necesidad de mantener la narrativa bélica en el centro, pero también a que el riesgo nuclear obliga a plantear preguntas incómodas sobre la legalidad y proporcionalidad de atacar instalaciones atómicas de un Estado soberano. Del mismo modo, **elDiario.es** dedica su apertura a un tiroteo en Austin posiblemente vinculado a los bombardeos, una historia periférica que le permite hacer una lectura crítica de la intervención sin cubrir el núcleo informativo del conflicto —lo que también es una forma de encuadre editorial—.\n\nFinalmente, resulta llamativo el contraste entre **OKDiario**, que asume sin matices el lenguaje de 'ataque preventivo' israelí, y **Público**, que titula directamente con 'guerra iniciada por Israel y EEUU'. Ambos extremos utilizan la terminología como herramienta de legitimación o deslegitimación de la operación, privando al lector del debate de fondo: si los ataques se ajustan o no al derecho internacional, cuestión que sí plantean con más precisión los medios que cubren la posición del Gobierno español o las advertencias de la OIEA. La **muerte de Alí Jamenei**, jefe de Estado de un país reconocido internacionalmente, y su calificación jurídica como posible violación del derecho internacional —planteada por el embajador iraní— es otro elemento que la mayoría de medios recoge como hecho noticioso pero ninguno desarrolla en profundidad.",
+    "context": "El conflicto tiene su raíz más reciente en las tensiones acumuladas durante décadas entre **Irán** y la alianza formada por **Israel** y **Estados Unidos** en torno al **programa nuclear iraní**. Irán ha desarrollado desde los años noventa capacidades de enriquecimiento de uranio que EEUU e Israel consideran orientadas a fabricar armamento nuclear, aunque Teherán siempre ha sostenido que su programa tiene fines civiles. El **acuerdo nuclear de 2015** (conocido como JCPOA), firmado entre Irán y las potencias occidentales, puso límites a ese programa a cambio del levantamiento de sanciones, pero en 2018 el entonces presidente Donald Trump retiró a EEUU del pacto y reimpuso sanciones, lo que llevó a Irán a retomar gradualmente el enriquecimiento de uranio. Desde entonces, las negociaciones para un nuevo acuerdo no han prosperado y la tensión militar se ha ido escalando, con operaciones de sabotaje atribuidas a Israel dentro de Irán y ataques iraníes contra objetivos israelíes o de sus aliados.\n\n**Alí Jamenei** era el líder supremo de Irán desde 1989, la figura de mayor autoridad política y religiosa del sistema de la República Islámica, por encima incluso del presidente electo. Su muerte en los bombardeos representa el golpe más directo nunca asestado al sistema de poder iraní por una potencia extranjera. **Benjamín Netanyahu** es el primer ministro de Israel, país que no reconoce el derecho de Irán a poseer armamento nuclear y lleva años advirtiendo de que actuará militarmente para impedirlo. **Hizbolá** es una organización político-militar chií con sede en Líbano, fundada en 1982 con apoyo de la Guardia Revolucionaria iraní; es considerada terrorista por EEUU y la UE, pero tiene representación parlamentaria en Líbano y un poderoso brazo armado. Es el principal aliado regional de Irán y su entrada en el conflicto abre un segundo frente bélico en el Mediterráneo oriental.\n\nEl **estrecho de Ormuz**, mencionado en el contexto económico, es un paso marítimo entre Irán y la península arábiga por el que transita aproximadamente el **20% del petróleo mundial**. Cualquier bloqueo o interrupción en esta ruta tiene consecuencias inmediatas sobre los precios globales de la energía, lo que explica las subidas registradas en los mercados. La **OIEA** (Organismo Internacional de Energía Atómica) es el organismo de la ONU encargado de verificar que los países cumplen sus compromisos en materia nuclear y de alertar ante riesgos radiológicos; su director, **Rafael Grossi**, es argentino y una figura de referencia en la diplomacia nuclear internacional. En cuanto a **España**, los acuerdos bilaterales con EEUU permiten a las fuerzas armadas estadounidenses utilizar las bases de **Rota** (Cádiz) y **Morón** (Sevilla) como plataformas logísticas para operaciones en el Mediterráneo y Oriente Medio, lo que convierte a España en un actor indirecto en cualquier escalada militar en la región, con las implicaciones de seguridad y diplomáticas que eso conlleva.",
+    "questions": "])"
+  },
+  "category": "internacional",
+  "categories": [
+    "internacional",
+    "política",
+    "economía"
+  ],
+  "imageUrl": "https://s1.abcstatics.com/comun/2015/img/autor/autor-2046-foto-5.jpeg?width=90",
+  "sourcesCount": 12,
+  "createdAt": "2026-03-02T13:15:42.415Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://s1.abcstatics.com/comun/2015/img/autor/autor-2046-foto-5.jpeg?width=90",
+      "source": "ABC"
+    },
+    {
+      "url": "https://s1.abcstatics.com/comun/2015/img/autor/autor-1398-foto-6.jpeg?width=90",
+      "source": "ABC"
+    },
+    {
+      "url": "https://s1.abcstatics.com/comun/2015/img/autor/autor-7170-foto-1.jpeg?width=90",
+      "source": "ABC"
+    },
+    {
+      "url": "https://s1.abcstatics.com/comun/2015/img/autor/autor-2347-foto-5.jpeg?width=90",
+      "source": "ABC"
+    },
+    {
+      "url": "https://s3.amazonaws.com/arc-authors/prisa/0b9a52b8-006a-4382-938a-05e3d58f07cf.png",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/SQTSOIZ5RJIVJP6XWYNUKHX5XE.jpg?auth=d42ff547fea0debbf24ebb0f1f88e0b0f761cd63e3e671a4d39a1f65c6440daf&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/ESBUCEQRBBPXVDOQLBFQKVZH2A.jpg?auth=7597650d6d2db08b69f6e7107921d7ca45daec405b44ff5a4cbc7ed3dc168803&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://e01-phantom-elmundo.uecdn.es/4ac72cdc8de489a1905a4b3650098a40/resize/600/assets/multimedia/imagenes/2026/03/02/17724505754255.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723913888361.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724540329877.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e01-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17724013270635.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2026/03/02/69a540c2b800d.r_d.5811-4499.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_40_40/uploads/2022/01/11/61ddbc80b7d7b.png",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_65_65/uploads/2026/01/27/69787623cea77.png",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2026/03/01/69a4a274f0171.r_d.3009-1671.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_65_65/uploads/1970/01/01/5f9ad9d70f760.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_40_40/uploads/1970/01/01/5f9ad96d7c30c.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/34197ff9-4921-4853-bd6b-626653d0b2df_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/ddc2cc68-7e66-49b5-ad1c-898237dcf7e5_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://www.publico.es/uploads/2026/03/02/69a580257954c.jpeg",
+      "source": "Público"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/imagen_final-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/01/imagen_recortada-11-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/rey-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/trump_militares_iran-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2025/12/10/bolsa-okdiario-destacada-ibex-35-1-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2025/11/24/repsol-le-gana-la-batalla-_a-hacienda-interior-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/01/silvia-abril-premios-goya-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/01/macarena-gomez-aldo-comas-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://images.ecestaticos.com/YFzNjOYtPQdvj47r3WhcvOfIGgs=/29x1:2034x1506/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F201%2F176%2F5b6%2F2011765b6d881b5e0a6e600093f1973f.jpg",
+      "source": "El Confidencial"
+    },
+    {
+      "url": "https://images.ecestaticos.com/67fwMVWlLCUuB1wy1Ydw6QCzKrk=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F345%2F2ec%2Fcd9%2F3452eccd969f3f8972847fc97ec88b8c.jpg",
+      "source": "El Confidencial"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/02/14/actualidad/1003744130400_261429076_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/02/27/actualidad/1003744148138_261657962_320x180.jpg",
+      "source": "El Español"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7234,
+      "title": "Hizbolá lanza sus primeros proyectiles desde 2024 contra Israel, que bombardea Líbano como represalia",
+      "url": "https://www.abc.es/internacional/hizbola-lanza-primeros-proyectiles-2024-israel-bombardea-20260302032647-nt.html",
+      "sourceId": 3,
+      "source": {
+        "id": 3,
+        "name": "ABC",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7236,
+      "title": "Las instalaciones nucleares de Irán siguen intactas, afirma la ONU",
+      "url": "https://www.abc.es/internacional/instalaciones-nucleares-iran-danadas-20260302125317-nt.html",
+      "sourceId": 3,
+      "source": {
+        "id": 3,
+        "name": "ABC",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7238,
+      "title": "Albares convoca al embajador de Irán en España para protestar por los misiles contra Chipre",
+      "url": "https://www.abc.es/espana/albares-convoca-embajador-iran-espana-protestar-misiles-20260302125508-nt.html",
+      "sourceId": 3,
+      "source": {
+        "id": 3,
+        "name": "ABC",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7240,
+      "title": "El petróleo sube un 8% y el gas más de un 25% por la guerra en Oriente Próximo",
+      "url": "https://www.abc.es/economia/precio-petroleo-sube-bolsas-apuntan-fuertes-caidas-20260302083216-nt.html",
+      "sourceId": 3,
+      "source": {
+        "id": 3,
+        "name": "ABC",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7241,
+      "title": "Las Bolsas europeas se hunden hasta un 3% por la guerra en Oriente Próximo",
+      "url": "https://www.abc.es/economia/bolsas-europeas-hunden-guerra-oriente-proximo-20260302090752-nt.html",
+      "sourceId": 3,
+      "source": {
+        "id": 3,
+        "name": "ABC",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7273,
+      "title": "Última hora del ataque de EE UU e Israel contra Irán, en directo | La guerra con Irán se extiende por Oriente Próximo y suma ya 600 muertos",
+      "url": "https://elpais.com/internacional/2026-03-02/ultima-hora-del-ataque-de-ee-uu-e-israel-contra-iran-en-directo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7274,
+      "title": "Irán ataca una base del Reino Unido en Chipre, país de la UE, tras anunciar Starmer que dará más ayuda a Washington",
+      "url": "https://elpais.com/internacional/2026-03-02/iran-ataca-una-base-del-reino-unido-en-chipre-tras-el-anuncio-de-starmer-de-que-ofrecera-mas-ayuda-a-estados-unidos.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7275,
+      "title": "‘Europa y la silla vacía: los equilibrios imposibles de la UE ante el ataque a Irán’, por Máriam Martínez-Bascuñán",
+      "url": "https://elpais.com/internacional/2026-03-02/europa-y-la-silla-vacia-los-equilibrios-imposibles-de-la-ue-ante-el-ataque-a-iran.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7277,
+      "title": "China reclama el “cese inmediato” de los ataques contra Irán",
+      "url": "https://elpais.com/internacional/2026-03-02/china-reclama-el-cese-inmediato-del-ataque-contra-iran.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7280,
+      "title": "El petróleo y el gas se disparan tras el ataque a Irán",
+      "url": "https://elpais.com/economia/2026-03-02/el-precio-del-petroleo-sube-con-fuerza-tras-el-ataque-a-iran.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7285,
+      "title": "Trump y Netanyahu desatan el caos en Oriente Próximo para pasar a la historia",
+      "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-03-02/trump-y-netanyahu-desatan-el-caos-en-oriente-proximo-para-pasar-a-la-historia.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7433,
+      "title": "Última hora del ataque de EE UU e Israel contra Irán, en directo | La guerra con Irán se extiende por Oriente Próximo y suma ya 600 muertos",
+      "url": "https://elpais.com/internacional/2026-03-01/ultima-hora-del-ataque-contra-iran-en-directo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7437,
+      "title": "Videoanálisis | ¿Qué mensaje esconde la respuesta de China al ataque a Irán?",
+      "url": "https://elpais.com/videos/2026-03-01/videoanalisis-que-mensaje-esconde-la-respuesta-de-china-al-ataque-a-iran.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7438,
+      "title": "Francia, Alemania y Reino Unido se declaran dispuestos a atacar a Irán para defender sus intereses en la región",
+      "url": "https://elpais.com/internacional/2026-03-01/francia-alemania-y-reino-unido-se-declaran-dispuestas-a-atacar-a-iran-para-defender-sus-intereses-en-la-region.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7439,
+      "title": "Macron advierte de que la escalada en Irán “tiene consecuencias para la paz y la seguridad internacional”",
+      "url": "https://elpais.com/internacional/2026-02-28/macron-advierte-de-que-la-escalada-en-iran-tiene-consecuencias-para-la-paz-y-la-seguridad-internacional.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7443,
+      "title": "Guerra en Irán, última hora del ataque de Israel y EEUU, en directo | La Guardia Revolucionaria Islámica asegura haber lanzado un ataque contra la oficina de Netanyahu en Israel",
+      "url": "https://www.elmundo.es/internacional/2026/03/02/69a528f43380902694c3cb30-directo.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 7453,
+      "title": "Irán dispara el terror en el Golfo y EEUU e Israel aplastan sus defensas",
+      "url": "https://www.elmundo.es/internacional/2026/03/01/69a48b48fdddff80558b4576.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 7455,
+      "title": "El embajador de Ir�n advierte de \"respuestas a cualquier agresi�n\" ante el posible uso que Estados Unidos haga de sus bases en Espa�a",
+      "url": "https://www.elmundo.es/espana/2026/03/02/69a55e9fe4d4d8da378b4578.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 7458,
+      "title": "Movilizaciones de ira entre la comunidad musulmana chií: \"Tendrán que matarnos a todos si quieren acabar con la resistencia\"",
+      "url": "https://www.elmundo.es/internacional/2026/03/01/69a47ffdfc6c83b4098b4578.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 7459,
+      "title": "La guerra en Ir�n deja sin operar 32 vuelos programados desde Espa�a",
+      "url": "https://www.elmundo.es/economia/2026/03/02/69a580e4fc6c83206a8b4596.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 7460,
+      "title": "Españoles atrapados por la guerra en Oriente Próximo: \"Retumbaba toda la casa, nos hemos ido de Bahrein\"",
+      "url": "https://www.elmundo.es/espana/2026/03/02/69a48ba8e85ece0b2a8b4570.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 7516,
+      "title": "La guerra se extiende por Oriente Medio, con ataques entre Israel y Líbano y bombardeos de Irán a países del Golfo",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478906/hizbulah-ataca-israel-bombardeos-mata-personas-libano-iran.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7518,
+      "title": "Tercer día de guerra en Irán: crecen los muertos y el conflicto se extiende en la región",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11479240/tercer-dia-guerra-iran-crecen-muertos-conflicto-extiende-region.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7519,
+      "title": "Quiénes son los miembros del Consejo de Liderazgo que lideran Irán a la espera del sucesor de Jamenei",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478691/quienes-son-miembros-consejo-liderazgo-lideran-iran-espera-sucesor-jamenei.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7522,
+      "title": "Fuertes caídas en las bolsas europeas y el Ibex 35 por el conflicto en Irán y Oriente Medio",
+      "url": "https://www.lavanguardia.com/economia/20260302/11478916/ibex-35-bolsa-iran-eeuu-oriente-medio-petroleo-precio.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7523,
+      "title": "Irán encara una transición incierta",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478671/iran-encara-transicion-incierta.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7524,
+      "title": "EE.UU. retira sus aviones cisterna de las bases de Rota y Morón tras advertirle el Gobierno que no autoriza su uso para atacar a Irán",
+      "url": "https://www.lavanguardia.com/politica/20260302/11479092/gobierno-advierte-autorizara-ee-uu-bases-espana-atacar-iran.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7525,
+      "title": "París, Berlín y Londres están dispuestos a atacar a Irán en defensa de sus intereses",
+      "url": "https://www.lavanguardia.com/internacional/20260301/11478678/paris-berlin-londres-dispuestos-atacar-iran-defensa-intereses.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7679,
+      "title": "Las autoridades investigan una posible relación entre un tiroteo con tres muertes en Austin y los bombardeos de Trump sobre Irán",
+      "url": "https://www.eldiario.es/internacional/autoridades-investigan-posible-relacion-tiroteo-tres-muertes-austin-bombardeos-trump-iran_1_13031508.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7682,
+      "title": "Irán no es Venezuela: Teherán tiene capacidad de internacionalizar el conflicto y se apoya en un sistema político descentralizado",
+      "url": "https://www.eldiario.es/internacional/iran-no-venezuela-teheran-capacidad-internacionalizar-conflicto-apoya-sistema-politico-descentralizado_129_13030606.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7728,
+      "title": "Las gasolineras empiezan a subir precios tras el ataque a Irán: “Si veo que van a aumentar, lleno el depósito”",
+      "url": "https://www.eldiario.es/economia/gasolineras-empiezan-subir-precios-ataque-iran-si-veo-aumentar-lleno-deposito_1_13032772.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7743,
+      "title": "Ataque de EEUU e Israel a Irán, última hora en directo | La guerra iniciada por Israel y EEUU se extiende por Oriente Medio mientras Irán anuncia que ha atacado la oficina de Netanyahu en Jerusalén",
+      "url": "https://www.publico.es/internacional/ataque-eeuu-e-israel-iran-ultima-hora-directo.html",
+      "sourceId": 7,
+      "source": {
+        "id": 7,
+        "name": "Público",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7744,
+      "title": "Ataque de EEUU e Israel a Irán, última hora en directo | La guerra iniciada por Israel y EEUU se extiende por Oriente Medio mientras Irán anuncia que ha atacado la oficina de Netanyahu en Jerusalén",
+      "url": "https://www.publico.es/internacional/ataque-eeuu-e-israel-iran-ultima-hora-directo_1223.html",
+      "sourceId": 7,
+      "source": {
+        "id": 7,
+        "name": "Público",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7745,
+      "title": "Ataque de EEUU e Israel a Irán, última hora en directo | La guerra iniciada por Israel y EEUU se extiende por Oriente Medio mientras Irán anuncia que ha atacado la oficina de Netanyahu en Jerusalén",
+      "url": "https://www.publico.es/internacional/ataque-eeuu-e-israel-iran-ultima-hora-directo_0959.html",
+      "sourceId": 7,
+      "source": {
+        "id": 7,
+        "name": "Público",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 7788,
+      "title": "Ataque de Israel y EEUU a Ir&aacute;n, en directo: ataque bases estadounidenses, reacci&oacute;n de Trump y &uacute;ltima hora de",
+      "url": "https://www.larazon.es/internacional/ataque-israel-eeuu-iran-directo-ataque-bases-estadounidenses-muertos-negociacion-ultima-hora_2026030269a5323d9243cc133c6c2157.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7804,
+      "title": "El conflicto en Irán dispara los precios de los cereales y amenaza con encarecer los fertilizantes y combustibles agrícolas",
+      "url": "https://www.larazon.es/economia/conflicto-iran-dispara-precios-cereales-amenaza-encarecer-fertilizantes-combustibles-agricolas_2026030269a5491d9243cc133c6c4789.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7805,
+      "title": "El oro y la plata despegan como valor refugio ante el temor a que se alargue el conflicto con Ir&aacute;n",
+      "url": "https://www.larazon.es/economia/precio-petroleo-dispara-mas-8-gas-24-arranque-sesion-conflicto-iran_2026030269a5473a1817b41eb66be297.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7806,
+      "title": "Las bolsas europeas se desploman en torno a un 2%, con el &iacute;ndice espa&ntilde;ol Ibex 35 liderando las ca&iacute;das",
+      "url": "https://www.larazon.es/economia/bolsas-europeas-desploman-torno-2-indice-espanol-ibex-35-liderando-caidas_2026030269a54d192f00a0468830de82.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7810,
+      "title": "Trump dice que la guerra podr&iacute;a durar semanas y sugiere una transici&oacute;n como en Venezuela",
+      "url": "https://www.larazon.es/internacional/trump-sugiere-que-quiere-transicion-como-venezuela_2026030269a534e32f00a0468830b88c.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7811,
+      "title": "Los vuelos a Oriente Medio, paralizados por los ataques a Irán: ninguno de los 32 programados para hoy lunes desde España ha salido",
+      "url": "https://www.larazon.es/economia/vuelos-oriente-medio-paralizados-ataques-iran-ninguno-32-programados-hoy-lunes-espana-salido_2026030269a576072f00a04688313374.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7812,
+      "title": "Espa&ntilde;a blinda su energ&iacute;a ante la crisis en Oriente Medio: solo el 5% del petr&oacute;leo y el 2% del gas dependen del",
+      "url": "https://www.larazon.es/economia/espana-blinda-energia-crisis-oriente-medio-solo-5-petroleo-2-gas-dependen-estrecho-ormuz_2026030269a578032f00a0468831380c.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7815,
+      "title": "La lucha por conseguir la democracia en Ir&aacute;n",
+      "url": "https://www.larazon.es/opinion/lucha-conseguir-democracia-iran_2026030169a49dff2f00a046882ff2fd.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7823,
+      "title": "Tras Maduro, el ayatol&aacute; Al&iacute; Jamenei...",
+      "url": "https://www.larazon.es/opinion/maduro-ayatola-ali-jamenei_2026030269a4cc0b2f00a04688302ca1.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7836,
+      "title": "Un abogado vallisoletano atrapado en Doha: \"Misiles de un lado y otro, el sonido del boom\"",
+      "url": "https://www.larazon.es/castilla-y-leon/abogado-vallisoletano-atrapado-doha-misiles-lado-otro-sonido-boom_2026030269a57c372f00a0468831421c.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7875,
+      "title": "Guerra entre Irán, Israel y EEUU, en directo | Última hora de los bombardeos, cómo afecta a la Bolsa, qué p...",
+      "url": "https://okdiario.com/internacional/ataque-eeuu-iran-directo-ultima-hora-ali-jamenei-hoy-16327798",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7879,
+      "title": "Indag \"Pedro Sánchez defiende a los terroristas: antes Venezuela y Hamás, ahora Irán, y siempre ETA\"",
+      "url": "https://okdiario.com/opinion/inda-pedro-sanchez-defiende-terroristas-antes-venezuela-hamas-ahora-iran-siempre-eta-16330330",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7880,
+      "title": "El Rey alerta de riesgo de «escalada» en Oriente Medio y pide «diálogo en una búsqueda honesta de la paz»...",
+      "url": "https://okdiario.com/espana/rey-alerta-riesgo-escalada-oriente-medio-pide-dialogo-busqueda-honesta-paz-16331308",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7881,
+      "title": "Trump a los militares de los ayatolás: «Depongan las armas y recibirán inmunidad, si no, morirán»",
+      "url": "https://okdiario.com/internacional/trump-mandos-militares-ayatolas-depongan-armas-recibiran-inmunidad-si-no-moriran-16330613",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7882,
+      "title": "Las Bolsas de Europa suavizan sus descensos tras los ataques a Irán con el petróleo disparado un 8%",
+      "url": "https://okdiario.com/economia/mercados/bolsa-espanola-2-marzo-2026-16331156",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7883,
+      "title": "IAG, Santander e Inditex moderan su caída en bolsa tras el ataque a Irán con descensos cercanos al 5%",
+      "url": "https://okdiario.com/economia/iag-inditex-santander-lideran-caidas-del-ibex-ataque-iran-descensos-hasta-7-16331401",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7884,
+      "title": "Repsol e Indra, las ganadoras del conflicto en Irán, reducen sus subidas a media sesión",
+      "url": "https://okdiario.com/economia/mercados/repsol-indra-ganadoras-del-conflicto-iran-suben-fuerza-apertura-bolsa-16331404",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7941,
+      "title": "Silvia Abril rabia en los Goya por el interés de los jóvenes en la fe cristiana: \"Me niego a aceptarlo\"",
+      "url": "https://okdiario.com/trailer/silvia-abril-rabia-goya-interes-jovenes-fe-cristiana-niego-aceptarlo-16328624",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7978,
+      "title": "Macarena Gómez y Aldo Comas en contra de politizar los Goya: «Mucho pin pero nadie habla de los 50.000 muertos de Irán»",
+      "url": "https://okdiario.com/trailer/macarena-gomez-aldo-comas-cargan-contra-politizacion-goya-no-lugar-hablar-guerra-16327663",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 8040,
+      "title": "El embajador iraní advierte que Irán \"tiene capacidad\" para atacar bases de EEUU en Europa \"sin importar dónde estén\"",
+      "url": "https://www.20minutos.es/internacional/embajador-irani-advierte-que-iran-tiene-capacidad-para-atacar-bases-eeuu-europa-sin-importar-donde-esten_6940656_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8042,
+      "title": "Irán ataca territorio europeo: Chipre confirma el impacto de un dron en la base británica de Akrotiri, que ha sido evacuada",
+      "url": "https://www.20minutos.es/internacional/chipre-confirma-impacto-un-dron-irani-base-britanica-akrotiri-que-ha-sido-evacuada_6940590_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8045,
+      "title": "Albares niega que EEUU use la base de Rota en la guerra contra Irán y convoca al embajador por el ataque contra Chipre",
+      "url": "https://www.20minutos.es/nacional/albares-niega-que-eeuu-use-base-rota-guerra-contra-iran-convoca-embajador-por-ataque-contra-chipre_6940686_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8059,
+      "title": "Elon Musk revela que este sábado se registró el récord histórico de uso de X, antes Twitter, tras el ataque de EEUU a Irán",
+      "url": "https://www.20minutos.es/tecnologia/elon-musk-revela-sabado-registro-record-historico-uso-x-antes-twitter-ataque-eeuu-iran_6940437_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8285,
+      "title": "La OIEA alerta del riesgo de un accidente nuclear por la guerra entre Irán, EEUU e Israel",
+      "url": "https://www.elperiodico.com/es/internacional/20260302/oiea-accidente-nuclear-iran-eeuu-israel-127448892",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 8320,
+      "title": "España dice que no ayudará en el ataque a Irán y EEUU retira sus aviones cisterna de Rota y Morón",
+      "url": "https://www.elconfidencial.com/espana/2026-03-02/espana-salida-flota-aerea-estadounidense-bases-moron-rota_4312437",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8325,
+      "title": "Después de Irán: más poder para Marruecos, más problemas para España",
+      "url": "https://blogs.elconfidencial.com/espana/caza-mayor/2026-03-02/despues-de-iran-mas-poder-para-marruecos-mas-problemas-para-espana_4312318",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8530,
+      "title": "El emérito Juan Carlos, en un hotel en Abu Dabi \"tranquilo y a salvo\" en medio del conflicto de EEUU e Israel contra Irán",
+      "url": "https://www.elespanol.com/corazon/casas-reales/20260302/emerito-juan-carlos-hotel-abu-dabi-tranquilo-salvo-medio-conflicto-eeuu-israel-iran/1003744151664_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 8712,
+      "title": "Estados Unidos está usando la inteligencia artificial de Claude en los ataques a Irán pese a haber sido vetada por Trump",
+      "url": "https://www.elespanol.com/omicrono/tecnologia/20260302/unidos-usando-inteligencia-artificial-claude-ataques-iran-pese-vetada-trump/1003744151303_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

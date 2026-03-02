@@ -1,0 +1,145 @@
+{
+  "id": 17,
+  "clusterId": 377,
+  "editionId": 1,
+  "slug": "pld-space-acelera-con-el-miura-5-y-una-nueva-fabrica-en-elche-camino-de-la-sober",
+  "headline": "PLD Space acelera con el Miura 5 y una nueva fábrica en Elche camino de la soberanía espacial",
+  "summary": "La empresa alicantina PLD Space prevé lanzar su cohete Miura 5 desde la base de Kourou (Guayana Francesa) en la segunda mitad de 2025 y construir una nueva planta industrial en Elche que duplicaría su plantilla hasta 1.000 empleados en 2028, con respaldo institucional de la Generalitat Valenciana y el Ayuntamiento ilicitano.",
+  "sections": {
+    "facts": "**PLD Space**, compañía aeroespacial con sede en **Elche** (Alicante), trabaja en el lanzamiento de su cohete de demostración **Miura 5** desde el **Centre Spatial Guyanais (CSG)** de Kourou, en la Guayana Francesa, previsto para la segunda mitad de **2025**. Si el lanzamiento se produce con éxito, España pasaría a integrar el reducido grupo de países que disponen de capacidad propia de lanzamiento, despliegue y control de satélites en órbita, lo que técnicos del sector denominan **soberanía espacial**.\n\nEn paralelo al desarrollo tecnológico, la empresa ha anunciado la construcción de una nueva fábrica en el área industrial **Porta d'Elx** de Elche, cuyas obras arrancarían a comienzos de **2025**. La plantilla actual, de alrededor de **460 personas**, podría alcanzar el millar a partir de mediados de **2028**, lo que supone un incremento del **117%**. PLD Space busca específicamente perfiles especializados en trabajo con metal y control de calidad, e impulsará programas de formación profesional en institutos del entorno ilicitano.\n\nEl **presidente ejecutivo de PLD Space**, **Ezequiel Sánchez**, presentó la ampliación tras firmar un memorándum de colaboración con el **presidente de la Generalitat Valenciana**, **Juanfran Pérez Llorca**, y el **alcalde de Elche**, **Pablo Ruz**. El acuerdo contempla agilización de trámites administrativos, alivio fiscal para la inversión y la designación de un gestor específico para acelerar los procesos burocráticos, además de una comisión de seguimiento. La empresa cuenta también con un contrato comercial ya firmado con la firma **Sateliot** para lanzar satélites de conectividad **5G** en **2027**.\n\nEn cuanto a las instalaciones de lanzamiento, España carece de un puerto espacial propio comparable a Kourou, cuya construcción supuso hace medio siglo una inversión cercana a los **400 millones de euros** y requiere más de **100 millones anuales** en mantenimiento. Las infraestructuras para la última generación de lanzadores han sumado otros **2.500 millones**. El jefe del programa **Ariane 6** de la [Agencia Espacial Europea (ESA)](https://www.esa.int), **Louis Laurent**, señaló que la posición ecuatorial del centro reduce los costes operativos en un **30%** y ofrece ventajas de seguridad por la ausencia de grandes núcleos urbanos en la zona litoral.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "Neutral con enfoque geopolítico",
+        "toneColor": "#4a90d9",
+        "summary": "El diario contextualiza el avance de PLD Space dentro del debate europeo sobre autonomía estratégica y dependencia tecnológica. Recalca los enormes costes de mantener infraestructuras como Kourou y recoge voces del sector que condicionan el valor real de la soberanía espacial a la integración en marcos de cooperación europeos. Omite por completo la nueva fábrica en Elche y el acuerdo con la Generalitat Valenciana."
+      },
+      {
+        "sourceName": "El Español",
+        "tone": "Favorable con enfoque industrial local",
+        "toneColor": "#e8a838",
+        "summary": "El medio centra su cobertura en el impacto económico y laboral del proyecto para la Comunidad Valenciana, detallando cifras de empleo, el memorándum institucional y los planes de formación profesional. El tono es claramente optimista respecto a la colaboración público-privada. No aborda el debate sobre soberanía espacial, la dependencia de Kourou ni el contexto aeroespacial europeo."
+      }
+    ],
+    "hidden": "La diferencia más llamativa entre ambas coberturas no es de matiz, sino de tema: **El País** y **El Español** están contando, en la práctica, dos historias distintas sobre la misma empresa. Que ninguno de los dos ofrezca una imagen completa obliga al lector a cruzar fuentes para entender qué está ocurriendo realmente. La omisión de El País respecto a la nueva fábrica y el memorándum con la Generalitat no es menor: se trata del anuncio de inversión industrial más concreto y verificable del momento, con implicaciones directas para cientos de trabajadores y para la política industrial valenciana. Ignorarlo sesga la narrativa hacia lo abstracto —el debate geopolítico— y aleja al lector de las consecuencias más tangibles del proyecto.\n\nA la inversa, el silencio de **El Español** sobre la dependencia estructural de instalaciones extranjeras como Kourou revela una elección editorial significativa. Presentar la expansión fabril como un éxito sin ambigüedades obvia que el cohete que allí se fabricará tendrá que lanzarse desde territorio francés, gestionado por un consorcio europeo, con costes de acceso elevados. Esta omisión conviene a un encuadre triunfalista de la noticia, pero priva al lector de preguntas incómodas: **¿qué grado de soberanía real ofrece un lanzador que depende de infraestructuras ajenas?** El concepto mismo de soberanía espacial queda, así, sin cuestionarse en el medio que más espacio dedica a los logros industriales de PLD Space.\n\nTambién merece atención el hecho de que ninguno de los dos medios profundice en las condiciones económicas del acuerdo público-privado: qué contrapartidas exactas recibe la empresa a cambio del apoyo institucional, cuánto supone el alivio fiscal comprometido por las administraciones valencianas o en qué términos legales se articula el memorándum. La colaboración entre empresas privadas y administraciones públicas en proyectos de alta tecnología implica transferencias de recursos y riesgos públicos que, en aras de la narrativa del éxito, quedan sistemáticamente fuera de foco en ambas coberturas.",
+    "context": "**PLD Space** es una empresa española de lanzadores espaciales fundada en 2011 en Elche, Alicante, por los ingenieros **Raúl Torres** y **Ezequiel Sánchez**. Se trata de una de las pocas compañías privadas europeas dedicadas al desarrollo de cohetes propios, en un mercado dominado históricamente por agencias estatales y grandes consorcios como **Arianespace** —empresa multinacional que gestiona los lanzadores de la Agencia Espacial Europea— o actores privados estadounidenses como **SpaceX**.\n\nEl proyecto estrella de PLD Space es el **Miura 5**, un cohete de pequeño formato diseñado para poner en órbita satélites de reducido tamaño, un segmento de mercado en fuerte crecimiento gracias a la proliferación de constelaciones de satélites para telecomunicaciones, observación terrestre o conectividad. La empresa ya realizó en 2023 el primer vuelo suborbital de su prototipo **Miura 1** desde una plataforma del **Instituto Nacional de Técnica Aeroespacial (INTA)** en España, aunque sin llegar a órbita. El Miura 5 sería el primer lanzador orbital completamente desarrollado por una empresa privada española.\n\nEl lugar desde el que se prevé lanzar el Miura 5 es **Kourou**, en la Guayana Francesa, territorio de ultramar francés en América del Sur donde la [ESA](https://www.esa.int) opera su principal puerto espacial, el **Centre Spatial Guyanais**. Su posición cercana al ecuador terrestre es estratégicamente valiosa: requiere menos energía para poner satélites en órbita, reduciendo costes y aumentando la carga útil posible. Esta infraestructura, construida hace décadas con una inversión de cientos de millones de euros, es compartida por distintos operadores bajo acuerdos de acceso, pero ninguno de ellos equivale a disponer de un puerto espacial nacional propio.\n\nEl concepto de **soberanía espacial** que rodea al debate sobre PLD Space alude a la capacidad de un Estado para lanzar, operar y controlar satélites sin depender de tecnología o infraestructuras extranjeras. Para países como España, que hasta ahora carecen de esa capacidad completa, contar con una empresa nacional capaz de ejecutar lanzamientos orbitales tiene implicaciones tanto civiles —telecomunicaciones, navegación, meteorología— como militares y de seguridad. Sin embargo, varios expertos del sector señalan que esta soberanía solo adquiere sentido pleno si se articula dentro de marcos de cooperación europeos, dado que ningún país europeo puede, por sí solo, costear todas las infraestructuras necesarias.",
+    "questions": [
+      "]["
+    ]
+  },
+  "category": "tecnología",
+  "categories": [
+    "tecnología",
+    "economía"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/7YORW2B5WZFE5NUMIEMO7PLMZ4.jpg?auth=4f034b62dc2ce6935bfe12a7840b56ec867e86f729a7a3ab64fd19f27e4b8f74&amp;width=1200",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T13:38:42.938Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/7YORW2B5WZFE5NUMIEMO7PLMZ4.jpg?auth=4f034b62dc2ce6935bfe12a7840b56ec867e86f729a7a3ab64fd19f27e4b8f74&amp;width=1200",
+      "source": "El País"
+    },
+    {
+      "url": "https://s3.elespanol.com/2025/02/22/alicante/economia/empresas/926167485_253342969_1706x960.jpg?fmt=jpeg",
+      "source": "El Español"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 164,
+      "title": "España persigue la soberanía espacial con el desarrollo de sus propios cohetes",
+      "url": "https://elpais.com/tecnologia/2026-02-27/espana-persigue-la-soberania-espacial-con-el-desarrollo-de-sus-propios-cohetes.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 1048,
+      "title": "Llega a Alicante una nueva fábrica de cohetes: PLD Space espera \"mover tierra\" en 2027 y aumentar un 117% su plantilla",
+      "url": "https://www.elespanol.com/ciencia/20260302/llega-alicante-nueva-fabrica-cohetes-pld-space-espera-mover-tierra-aumentar-plantilla/1003744151663_0.html",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 8,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 9,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 11,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 12,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 13,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 14,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    }
+  ]
+}

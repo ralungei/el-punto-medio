@@ -1,0 +1,323 @@
+{
+  "id": 27,
+  "clusterId": 493,
+  "editionId": 1,
+  "slug": "el-mwc-2026-arranca-entre-cancelaciones-de-vuelos-protestas-y-la-ia-como-protago",
+  "headline": "El MWC 2026 arranca entre cancelaciones de vuelos, protestas y la IA como protagonista",
+  "summary": "La vigésima edición del Mobile World Congress abrió este lunes en Barcelona con más de 2.900 empresas expositoras y la inteligencia artificial como eje central, pero condicionada por las cancelaciones de vuelos derivadas de los ataques de Israel y Estados Unidos a Irán, y por protestas sociales contra la presencia de empresas israelíes en el congreso.",
+  "sections": {
+    "facts": "El **Mobile World Congress (MWC) 2026** inauguró el lunes 2 de marzo su vigésima edición en el recinto de **Fira Gran Via de L'Hospitalet de Llobregat**, en Barcelona, bajo el lema *The IQ Era*. El congreso, organizado por la **GSMA** —la patronal europea de operadores móviles—, esperaba reunir a unos **109.000 congresistas** y contaba con más de **2.900 empresas expositoras**, entre ellas Cisco, Google, Huawei, Samsung, Meta, Microsoft, Qualcomm o Telefónica. El impacto económico estimado para esta edición asciende a **585 millones de euros**. La inteligencia artificial centró los debates y anuncios principales del primer día, con declaraciones del conseller d'Empresa i Treball de la Generalitat, **Miquel Sàmper**, quien la describió como «la revolución más exponencial que hemos conocido». **Amazon** anunció una inversión de **18.000 millones de euros** en España.\n\nEl telón de fondo del congreso lo marcó el conflicto bélico en Oriente Próximo. Tras los [ataques de Israel y Estados Unidos a Irán](/articulo/israel-y-eeuu-atacan-iran-muere-jamenei-y-los-mercados-agricolas-acusan-el-golpe) el sábado previo a la apertura, los aeropuertos de **Doha, Dubai y Abu Dabi** cerraron y suspendieron operaciones, afectando a las conexiones con Asia y Oriente Medio que utilizan esas escalas. Fuentes del sector estimaron entre **5.000 y 10.000** el número de congresistas que no pudieron llegar a Barcelona. Entre los casos concretos documentados, altos ejecutivos del fabricante chino **Honor** quedaron varados en **Karachi (Pakistán)** a la espera de una solución. La GSMA restó importancia a las afectaciones, señalando que «un pequeño número de asistentes, expositores y ponentes procedentes de Oriente Medio podrían verse afectados». El presidente de la **Fira de Barcelona**, **Pau Relat**, calificó el impacto de «pequeño», arguyendo que la mayoría de los asistentes habían llegado durante el fin de semana. El *president* de la Generalitat, **Salvador Illa**, también describió las afectaciones como «muy limitadas». Sin embargo, varios actos del programa fueron cancelados, entre ellos la participación de la vicepresidenta ejecutiva de la Comisión Europea, **Teresa Ribera**, quien debió atender una reunión extraordinaria del ejecutivo comunitario.\n\nEn el plano social, diversas entidades —entre ellas **Prou Complicitat amb Israel**— convocaron una concentración pacífica el lunes para protestar contra la participación de empresas israelíes en el MWC, a pesar de que el Ayuntamiento de Barcelona acordó previamente romper relaciones institucionales con Israel. No obstante, por primera vez en la historia del congreso, **11 empresas palestinas** tuvieron presencia en el evento, representando la innovación tecnológica de Gaza y Cisjordania. Por su parte, el sindicato **CCOO** denunció condiciones laborales precarias entre el personal del congreso. La consellera d'Igualtat i Feminisme, **Eva Menor**, aprovechó el foro para reclamar medidas contra la brecha de género en el sector tecnológico, citando que solo el **25% de los congresistas en 2025 fueron mujeres**.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "Moderado",
+        "toneColor": "#5B8DB8",
+        "summary": "Encuadra el congreso desde la geopolítica: el conflicto en Oriente Próximo como telón de fondo que perturba el evento y reúne a dirigentes de EE.UU. y China. Destaca la tensión entre el uso civil y militar de las tecnologías exhibidas y la cancelación de Teresa Ribera, pero no menciona las protestas sociales ni cuantifica con cifras los afectados por las cancelaciones."
+      },
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "Alarmista",
+        "toneColor": "#C0392B",
+        "summary": "Centra su cobertura en las consecuencias logísticas inmediatas de los ataques a Irán: aeropuertos cerrados, vuelos cancelados y congresistas varados. Es el medio que aporta la estimación más concreta de afectados (entre 5.000 y 10.000) y ejemplos como los ejecutivos de Honor en Karachi. Apenas aborda el contenido tecnológico ni las protestas."
+      },
+      {
+        "sourceName": "La Razón",
+        "tone": "Favorable",
+        "toneColor": "#27AE60",
+        "summary": "Despliega una cobertura marcadamente promocional y entusiasta del evento, con énfasis en los nuevos productos presentados, el impacto económico y los veinte años de historia del MWC. No hace ninguna referencia al conflicto en Oriente Próximo, las cancelaciones, las protestas sociales ni la presencia de empresas israelíes."
+      },
+      {
+        "sourceName": "Público",
+        "tone": "Crítico",
+        "toneColor": "#8E44AD",
+        "summary": "Adopta un encuadre social y político, poniendo el foco en las protestas contra empresas israelíes, las denuncias laborales de CCOO y las contradicciones entre el discurso de innovación y las implicaciones geopolíticas del congreso. Es el único medio que menciona la presencia inédita de empresas palestinas. Apenas desarrolla las afectaciones logísticas ni los anuncios empresariales."
+      },
+      {
+        "sourceName": "20 Minutos",
+        "tone": "Neutral",
+        "toneColor": "#7F8C8D",
+        "summary": "Ofrece una cobertura en tiempo real con agregación de declaraciones institucionales, anuncios empresariales y datos de contexto. Destaca el anuncio de inversión de Amazon y las declaraciones sobre IA y brecha de género. Las disrupciones aéreas y las protestas sociales quedan como referencias secundarias."
+      },
+      {
+        "sourceName": "RTVE",
+        "tone": "Neutral",
+        "toneColor": "#2980B9",
+        "summary": "Elige un encuadre histórico y divulgativo, aprovechando el vigésimo aniversario para repasar la evolución tecnológica desde el 3G hasta la IA autónoma. No hace ninguna mención al conflicto en Oriente Próximo, las cancelaciones, las protestas ni los anuncios empresariales del primer día."
+      }
+    ],
+    "hidden": "La cobertura mediática del MWC 2026 presenta una fragmentación notable: cada medio elige una única dimensión del evento y la desarrolla casi en exclusiva, con lo que el lector de un solo medio obtiene una imagen radicalmente parcial. **La Razón** prescinde por completo del conflicto bélico y sus consecuencias logísticas, una omisión difícil de justificar periodísticamente dado que afectó directamente a la asistencia al congreso; el resultado es un relato publicitario que coincide con el interés de los organizadores y expositores en proyectar normalidad. En el extremo opuesto, **Público** es el único medio que aborda las denuncias laborales de CCOO y la inédita presencia de empresas palestinas, dos hechos con relevancia informativa propia que el resto ignora completamente. Que once empresas de Gaza y Cisjordania hayan participado por primera vez en el congreso mientras se celebran protestas contra las israelíes es un dato que transforma el relato de simple conflicto a escenario de múltiple complejidad.\n\nLa gestión institucional de las cancelaciones merece especial atención. Tanto la GSMA como Pau Relat y Salvador Illa minimizaron públicamente el impacto, mientras las fuentes del sector hablaban de entre 5.000 y 10.000 afectados sobre un total previsto de 109.000 asistentes —una proporción no despreciable—. **La Vanguardia** fue el único medio que ofreció esa horquilla cuantificada y ejemplos concretos de afectados. El contraste entre el discurso tranquilizador de los responsables institucionales y las estimaciones sectoriales es un elemento que la mayoría de medios no pone en cuestión, limitándose a reproducir las declaraciones oficiales. Finalmente, **RTVE** opta por un relato exclusivamente histórico-tecnológico que evita cualquier elemento de tensión o conflicto, lo que resulta llamativo en un medio público obligado por su mandato a ofrecer información completa: la ausencia de contexto geopolítico y social en su cobertura del primer día construye una imagen aséptica del congreso que beneficia implícitamente a los intereses organizativos del evento.",
+    "context": "El **Mobile World Congress** es la feria de tecnología móvil más grande del mundo. Organizado por la **GSMA** —asociación que agrupa a centenares de operadores de telefonía de todo el planeta—, se celebra anualmente en Barcelona desde **2006**, cuando llegó procedente de Cannes. En sus dos décadas en la ciudad, el congreso ha crecido hasta convertirse en un escaparate global donde fabricantes de móviles, empresas de software, operadores de red y gobiernos presentan sus últimas innovaciones y debaten el futuro de la conectividad. La **inteligencia artificial (IA)** ha pasado en los últimos años de ser una promesa a convertirse en el eje central de la industria tecnológica, y el MWC 2026 refleja ese giro con el lema *The IQ Era* (La Era del Cociente Intelectual).\n\nEl contexto geopolítico de esta edición está marcado por la escalada bélica en Oriente Próximo. El sábado anterior a la apertura del congreso, **Israel y Estados Unidos lanzaron ataques contra Irán**, lo que provocó el cierre del espacio aéreo en la región y la suspensión de operaciones en los grandes aeropuertos de los países del Golfo Pérsico —Qatar, Emiratos Árabes Unidos y Abu Dabi—, que funcionan como nodos de conexión imprescindibles para viajeros procedentes de Asia. Puedes leer más sobre este conflicto en nuestra cobertura: [Israel y EEUU atacan Irán](/articulo/israel-y-eeuu-atacan-iran-muere-jamenei-y-los-mercados-agricolas-acusan-el-golpe) y sobre los [españoles varados en Oriente Medio](/articulo/miles-de-espanoles-varados-en-oriente-medio-mientras-las-hoteleras-activan-planes).\n\nEl debate sobre la presencia israelí en el MWC tiene antecedentes directos en la política municipal de Barcelona. El **Ayuntamiento de Barcelona**, liderado por el alcalde **Jaume Collboni**, aprobó una resolución para romper las relaciones institucionales con el Estado de Israel a raíz de la ofensiva militar israelí en la **Franja de Gaza**. Sin embargo, la GSMA —que organiza el congreso de forma autónoma— no está vinculada por esa resolución municipal, por lo que empresas israelíes han vuelto a participar en 2026. Esta contradicción entre la posición política del Ayuntamiento y la realidad del congreso que acoge en su territorio es el origen de las protestas convocadas por entidades como **Prou Complicitat amb Israel** («Basta de complicidad con Israel»). Al mismo tiempo, la organización ha permitido por primera vez la participación de **once empresas palestinas**, lo que añade una capa adicional de complejidad al debate.",
+    "questions": [
+      "1. ¿Es compatible el discurso de innovación y progreso tecnológico del MWC con la participación de empresas vinculadas a países en conflicto bélico activo?",
+      "2. ¿Debería la GSMA asumir criterios políticos o éticos a la hora de seleccionar a los países y empresas participantes, o debe mantenerse como un espacio estrictamente comercial y tecnológico?",
+      "3. La mayoría de medios no cuestionó el relato oficial que minimizaba el impacto de las cancelaciones: ¿qué responsabilidad tienen los periodistas cuando reproducen declaraciones institucionales sin contrastarlas con datos alternativos?",
+      "4. ¿El hecho de que solo el 25% de los congresistas del MWC sean mujeres refleja un problema estructural del sector tecnológico o simplemente un déficit de comunicación hacia ese colectivo?",
+      "5. ¿Puede un evento de esta magnitud seguir celebrándose con normalidad cuando miles de asistentes no pueden llegar por una guerra en curso, o debería haber mecanismos de suspensión o adaptación ante crisis geopolíticas?"
+    ]
+  },
+  "category": "tecnología",
+  "categories": [
+    "tecnología",
+    "internacional"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/E5ACVHMPZVB7XI4RXRVCGNHXYE.jpg?auth=a2864e9712ca9f20f46c7fa960909543ba5e4fe3cea0dce027d30fb65b0e7174&amp;width=1200",
+  "sourcesCount": 6,
+  "createdAt": "2026-03-02T13:42:31.946Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/E5ACVHMPZVB7XI4RXRVCGNHXYE.jpg?auth=a2864e9712ca9f20f46c7fa960909543ba5e4fe3cea0dce027d30fb65b0e7174&amp;width=1200",
+      "source": "El País"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/01/69a4994e8962e.r_d.3413-2276-1758.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/02/6D7940B7-EA97-42A6-AAFD-1B1AFE3A5798/moblie-world-congress-2026-directo-todas-novedades-barcelona_69.jpg?crop=1756,988,x4,y0&width=1280&height=720&optimize=low&format=jpg",
+      "source": "La Razón"
+    },
+    {
+      "url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/02/28/0D887503-4286-4AA1-9A69-E56DCEC64F6E/69.jpg?crop=5097,2867,x0,y265&width=1280&height=720&optimize=low&format=jpg",
+      "source": "La Razón"
+    },
+    {
+      "url": "https://www.publico.es/files/main_image_horizontal_desktop/uploads/2026/02/27/69a1fafbc0d0d.jpeg",
+      "source": "Público"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a550b9f36eb9-01626634.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a5546871c562-21590837.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/09/6960ea976dbc44-63353545.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://img.rtve.es/imagenes/3g-a-ia-autonoma-20-anos-del-mwc-barcelona-marcando-tendencias-del-futuro/01772397346135.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNDMzNDk3MzUxNzcyNDQ2NDkyX2JybnprbV9zXzAwa2I4ejE3Ymtka19fdzdjY3Rodi5tcDQifQ.izvIUE35LCWBIxLeKEv2nK0mf8VA327U9H4z0FPbwOWEcjlFji7z1IOL_jcxUTaqyK9ejoHpN5m1c6w-jxbyyP7Pek1O1gLvlbE1XcLqVfTnJYOL5ru9sGMkI1AOSfGJtIYjkSXQaz5_LrB-nBytoCm_KCdMepFV0rmQh47q_GW3ZQC_YF9QSkbDLQ2QdZuRYy_-19GoQrumNui8_8N0XP6xsc-5HRhMus5MmM8HfYJ-YivdD-lFL-muZmqsE3rhMdLPHcEEmLV6vwDh0FlzI21lIvPzDaGdjVDTbm0kWpEt38cWxdpCiJUxhAEJIvLUx-gtYeOaLN7MfektM5dBeo0QHEjH2Uhta6d4lER0zg6gKBd_zlhDvydmGwt78MLk0Humevj8hzGzTbE3GnOApzMwnxpP5RzipPDvfhDbzFw2NruJyCPwLU5e3HCjijS-Q7x1G1MV5T_LCwEMktqfG9RfIYnZIGZ6BWiiA8BZ6gkhjGjVXv9Y5ULjrxrBWbpF/media-uploads/files/_20/202603/TVEE/upload_433497351772446492_brnzkm_s_00kb8z17bkdk__w7ccthv.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNjM1NDY4MzExNzcyMzk4ODI0X3JmaGxiMXJtM3M0bnJxYzZzM3Y3OV9iendfOG5iZC5tcDQifQ.On3L-3qONJYQSjfJ6u3FYpGxDRk538oGsJGr7PEjuZZFvGtwCk3SbqzVd3aO5jYb_-h7oeuAuMqxy5sOE4qe-GkvJwJMROEqrxxJmnAo5lM2AOWsZRv5Z59Z6L3jNa8vUpS0w06O-TbOi6SH1Cn0iVZIM9perMD4Int86IV72Y_hqqJKcvKZYJMLWhf_QhSe-FRa1XfOlwFLk9cZfUWWVwQqYkh3aEo2vq11QVB0LGMjqo7eQ3uvyXC52KXAwrw9Rn5EU2GTcxp6zKXqPzn5DCdIO1X89uAZJmdO0gsDVI9RkRVpVqVitMI4yNVE7SDxP3xM7b0hQym0LypO6WUVgS7Cssf1tkCHhRnYgMA-uRlfSbwriSYLWBHyyKc9BfOf6mUe0FhE15JOMXiYxfGS_toDss_JeuG8N6c-LTvOEJGYIU8vkfSZi4gEkw1_COdf09ei59GSoooSls6ReTcduZPlOdY4XRM5qx7fMOi9VZmna0SKUS1rdDgQLOZmMShO/media-uploads/files/_20/202603/TVEE/upload_635468311772398824_rfhlb1rm3s4nrqc6s3v79_bzw_8nbd.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfMTE1MzIxMjIxNzcyMzkyOTY5X2ZkX3RienFxM21oMDd3YndjNXdmcm5iYmxzY2JiYy5tcDQifQ.pI-Po7N4t4u6iqP_3107mFrad2Ce5CR-7juYaBQbmjq8o5oEnzI37-gZL5bx1hkpjxeDDFSeLlQTs4jyZ41PDcAhLhg-60R5IpXIC8lgvIIw1b06hJO0W0P53_6GT4gV8uv2H4R7RVocaQqHaNNTBXNy_lSog2AnLXxKiXuP-8zfVcFqSOZfgApjN3KFxvZ_iIaxaYJRq_hAaGyFZGjznlUdmYEdiq-f7p_AoH2FpnmPZTt26NCVosOdPU7dEq0-LCI9ZgVugw9a9G5p77j-qEPAJ45HR21qNinbgE3-EBkLzaCL2q5-sD4zxAoT8JWmTGoRRYgJPc5AQUpDPT34N3auUqDhwy9HBOKka0qVRZN0ga6DTgu71krO3w1_SmW-3YSsILgJrClWxpZ23_kLP2FhgOTxHfFANMxSMMAqk-yatHNyNfT5dQNP_oR5eEhe2-XB8MzjMQ_gGCjM0VHrRlC-qsU44DZr0zEXHyIO1D39IjDbyDhbEedUgtdciQjH/media-uploads/files/_20/202603/TVEE/upload_115321221772392969_fd_tbzqq3mh07wbwc5wfrnbblscbbc.mp4.0_10.jpg",
+      "source": "RTVE"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 65,
+      "title": "Arranca el MWC en Barcelona con los líderes mundiales de la tecnología pendientes de la guerra en Oriente Próximo",
+      "url": "https://elpais.com/economia/2026-03-02/arranca-el-mobile-en-barcelona-con-los-lideres-mundiales-de-la-tecnologia-pendientes-de-la-guerra-en-oriente-proximo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 326,
+      "title": "Miles de congresistas del Mobile World Congress (MWC) pierden sus vuelos a Barcelona por los ataques a Irán",
+      "url": "https://www.lavanguardia.com/local/barcelona/20260302/11478665/miles-congresistas-mobile-pierden-vuelos-barcelona-ataques-iran.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 655,
+      "title": "Mobile World Congress 2026 en directo: todas las novedades desde Barcelona",
+      "url": "https://www.larazon.es/tecnologia/moblie-world-congress-2026-directo-todas-novedades-barcelona_2026030269a567891817b41eb66c1e97.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 668,
+      "title": "El MWC 2026 arranca en Barcelona con la IA como gran protagonista",
+      "url": "https://www.larazon.es/cataluna/mwc-2026-arranca-barcelona-como-gran-protagonista_2026030169a402c29243cc133c6a70ac.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 1287,
+      "title": "Luces y sombras de los 20 años del Mobile en Barcelona, entre la innovación digital y el conflicto social",
+      "url": "https://www.publico.es/sociedad/luces-sombras-20-anos-mobile-barcelona-innovacion-digital-conflicto-social.html",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "Público",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 1341,
+      "title": "MWC Barcelona 2026, en directo: agenda, horarios, Talent Arena y últimas noticias del Mobile World Congress hoy",
+      "url": "https://www.20minutos.es/cataluna/barcelona/mobile-world-congress-2026-directo-felipe-vi-preside-cena-inauguracion-acompanado-sanchez-illa-collboni_6939712_6.html",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 1372,
+      "title": "Arranca MWC 2026 con una idea clara: el futuro ya no gira solo alrededor del móvil",
+      "url": "https://www.20minutos.es/tecnologia/actualidad/mobile-world-congress-2026-arranca-barcelona-ia-moviles-tendencias-tecnologia_6940381_0.html",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 1391,
+      "title": "Más trenes, un bus gratuito...: TMB refuerza el transporte público de Barcelona desde este lunes y hasta el jueves por el Mobile",
+      "url": "https://www.20minutos.es/cataluna/barcelona/mas-trenes-un-bus-gratuito-tmb-refuerza-transporte-publico-barcelona-desde-este-lunes-hasta-jueves-por-mobile_6939777_0.html",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 1436,
+      "title": "De la 3G a la IA autónoma: 20 años del MWC en Barcelona marcando las tendencias del futuro",
+      "url": "https://www.rtve.es/noticias/20260302/3g-a-ia-autonoma-20-anos-del-mwc-barcelona-marcando-tendencias-del-futuro/16960132.shtml",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 1439,
+      "title": "Salvador Illa, president de la Generalitat de Cataluña, desde el Mobile World Congress de Barcelona, sobre la regulación de las nuevas tecnologías: \"Apelar a que sean tecnologías gobernadas en función del interés público, del bien común, con normas acordadas entre todos y con una presencia clara de ",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/10f2d4746486f278ad35",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 1442,
+      "title": "Felipe VI preside hoy la cena de bienvenida del #MobileWorldCongress.",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/0840ea54fc08701d26e7",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 1443,
+      "title": "El MWC prevé dejar un impacto económico de casi 600 millones de euros en Barcelona",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/87d93459134ca04f0a0a",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 8,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 9,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 11,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 12,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 13,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 14,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    }
+  ]
+}

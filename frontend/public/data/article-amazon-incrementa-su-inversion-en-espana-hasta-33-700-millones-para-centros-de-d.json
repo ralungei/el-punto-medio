@@ -1,0 +1,149 @@
+{
+  "id": 71,
+  "clusterId": 7460,
+  "editionId": 10,
+  "slug": "amazon-incrementa-su-inversion-en-espana-hasta-33-700-millones-para-centros-de-d",
+  "headline": "Amazon incrementa su inversión en España hasta 33.700 millones para centros de datos en Aragón",
+  "summary": "La multinacional tecnológica eleva en 18.000 millones su compromiso inicial de inversión para desarrollar infraestructura de computación en la nube e inteligencia artificial. El proyecto se desarrollará hasta 2035 y prevé generar cerca de 30.000 empleos anuales.",
+  "sections": {
+    "facts": "**Amazon Web Services (AWS)** ha comunicado durante el **Mobile World Congress de Barcelona** una ampliación sustancial de su inversión en territorio español, elevando la cifra total hasta **33.700 millones de euros**. Esta cantidad supone un incremento de **18.000 millones** respecto al compromiso inicial anunciado en 2024, que ascendía a 15.700 millones.\n\nLa inversión se destinará íntegramente al desarrollo y expansión de **centros de datos** ubicados en **Aragón**, constituyendo lo que la compañía denomina región AWS Europa (España). Estas instalaciones proporcionarán servicios de **computación en la nube** y capacidades avanzadas de **inteligencia artificial** a organizaciones de todo el continente europeo.\n\nSegún las estimaciones de Amazon, el proyecto contribuirá con **31.700 millones de euros al PIB español** hasta 2035 y respaldará el equivalente a **29.900 empleos a tiempo completo** de media anual. La compañía especifica que generará directamente **6.700 empleos a tiempo completo**, de los cuales **1.800 corresponderán específicamente a Aragón**. El anuncio ha coincidido con reuniones entre directivos de AWS y el presidente del Gobierno, **Pedro Sánchez**, así como con el presidente aragonés, **Jorge Azcón**.",
+    "coverage": [
+      {
+        "sourceName": "El Confidencial",
+        "tone": "neutral",
+        "toneColor": "#666666",
+        "summary": "Enfoque institucional que destaca el contexto político del anuncio durante el MWC y las reuniones con autoridades españolas. Presenta la inversión como un hito coincidente con el 15º aniversario de Amazon en España, proporcionando detalles específicos sobre la generación de empleo cualificado."
+      },
+      {
+        "sourceName": "El Español",
+        "tone": "favorable",
+        "toneColor": "#4CAF50",
+        "summary": "Presenta la noticia como un gran logro empresarial del MWC, enfatizando los beneficios económicos para el PIB español. Incluye información sobre el compromiso medioambiental de AWS y sus proyectos de energía renovable, aunque el artículo aparece incompleto."
+      }
+    ],
+    "hidden": "La cobertura mediática muestra **omisiones significativas** en varios aspectos críticos de esta macro-inversión. Ninguno de los medios consultados profundiza en las **implicaciones medioambientales** de construir centros de datos de esta magnitud, que requieren enormes cantidades de energía y agua para refrigeración. Solo El Español menciona brevemente el compromiso con energías renovables, pero sin detallar cómo se implementará ni qué impacto real tendrá.\n\nTampoco se analiza el **contexto competitivo** de esta inversión: por qué Amazon elige España frente a otros países europeos, qué incentivos fiscales o regulatorios puede haber recibido, o cómo se compara con inversiones similares de competidores como Microsoft o Google. Esta información permitiría evaluar si se trata de una decisión puramente empresarial o influida por ventajas públicas no declaradas.\n\nFinalmente, los medios presentan las cifras de empleo sin **perspectiva crítica**: no especifican qué tipo de empleos se crearán realmente, su duración (muchos serán temporales durante la construcción), ni comparan estas promesas con el cumplimiento de compromisos previos de Amazon en otros países. Esta falta de contextualización impide evaluar la credibilidad real de las proyecciones presentadas.",
+    "context": "**Amazon Web Services (AWS)** es la división de servicios de computación en la nube de Amazon, que permite a empresas y gobiernos almacenar datos y ejecutar aplicaciones sin necesidad de mantener servidores físicos propios. Los **centros de datos** son instalaciones masivas llenas de servidores que procesan y almacenan información de millones de usuarios y empresas, requiriendo refrigeración constante y conexiones de alta velocidad.\n\nEl **Mobile World Congress** es la feria tecnológica más importante de Europa, que se celebra anualmente en Barcelona y reúne a las principales empresas del sector para presentar innovaciones y cerrar acuerdos comerciales. Amazon ha elegido este escenario para maximizar el impacto mediático de su anuncio.\n\n**Aragón** se ha posicionado como un destino atractivo para estas inversiones tecnológicas debido a varios factores: disponibilidad de terreno, costes energéticos competitivos, conectividad de fibra óptica desarrollada y una ubicación estratégica que permite servir tanto al mercado español como al europeo. La región compite con otras zonas de Europa por atraer estas inversiones multimillonarias que prometen transformar sus economías locales.\n\nEsta inversión se enmarca en la **carrera global por la infraestructura de inteligencia artificial**, donde las grandes tecnológicas compiten por construir los centros de procesamiento necesarios para entrenar y operar modelos de IA cada vez más complejos, que requieren una capacidad de cómputo exponencialmente mayor que los servicios tradicionales de la nube.",
+    "questions": [
+      "¿Qué garantías reales existen de que Amazon cumplirá estas promesas de inversión y empleo, considerando que las cifras se proyectan hasta 2035?",
+      "¿Qué incentivos fiscales o regulatorios ha ofrecido España para atraer esta inversión, y cómo se comparan con los de otros países competidores?",
+      "¿Cuál será el impacto medioambiental real de estos centros de datos en términos de consumo energético y recursos hídricos?",
+      "¿Cómo afectará esta concentración de infraestructura tecnológica extranjera a la soberanía digital europea y española?",
+      "¿Qué tipo de empleos se crearán realmente: cuántos serán temporales durante la construcción versus permanentes en operaciones?"
+    ]
+  },
+  "category": "tecnología",
+  "categories": [
+    "tecnología",
+    "economía"
+  ],
+  "imageUrl": "https://images.ecestaticos.com/Bk32IbgMZfmApm1lk9TZH5KhyxA=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc27%2Fceb%2F3c4%2Fc27ceb3c4d22e99c65565015b36cf7ec.jpg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T13:05:38.525Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://images.ecestaticos.com/Bk32IbgMZfmApm1lk9TZH5KhyxA=/0x0:2272x1515/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fc27%2Fceb%2F3c4%2Fc27ceb3c4d22e99c65565015b36cf7ec.jpg",
+      "source": "El Confidencial"
+    },
+    {
+      "url": "https://s3.elespanol.com/2024/01/25/invertia/disruptores/autonomias/aragon/827677482_239395709_320x180.jpg",
+      "source": "El Español"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 8335,
+      "title": "Amazon amplía su inversión en España hasta los 33.700 M, 18.000 más de lo previsto",
+      "url": "https://www.elconfidencial.com/empresas/2026-03-02/amazon-amplia-su-inversion-en-espana-33-700-millones_4312592",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8556,
+      "title": "Amazon aumenta su inversión en España hasta 33.700 millones para su región de centros de datos",
+      "url": "https://www.elespanol.com/invertia/disruptores/grandes-actores/tecnologicas/20260302/aws-aumenta-inversion-espana-millones-ampliar-infraestructura-centros-datos/1003744151737_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

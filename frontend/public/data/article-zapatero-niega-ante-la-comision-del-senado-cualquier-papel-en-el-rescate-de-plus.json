@@ -1,0 +1,148 @@
+{
+  "id": 22,
+  "clusterId": 1169,
+  "editionId": 9,
+  "slug": "zapatero-niega-ante-la-comision-del-senado-cualquier-papel-en-el-rescate-de-plus",
+  "headline": "Zapatero niega ante la comisión del Senado cualquier papel en el rescate de Plus Ultra",
+  "summary": "El expresidente compareció en la comisión de investigación del caso Koldo donde negó rotundamente haber facilitado el rescate público de 53 millones a la aerolínea. Confirmó sus contratos de consultoría con empresas vinculadas a investigados y cifró sus ingresos en 70.000 euros anuales.",
+  "sections": {
+    "facts": "**José Luis Rodríguez Zapatero** compareció este martes ante la comisión de investigación del **caso Koldo** en el Senado, a petición del Partido Popular. El expresidente negó categóricamente haber facilitado el **rescate público de 53 millones de euros** a la aerolínea Plus Ultra durante la pandemia. \"No, en absoluto\", respondió cuando se le preguntó directamente sobre su papel como facilitador de la ayuda estatal.\n\nEl exjefe del Ejecutivo aseguró desconocer a **Julio Martínez Sola**, presidente de Plus Ultra, pero confirmó su relación contractual con **Análisis Relevante**, empresa constituida por **Julio Martínez Martínez**, amigo personal del expresidente que se encuentra detenido en el marco de la investigación. Zapatero detalló que factura **70.000 euros brutos anuales** por sus servicios de consultoría y que el acuerdo incluye también contratos con la empresa de comunicación de sus dos hijas.\n\nDurante su intervención, Zapatero defendió su trayectoria como consultor internacional, mencionando que ha realizado **134 viajes** desde que dejó la presidencia en 2011. \"Nadie me ha pedido nada para Plus Ultra jamás\", declaró el expresidente, quien calificó de \"enormes falsedades\" las acusaciones vertidas contra él y anunció que traía \"hasta 15 grandes falsedades\" para rebatir.",
+    "coverage": [
+      {
+        "sourceName": "ABC",
+        "tone": "neutral informativo",
+        "toneColor": "#4A90E2",
+        "summary": "Se limita únicamente a anunciar la comparecencia en directo sin desarrollar contenido específico. No incluye declaraciones, negaciones o detalles sustanciales de la intervención de Zapatero ante la comisión."
+      },
+      {
+        "sourceName": "El País",
+        "tone": "detallado y equilibrado",
+        "toneColor": "#28A745",
+        "summary": "Ofrece amplia cobertura centrada en las negaciones del expresidente y sus explicaciones sobre los contratos de consultoría. Incluye declaraciones textuales y cifras específicas sobre sus ingresos y actividad profesional."
+      }
+    ],
+    "hidden": "La diferencia en la cobertura revela estrategias editoriales divergentes que pueden influir en la percepción pública del caso. **ABC** optó por una cobertura mínima que no desarrolla el contenido sustancial de la comparecencia, limitándose al mero anuncio del evento. Esta aproximación minimalista podría interpretarse como una forma de no amplificar las defensas de Zapatero, manteniendo el foco en la existencia de la investigación más que en sus explicaciones.\n\nPor el contrario, **El País** proporciona un relato detallado que incluye las negaciones categóricas del expresidente y sus explicaciones sobre la naturaleza de sus contratos de consultoría. Esta cobertura más exhaustiva permite al lector acceder a las defensas específicas de Zapatero, incluyendo cifras concretas sobre sus ingresos y la naturaleza de su relación con las empresas investigadas. La ausencia de este nivel de detalle en otros medios puede privar al público de elementos relevantes para formar su propia opinión sobre la credibilidad de las explicaciones ofrecidas.",
+    "context": "El **caso Koldo** es una investigación judicial que se centra en una presunta trama de corrupción relacionada con la compra de material sanitario durante la pandemia de COVID-19. La investigación toma su nombre de **Koldo García**, ex asesor del exministro de Transportes José Luis Ábalos, quien está siendo investigado por su presunto papel en esta red. **Plus Ultra** es una aerolínea venezolano-española que recibió un rescate público de 53 millones de euros en 2020, cuando el sector aéreo atravesaba graves dificultades por las restricciones pandémicas.\n\n**José Luis Rodríguez Zapatero** fue presidente del Gobierno de España entre 2004 y 2011 por el PSOE. Tras dejar el cargo, desarrolló una carrera como consultor internacional, principalmente en América Latina. Su comparecencia en la comisión se produce por las sospechas sobre si pudo haber influido en la concesión del rescate a Plus Ultra a través de sus contactos. **Julio Martínez Martínez**, amigo personal de Zapatero y con quien mantiene contratos de consultoría, está detenido en el marco de la investigación del caso Koldo.\n\nLa **comisión de investigación** del Senado fue creada a instancia del Partido Popular, que cuenta con mayoría absoluta en la Cámara Alta. Estas comisiones parlamentarias tienen como objetivo esclarecer asuntos de interés público, aunque sus conclusiones no tienen efectos judiciales directos.",
+    "questions": [
+      "¿Son compatibles los contratos de consultoría de Zapatero con personas investigadas en el caso Koldo con sus negaciones de influencia?",
+      "¿Qué criterios se aplicaron para conceder el rescate de 53 millones a Plus Ultra frente a otras aerolíneas que también solicitaron ayuda?",
+      "¿Cómo afecta la diferente cobertura mediática a la percepción pública sobre la credibilidad de las explicaciones del expresidente?",
+      "¿Qué papel juegan las comisiones parlamentarias de investigación cuando hay procesos judiciales abiertos sobre los mismos hechos?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "economía"
+  ],
+  "imageUrl": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/03/02/ZP-senado-U20609936686iUC-U20976706951SvE-758x531@diario_abc.jpg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T09:53:07.093Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/03/02/ZP-senado-U20609936686iUC-U20976706951SvE-758x531@diario_abc.jpg",
+      "source": "ABC"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xbdENj3e_J0",
+      "source": "El País"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4156,
+      "title": "Zapatero comparece en la comisión de investigación del 'caso Koldo' por el rescate de Plus Ultra, en directo desde el Senado hoy",
+      "url": "https://www.abc.es/espana/zapatero-comparece-comision-investigacion-koldo-rescate-plus-20260302090522-di.html",
+      "sourceId": 3,
+      "source": {
+        "id": 3,
+        "name": "ABC",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4196,
+      "title": "Zapatero, sobre si facilitó el rescate de la aerolínea Plus Ultra: “No, en absoluto”",
+      "url": "https://elpais.com/espana/2026-03-02/comparecencia-de-zapatero-en-la-comision-del-caso-koldo-del-senado-para-explicar-su-relacion-con-plus-ultra-en-directo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

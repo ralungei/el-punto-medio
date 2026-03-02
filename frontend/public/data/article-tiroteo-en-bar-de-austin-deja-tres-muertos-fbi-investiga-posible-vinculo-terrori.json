@@ -1,0 +1,199 @@
+{
+  "id": 57,
+  "clusterId": 6974,
+  "editionId": 9,
+  "slug": "tiroteo-en-bar-de-austin-deja-tres-muertos-fbi-investiga-posible-vinculo-terrori",
+  "headline": "Tiroteo en bar de Austin deja tres muertos; FBI investiga posible vínculo terrorista",
+  "summary": "Un atacante de 53 años disparó contra clientes de un bar en Austin, Texas, causando tres muertes y 14 heridos. Las autoridades investigan posibles conexiones terroristas tras hallar simbología religiosa e iraní en su vestimenta.",
+  "sections": {
+    "facts": "En las primeras horas del domingo, **Ndiaga Diagne**, un hombre de 53 años de origen senegalés naturalizado estadounidense, ejecutó un ataque armado contra el bar **Buford's Backyard Beer** en Austin, Texas. El incidente se saldó con **tres fallecidos** (incluido el agresor) y **14 personas heridas**, algunas de gravedad.\n\nSegún la jefa de policía de Austin, **Lisa Davis**, el atacante circuló repetidamente con su todoterreno por los alrededores del establecimiento antes de abrir fuego. \"Encendió sus luces intermitentes, bajó la ventanilla y comenzó a usar una pistola, disparando desde las ventanillas de su coche\", declaró Davis en rueda de prensa. Posteriormente, el agresor salió del vehículo portando un rifle y continuó disparando contra transeúntes mientras avanzaba por la calle hasta que fue abatido por agentes policiales.\n\nEl **FBI** ha iniciado una investigación por posible terrorismo tras encontrar \"indicadores\" en el sospechoso y su vehículo. **Alex Doran**, agente especial del FBI en San Antonio, confirmó que Diagne llevaba una sudadera con la inscripción \"**Propiedad de Alá**\" y una camiseta con el diseño de la **bandera iraní**. El ataque ocurrió horas después del inicio de los [bombardeos estadounidenses sobre Irán](/articulo/iran-inicia-proceso-de-sucesion-tras-muerte-de-lider-supremo-en-operacion-milita), lo que ha llevado a las autoridades a estudiar posibles conexiones geopolíticas.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "neutral",
+        "toneColor": "#4a90e2",
+        "summary": "Adopta un enfoque procesal y descriptivo, centrándose en la secuencia cronológica de los hechos y las declaraciones oficiales. Evita mencionar la identidad del atacante y se limita a los aspectos técnicos de la investigación policial."
+      },
+      {
+        "sourceName": "El Español",
+        "tone": "alarmista",
+        "toneColor": "#e74c3c",
+        "summary": "Conecta directamente el ataque con las tensiones geopolíticas actuales y destaca prominentemente la simbología religiosa del agresor. Establece una narrativa que vincula el suceso con el contexto internacional de Oriente Medio."
+      },
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "moderado",
+        "toneColor": "#f39c12",
+        "summary": "Equilibra la información factual con referencias al timing de los bombardeos, manteniendo cautela interpretativa. Subraya los elementos simbólicos encontrados sin establecer conexiones explícitas entre eventos."
+      },
+      {
+        "sourceName": "elDiario.es",
+        "tone": "crítico",
+        "toneColor": "#8e44ad",
+        "summary": "Plantea explícitamente el suceso como posible consecuencia de las acciones militares de Trump, enfocándose en la causalidad política. Conecta directamente el ataque con los bombardeos estadounidenses sobre Irán."
+      }
+    ],
+    "hidden": "Las diferencias en el tratamiento informativo revelan **tensiones editoriales significativas** sobre cómo contextualizar un acto violento en medio de una crisis geopolítica. Mientras algunos medios evitan deliberadamente establecer conexiones causales entre los bombardeos y el ataque, otros las plantean como hipótesis central de la investigación.\n\n**La omisión más llamativa** es la reluctancia de ciertos medios a identificar al atacante o profundizar en su perfil, limitándose a datos básicos como edad y origen. Esta cautela contrasta con la prominencia que dan otros medios a su simbología religiosa y nacional, sugiriendo diferentes criterios sobre qué información puede influir en la percepción pública del suceso.\n\nTambién resulta revelador que **algunos medios minimicen el timing** del ataque respecto a los bombardeos, presentándolo como mera coincidencia temporal, mientras otros lo sitúan como elemento central para entender las posibles motivaciones. Esta divergencia refleja posicionamientos editoriales sobre la responsabilidad de las acciones militares en la radicalización de individuos.",
+    "context": "Este ataque se produce en un momento de **máxima tensión geopolítica** tras los recientes bombardeos estadounidenses e israelíes contra instalaciones iraníes, que resultaron en [la muerte del líder supremo Jamenei](/articulo/la-muerte-de-jamenei-desata-una-guerra-regional-con-mas-de-550-fallecidos). Estos ataques han desatado una escalada regional con más de 550 fallecidos, convirtiendo el conflicto en una crisis internacional de primera magnitud.\n\n**Ndiaga Diagne** era un ciudadano estadounidense naturalizado que llevaba más de 15 años residiendo en el país, procedente de Senegal. Su perfil no se corresponde con los patrones típicos de atacantes domésticos, lo que ha llevado al FBI a considerar tanto el terrorismo doméstico como internacional en su investigación. La presencia de simbología iraní en su vestimenta cobra especial relevancia dado el contexto de los bombardeos.\n\n**Austin**, capital de Texas, es conocida por su vibrante vida nocturna y su ambiente universitario, con numerosos bares and clubes concentrados en la zona donde ocurrió el ataque. El área de **West 6th Street** es particularmente popular entre jóvenes y estudiantes, lo que explica la presencia de numerosos civiles en el momento del tiroteo. La ciudad no había experimentado ataques de estas características en años recientes.",
+    "questions": [
+      "¿Puede un individuo actuar por motivaciones geopolíticas sin pertenecer a una organización terrorista estructurada?",
+      "¿Cómo influyen los conflictos internacionales en la radicalización de ciudadanos en países terceros?",
+      "¿Qué responsabilidad tienen los medios al conectar actos violentos con eventos geopolíticos contemporáneos?",
+      "¿Es suficiente la simbología encontrada para establecer motivaciones terroristas claras?",
+      "¿Cómo pueden las autoridades distinguir entre terrorismo doméstico e internacional en casos como este?"
+    ]
+  },
+  "category": "internacional",
+  "categories": [
+    "internacional",
+    "sociedad"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/ROSNZ2HK7FLETAWJKDWUQTFE2Q.jpg?auth=a048464f8e0b385acec7455a0006f3d8d709e97ef1eb1ea09b3b6d83f5669843",
+  "sourcesCount": 4,
+  "createdAt": "2026-03-02T12:01:24.533Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/ROSNZ2HK7FLETAWJKDWUQTFE2Q.jpg?auth=a048464f8e0b385acec7455a0006f3d8d709e97ef1eb1ea09b3b6d83f5669843",
+      "source": "El País"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151304_261701472_1706x960.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151304_261701473_1024x576.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/01/69a48d833470e.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_40_40/uploads/1970/01/01/5fa159316b392.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/7c838ecd-07ac-437f-8b67-065f41a994ea_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4234,
+      "title": "Al menos dos muertos y 14 heridos en un tiroteo en un bar de Texas, que el FBI investiga como posible atentado terrorista",
+      "url": "https://elpais.com/internacional/2026-03-01/varios-muertos-y-heridos-en-un-tiroteo-en-un-bar-de-texas-que-el-fbi-investiga-como-posible-acto-de-terrorismo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4354,
+      "title": "Dos muertos y 14 heridos en un tiroteo en Texas: el autor llevaba simbología iraní y una sudadera con el lema \"Propiedad de Alá\"",
+      "url": "https://www.elespanol.com/mundo/america/eeuu/20260302/muertos-heridos-tiroteo-texas-autor-llevaba-simbologia-irani-sudadera-lema-propiedad-ala/1003744151300_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4515,
+      "title": "El pistolero que mató a dos en Austin vestía sudadera con el lema “Propiedad de Alá” y camiseta de bandera iraní",
+      "url": "https://www.lavanguardia.com/internacional/20260301/11478654/fbi-investiga-posible-terrorismo-tiroteo-tres-muertos-bar-austin.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4595,
+      "title": "Las autoridades investigan una posible relación entre un tiroteo con tres muertes en Austin y los bombardeos de Trump sobre Irán",
+      "url": "https://www.eldiario.es/internacional/autoridades-investigan-posible-relacion-tiroteo-tres-muertes-austin-bombardeos-trump-iran_1_13031508.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

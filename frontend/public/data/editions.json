@@ -1,0 +1,268 @@
+[
+  {
+    "id": 1,
+    "type": "midday",
+    "publishedAt": "2026-03-02T13:42:59.350Z",
+    "articleCount": 28,
+    "status": "published",
+    "createdAt": "2026-03-02T13:28:38.585Z",
+    "articles": [
+      {
+        "id": 22,
+        "slug": "zapatero-niega-implicacion-en-rescate-de-plus-ultra-y-admite-cobros-de-463-000-e",
+        "headline": "Zapatero niega implicación en rescate de Plus Ultra y admite cobros de 463.000 euros como consultor",
+        "imageUrl": "https://imagenes.elpais.com/resizer/v2/P7HVCXFT25CZXPK6GWUSAYGN3A.jpg?auth=003549c37587014c59797403e5d171b19e7e516d2aa27e5039693f790719ff69&amp;width=1200",
+        "images": [
+          {
+            "url": "https://imagenes.elpais.com/resizer/v2/P7HVCXFT25CZXPK6GWUSAYGN3A.jpg?auth=003549c37587014c59797403e5d171b19e7e516d2aa27e5039693f790719ff69&amp;width=1200",
+            "source": "El País"
+          },
+          {
+            "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/02/69a557ce6d7ab.jpeg",
+            "source": "La Vanguardia"
+          },
+          {
+            "url": "https://okdiario.com/img/2026/03/02/zapatero1.jpg",
+            "source": "OKDiario"
+          },
+          {
+            "url": "https://okdiario.com/img/2026/03/02/zapatero-senado-comparecencia.jpg",
+            "source": "OKDiario"
+          },
+          {
+            "url": "https://static.eldiario.es/clip/9951e9c1-9c4c-4d2f-a908-969976eff335_facebook-watermarked-aspect-ratio_default_0_x447y63.jpg",
+            "source": "elDiario.es"
+          },
+          {
+            "url": "https://static.eldiario.es/clip/fc309b19-d080-49e0-b358-63d4cc4372d4_facebook-watermarked-aspect-ratio_default_0_x534y81.jpg",
+            "source": "elDiario.es"
+          },
+          {
+            "url": "https://static.eldiario.es/clip/6c297e41-84e9-40f1-848c-804d07600119_facebook-watermarked-aspect-ratio_default_0.jpg",
+            "source": "elDiario.es"
+          },
+          {
+            "url": "https://static.eldiario.es/clip/ee10627b-40bb-41d9-833e-70ac613ce9cd_facebook-watermarked-aspect-ratio_default_0.jpg",
+            "source": "elDiario.es"
+          },
+          {
+            "url": "https://static.eldiario.es/clip/452986c3-3ea4-45c3-bad4-b202aec9b681_facebook-watermarked-aspect-ratio_default_0.jpg",
+            "source": "elDiario.es"
+          },
+          {
+            "url": "https://static.eldiario.es/clip/cec22f98-d0ac-4fe0-9ecf-ce2263652e3b_facebook-watermarked-aspect-ratio_default_0.jpg",
+            "source": "elDiario.es"
+          },
+          {
+            "url": "https://images.ecestaticos.com/hyTsoeviDKKtuvVMv_FKapOpYYI=/0x0:1200x675/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/706/abe/a5f/706abea5f44db09be9c654ab54c9c66a.jpg",
+            "source": "El Confidencial"
+          },
+          {
+            "url": "https://images.ecestaticos.com/hLF9pLfdkMUeMmkrhsPX4o0s5uU=/0x0:2272x1520/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/f6b/916/588/f6b916588c1a34ce89e570e2931d5dc2.jpg",
+            "source": "El Confidencial"
+          },
+          {
+            "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744152059_261710296_1706x960.jpg?fmt=jpeg",
+            "source": "El Español"
+          },
+          {
+            "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151849_261708120_1706x960.jpg?fmt=jpeg",
+            "source": "El Español"
+          },
+          {
+            "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151415_261702736_1706x960.jpg?fmt=jpeg",
+            "source": "El Español"
+          },
+          {
+            "url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/03/02/69a57d23ef6512-22912295.r_d.1058-325.jpeg",
+            "source": "20 Minutos"
+          }
+        ],
+        "sourcesCount": 7,
+        "category": "política",
+        "categories": [
+          "política",
+          "economía"
+        ]
+      },
+      {
+        "id": 3,
+        "slug": "reino-unido-cede-bases-militares-a-eeuu-contra-iran-mientras-europa-busca-posici",
+        "headline": "Reino Unido cede bases militares a EEUU contra Irán mientras Europa busca posición común",
+        "imageUrl": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/03/01/VIDEO-starmer-anuncia-participacin-activa-k7fH--1200x840@diario_abc.jpg",
+        "images": [
+          {
+            "url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/03/01/VIDEO-starmer-anuncia-participacin-activa-k7fH--1200x840@diario_abc.jpg",
+            "source": "ABC"
+          },
+          {
+            "url": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/03/02/1507867590-U06842531261rAZ-1024x512@diario_abc.jpg",
+            "source": "ABC"
+          },
+          {
+            "url": "https://e01-phantom-elmundo.uecdn.es/65d75c10d13011309a737788568e0f4d/crop/1x0/3071x2047/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/01/17723913888361.jpg",
+            "source": "El Mundo"
+          },
+          {
+            "url": "https://s1.dmcdn.net/v/a9HHy1ffNZSah3D07/x1080",
+            "source": "El Mundo"
+          },
+          {
+            "url": "https://s1.dmcdn.net/v/a9Fqq1ffMpOua60Jn/x1080",
+            "source": "El Mundo"
+          },
+          {
+            "url": "https://e01-phantom-elmundo.uecdn.es/185d37284b1899ca60473d187f96dcad/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/01/17723885142953.jpg",
+            "source": "El Mundo"
+          },
+          {
+            "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/02/69a554cb8ef4c.jpeg",
+            "source": "La Vanguardia"
+          },
+          {
+            "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/02/69a57e18707ee.jpeg",
+            "source": "La Vanguardia"
+          },
+          {
+            "url": "https://static.eldiario.es/clip/55c3123e-8fc5-4ac7-9240-322f6d68e680_facebook-watermarked-aspect-ratio_default_0.jpg",
+            "source": "elDiario.es"
+          },
+          {
+            "url": "https://static.eldiario.es/clip/e354095f-6f9d-4d05-93cf-d1522256b946_facebook-watermarked-aspect-ratio_default_0_x346y165.jpg",
+            "source": "elDiario.es"
+          },
+          {
+            "url": "https://static.eldiario.es/clip/3666ac84-9f9d-49b9-9452-8775837a66e8_facebook-watermarked-aspect-ratio_default_0.jpg",
+            "source": "elDiario.es"
+          },
+          {
+            "url": "https://www.newtral.es/wp-content/uploads/2026/02/Diseno-sin-titulo-6.jpg",
+            "source": "Newtral"
+          },
+          {
+            "url": "https://www.publico.es/files/main_image_horizontal_desktop/uploads/2026/03/02/69a58959e819b.jpeg",
+            "source": "Público"
+          },
+          {
+            "url": "https://www.publico.es/files/og_thumbnail/uploads/2026/03/02/69a58959e819b.jpeg",
+            "source": "Público"
+          },
+          {
+            "url": "https://www.publico.es/files/main_image_horizontal_desktop/uploads/2025/12/21/6947e302c7165.jpeg",
+            "source": "Público"
+          }
+        ],
+        "sourcesCount": 6,
+        "category": "internacional",
+        "categories": [
+          "internacional",
+          "política"
+        ]
+      },
+      {
+        "id": 27,
+        "slug": "el-mwc-2026-arranca-entre-cancelaciones-de-vuelos-protestas-y-la-ia-como-protago",
+        "headline": "El MWC 2026 arranca entre cancelaciones de vuelos, protestas y la IA como protagonista",
+        "imageUrl": "https://imagenes.elpais.com/resizer/v2/E5ACVHMPZVB7XI4RXRVCGNHXYE.jpg?auth=a2864e9712ca9f20f46c7fa960909543ba5e4fe3cea0dce027d30fb65b0e7174&amp;width=1200",
+        "images": [
+          {
+            "url": "https://imagenes.elpais.com/resizer/v2/E5ACVHMPZVB7XI4RXRVCGNHXYE.jpg?auth=a2864e9712ca9f20f46c7fa960909543ba5e4fe3cea0dce027d30fb65b0e7174&amp;width=1200",
+            "source": "El País"
+          },
+          {
+            "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/01/69a4994e8962e.r_d.3413-2276-1758.jpeg",
+            "source": "La Vanguardia"
+          },
+          {
+            "url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/02/6D7940B7-EA97-42A6-AAFD-1B1AFE3A5798/moblie-world-congress-2026-directo-todas-novedades-barcelona_69.jpg?crop=1756,988,x4,y0&width=1280&height=720&optimize=low&format=jpg",
+            "source": "La Razón"
+          },
+          {
+            "url": "https://fotografias-2.larazon.es/clipping/cmsimages02/2026/02/28/0D887503-4286-4AA1-9A69-E56DCEC64F6E/69.jpg?crop=5097,2867,x0,y265&width=1280&height=720&optimize=low&format=jpg",
+            "source": "La Razón"
+          },
+          {
+            "url": "https://www.publico.es/files/main_image_horizontal_desktop/uploads/2026/02/27/69a1fafbc0d0d.jpeg",
+            "source": "Público"
+          },
+          {
+            "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a550b9f36eb9-01626634.jpeg",
+            "source": "20 Minutos"
+          },
+          {
+            "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a5546871c562-21590837.jpeg",
+            "source": "20 Minutos"
+          },
+          {
+            "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/09/6960ea976dbc44-63353545.jpeg",
+            "source": "20 Minutos"
+          },
+          {
+            "url": "https://img.rtve.es/imagenes/3g-a-ia-autonoma-20-anos-del-mwc-barcelona-marcando-tendencias-del-futuro/01772397346135.jpg",
+            "source": "RTVE"
+          },
+          {
+            "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNDMzNDk3MzUxNzcyNDQ2NDkyX2JybnprbV9zXzAwa2I4ejE3Ymtka19fdzdjY3Rodi5tcDQifQ.izvIUE35LCWBIxLeKEv2nK0mf8VA327U9H4z0FPbwOWEcjlFji7z1IOL_jcxUTaqyK9ejoHpN5m1c6w-jxbyyP7Pek1O1gLvlbE1XcLqVfTnJYOL5ru9sGMkI1AOSfGJtIYjkSXQaz5_LrB-nBytoCm_KCdMepFV0rmQh47q_GW3ZQC_YF9QSkbDLQ2QdZuRYy_-19GoQrumNui8_8N0XP6xsc-5HRhMus5MmM8HfYJ-YivdD-lFL-muZmqsE3rhMdLPHcEEmLV6vwDh0FlzI21lIvPzDaGdjVDTbm0kWpEt38cWxdpCiJUxhAEJIvLUx-gtYeOaLN7MfektM5dBeo0QHEjH2Uhta6d4lER0zg6gKBd_zlhDvydmGwt78MLk0Humevj8hzGzTbE3GnOApzMwnxpP5RzipPDvfhDbzFw2NruJyCPwLU5e3HCjijS-Q7x1G1MV5T_LCwEMktqfG9RfIYnZIGZ6BWiiA8BZ6gkhjGjVXv9Y5ULjrxrBWbpF/media-uploads/files/_20/202603/TVEE/upload_433497351772446492_brnzkm_s_00kb8z17bkdk__w7ccthv.mp4.0_10.jpg",
+            "source": "RTVE"
+          },
+          {
+            "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNjM1NDY4MzExNzcyMzk4ODI0X3JmaGxiMXJtM3M0bnJxYzZzM3Y3OV9iendfOG5iZC5tcDQifQ.On3L-3qONJYQSjfJ6u3FYpGxDRk538oGsJGr7PEjuZZFvGtwCk3SbqzVd3aO5jYb_-h7oeuAuMqxy5sOE4qe-GkvJwJMROEqrxxJmnAo5lM2AOWsZRv5Z59Z6L3jNa8vUpS0w06O-TbOi6SH1Cn0iVZIM9perMD4Int86IV72Y_hqqJKcvKZYJMLWhf_QhSe-FRa1XfOlwFLk9cZfUWWVwQqYkh3aEo2vq11QVB0LGMjqo7eQ3uvyXC52KXAwrw9Rn5EU2GTcxp6zKXqPzn5DCdIO1X89uAZJmdO0gsDVI9RkRVpVqVitMI4yNVE7SDxP3xM7b0hQym0LypO6WUVgS7Cssf1tkCHhRnYgMA-uRlfSbwriSYLWBHyyKc9BfOf6mUe0FhE15JOMXiYxfGS_toDss_JeuG8N6c-LTvOEJGYIU8vkfSZi4gEkw1_COdf09ei59GSoooSls6ReTcduZPlOdY4XRM5qx7fMOi9VZmna0SKUS1rdDgQLOZmMShO/media-uploads/files/_20/202603/TVEE/upload_635468311772398824_rfhlb1rm3s4nrqc6s3v79_bzw_8nbd.mp4.0_10.jpg",
+            "source": "RTVE"
+          },
+          {
+            "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfMTE1MzIxMjIxNzcyMzkyOTY5X2ZkX3RienFxM21oMDd3YndjNXdmcm5iYmxzY2JiYy5tcDQifQ.pI-Po7N4t4u6iqP_3107mFrad2Ce5CR-7juYaBQbmjq8o5oEnzI37-gZL5bx1hkpjxeDDFSeLlQTs4jyZ41PDcAhLhg-60R5IpXIC8lgvIIw1b06hJO0W0P53_6GT4gV8uv2H4R7RVocaQqHaNNTBXNy_lSog2AnLXxKiXuP-8zfVcFqSOZfgApjN3KFxvZ_iIaxaYJRq_hAaGyFZGjznlUdmYEdiq-f7p_AoH2FpnmPZTt26NCVosOdPU7dEq0-LCI9ZgVugw9a9G5p77j-qEPAJ45HR21qNinbgE3-EBkLzaCL2q5-sD4zxAoT8JWmTGoRRYgJPc5AQUpDPT34N3auUqDhwy9HBOKka0qVRZN0ga6DTgu71krO3w1_SmW-3YSsILgJrClWxpZ23_kLP2FhgOTxHfFANMxSMMAqk-yatHNyNfT5dQNP_oR5eEhe2-XB8MzjMQ_gGCjM0VHrRlC-qsU44DZr0zEXHyIO1D39IjDbyDhbEedUgtdciQjH/media-uploads/files/_20/202603/TVEE/upload_115321221772392969_fd_tbzqq3mh07wbwc5wfrnbblscbbc.mp4.0_10.jpg",
+            "source": "RTVE"
+          }
+        ],
+        "sourcesCount": 6,
+        "category": "tecnología",
+        "categories": [
+          "tecnología",
+          "internacional"
+        ]
+      },
+      {
+        "id": 28,
+        "slug": "la-fiscalia-de-lugo-presenta-querella-contra-el-alcalde-de-monforte-por-acoso-se",
+        "headline": "La Fiscalía de Lugo presenta querella contra el alcalde de Monforte por acoso sexual y abuso de función pública",
+        "imageUrl": "https://imagenes.elpais.com/resizer/v2/YPTYT4LX5BB75MUWIYHIHPZOAI.JPG?auth=e154a16870bddee47edbb09b90e504e41f0ee525940de051b5e207b9b4b074c8&amp;width=1200",
+        "images": [
+          {
+            "url": "https://imagenes.elpais.com/resizer/v2/YPTYT4LX5BB75MUWIYHIHPZOAI.JPG?auth=e154a16870bddee47edbb09b90e504e41f0ee525940de051b5e207b9b4b074c8&amp;width=1200",
+            "source": "El País"
+          },
+          {
+            "url": "https://e01-phantom-elmundo.uecdn.es/1d845373d1fd7ecc6b346cc4b7b5b68b/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/02/17724507746086.jpg",
+            "source": "El Mundo"
+          },
+          {
+            "url": "https://e01-phantom-elmundo.uecdn.es/ff57953715f499805083a1da005c4ab8/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/12/17655492677393.jpg",
+            "source": "El Mundo"
+          },
+          {
+            "url": "https://images.ecestaticos.com/1Ho-8nFhlHuqqqenFNqNUoRriLc=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/5fb/7e5/49f/5fb7e549faf12004c275587e41da240e.jpg",
+            "source": "El Confidencial"
+          },
+          {
+            "url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744052913_260447954_1706x960.jpg?fmt=jpeg",
+            "source": "El Español"
+          },
+          {
+            "url": "https://www.publico.es/files/main_image_horizontal_desktop/uploads/2026/03/02/69a57729e24da.jpeg",
+            "source": "Público"
+          },
+          {
+            "url": "https://img.rtve.es/imagenes/fiscalia-se-querella-contra-expresidente-diputacion-lugo-por-presunto-caso-abuso-sexual/01772450869080.jpg",
+            "source": "RTVE"
+          }
+        ],
+        "sourcesCount": 6,
+        "category": "política",
+        "categories": [
+          "política",
+          "sociedad"
+        ]
+      }
+    ]
+  }
+]

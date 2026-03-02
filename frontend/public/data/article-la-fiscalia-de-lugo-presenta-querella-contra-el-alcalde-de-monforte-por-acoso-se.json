@@ -1,0 +1,248 @@
+{
+  "id": 28,
+  "clusterId": 494,
+  "editionId": 1,
+  "slug": "la-fiscalia-de-lugo-presenta-querella-contra-el-alcalde-de-monforte-por-acoso-se",
+  "headline": "La Fiscalía de Lugo presenta querella contra el alcalde de Monforte por acoso sexual y abuso de función pública",
+  "summary": "La Fiscalía Provincial de Lugo ha interpuesto una querella contra José Tomé, alcalde de Monforte de Lemos y expresidente de la Diputación de Lugo, por presuntos delitos de acoso sexual y abuso en el ejercicio de la función pública. Los hechos denunciados se habrían producido contra una mujer en septiembre de 2025. El ministerio público actuó al considerar que existen indicios suficientes de criminalidad para ejercer de inmediato la acción penal.",
+  "sections": {
+    "facts": "La **Fiscalía Provincial de Lugo** comunicó el lunes 2 de marzo de 2026 la interposición de una querella contra **José Tomé**, alcalde de Monforte de Lemos y expresidente de la Diputación de Lugo, tras recibir una denuncia de carácter particular. Según el comunicado del ministerio público, los hechos presuntamente delictivos habrían sido cometidos contra una mujer en **septiembre de 2025**. La Fiscalía determinó que los hechos están \"suficientemente determinados\" y \"poseen indicios fundados de criminalidad\" para ejercer de forma inmediata la acción penal, por lo que procedió simultáneamente a la apertura de diligencias de investigación preprocesal (DIP) y a la presentación de la querella, sin necesidad de realizar investigaciones previas propias.\n\nEl ministerio público califica provisionalmente los hechos, y sin prejuzgar el resultado de la investigación judicial, como constitutivos de uno de estos dos delitos: un delito de **acoso sexual** al amparo del artículo 184.2 del Código Penal —que prevé penas de uno a dos años de prisión para quien se haya valido de una posición de superioridad laboral— o un delito de **abuso en el ejercicio de la función pública** recogido en el artículo 442 del mismo texto legal, que contempla idéntica pena para la autoridad o funcionario que solicite favores sexuales en el marco de sus atribuciones.\n\nTomé presentó su dimisión como presidente de la Diputación de Lugo el **10 de diciembre de 2025**, tres meses antes de esta querella, tras aflorar una denuncia interna en el **PSdeG-PSOE** —la federación gallega del partido socialista— que aglutinaba las acusaciones de al menos seis mujeres. En aquel momento declaró que abandonaba el cargo y la dirección provincial del partido para \"no perjudicar\" a la formación y facilitar su propia defensa. Solicitó asimismo la baja de militancia en el PSOE. Sin embargo, mantuvo su puesto como alcalde de Monforte de Lemos en calidad de concejal no adscrito, contando con el respaldo del grupo municipal del PSdeG-PSOE, y conservó su acta como diputado provincial también como no adscrito.\n\nEn paralelo a la querella, el propio lunes de la noticia Tomé firmó en el ayuntamiento de Monforte un decreto de delegación de las competencias municipales en materia de **Mujer e Igualdad** en la edil **Regina López Arias**, quien ocupa el gobierno local desde 2019 como responsable del área de Consumo. Esta medida se produjo después de la renuncia al acta, por motivos personales, de la concejala **Margarita López**, comunicada en el pleno municipal del 23 de febrero de 2026.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "Neutral con énfasis jurídico",
+        "toneColor": "#4a90d9",
+        "summary": "Ofrece el encuadre más técnico-legal de la noticia: detalla los artículos del Código Penal aplicables, las penas previstas y el razonamiento de la Fiscalía para actuar sin investigación previa. Contextualiza bien la trayectoria institucional de Tomé tras su dimisión en diciembre, aunque omite la crisis interna más amplia que el caso generó en el PSdeG y la existencia de otras denuncias paralelas dentro del partido."
+      },
+      {
+        "sourceName": "El Mundo",
+        "tone": "Crítico con el PSOE",
+        "toneColor": "#e8a838",
+        "summary": "Centra su cobertura en la dimensión política y partidista del asunto, destacando las contradicciones entre el discurso feminista del PSOE y su gestión interna del caso. Incorpora las declaraciones críticas del presidente de la Xunta, Alfonso Rueda, y alude a la presunta actuación de cargos socialistas para disuadir denuncias. Al tratarse de un artículo con origen en la dimisión de diciembre, carece de los detalles procesales sobre la querella."
+      },
+      {
+        "sourceName": "El Confidencial",
+        "tone": "Neutral e informativo",
+        "toneColor": "#5ba85a",
+        "summary": "Se ciñe de forma fiel al comunicado de la Fiscalía y a la situación institucional del acusado, sin añadir contexto político, reacciones externas ni marco legal. Su cobertura resulta precisa en los hechos centrales pero prescinde de cualquier elemento que ayude al lector a comprender la magnitud del caso más allá del hecho noticioso inmediato."
+      },
+      {
+        "sourceName": "El Español",
+        "tone": "Moderado con contexto político",
+        "toneColor": "#9b59b6",
+        "summary": "Combina la información procesal con el relato de la crisis interna en el PSdeG, aportando datos exclusivos como el hecho de que varias de las denunciantes acudieron a la Fiscalía semanas antes y la votación municipal que permitió a Tomé seguir cobrando como alcalde. Refleja la cadena de denuncias internas del partido pero omite las declaraciones del presidente de la Xunta y los detalles penales."
+      },
+      {
+        "sourceName": "Público",
+        "tone": "Neutral con ángulo de género",
+        "toneColor": "#e74c3c",
+        "summary": "Reproduce el comunicado de la Fiscalía con fidelidad y añade un dato singular: la delegación de competencias en Mujer e Igualdad firmada ese mismo lunes por Tomé en el ayuntamiento. Esta información conecta el caso con la política municipal de igualdad justo en vísperas del 8M, aunque el medio no desarrolla el análisis político ni las reacciones de otros actores."
+      },
+      {
+        "sourceName": "RTVE",
+        "tone": "Neutral e institucional",
+        "toneColor": "#2c3e50",
+        "summary": "Ofrece una reconstrucción cronológica clara del proceso: desde la dimisión de diciembre hasta la querella de marzo. Cita el comunicado de la Fiscalía y subraya que el ministerio público estimó innecesaria una investigación propia previa. No aborda la crisis interna del PSdeG, otras denuncias, las penas aplicables ni las reacciones políticas externas."
+      }
+    ],
+    "hidden": "El elemento más significativo que la mayoría de medios pasa por alto —o trata muy tangencialmente— es la **crisis estructural dentro del PSdeG** desencadenada por este caso. Según El Español, al menos seis mujeres presentaron denuncias internas contra Tomé, y esas denuncias apuntaban a que los principales cargos del partido habrían tenido conocimiento de los hechos. Esta dimensión colectiva transforma el caso de un episodio individual a una posible falla institucional del partido en su gestión interna de las denuncias por acoso. Que medios como El Confidencial, RTVE o Público reduzcan la noticia a los términos estrictos de la querella sin mencionar este contexto más amplio hace que el lector reciba una imagen incompleta de la gravedad política del asunto.\n\nEl Mundo es el único medio que introduce la alegada actuación de una dirigente del PSdeG para **disuadir a una víctima** de presentar denuncia formal. Si este hecho es veraz y se confirma judicialmente, tendría consecuencias políticas y penales propias, independientes de la conducta de Tomé. Sin embargo, el resto de medios omite completamente esta alegación. Que sea El Mundo —el medio con posicionamiento más crítico hacia el PSOE— quien lo señale en solitario no significa necesariamente que la información sea incorrecta, pero sí obliga a mantener cautela interpretativa: la omisión del dato en otros medios puede deberse tanto a falta de confirmación como a una decisión editorial de no amplificar acusaciones sin verificación suficiente.\n\nPor otro lado, resulta llamativo que solo **Público** recoja el dato de la delegación de competencias en Mujer e Igualdad firmada por el propio Tomé el mismo día en que se conoce la querella. Este detalle tiene relevancia simbólica y política: un alcalde acusado de acoso sexual y abuso de función pública firma, en la misma jornada, un decreto que lo desvincula formalmente del área de igualdad municipal. Que sea precisamente un medio de izquierdas quien lo destaque sugiere una selección editorial alineada con el enfoque feminista de la noticia, pero eso no resta importancia informativa al hecho en sí, que los demás medios ignoraron por completo.",
+    "context": "**José Tomé Roca** es un político gallego del **PSdeG-PSOE** —la federación gallega del Partido Socialista Obrero Español— que hasta diciembre de 2025 acumulaba dos cargos institucionales relevantes: la **presidencia de la Diputación Provincial de Lugo**, organismo de gobierno intermedio entre el municipio y la comunidad autónoma, y la **alcaldía de Monforte de Lemos**, municipio de unos 17.000 habitantes en el interior de Galicia. Su figura era una de las más destacadas del socialismo lucense.\n\nEn **septiembre de 2025** una mujer denunció ante el partido, a través de su canal interno de quejas, haber sufrido conductas de acoso sexual por parte de Tomé. Con el paso de las semanas, otras mujeres se sumaron a denuncias similares a través del mismo mecanismo interno, hasta conformar un grupo de al menos seis denunciantes. Cuando la información trascendió públicamente, el **BNG** —Bloque Nacionalista Galego, partido independentista gallego con el que Tomé gobernaba en coalición la Diputación— amenazó con retirarle el apoyo institucional. Ante esa presión, el 10 de diciembre de 2025 Tomé anunció su dimisión como presidente de la Diputación, solicitó la baja de militancia en el PSOE y cedió la dirección provincial del partido. No obstante, optó por mantenerse como alcalde de Monforte —ahora como concejal «no adscrito», es decir, sin filiación oficial de partido— con el respaldo tácito del grupo municipal socialista.\n\nLa **Fiscalía** es el órgano del Estado encargado de promover la acción de la justicia en defensa de la legalidad. Cuando recibe una denuncia y considera que los hechos descritos presentan indicios suficientes de delito, puede actuar de dos formas: investigar primero por su cuenta o, si estima que los hechos están ya suficientemente acreditados, presentar directamente una **querella** ante los tribunales. En este caso eligió la segunda vía, lo que implica que el asunto pasa inmediatamente a manos de un juez instructor. La calificación de los hechos como «provisional» significa que la Fiscalía no ha prejuzgado la culpabilidad del acusado, sino que considera que hay base suficiente para que un tribunal investigue. **José Tomé mantiene la presunción de inocencia** en tanto no exista sentencia judicial firme.\n\nEl caso se enmarca en un contexto político gallego más amplio. El **PSdeG-PSOE** es el principal partido de la oposición en Galicia, donde el **PP** —Partido Popular— gobierna la Xunta con mayoría absoluta desde hace años bajo la presidencia de **Alfonso Rueda**. La aparición de denuncias de acoso sexual contra un cargo destacado del socialismo gallego justo cuando el partido trataba de consolidar su posición de alternativa de gobierno generó una crisis de imagen considerable para la formación, especialmente en un partido que hace de la igualdad de género uno de sus ejes discursivos centrales.",
+    "questions": [
+      "1. ¿Resulta coherente que un cargo público acusado de acoso sexual, que ha dimitido de sus responsabilidades partidistas por esa razón, mantenga el ejercicio de la alcaldía mientras se sustancia un proceso penal en su contra?",
+      "2. Si, tal como apunta algún medio, dirigentes del PSdeG conocían las denuncias con anterioridad a su difusión pública, ¿qué responsabilidades institucionales y políticas deberían asumir?",
+      "3. ¿Es suficiente el mecanismo de canales internos de denuncia de los partidos para proteger a las víctimas de acoso, o su dependencia de la estructura política los hace estructuralmente insuficientes?",
+      "4. ¿En qué medida el encuadre político que hacen algunos medios —centrado en el daño al PSOE— puede eclipsar el relato de las víctimas y la dimensión individual del presunto delito?",
+      "5. ¿Qué señal transmite a la ciudadanía que el mismo alcalde investigado por acoso sexual firme, en la misma jornada en que se anuncia la querella, la delegación de competencias en materia de Mujer e Igualdad?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "sociedad"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/YPTYT4LX5BB75MUWIYHIHPZOAI.JPG?auth=e154a16870bddee47edbb09b90e504e41f0ee525940de051b5e207b9b4b074c8&amp;width=1200",
+  "sourcesCount": 6,
+  "createdAt": "2026-03-02T13:42:59.344Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/YPTYT4LX5BB75MUWIYHIHPZOAI.JPG?auth=e154a16870bddee47edbb09b90e504e41f0ee525940de051b5e207b9b4b074c8&amp;width=1200",
+      "source": "El País"
+    },
+    {
+      "url": "https://e01-phantom-elmundo.uecdn.es/1d845373d1fd7ecc6b346cc4b7b5b68b/resize/1200/f/webp/assets/multimedia/imagenes/2026/03/02/17724507746086.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e01-phantom-elmundo.uecdn.es/ff57953715f499805083a1da005c4ab8/resize/1200/f/webp/assets/multimedia/imagenes/2025/12/12/17655492677393.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://images.ecestaticos.com/1Ho-8nFhlHuqqqenFNqNUoRriLc=/0x0:2272x1515/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/5fb/7e5/49f/5fb7e549faf12004c275587e41da240e.jpg",
+      "source": "El Confidencial"
+    },
+    {
+      "url": "https://s3.elespanol.com/2025/12/12/actualidad/1003744052913_260447954_1706x960.jpg?fmt=jpeg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://www.publico.es/files/main_image_horizontal_desktop/uploads/2026/03/02/69a57729e24da.jpeg",
+      "source": "Público"
+    },
+    {
+      "url": "https://img.rtve.es/imagenes/fiscalia-se-querella-contra-expresidente-diputacion-lugo-por-presunto-caso-abuso-sexual/01772450869080.jpg",
+      "source": "RTVE"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 66,
+      "title": "La Fiscalía se querella contra el expresidente de la Diputación de Lugo por acoso sexual",
+      "url": "https://elpais.com/espana/2026-03-02/la-fiscalia-se-querella-contra-el-expresidente-de-la-diputacion-de-lugo-por-acoso-sexual.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 253,
+      "title": "La Fiscalía se querella contra José Tomé, ex presidente de la Diputación de Lugo, tras recibir una denuncia por acoso sexual",
+      "url": "https://www.elmundo.es/galicia/2026/03/02/69a57356e4d4d853108b4593.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 254,
+      "title": "Jos� Tom� renuncia a la Presidencia de la Diputaci�n de Lugo pero seguir� en funciones hasta el 30 de diciembre",
+      "url": "https://www.elmundo.es/galicia/2025/12/12/693c03f9e4d4d8ec4e8b457e.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 813,
+      "title": "La Fiscalía Provincial se querella contra el expresidente de la Diputación de Lugo por acoso sexual",
+      "url": "https://www.elconfidencial.com/espana/2026-03-02/fiscalia-lugo-querella-acoso-1tps_4312580",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 1000,
+      "title": "La Fiscalía de Lugo se querella contra José Tomé tras recibir una denuncia contra él por acoso sexual",
+      "url": "https://www.elespanol.com/quincemil/actualidad/provincia-de-lugo/20260302/fiscalia-lugo-querella-jose-tome-recibir-denuncia-acoso-sexual/1003744151677_0.html",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 1284,
+      "title": "La Fiscalía se querella contra el expresidente de la Diputación de Lugo por acoso sexual",
+      "url": "https://www.publico.es/politica/fiscalia-querella-expresidente-diputacion-lugo-acoso-sexual.html",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "Público",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 1465,
+      "title": "La Fiscalía se querella contra el expresidente de la Diputación de Lugo por un presunto caso de abuso sexual",
+      "url": "https://www.rtve.es/noticias/20260302/fiscalia-se-querella-contra-expresidente-diputacion-lugo-por-presunto-caso-abuso-sexual/16960797.shtml",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 8,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 9,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 11,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 12,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 13,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 14,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    }
+  ]
+}

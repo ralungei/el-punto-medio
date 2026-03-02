@@ -1,0 +1,893 @@
+{
+  "edition": {
+    "id": 9,
+    "type": "morning",
+    "publishedAt": "2026-03-02T12:01:41.535Z",
+    "articleCount": 14,
+    "status": "published",
+    "createdAt": "2026-03-02T09:50:49.811Z"
+  },
+  "articles": [
+    {
+      "id": 54,
+      "slug": "la-muerte-de-jamenei-desata-una-guerra-regional-con-mas-de-550-fallecidos",
+      "headline": "La muerte de Jamenei desata una guerra regional con más de 550 fallecidos",
+      "summary": "La operación militar conjunta de Estados Unidos e Israel que causó la muerte del líder supremo iraní Ali Jamenei ha desencadenado una escalada bélica regional. Irán ha respondido con ataques contra países del Golfo Pérsico, mientras Israel bombardea el Líbano tras la intervención de Hezbolá.",
+      "category": "internacional",
+      "categories": [
+        "internacional",
+        "política"
+      ],
+      "imageUrl": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723913888361.jpg",
+      "images": [
+        {
+          "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723913888361.jpg",
+          "source": "El Mundo"
+        },
+        {
+          "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724327895392.jpg",
+          "source": "El Mundo"
+        },
+        {
+          "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723941788615.jpg",
+          "source": "El Mundo"
+        },
+        {
+          "url": "https://e01-elmundo.uecdn.es/elmundo/2026/graficos/feb/atairan646.jpg",
+          "source": "El Mundo"
+        },
+        {
+          "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723885142953.jpg",
+          "source": "El Mundo"
+        },
+        {
+          "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724374558977.jpg",
+          "source": "El Mundo"
+        },
+        {
+          "url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/02/928A0BED-6A84-4D45-AD78-25BFCC6F1AF5/96.jpg?crop=5749,3234,x0,y299&width=1200&height=675&optimize=low&format=webply",
+          "source": "La Razón"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/XECKFF5GXVEHDO2HHPWVPRPDCM.jpg?auth=5ef3037325fcdd755b80b8c60eb34f72a9eec474e5b6e415b575156aa7d22e6f",
+          "source": "El País"
+        },
+        {
+          "url": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260302/1143501_084524_video_1800.mp4",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/44I4B6NMHFE3RMCTIVXWN6BLBQ.jpg?auth=20d4e0b4f4562af4e7f6dc937b074fbda79fb01292a2c41897140bd0855fdb83&amp;width=414",
+          "source": "El País"
+        },
+        {
+          "url": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260301/1143429_221854_video_1800.mp4",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/EYUHICBDMJN4JNPFP7VOHWR42I.jpg?auth=dbb5d13bc1d222341d4a8ad39b0b9a62d9e48a2b8ca03a798a1662512cc0bf42&amp;width=414",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/2KNUXT6FLBPPRLVZIYLAG6LLOM.jpg?auth=0af2cd37aabf13909eb1c7009849589cc1c02a82425dc99fbd27e43e7fb0aecd",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/UICRMEIGA5IWVBNC5X52SKEEAM.jpg?auth=0345d21170e12f6ffb4ab541e4376434d9bd4736c27046af2c7f70771768fcd1&amp;width=414",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/ZE3BGW733NJZNEMC63YXZHOWSM.jpg?auth=988296c7d3ad0f2d0dc93746bdec3127cf755c0a3ded6b1572bafff5cf171fdb",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/S5GJWYZVPJAALH7542GIUVYZYY.jpg?auth=895a865f9346ea84a7603b4ea81ffc4b5a75503bba6028c30770f0db87414f8e",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/4DFIGZZA6RJO7E3V36AG7RXR6Y.jpg?auth=d794ca0b3fad6883179c42b53e448b605c2a9ef30cb7a622876d68060b46f54b",
+          "source": "El País"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151330_261701734_1706x960.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744150948_261696838_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151310_261701513_1706x960.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151205_261700554_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151267_261701190_1706x960.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/02/28/actualidad/1003744150418_261688572_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/02/09/actualidad/1003744123106_261336087_1706x960.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2016/01/18/invertia/economia/95500581_449729_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/imagen_final.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/imagen_final-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2025/11/24/repsol-le-gana-la-batalla-_a-hacienda-interior.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2025/11/24/repsol-le-gana-la-batalla-_a-hacienda-interior-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/bolsas.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2025/12/10/bolsa-okdiario-destacada-ibex-35-1.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2025/12/10/bolsa-okdiario-destacada-ibex-35-1-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/extraccion-de-petroleo-en-eeuu.-ep.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/extraccion-de-petroleo-en-eeuu.-ep-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://www.newtral.es/wp-content/uploads/2026/02/Diseno-sin-titulo-6-1024x576.jpg",
+          "source": "Newtral"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/01/69a4a274f0171.r_d.3009-1671-0.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2026/03/01/69a4a274f0171.r_d.3009-1671.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/02/69a5411b72743.r_d.1009-573-0.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/02/69a536f0a8e5a.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/02/66fd9d37b0c5b.r_d.1388-814-1795.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/image_40_40/uploads/2022/01/11/61ddbc80b7d7b.png",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/02/69a5411b72743.r_d.1009-573-2245.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/image_65_65/uploads/2026/01/27/69787623cea77.png",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/05/19/682b050d3d90d.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/image_40_40/uploads/1970/01/01/5f9ad96d7c30c.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/01/69a4afaab1f6c.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2026/03/01/69a4afaab1f6c.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/c4e4c062-1579-45bd-9a35-ccc4380d117a_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/0af0bbeb-8eda-4acc-949e-7b5baa638e59_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/3679a0e5-84f6-4998-b81c-9c80439f1508_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/680452ca-2186-4437-8724-39c488f24318_16-9-discover-aspect-ratio_default_1137678.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/42b6c7aa-94d6-4a9e-93d8-3f4692a3119e_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/da5ea187-9a50-41d3-bced-ce72af55fe70_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/34197ff9-4921-4853-bd6b-626653d0b2df_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/cbb2aedd-9f21-4673-a96a-38041c71537c_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/db3b01c3-cc34-47f1-b1cd-eff65698aa49_source-aspect-ratio_default_1137677.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/c02bae59-821e-4700-b06c-e42f240cefdd_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/eb99125b-501e-4b8f-aa40-eb3aa31f0ae8_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://www.eldiario.es/assets/img/svg/logos/eldiario-tagline-2c.h-129fb361f1eeeaf4af9b8135dc8199ea.svg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a547fba75409-14402436.jpeg",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/03/01/69a4a8f2e6fd62-78611155.r_d.1453-1418.jpeg",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/01/69a407f16cef68-65144030.jpeg",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a54adcc2c993-53455323.jpeg",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a53b27555a39-57167688.jpeg",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/15/6969247d6805e8-98510558.jpeg",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/01/69a414d4ef6754-97606237.jpeg",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/01/69a41c80cf5bb4-58641203.jpeg",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/01/69a3ea2d3780e3-49931992.jpeg",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/28/69a3707da89114-96044517.jpeg",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/daf9e3cc-38cc-48bb-90fd-1ee6255dcf7d_alta-libre-aspect-ratio_default_0_x600y225.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/b54bf4d6-0257-4c22-a136-a277f3acf6f7_alta-libre-aspect-ratio_default_0.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/0399d550-c3db-450a-8ccc-5f4793e63828_alta-libre-aspect-ratio_default_0_x1200y600.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/6c77584f-1d4d-445b-afd4-dee5faeba5c7_alta-libre-aspect-ratio_default_0_x482y214.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/8f379029-0ac6-43fe-be5e-00d2720f1194_alta-libre-aspect-ratio_default_0_x1200y533.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/6263ead0-8152-46a8-99ff-0d5b5e0c0863_alta-libre-aspect-ratio_default_0_x600y225.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/6263ead0-8152-46a8-99ff-0d5b5e0c0863_16-9-aspect-ratio_default_0_x600y225.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/a8f24a21-3522-41b0-afb6-4205d7a7f83c_alta-libre-aspect-ratio_default_0_x1200y533.jpg",
+          "source": "El Periódico"
+        }
+      ],
+      "sourcesCount": 10,
+      "createdAt": "2026-03-02T12:00:51.751Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 55,
+      "slug": "zapatero-niega-rotundamente-haber-facilitado-el-rescate-de-plus-ultra-ante-la-co",
+      "headline": "Zapatero niega rotundamente haber facilitado el rescate de Plus Ultra ante la comisión del Senado",
+      "summary": "El expresidente José Luis Rodríguez Zapatero compareció en la comisión de investigación del caso Koldo en el Senado, donde negó categóricamente cualquier participación en el rescate público de Plus Ultra. Confirmó haber cobrado 70.000 euros anuales como consultor de Análisis Relevante, empresa propiedad de su amigo Julio Martínez Martínez, actualmente imputado.",
+      "category": "política",
+      "categories": [
+        "política",
+        "economía"
+      ],
+      "imageUrl": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/03/02/ZP-senado-U20609936686iUC-U20976706951SvE-758x531@diario_abc.jpg",
+      "images": [
+        {
+          "url": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/03/02/ZP-senado-U20609936686iUC-U20976706951SvE-758x531@diario_abc.jpg",
+          "source": "ABC"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=xbdENj3e_J0",
+          "source": "El País"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151415_261702736_1706x960.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/02/03/actualidad/1003744115658_261242394_320x180.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151488_261703561_1706x960.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151488_261703562_1024x576.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151204_261700531_1706x960.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/02/28/espana/1003744150057_261683362_320x240.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/imagen_final-9.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/imagen_final-9-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/zapatero-hijas.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/zapatero-hijas-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/imagen_final-10.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/imagen_final-10-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/jose-luis-rodriguez-zapatero.-efe.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/jose-luis-rodriguez-zapatero.-efe-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/02/69a54e83cd780.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2026/03/02/69a54e83cd780.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/c4b8c08d-3bf1-4fff-a9c7-adc09b72a93c_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a54be8f25e39-18840476.png",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/d7d34968-2f98-43f5-864a-b057024c3998_alta-libre-aspect-ratio_default_0_x1000y461.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/6008a12f-8c12-447e-8612-940c48794351_alta-libre-aspect-ratio_default_0_x1000y499.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/9265345b-bf90-46aa-9abe-c6ee062e9cd7_alta-libre-aspect-ratio_default_0_x375y166.jpg",
+          "source": "El Periódico"
+        }
+      ],
+      "sourcesCount": 8,
+      "createdAt": "2026-03-02T12:00:53.314Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 58,
+      "slug": "la-borrasca-regina-llega-con-lluvias-torrenciales-y-vientos-de-70-km-h-a-espana-",
+      "headline": "La borrasca Regina llega con lluvias torrenciales y vientos de 70 km/h a España y Canarias",
+      "summary": "La decimoséptima borrasca con nombre de la temporada afecta desde este lunes al archipiélago canario y avanza hacia el sur y este peninsular. AEMET ha activado avisos amarillos por fenómenos costeros, viento y temporal marítimo en múltiples provincias.",
+      "category": "sociedad",
+      "categories": [
+        "sociedad",
+        "ciencia"
+      ],
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/MRA2MLOCN5GTROX5GNSGSCP64E.jpg?auth=4e43d7a469d209a80eeea30083af38961f34cb32f4aa42f3bf3f43ad25ede27a",
+      "images": [
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/MRA2MLOCN5GTROX5GNSGSCP64E.jpg?auth=4e43d7a469d209a80eeea30083af38961f34cb32f4aa42f3bf3f43ad25ede27a",
+          "source": "El País"
+        },
+        {
+          "url": "https://images.ecestaticos.com/ihh2Llk81NhEnmDJI1mDOpsCMu8=/0x0:910x512/0x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fcfc%2F539%2Fa29%2Fcfc539a29bb7d72a704cff99385c76d1.jpg",
+          "source": "El Confidencial"
+        },
+        {
+          "url": "https://images.ecestaticos.com/vFfscqra4xAvwKaEPumJaVk5wyM=/0x94:900x600/32x18/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fbae%2F7d7%2Fbc3%2Fbae7d7bc33f358c802f2440e348b4da4.jpg",
+          "source": "El Confidencial"
+        },
+        {
+          "url": "https://okdiario.com/img/2025/12/01/se-esperan-carreteras-cortadas-debido-a-las-fuertes-nevadas-en-castilla-y-leon..png",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2025/12/01/se-esperan-carreteras-cortadas-debido-a-las-fuertes-nevadas-en-castilla-y-leon.-635x358.png",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a52b5cc9ea61-55885295.jpeg",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/ff90116f-c96e-4884-88a9-482008062195_alta-libre-aspect-ratio_default_0_x1000y443.jpg",
+          "source": "El Periódico"
+        }
+      ],
+      "sourcesCount": 5,
+      "createdAt": "2026-03-02T12:01:41.531Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 56,
+      "slug": "milei-inaugura-periodo-legislativo-con-insultos-directos-a-la-oposicion-tras-vic",
+      "headline": "Milei inaugura período legislativo con insultos directos a la oposición tras victorias parlamentarias",
+      "summary": "El presidente argentino Javier Milei inauguró las sesiones ordinarias del Congreso con un discurso de una hora y cuarenta minutos caracterizado por ataques verbales hacia la oposición, incluyendo calificativos como 'ladrones', 'chorros' y 'asesinos'. El acto se produjo después de que su partido lograra aprobar importantes reformas legislativas en los últimos meses.",
+      "category": "política",
+      "categories": [
+        "política",
+        "internacional"
+      ],
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/NQE642LYGFP3NO53J5QMGCJEUA.jpg?auth=c3faf24ab27e3cef43604293f4c751105f21ce2b1ac913755b70c0ec9d8fca7b",
+      "images": [
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/NQE642LYGFP3NO53J5QMGCJEUA.jpg?auth=c3faf24ab27e3cef43604293f4c751105f21ce2b1ac913755b70c0ec9d8fca7b",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/KFFNJZPINVMEFL3WPDFC53V5L4.jpg?auth=b5cb8d47f573865330ca2d5cdd1906ee5fdee2118f1556098d4680036e7c4024&amp;width=414",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/HJ6Z2CE2WZNUZFSXWO42KGYYP4.jpg?auth=269b67e82241ad1b2940df033ccd08993df4cdfc0c95ba064b7bef576a314fab",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/QI2POX5VVROQRLACCYNDOSMKKU.jpg?auth=176955834176dcaa45ed978a687c87a23735315986fbe19db5166e9f481e5ee1&amp;width=414",
+          "source": "El País"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2025/10/27/68ffb18983f21.r_d.2595-1730-903.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2021/05/27/60afe23f2fd46.r_d.1082-26.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/54697f12-bac5-4985-9d0c-550fd1f893aa_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/fa71dd1c-3a10-4939-ad3f-1752553d455f_alta-libre-aspect-ratio_default_0_x600y225.jpg",
+          "source": "El Periódico"
+        }
+      ],
+      "sourcesCount": 4,
+      "createdAt": "2026-03-02T12:01:21.464Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 57,
+      "slug": "tiroteo-en-bar-de-austin-deja-tres-muertos-fbi-investiga-posible-vinculo-terrori",
+      "headline": "Tiroteo en bar de Austin deja tres muertos; FBI investiga posible vínculo terrorista",
+      "summary": "Un atacante de 53 años disparó contra clientes de un bar en Austin, Texas, causando tres muertes y 14 heridos. Las autoridades investigan posibles conexiones terroristas tras hallar simbología religiosa e iraní en su vestimenta.",
+      "category": "internacional",
+      "categories": [
+        "internacional",
+        "sociedad"
+      ],
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/ROSNZ2HK7FLETAWJKDWUQTFE2Q.jpg?auth=a048464f8e0b385acec7455a0006f3d8d709e97ef1eb1ea09b3b6d83f5669843",
+      "images": [
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/ROSNZ2HK7FLETAWJKDWUQTFE2Q.jpg?auth=a048464f8e0b385acec7455a0006f3d8d709e97ef1eb1ea09b3b6d83f5669843",
+          "source": "El País"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151304_261701472_1706x960.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151304_261701473_1024x576.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/01/69a48d833470e.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/image_40_40/uploads/1970/01/01/5fa159316b392.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/7c838ecd-07ac-437f-8b67-065f41a994ea_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        }
+      ],
+      "sourcesCount": 4,
+      "createdAt": "2026-03-02T12:01:24.533Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 49,
+      "slug": "los-goya-2025-coronan-a-los-domingos-de-alauda-ruiz-de-azua-con-cinco-galardones",
+      "headline": "Los Goya 2025 coronan a 'Los domingos' de Alauda Ruiz de Azúa con cinco galardones",
+      "summary": "La película sobre una adolescente que decide hacerse monja obtuvo los principales reconocimientos de los premios del cine español, consolidando a su directora como una de las figuras emergentes más destacadas. Albert Serra también fue premiado por el documental taurino 'Tardes de soledad'.",
+      "category": "cultura",
+      "categories": [
+        "cultura",
+        "sociedad"
+      ],
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/BLHSOVZOXFD67CK63JXPAR33XQ.jpg?auth=2a09ff48e40cf8946422753b7ccbe23f47eddcaefc17fa952a44daa0bee2c3c9",
+      "images": [
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/BLHSOVZOXFD67CK63JXPAR33XQ.jpg?auth=2a09ff48e40cf8946422753b7ccbe23f47eddcaefc17fa952a44daa0bee2c3c9",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/YMMU56BBH5CKJO35FJCPTMMJZM.jpg?auth=2e8f842504cd0cb15ce950bac98021dc249af8b1e80488f34935fca8fc81cb4a&amp;width=414",
+          "source": "El País"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/gettyimages-2264307754.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://okdiario.com/img/2026/03/02/gettyimages-2264307754-635x358.jpg",
+          "source": "OKDiario"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/0ef78d8e-980f-47df-953e-55427f4846e0_16-9-discover-aspect-ratio_default_1137665.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/78da1b92-fc2f-4aca-bd58-5bc455c942a3_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/435759de-0a97-405e-a313-4219a8f72023_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/335fa6ed-06d8-4fbd-b6f5-0aae378b8e88_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/386d90ba-a485-4344-b1de-54d1f5529993_16-9-discover-aspect-ratio_default_1137634.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://static.eldiario.es/clip/31386e57-83d2-4bd7-83a1-bc9bc8fa21e3_16-9-discover-aspect-ratio_default_1137642.jpg",
+          "source": "elDiario.es"
+        }
+      ],
+      "sourcesCount": 3,
+      "createdAt": "2026-03-02T11:59:35.678Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 50,
+      "slug": "los-papeles-del-23-f-revelan-nuevos-detalles-sobre-planes-golpistas-y-el-papel-d",
+      "headline": "Los papeles del 23-F revelan nuevos detalles sobre planes golpistas y el papel del Rey",
+      "summary": "La desclasificación de 166 documentos oficiales sobre el golpe de Estado del 23 de febrero de 1981 aporta información inédita sobre los planes conspirativos previos y confirma con nuevos datos el papel anti-golpista de Juan Carlos I durante la asonada.",
+      "category": "política",
+      "categories": [
+        "política",
+        "sociedad"
+      ],
+      "imageUrl": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/LLLWAR2XIZAY3BQW36QV4HZMPQ.jpg",
+      "images": [
+        {
+          "url": "https://cloudfront-eu-central-1.images.arcpublishing.com/prisa/LLLWAR2XIZAY3BQW36QV4HZMPQ.jpg",
+          "source": "El País"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/01/69a480fa4b465.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2026/03/01/69a480fa4b465.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/53bc7aec-9281-44fc-9175-5b3aac990a13_alta-libre-aspect-ratio_default_0_x1200y533.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/102d9a78-dba7-4225-90b5-bccca1fdf175_alta-libre-aspect-ratio_default_0.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/7993b9ad-6127-4a99-afcb-fa8f263fd6a3_alta-libre-aspect-ratio_default_0_x1000y477.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/ffa8f7a4-7f5b-4b0c-b640-1f4e20ac57e0_alta-libre-aspect-ratio_default_0_x900y399.jpg",
+          "source": "El Periódico"
+        }
+      ],
+      "sourcesCount": 3,
+      "createdAt": "2026-03-02T11:59:36.086Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 45,
+      "slug": "operacion-policial-en-la-mina-detenido-con-drogas-valoradas-en-100-000-euros-y-c",
+      "headline": "Operación policial en La Mina: detenido con drogas valoradas en 100.000 euros y cuatro armas",
+      "summary": "Los **Mossos d'Esquadra** arrestaron el 24 de febrero a un hombre de **45 años** en el barrio de **La Mina** (Sant Adrià de Besòs) tras incautar sustancias estupefacientes valoradas en **100.000 euros** y **cuatro armas de fuego** de nueva generación. La operación culminó una investigación iniciada en diciembre.",
+      "category": "sociedad",
+      "categories": [
+        "sociedad",
+        "política"
+      ],
+      "imageUrl": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/01/69a4208f9c4df.jpeg",
+      "images": [
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/01/69a4208f9c4df.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/image_40_40/uploads/2022/01/11/61ddbc80b7d7b.png",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/e8746182-122c-48a2-8e47-5f0a5fcc7fcf_alta-libre-aspect-ratio_default_0_x1024y307.jpg",
+          "source": "El Periódico"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/8167002a-e4a1-4188-8818-03d98a7053f0_alta-libre-aspect-ratio_default_0_x288y147.jpg",
+          "source": "El Periódico"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T11:58:58.213Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 46,
+      "slug": "adif-retiro-pruebas-de-adamuz-sin-avisar-a-la-jueza-mientras-la-investigacion-de",
+      "headline": "Adif retiró pruebas de Adamuz sin avisar a la jueza mientras la investigación descarta sabotaje",
+      "summary": "La Guardia Civil considera \"altamente improbable\" que el accidente ferroviario de Adamuz fuera un sabotaje y enfoca sus pesquisas en problemas de soldadura. Adif retiró material del lugar días después sin comunicarlo a la autoridad judicial, según reconoce el ministro Puente.",
+      "category": "sociedad",
+      "categories": [
+        "sociedad",
+        "política"
+      ],
+      "imageUrl": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/17/51C6F4D6-B08E-42EF-93B4-AA5D42AA8DCF/96.jpg?crop=1920,1080,x0,y99&width=1200&height=675&optimize=low&format=webply",
+      "images": [
+        {
+          "url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/17/51C6F4D6-B08E-42EF-93B4-AA5D42AA8DCF/96.jpg?crop=1920,1080,x0,y99&width=1200&height=675&optimize=low&format=webply",
+          "source": "La Razón"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/19/69970d49051064-59807355.jpeg",
+          "source": "20 Minutos"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T11:58:59.835Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 47,
+      "slug": "juventud-crea-un-buzon-anonimo-para-denunciar-explotacion-laboral-en-practicas-e",
+      "headline": "Juventud crea un buzón anónimo para denunciar explotación laboral en prácticas estudiantiles",
+      "summary": "El Ministerio de Juventud e Infancia pone en marcha un sistema de denuncias online para que estudiantes en prácticas puedan reportar abusos laborales de forma anónima. La herramienta se presenta como complemento al estatuto del becario, que contempla multas de hasta 225.000 euros.",
+      "category": "sociedad",
+      "categories": [
+        "sociedad",
+        "política"
+      ],
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/V3IS34D65RFWTED7ZEHX2FN62U.jpg?auth=d19b83a80a97f734b62eef5b06c3c2bb612a3eb314dff0501db02ca4af447e24",
+      "images": [
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/V3IS34D65RFWTED7ZEHX2FN62U.jpg?auth=d19b83a80a97f734b62eef5b06c3c2bb612a3eb314dff0501db02ca4af447e24",
+          "source": "El País"
+        },
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2025/11/04/6909e5119a7b2.jpeg",
+          "source": "20 Minutos"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T11:59:00.356Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 48,
+      "slug": "iran-inicia-proceso-de-sucesion-tras-muerte-de-lider-supremo-en-operacion-milita",
+      "headline": "Irán inicia proceso de sucesión tras muerte de líder supremo en operación militar",
+      "summary": "El presidente iraní Masud Pezeshkian confirma que el Consejo de Liderazgo ha comenzado las deliberaciones para elegir sucesor tras el fallecimiento de Ali Jamenei. Un triunvirato interino asume el poder mientras cerca de 30.000 españoles permanecen atrapados en Oriente Medio por el cierre del espacio aéreo.",
+      "category": "internacional",
+      "categories": [
+        "internacional",
+        "política"
+      ],
+      "imageUrl": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151056_261698512_1706x960.jpg",
+      "images": [
+        {
+          "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151056_261698512_1706x960.jpg",
+          "source": "El Español"
+        },
+        {
+          "url": "https://s2.elespanol.com/upload/arte/noticias/internacional/2026-eeuu-iran/20260302-22-iran-organizacion-poder.png",
+          "source": "El Español"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/01/69a449837a16f.r_d.1171-779-1843.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2026/03/01/69a449837a16f.r_d.1171-779.jpeg",
+          "source": "La Vanguardia"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T11:59:34.244Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 51,
+      "slug": "ana-belen-regresa-al-protagonismo-cinematografico-tras-20-anos-con-islas",
+      "headline": "Ana Belén regresa al protagonismo cinematográfico tras 20 años con 'Islas'",
+      "summary": "La actriz y cantante estrena 'Islas', dirigida por Marina Seresesky, marcando su vuelta al primer plano del cine después de dos décadas. La película aborda temas como la soledad y las segundas oportunidades profesionales.",
+      "category": "cultura",
+      "categories": [
+        "cultura",
+        "sociedad"
+      ],
+      "imageUrl": "https://static.eldiario.es/clip/1f44da25-03fa-42bb-8061-88a30439e354_16-9-discover-aspect-ratio_default_0.jpg",
+      "images": [
+        {
+          "url": "https://static.eldiario.es/clip/1f44da25-03fa-42bb-8061-88a30439e354_16-9-discover-aspect-ratio_default_0.jpg",
+          "source": "elDiario.es"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/db6bc1b9-61fd-432b-9320-7b89ef8d7b97_alta-libre-aspect-ratio_default_0_x900y400.jpg",
+          "source": "El Periódico"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T12:00:09.060Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 52,
+      "slug": "cientificos-alertan-contra-verificacion-de-edad-online-mientras-zuckerberg-admit",
+      "headline": "Científicos alertan contra verificación de edad online mientras Zuckerberg admite mentiras",
+      "summary": "Más de 370 expertos de 30 países firman una carta advirtiendo sobre los riesgos de implementar sistemas de verificación de edad en internet, mientras Mark Zuckerberg reconoce en un juicio que los menores mienten sobre su edad para acceder a redes sociales.",
+      "category": "tecnología",
+      "categories": [
+        "tecnología",
+        "sociedad"
+      ],
+      "imageUrl": "https://imagenes.elpais.com/resizer/v2/UCNEMKPALJGMBHTXWZU6DTHOCM.jpg?auth=4719300090fca4a9ee9c79a90482aeac39e38d6b262a7953fe816937629c7ef9",
+      "images": [
+        {
+          "url": "https://imagenes.elpais.com/resizer/v2/UCNEMKPALJGMBHTXWZU6DTHOCM.jpg?auth=4719300090fca4a9ee9c79a90482aeac39e38d6b262a7953fe816937629c7ef9",
+          "source": "El País"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/03/06/65e86ba11e699.r_d.2092-1493-0.jpeg",
+          "source": "La Vanguardia"
+        },
+        {
+          "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2024/03/06/65e86ba11e699.r_d.2092-1493.jpeg",
+          "source": "La Vanguardia"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T12:00:09.469Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    },
+    {
+      "id": 53,
+      "slug": "illa-defiende-respeto-al-mwc-mientras-pide-desescalada-tras-ataques-a-iran",
+      "headline": "Illa defiende respeto al MWC mientras pide desescalada tras ataques a Irán",
+      "summary": "El president de la Generalitat, Salvador Illa, ha respaldado las decisiones organizativas del Mobile World Congress sobre la participación de empresas israelíes, al tiempo que ha reclamado una desescalada inmediata en Oriente Medio tras los ataques militares contra Irán que han causado víctimas mortales en la cúpula dirigente.",
+      "category": "política",
+      "categories": [
+        "política",
+        "internacional",
+        "tecnología"
+      ],
+      "imageUrl": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a5551a230446-44556810.jpeg",
+      "images": [
+        {
+          "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a5551a230446-44556810.jpeg",
+          "source": "20 Minutos"
+        },
+        {
+          "url": "https://estaticos-cdn.prensaiberica.es/clip/c9ae414d-63f4-4915-befb-459242a6e279_alta-libre-aspect-ratio_default_0.jpg",
+          "source": "El Periódico"
+        }
+      ],
+      "sourcesCount": 2,
+      "createdAt": "2026-03-02T12:00:43.568Z",
+      "updatedAt": null,
+      "editionType": "morning"
+    }
+  ]
+}

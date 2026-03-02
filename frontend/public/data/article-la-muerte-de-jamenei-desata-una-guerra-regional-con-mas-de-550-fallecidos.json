@@ -1,0 +1,1056 @@
+{
+  "id": 54,
+  "clusterId": 6971,
+  "editionId": 9,
+  "slug": "la-muerte-de-jamenei-desata-una-guerra-regional-con-mas-de-550-fallecidos",
+  "headline": "La muerte de Jamenei desata una guerra regional con más de 550 fallecidos",
+  "summary": "La operación militar conjunta de Estados Unidos e Israel que causó la muerte del líder supremo iraní Ali Jamenei ha desencadenado una escalada bélica regional. Irán ha respondido con ataques contra países del Golfo Pérsico, mientras Israel bombardea el Líbano tras la intervención de Hezbolá.",
+  "sections": {
+    "facts": "La **operación militar estadounidense-israelí** iniciada el 28 de febrero ha resultado en la muerte del **ayatolá Ali Jamenei**, líder supremo de Irán desde 1989. Los bombardeos han causado más de **550 fallecidos en territorio iraní**, según cifras de la Media Luna Roja local.\n\nLa respuesta iraní se ha materializado en ataques con misiles y drones contra infraestructuras en **Qatar, Kuwait, Emiratos Árabes Unidos, Omán y Arabia Saudí**. En Kuwait han fallecido tres personas, mientras que los bombardeos contra el puerto de Duqm en Omán han dejado cinco heridos. Arabia Saudí ha cerrado temporalmente su refinería de Ras Tanura tras un ataque con drones.\n\n**Hezbolá** ha lanzado proyectiles contra la ciudad israelí de **Haifa** como represalia por la muerte de Jamenei. Israel ha respondido con bombardeos sobre Beirut y el sur del Líbano, causando **31 muertos y 149 heridos** según fuentes sanitarias libanesas. El ministro israelí de Defensa, Israel Katz, ha calificado al líder de Hezbolá, Naim Qassem, como \"objetivo marcado\".\n\nLas reacciones internacionales muestran divisiones entre los aliados occidentales. El ministro francés de Exteriores, **Jean-Noël Barrot**, ha cuestionado la legitimidad de los ataques \"unilaterales\" al no haberse debatido en organismos como las Naciones Unidas. Por su parte, el ministro español **José Manuel Albares** ha criticado tanto los ataques como la respuesta iraní, pidiendo \"desescalada y vuelta a la diplomacia\".",
+    "coverage": [
+      {
+        "sourceName": "El Mundo",
+        "tone": "Emocional y descriptivo",
+        "toneColor": "#8B4513",
+        "summary": "Se centra en las reacciones religiosas y culturales de la comunidad chií tras la muerte de Jamenei. Detalla extensamente los rituales de duelo y juramentos de venganza, presentando el conflicto desde una perspectiva antropológica más que militar."
+      },
+      {
+        "sourceName": "La Razón",
+        "tone": "Neutral informativo",
+        "toneColor": "#4682B4",
+        "summary": "Ofrece cobertura en tiempo real con actualizaciones constantes sobre movimientos militares y declaraciones oficiales. Proporciona datos sobre mercados financieros e información técnica sin análisis profundo."
+      },
+      {
+        "sourceName": "El País",
+        "tone": "Analítico y técnico",
+        "toneColor": "#2E8B57",
+        "summary": "Enfoque especializado en capacidades militares iraníes y análisis técnico del arsenal de misiles. Incluye críticas del ministro Albares a los ataques unilaterales y destaca la posición española de equilibrio."
+      },
+      {
+        "sourceName": "El Español",
+        "tone": "Neutral con matices críticos",
+        "toneColor": "#B8860B",
+        "summary": "Destaca las divisiones europeas ante el conflicto y la progresiva adhesión de potencias occidentales al apoyo de la operación. Se centra en la evolución de posturas diplomáticas más que en desarrollos militares."
+      },
+      {
+        "sourceName": "OKDiario",
+        "tone": "Sensacionalista y partidista",
+        "toneColor": "#FF4500",
+        "summary": "Cobertura tipo 'minuto a minuto' con énfasis en declaraciones belicosas de Trump. Incluye detalles irrelevantes y carece de análisis geopolítico serio, priorizando el impacto mediático sobre la información sustancial."
+      },
+      {
+        "sourceName": "elDiario.es",
+        "tone": "Crítico y condenatorio",
+        "toneColor": "#DC143C",
+        "summary": "Califica el conflicto como 'guerra de Trump y Netanyahu' con un titular altamente crítico. Adopta una postura de condena moral directa hacia las acciones militares estadounidenses e israelíes."
+      }
+    ],
+    "hidden": "Los medios muestran **omisiones significativas** que alteran la comprensión del conflicto. Mientras que algunos como El Mundo se centran exclusivamente en aspectos culturales y religiosos, ignoran completamente las cifras de víctimas civiles y el desarrollo militar, información crucial para entender la magnitud del conflicto.\n\nLa **fragmentación informativa** es evidente: medios como La Razón proporcionan datos técnicos pero carecen de contexto geopolítico, mientras que OKDiario prioriza el sensacionalismo sobre información sustancial. Esta dispersión impide al lector obtener una visión integral de un acontecimiento que está redefiniendo el equilibrio regional.\n\nEspecialmente relevante es la **minimización de las divisiones occidentales** en algunos medios conservadores, que presentan una imagen de unidad atlántica cuando la realidad muestra fisuras importantes entre Francia, España y otros aliados respecto a la legitimidad de la operación. Esta omisión oculta las implicaciones diplomáticas a largo plazo del conflicto.",
+    "context": "**Ali Jamenei** fue el líder supremo de Irán desde 1989, la máxima autoridad política y religiosa del país. Su muerte marca el fin de más de tres décadas al frente del sistema teocrático iraní y abre una crisis de sucesión sin precedentes en la República Islámica.\n\n**Hezbolá** es una organización político-militar chií libanesa fundada en 1985 con apoyo iraní. Considerada grupo terrorista por Estados Unidos e Israel, controla de facto el sur del Líbano y mantiene un arsenal de misiles que rivaliza con algunos ejércitos estatales. Su intervención convierte el conflicto bilateral en una guerra regional.\n\nLas tensiones entre **Estados Unidos-Israel e Irán** se han intensificado desde la retirada estadounidense del acuerdo nuclear de 2015. Irán desarrolló un programa de misiles balísticos y estableció una red de grupos afines en Siria, Líbano, Irak y Yemen, lo que Israel y Estados Unidos consideran una amenaza existencial para la estabilidad regional.\n\nLos **países del Golfo Pérsico** (Arabia Saudí, UAE, Qatar, Kuwait, Omán) mantienen relaciones complejas con Irán, alternando entre cooperación económica y rivalidad geopolítica. Su territorio alberga bases militares estadounidenses, lo que los convierte en objetivos naturales de la respuesta iraní.",
+    "questions": [
+      "¿Puede la comunidad internacional encontrar una salida diplomática cuando Francia y España critican la legitimidad de los ataques mientras otros aliados occidentales los apoyan?",
+      "¿Cómo afectará la muerte de Jamenei al proceso de sucesión iraní y a la estabilidad interna del régimen teocrático?",
+      "¿Está el conflicto evolucionando hacia una guerra regional que involucre a todos los actores de Oriente Medio, o pueden contenerse las hostilidades?",
+      "¿Qué papel jugarán Rusia y China, tradicionales aliados de Irán, en esta escalada militar?",
+      "¿Pueden los países del Golfo mantener su neutralidad relativa o se verán forzados a tomar partido definitivo en el conflicto?"
+    ]
+  },
+  "category": "internacional",
+  "categories": [
+    "internacional",
+    "política"
+  ],
+  "imageUrl": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723913888361.jpg",
+  "sourcesCount": 10,
+  "createdAt": "2026-03-02T12:00:51.751Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723913888361.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724327895392.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723941788615.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e01-elmundo.uecdn.es/elmundo/2026/graficos/feb/atairan646.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/01/17723885142953.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/03/02/17724374558977.jpg",
+      "source": "El Mundo"
+    },
+    {
+      "url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/03/02/928A0BED-6A84-4D45-AD78-25BFCC6F1AF5/96.jpg?crop=5749,3234,x0,y299&width=1200&height=675&optimize=low&format=webply",
+      "source": "La Razón"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/XECKFF5GXVEHDO2HHPWVPRPDCM.jpg?auth=5ef3037325fcdd755b80b8c60eb34f72a9eec474e5b6e415b575156aa7d22e6f",
+      "source": "El País"
+    },
+    {
+      "url": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260302/1143501_084524_video_1800.mp4",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/44I4B6NMHFE3RMCTIVXWN6BLBQ.jpg?auth=20d4e0b4f4562af4e7f6dc937b074fbda79fb01292a2c41897140bd0855fdb83&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20260301/1143429_221854_video_1800.mp4",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/EYUHICBDMJN4JNPFP7VOHWR42I.jpg?auth=dbb5d13bc1d222341d4a8ad39b0b9a62d9e48a2b8ca03a798a1662512cc0bf42&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/2KNUXT6FLBPPRLVZIYLAG6LLOM.jpg?auth=0af2cd37aabf13909eb1c7009849589cc1c02a82425dc99fbd27e43e7fb0aecd",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/UICRMEIGA5IWVBNC5X52SKEEAM.jpg?auth=0345d21170e12f6ffb4ab541e4376434d9bd4736c27046af2c7f70771768fcd1&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/ZE3BGW733NJZNEMC63YXZHOWSM.jpg?auth=988296c7d3ad0f2d0dc93746bdec3127cf755c0a3ded6b1572bafff5cf171fdb",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/S5GJWYZVPJAALH7542GIUVYZYY.jpg?auth=895a865f9346ea84a7603b4ea81ffc4b5a75503bba6028c30770f0db87414f8e",
+      "source": "El País"
+    },
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/4DFIGZZA6RJO7E3V36AG7RXR6Y.jpg?auth=d794ca0b3fad6883179c42b53e448b605c2a9ef30cb7a622876d68060b46f54b",
+      "source": "El País"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151330_261701734_1706x960.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744150948_261696838_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151310_261701513_1706x960.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151205_261700554_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/01/actualidad/1003744151267_261701190_1706x960.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/02/28/actualidad/1003744150418_261688572_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/02/09/actualidad/1003744123106_261336087_1706x960.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2016/01/18/invertia/economia/95500581_449729_320x180.jpg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/imagen_final.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/imagen_final-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2025/11/24/repsol-le-gana-la-batalla-_a-hacienda-interior.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2025/11/24/repsol-le-gana-la-batalla-_a-hacienda-interior-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/bolsas.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2025/12/10/bolsa-okdiario-destacada-ibex-35-1.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2025/12/10/bolsa-okdiario-destacada-ibex-35-1-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/extraccion-de-petroleo-en-eeuu.-ep.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/extraccion-de-petroleo-en-eeuu.-ep-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://www.newtral.es/wp-content/uploads/2026/02/Diseno-sin-titulo-6-1024x576.jpg",
+      "source": "Newtral"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/01/69a4a274f0171.r_d.3009-1671-0.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/files/fp/uploads/2026/03/01/69a4a274f0171.r_d.3009-1671.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/02/69a5411b72743.r_d.1009-573-0.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/02/69a536f0a8e5a.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/10/02/66fd9d37b0c5b.r_d.1388-814-1795.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_40_40/uploads/2022/01/11/61ddbc80b7d7b.png",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/03/02/69a5411b72743.r_d.1009-573-2245.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_65_65/uploads/2026/01/27/69787623cea77.png",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/05/19/682b050d3d90d.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/image_40_40/uploads/1970/01/01/5f9ad96d7c30c.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/01/69a4afaab1f6c.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/content_image_mobile_filter/uploads/2026/03/01/69a4afaab1f6c.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/c4e4c062-1579-45bd-9a35-ccc4380d117a_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/0af0bbeb-8eda-4acc-949e-7b5baa638e59_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/3679a0e5-84f6-4998-b81c-9c80439f1508_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/680452ca-2186-4437-8724-39c488f24318_16-9-discover-aspect-ratio_default_1137678.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/42b6c7aa-94d6-4a9e-93d8-3f4692a3119e_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/da5ea187-9a50-41d3-bced-ce72af55fe70_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/34197ff9-4921-4853-bd6b-626653d0b2df_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/cbb2aedd-9f21-4673-a96a-38041c71537c_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/db3b01c3-cc34-47f1-b1cd-eff65698aa49_source-aspect-ratio_default_1137677.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/c02bae59-821e-4700-b06c-e42f240cefdd_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/eb99125b-501e-4b8f-aa40-eb3aa31f0ae8_16-9-discover-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://www.eldiario.es/assets/img/svg/logos/eldiario-tagline-2c.h-129fb361f1eeeaf4af9b8135dc8199ea.svg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a547fba75409-14402436.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/03/01/69a4a8f2e6fd62-78611155.r_d.1453-1418.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/01/69a407f16cef68-65144030.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a54adcc2c993-53455323.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/02/69a53b27555a39-57167688.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/01/15/6969247d6805e8-98510558.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/01/69a414d4ef6754-97606237.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/01/69a41c80cf5bb4-58641203.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/03/01/69a3ea2d3780e3-49931992.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/28/69a3707da89114-96044517.jpeg",
+      "source": "20 Minutos"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/daf9e3cc-38cc-48bb-90fd-1ee6255dcf7d_alta-libre-aspect-ratio_default_0_x600y225.jpg",
+      "source": "El Periódico"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/b54bf4d6-0257-4c22-a136-a277f3acf6f7_alta-libre-aspect-ratio_default_0.jpg",
+      "source": "El Periódico"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/0399d550-c3db-450a-8ccc-5f4793e63828_alta-libre-aspect-ratio_default_0_x1200y600.jpg",
+      "source": "El Periódico"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/6c77584f-1d4d-445b-afd4-dee5faeba5c7_alta-libre-aspect-ratio_default_0_x482y214.jpg",
+      "source": "El Periódico"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/8f379029-0ac6-43fe-be5e-00d2720f1194_alta-libre-aspect-ratio_default_0_x1200y533.jpg",
+      "source": "El Periódico"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/6263ead0-8152-46a8-99ff-0d5b5e0c0863_alta-libre-aspect-ratio_default_0_x600y225.jpg",
+      "source": "El Periódico"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/6263ead0-8152-46a8-99ff-0d5b5e0c0863_16-9-aspect-ratio_default_0_x600y225.jpg",
+      "source": "El Periódico"
+    },
+    {
+      "url": "https://estaticos-cdn.prensaiberica.es/clip/a8f24a21-3522-41b0-afb6-4205d7a7f83c_alta-libre-aspect-ratio_default_0_x1200y533.jpg",
+      "source": "El Periódico"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4114,
+      "title": "Irán dispara el terror en el Golfo y EEUU e Israel aplastan sus defensas",
+      "url": "https://www.elmundo.es/internacional/2026/03/01/69a48b48fdddff80558b4576.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4115,
+      "title": "Hizbulá se une a la guerra con misiles y drones contra Israel, que responde bombardeando Beirut: \"Jamenei era nuestro Papa\"",
+      "url": "https://www.elmundo.es/internacional/2026/03/02/69a52c1efc6c83483b8b4589.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4116,
+      "title": "Así se viven los ataques en Israel: \"El eje de Irán sufrió un golpe demoledor\"",
+      "url": "https://www.elmundo.es/internacional/2026/03/02/69a494ebfc6c839b3f8b4581.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4117,
+      "title": "Movilizaciones de ira entre la comunidad musulmana chií: \"EEUU e Israel tendrán una guerra de años. La querían y la tienen\"",
+      "url": "https://www.elmundo.es/internacional/2026/03/01/69a47ffdfc6c83b4098b4578.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4118,
+      "title": "Las bolsas europeas reaccionan a la guerra de Irán con caídas mientras el precio del gas se dispara un 25%",
+      "url": "https://www.elmundo.es/economia/dinero-inversion/2026/03/02/69a54001e9cf4aed628b4575.html",
+      "sourceId": 2,
+      "source": {
+        "id": 2,
+        "name": "El Mundo",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4172,
+      "title": "Ataque de Israel y EEUU a Irán, en directo: ataque bases estadounidenses, reacción de Trump y última hora de los muertos en Teherán",
+      "url": "https://www.larazon.es/internacional/ataque-israel-eeuu-iran-directo-ataque-bases-estadounidenses-muertos-negociacion-ultima-hora_2026030269a5323d9243cc133c6c2157.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4186,
+      "title": "Última hora del ataque de EE UU e Israel contra Irán, en directo | Más de 550 muertos en Irán por los ataques de Israel y EE UU desde el sábado, según la Media Luna Roja",
+      "url": "https://elpais.com/internacional/2026-03-02/ultima-hora-del-ataque-de-ee-uu-e-israel-contra-iran-en-directo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4187,
+      "title": "Israel causa más de 30 muertos en Líbano tras sumarse Hezbolá a la guerra",
+      "url": "https://elpais.com/internacional/2026-03-02/hezbola-se-suma-a-la-batalla-con-sus-primeros-proyectiles-desde-2024-e-israel-bombardea-libano.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4188,
+      "title": "La CIA siguió durante meses los movimientos de Jameneí a la espera del momento para lanzar el ataque que lo mató",
+      "url": "https://elpais.com/internacional/2026-03-02/la-cia-siguio-durante-meses-los-movimientos-de-jamenei-a-la-espera-del-momento-para-lanzar-el-ataque-que-lo-mato.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4189,
+      "title": "La clave de la réplica militar iraní: las ciudades de misiles ocultas en montañas",
+      "url": "https://elpais.com/internacional/2026-03-02/la-clave-de-la-replica-militar-irani-las-ciudades-de-misiles-ocultas-en-montanas.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4190,
+      "title": "El petróleo y el gas se disparan tras el ataque a Irán",
+      "url": "https://elpais.com/economia/2026-03-02/el-precio-del-petroleo-sube-con-fuerza-tras-el-ataque-a-iran.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4191,
+      "title": "Las aerolíneas mantienen suspendidos los vuelos a Oriente Próximo",
+      "url": "https://elpais.com/economia/2026-03-02/las-aerolineas-mantienen-suspendidos-los-vuelos-a-oriente-proximo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4192,
+      "title": "Francia, Alemania y Reino Unido se declaran dispuestos a atacar a Irán para defender sus intereses en la región",
+      "url": "https://elpais.com/internacional/2026-03-01/francia-alemania-y-reino-unido-se-declaran-dispuestas-a-atacar-a-iran-para-defender-sus-intereses-en-la-region.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4337,
+      "title": "El conflicto se extiende con ataques en el Golfo y Líbano: la nueva cúpula de Irán desmiente que quiera negociar con Trump",
+      "url": "https://www.elespanol.com/mundo/oriente-proximo/20260302/conflicto-extiende-ataques-golfo-libano-nueva-cupula-iran-desmiente-quiera-negociar-trump/1003744151302_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4338,
+      "title": "Las bolsas caen un 2% mientras el petróleo, el gas y el oro se disparan tras los ataques a Irán",
+      "url": "https://www.elespanol.com/invertia/mercados/20260302/bolsas-caen-petroleo-gas-oro-disparan-ataques-iran/1003744151308_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4339,
+      "title": "Francia, Alemania y Reino Unido se suman a la ofensiva de EEUU e Israel contra Irán tras la falta de acuerdo en la UE",
+      "url": "https://www.elespanol.com/mundo/europa/20260301/francia-alemania-reino-unido-suman-ataque-eeuu-israel-iran-falta-acuerdo-ue/1003744151230_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4342,
+      "title": "Repsol, Naturgy, aerolíneas y hoteleras, las empresas españolas más afectadas por la inestabilidad en el Golfo Pérsico",
+      "url": "https://www.elespanol.com/invertia/empresas/20260302/repsol-naturgy-aerolineas-hoteleras-afectados-ataques-golfo-persico/1003744151322_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 4384,
+      "title": "Última hora de la guerra de Irán y EEUU en directo | Qué está pasando hoy, países atacados, bombardeos y noticias de Trump",
+      "url": "https://okdiario.com/internacional/ataque-eeuu-iran-directo-ultima-hora-ali-jamenei-hoy-16327798",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4392,
+      "title": "Repsol e Indra, ganadoras del conflicto en Irán: suben con fuerza en la apertura de la Bolsa",
+      "url": "https://okdiario.com/economia/mercados/repsol-indra-ganadoras-del-conflicto-iran-suben-fuerza-apertura-bolsa-16331404",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4396,
+      "title": "IAG, Inditex y Santander lideran las caídas del Ibex tras el ataque a Irán con descensos de hasta el 7%",
+      "url": "https://okdiario.com/economia/iag-inditex-santander-lideran-caidas-del-ibex-ataque-iran-descensos-hasta-7-16331401",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4409,
+      "title": "Las Bolsas se desploman en Europa tras los ataques a Irán y el dólar y el petróleo se disparan",
+      "url": "https://okdiario.com/economia/mercados/bolsa-espanola-2-marzo-2026-16331156",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4415,
+      "title": "Los mercados se hunden en Europa y el petróleo sube a máximos del año con el foco puesto en Irán",
+      "url": "https://okdiario.com/economia/petroleo-sube-mas-8-ataque-eeuu-israel-iran-16331030",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4439,
+      "title": "Cuidado con estas imágenes nocturnas de misiles: no corresponden al ataque de EEUU e Israel contra Irán de 2026",
+      "url": "https://www.newtral.es/ataque-estados-unidos-iran-imagenes-nocturnas-antiguas/20260228",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "Newtral",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4444,
+      "title": "Irán incendia Oriente Medio mientras busca sucesor a Jamenei",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478671/iran-encara-transicion-incierta.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4445,
+      "title": "Última hora del ataque de EEUU e Israel a Irán | Más de 500 fallecidos, muerte de Jamenei, situación en Teherán y el Líbano, y la guerra en Irán",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478862/israel-iran-ee-uu-teheran-guerra-jerusalen-bombardeo-lideres-trump-ultima-hora-en-directo.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4446,
+      "title": "El petróleo y el gas se disparan ante el impacto en el suministro por el conflicto en Irán",
+      "url": "https://www.lavanguardia.com/economia/20260302/11478892/petroleo-dispara-impacto-suministro-guerra-iran.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4447,
+      "title": "Quiénes son los miembros del Consejo de Liderazgo que lideran Irán a la espera del sucesor de Jamenei",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478691/quienes-son-miembros-consejo-liderazgo-lideran-iran-espera-sucesor-jamenei.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4450,
+      "title": "Fuertes caídas en las bolsas europeas y el Ibex 35 por el conflicto en Irán y Oriente Medio",
+      "url": "https://www.lavanguardia.com/economia/20260302/11478916/ibex-35-bolsa-iran-eeuu-oriente-medio-petroleo-precio.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4453,
+      "title": "París, Berlín y Londres están dispuestos a atacar a Irán en defensa de sus intereses",
+      "url": "https://www.lavanguardia.com/internacional/20260301/11478678/paris-berlin-londres-dispuestos-atacar-iran-defensa-intereses.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4505,
+      "title": "¿Es posible una transición política en Irán?",
+      "url": "https://www.lavanguardia.com/internacional/20260302/11478689/posible-transicion-politica-iran.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4590,
+      "title": "La guerra de Trump y Netanyahu contra Irán se recrudece y se extiende con ataques de Israel a Hezbolá en Líbano",
+      "url": "https://www.eldiario.es/internacional/guerra-trump-netanyahu-iran-recrudece-extiende-ataques-israel-hezbola-libano_1_13031660.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 4591,
+      "title": "El ataque ilegal de Israel y EEUU contra Irán no tiene que ver con el programa nuclear ni con la libertad",
+      "url": "https://www.eldiario.es/internacional/ataque-ilegal-israel-eeuu-iran-no-ver-programa-nuclear-libertad_129_13031455.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 4592,
+      "title": "El mundo MAGA desata una nueva guerra civil por los ataques de Trump a Irán",
+      "url": "https://www.eldiario.es/internacional/mundo-maga-desata-nueva-guerra-civil-ataques-trump-iran_1_13031445.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 4594,
+      "title": "Trump entra en el momento más crítico de su presidencia con el ataque a Irán",
+      "url": "https://www.eldiario.es/internacional/trump-entra-momento-critico-presidencia-ataque-iran_1_13031330.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 4596,
+      "title": "Irán no es Venezuela: Teherán tiene capacidad de internacionalizar el conflicto y se apoya en un sistema político descentralizado",
+      "url": "https://www.eldiario.es/internacional/iran-no-venezuela-teheran-capacidad-internacionalizar-conflicto-apoya-sistema-politico-descentralizado_129_13030606.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 4597,
+      "title": "El golpe económico del ataque a Irán: petróleo más caro y una nueva sacudida en los mercados",
+      "url": "https://www.eldiario.es/internacional/theguardian/golpe-economico-ataque-iran-petroleo-caro-nueva-sacudida-mercados_1_13031171.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 4598,
+      "title": "El Ibex cae un 3% y el precio del petróleo se dispara un 9% tras el ataque a Irán",
+      "url": "https://www.eldiario.es/economia/ibex-cae-3-pierde-17-900-puntos-ataque-iran_1_13031782.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 4624,
+      "title": "Asesinos de niñas",
+      "url": "https://www.eldiario.es/opinion/asesinos-ninas_131_13031496.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 4687,
+      "title": "La guerra se extiende a Líbano: Israel lanza una ola de ataques contra Hezbolá mientras los bombardeos siguen en Teherán",
+      "url": "https://www.20minutos.es/internacional/guerra-se-extiende-libano-israel-lanza-una-ola-ataques-contra-hezbola-mientras-los-bombardeos-siguen-teheran_6940520_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4688,
+      "title": "El petróleo se dispara con la guerra en Irán hasta máximos de más de un año y ronda los 80 dólares",
+      "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/petroleo-se-dispara-con-guerra-iran-maxima-tension-los-mercados-arranque-semana_6940466_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4689,
+      "title": "Alemania, Francia y Reino Unido acuerdan \"coordinarse\" con EEUU para acabar \"con las capacidades de Irán\"",
+      "url": "https://www.20minutos.es/internacional/iran-agita-europa-con-sus-ultimos-ataques-los-lideres-piden-contencion-que-se-retome-diplomacia_6940358_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4690,
+      "title": "Guerra en Irán y última hora del ataque de Israel y EEUU, en directo | Un caza F-15 de EEUU se estrella en Kuwait: \"Fue alcanzado y derribado por la defensa aérea de Irán\"",
+      "url": "https://www.20minutos.es/internacional/guerra-eeuu-israel-iran-directo-ultimas-noticias-ataques-oriente-medio-golfo-persico_6940490_6.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4692,
+      "title": "El momento en el que el Ejército de Israel lanza un misil contra un vehículo de Hezbolá",
+      "url": "https://www.20minutos.es/internacional/momento-que-ejercito-israel-lanza-un-misil-contra-un-vehiculo-hezbola_6940502_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4697,
+      "title": "Monárquicos del shá, muyahidines, grupos kurdos, baluchíes... quién es quién en la dividida y desorganizada oposición iraní",
+      "url": "https://www.20minutos.es/internacional/relevo-iran-monarquicos-sha-muyahidines-monarquicos-reza-pahlavi-kurdos-baluchies-quien-es-quien-dividida-desorganizada-oposicion-irani_6921633_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4779,
+      "title": "Israel difunde un vídeo del momento en el que bombardea el complejo donde se reunía Jamenei con su cúpula",
+      "url": "https://www.20minutos.es/internacional/israel-difunde-video-momento-bombardea-complejo-residencial-donde-reunia-jamenei-cupula_6940342_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4780,
+      "title": "Los vídeos de celebraciones en Irán tras conocerse la muerte de Jamenei",
+      "url": "https://www.20minutos.es/internacional/videos-celebraciones-iran-conocerse-muerte-jamenei_6940349_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4877,
+      "title": "Estados Unidos e Israel descabezan en 24 horas la cúpula de mando iraní: mueren el jefe del Estado Mayor y el ministro de Defensa",
+      "url": "https://www.20minutos.es/internacional/estados-unidos-israel-descabezan-24-horas-cupula-mando-irani-mueren-jefe-estado-mayor-ministro-defensa_6940312_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4883,
+      "title": "Quién era Alí Jamenei, líder supremo y mano de hierro en la pirámide de poder de Irán que EEUU e Israel han acabado matando",
+      "url": "https://www.20minutos.es/internacional/quien-era-ali-jamenei-cuspide-sistema-politico-piramidal-iran-objetivo-eeuu_6940304_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 4904,
+      "title": "Guerra en Irán tras el ataque de EEUU e Israel: Misiles iranís contra Chipre, ataque de Hezbolá y bombardeo israelí contra el Líbano  | Últimas noticias en directo",
+      "url": "https://www.elperiodico.com/es/internacional/20260302/guerra-iran-eeuu-israel-ali-jamenei-mapa-ultimas-noticias-directo-126605546",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4945,
+      "title": "El petróleo se dispara más de un 8% y las Bolsas sufren fuertes caídas ante el conflicto EEUU-Irán",
+      "url": "https://www.elperiodico.com/es/economia/20260302/petroleo-dispara-8-futuros-europeos-127434902",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4947,
+      "title": "El conflicto EEUU-Irán provoca caídas en los mercados de todo el mundo y aleja al Ibex 35 de los 18.000 puntos",
+      "url": "https://www.elperiodico.com/es/economia/20260302/conflicto-eeuu-iran-aleja-ibex-127436246",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 4968,
+      "title": "Irán cifra en más de 550 los muertos por los bombardeos de EEUU e Israel",
+      "url": "https://www.elperiodico.com/es/internacional/20260302/media-luna-roja-eleva-555-127438673",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 5038,
+      "title": "Israel bombardea el Líbano en respuesta a los ataques de Hizbulá",
+      "url": "https://www.elperiodico.com/es/videos/internacional/israel-bombardea-libano-respuesta-ataques-hizbula/127435114.shtml",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 5039,
+      "title": "Trump, al pueblo iraní: “Les hice una promesa y la cumplí, el resto depende de ustedes”",
+      "url": "https://www.elperiodico.com/es/videos/internacional/trump-pueblo-irani-les-hice-promesa-cumpli-resto-ustedes-video/127435967.shtml",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 5040,
+      "title": "Felipe VI llama a \"la máxima moderación en el uso de la fuerza\" en Oriente Medio",
+      "url": "https://www.elperiodico.com/es/videos/internacional/felipe-vi-llama-maxima-moderacion/127437402.shtml",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "El Periódico",
+        "politicalLean": "center-left"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

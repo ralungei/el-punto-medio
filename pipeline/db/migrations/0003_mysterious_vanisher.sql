@@ -1,0 +1,1 @@
+ALTER TABLE `clusters` ADD `story_id` text;

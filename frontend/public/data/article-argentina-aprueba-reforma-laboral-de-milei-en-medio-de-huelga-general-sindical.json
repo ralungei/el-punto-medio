@@ -1,0 +1,149 @@
+{
+  "id": 9,
+  "clusterId": 230,
+  "editionId": 1,
+  "slug": "argentina-aprueba-reforma-laboral-de-milei-en-medio-de-huelga-general-sindical",
+  "headline": "Argentina aprueba reforma laboral de Milei en medio de huelga general sindical",
+  "summary": "El Senado argentino ratificó la denominada Ley de Modernización Laboral, que modifica más de 200 artículos del marco laboral vigente. La norma altera el cálculo de indemnizaciones, amplía la jornada máxima diaria y restringe el derecho de huelga, mientras los principales sindicatos convocaron una huelga general en protesta.",
+  "sections": {
+    "facts": "El **Senado de Argentina** aprobó definitivamente la **Ley de Modernización Laboral** con **42 votos a favor, 28 en contra y 2 abstenciones**, tras un proceso legislativo que comenzó en la Cámara Alta el **11 de febrero**. La norma pasó posteriormente a Diputados, donde fue aprobada con la eliminación de un artículo —el 44, que establecía recortes salariales durante bajas médicas— lo que obligó a una segunda ratificación senatorial. Una vez promulgada por el Ejecutivo del presidente **Javier Milei**, entrará en vigor modificando la legislación laboral de referencia vigente desde **1976**.\n\nEntre los cambios más relevantes que introduce la ley destacan: la modificación del cálculo de **indemnizaciones por despido**, excluyendo del cómputo conceptos como el aguinaldo, vacaciones o premios; la posibilidad de que grandes empresas abonen condenas judiciales en hasta **seis cuotas** y las pymes en hasta **doce**; y la creación del **Fondo de Asistencia Laboral (FAL)**, administrado por entidades financieras privadas en sustitución de la [Administración Nacional de la Seguridad Social (ANSES)](https://www.anses.gob.ar/). La jornada laboral podrá extenderse hasta **12 horas diarias** mediante un sistema de banco de horas, y se abre la posibilidad de abonar salarios en **moneda extranjera o en especie** de forma opcional. La norma también introduce restricciones al **derecho de huelga** y a la actividad de los sindicatos.\n\nLa aprobación de la ley se produjo en un contexto de fuerte movilización sindical: las principales centrales obreras del país convocaron una **huelga general** en rechazo a la reforma, con protestas que derivaron en incidentes. El presidente Milei tiene previsto presentar balance de su gestión y anunciar nuevas iniciativas legislativas en el discurso tradicional de apertura de sesiones del **1 de marzo** ante el Congreso de la Nación.",
+    "coverage": [
+      {
+        "sourceName": "Público",
+        "tone": "Crítico",
+        "toneColor": "#c0392b",
+        "summary": "El medio aborda la reforma desde una perspectiva centrada en los derechos laborales, detallando punto por punto cada medida y presentándolas como un deterioro de conquistas históricas de los trabajadores. No menciona la huelga general ni los incidentes en las protestas, y omite cualquier argumento del gobierno en favor de la ley."
+      },
+      {
+        "sourceName": "RTVE",
+        "tone": "Neutral",
+        "toneColor": "#2980b9",
+        "summary": "El ente público español encuadra la reforma dentro del balance político más amplio del mandato de Milei y la proyección electoral hacia 2027. Incorpora la voz de un analista político y contextualiza los logros que el gobierno reivindica, aunque sin profundizar en el contenido concreto de la ley ni en las demandas sindicales."
+      }
+    ],
+    "hidden": "**Público** opta por una disección técnica y exhaustiva de cada artículo de la ley, lo que ofrece al lector una información muy detallada sobre las consecuencias prácticas para los trabajadores. Sin embargo, la ausencia total de la huelga general y de los argumentos gubernamentales no es inocente: al excluir la respuesta social organizada, el relato queda incompleto precisamente en el elemento que más visibilidad política da al rechazo ciudadano. Omitir la huelga es, paradójicamente, restarle fuerza a la protesta que el propio medio parece defender.\n\n**RTVE**, por su parte, encuadra la reforma dentro del ciclo electoral y la narrativa de gestión de Milei, lo que diluye el peso específico de la ley en sí misma. Al presentarla como un elemento más del 'balance de motosierra', el contenido concreto de la norma —y sus efectos sobre millones de trabajadores— queda en segundo plano. La elección de citar a un consultor de opinión pública, en lugar de a representantes sindicales o expertos en derecho laboral, refuerza un encuadre político-electoral que puede interesar más a la audiencia española que sigue la figura de Milei como fenómeno político global, pero que no ayuda a comprender qué cambia realmente en el mercado de trabajo argentino.\n\nNinguno de los dos medios analizados ofrece la perspectiva del gobierno argentino con suficiente desarrollo para entender los argumentos a favor de la reforma: qué problemas del mercado laboral pretende resolver, qué datos maneja el Ejecutivo para justificar los cambios, o qué sectores empresariales la respaldan. Esta omisión compartida impide al lector valorar si los cambios responden a una necesidad económica real o son exclusivamente una decisión ideológica.",
+    "context": "**Javier Milei** es el presidente de Argentina desde diciembre de 2023. Economista de formación y conocido por sus posiciones ultraliberales, llegó al poder con una propuesta de ajuste radical del gasto público y desregulación de la economía, utilizando la metáfora de la 'motosierra' para simbolizar sus recortes. Su victoria electoral supuso un cambio político drástico en un país que arrastraba décadas de alta inflación, deuda externa y crisis económicas cíclicas.\n\nLa legislación laboral que la nueva ley modifica data de **1976**, época de la última dictadura militar argentina, aunque fue reformada en varias ocasiones durante los gobiernos democráticos posteriores. En Argentina, el marco laboral ha sido históricamente un terreno de fuerte disputa política entre sindicatos —con gran peso institucional y capacidad de movilización— y sectores empresariales y liberales que consideran la legislación vigente rígida y poco competitiva. Los sindicatos, agrupados en centrales como la **CGT (Confederación General del Trabajo)**, han sido actores políticos clave en la historia del país y cuentan con la herramienta de la huelga general como principal mecanismo de presión.\n\nDesde su llegada al gobierno, Milei ha impulsado una agenda de reformas estructurales que incluye la eliminación de organismos estatales, recortes en subsidios, apertura comercial y desregulación del mercado laboral. La reforma aprobada ahora es una de las más ambiciosas de ese programa, ya que toca directamente las condiciones de empleo de millones de trabajadores: cómo se calcula lo que cobran si son despedidos, cuántas horas pueden trabajar al día, o cuánto poder tienen sus representantes sindicales para negociar o protestar.\n\nEl contexto político inmediato también es relevante: **2027** es año de elecciones presidenciales en Argentina, y Milei aspira a la reelección. Tanto sus aliados como sus opositores interpretan las grandes reformas de este período como parte de un posicionamiento de cara a esa cita electoral, lo que añade una dimensión estratégica a decisiones que, en apariencia, son puramente económicas o laborales.",
+    "questions": [
+      "¿La extensión de la jornada laboral hasta 12 horas diarias puede generar más empleo o, por el contrario, favorece que las empresas concentren el trabajo en menos personas?",
+      "¿La creación del Fondo de Asistencia Laboral administrado por entidades financieras privadas ofrece garantías equivalentes a las del sistema público anterior para los trabajadores despedidos?",
+      "¿Hasta qué punto las restricciones al derecho de huelga afectan al equilibrio de poder entre empleadores y sindicatos en Argentina?",
+      "¿Puede una reforma laboral de este alcance ser evaluada solo en términos económicos, o es inevitable que tenga consecuencias sociales y políticas que van más allá del mercado de trabajo?",
+      "¿Qué papel debería jugar la ciudadanía —más allá de los sindicatos y los partidos— en la definición de las condiciones laborales de un país?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "economía"
+  ],
+  "imageUrl": "https://www.publico.es/files/main_image_horizontal_desktop/uploads/2026/02/28/69a2fd02d09e8.jpeg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T13:36:19.218Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://www.publico.es/files/main_image_horizontal_desktop/uploads/2026/02/28/69a2fd02d09e8.jpeg",
+      "source": "Público"
+    },
+    {
+      "url": "https://img.rtve.es/imagenes/milei-presume-reformas-motosierra-ano-clave-presidenciales-2027/01771956733250.jpg",
+      "source": "RTVE"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 1310,
+      "title": "El Congreso de Argentina aprueba la reforma laboral de Milei que recorta derechos a los trabajadores",
+      "url": "https://www.publico.es/internacional/america-latina/congreso-argentina-aprueba-reforma-laboral-milei-recorta-derechos-trabajadores.html",
+      "sourceId": 12,
+      "source": {
+        "id": 12,
+        "name": "Público",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 1478,
+      "title": "Milei presume de reformas a golpe de motosierra al encarar un año clave con las presidenciales de 2027 en el horizonte",
+      "url": "https://www.rtve.es/noticias/20260301/milei-presume-reformas-motosierra-ano-clave-presidenciales-2027/16952216.shtml",
+      "sourceId": 13,
+      "source": {
+        "id": 13,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 8,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 9,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 11,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 12,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 13,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 14,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    }
+  ]
+}

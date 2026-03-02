@@ -1,0 +1,389 @@
+{
+  "id": 22,
+  "clusterId": 488,
+  "editionId": 1,
+  "slug": "zapatero-niega-implicacion-en-rescate-de-plus-ultra-y-admite-cobros-de-463-000-e",
+  "headline": "Zapatero niega implicación en rescate de Plus Ultra y admite cobros de 463.000 euros como consultor",
+  "summary": "El expresidente del Gobierno compareció ante la comisión de investigación del Senado sobre el caso Koldo, donde negó cualquier vinculación con el rescate público de 53 millones a Plus Ultra y reconoció haber percibido cerca de 463.000 euros en seis años como consultor de Análisis Relevante, empresa de su amigo Julio Martínez Martínez, detenido en diciembre por presunto blanqueo de capitales.",
+  "sections": {
+    "facts": "El expresidente **José Luis Rodríguez Zapatero** compareció el lunes 2 de marzo de 2026 ante la comisión de investigación del Senado que examina el denominado **caso Koldo**, respondiendo durante algo más de tres horas a las preguntas de distintos grupos parlamentarios. Zapatero negó categóricamente haber tenido papel alguno en la concesión del **préstamo de 53 millones de euros** que el Gobierno de Pedro Sánchez otorgó en 2020 a la aerolínea **Plus Ultra** durante la pandemia. «No he cobrado ninguna comisión de Plus Ultra, jamás», declaró. Asimismo, negó haber mantenido cualquier reunión con **Julio Martínez Solá**, presidente de la aerolínea, a quien dijo no conocer.\n\nEl expresidente reconoció, en cambio, su relación laboral con **Análisis Relevante SL**, empresa cuyo administrador único es su amigo personal **Julio Martínez Martínez**, detenido el 11 de diciembre de 2025 por la Policía Nacional con más de 300.000 euros en efectivo en su domicilio. Zapatero afirmó haber cobrado una media de **70.000 euros brutos anuales** durante seis años como consultor autónomo de esa sociedad, lo que suma aproximadamente **463.000 euros** en total. Indicó que el precio respondía a su experiencia y trayectoria, y detalló una intensa agenda de 172 viajes internacionales, 134 desplazamientos nacionales y 186 actos públicos desde que dejó La Moncloa en 2011. Según explicó, fue él mismo quien propuso que la empresa de sus hijas, **What the Fav**, se incorporara para labores de marketing y comunicación. Medios como **20 Minutos** reportaron que las hijas del expresidente percibieron alrededor de **198.000 euros** adicionales, elevando el total familiar a 661.000 euros según El Confidencial.\n\nEl senador del PP **Fernando Martínez-Maíllo** sostuvo que Análisis Relevante habría tenido como único cliente a Plus Ultra y como únicos proveedores al propio Zapatero y a la empresa de su familia, acusándole de ser el origen de la constitución de esa sociedad. Zapatero rechazó ambas imputaciones y llegó a solicitar amparo al presidente de la comisión ante lo que calificó como «comentarios incriminatorios». El senador también preguntó si Zapatero estaba dispuesto a entregar voluntariamente los mensajes de WhatsApp intercambiados con Martínez Martínez; el expresidente se negó apelando a su «derecho a la intimidad». La investigación sobre Análisis Relevante y Plus Ultra permanece bajo secreto de sumario en la **Audiencia Nacional**, a cargo de la Fiscalía Anticorrupción, por presuntos delitos de blanqueo de capitales.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "Neutral",
+        "toneColor": "#4a90d9",
+        "summary": "Presenta la comparecencia como una declaración normal de un ciudadano que se defiende con transparencia. Detalla los cobros reconocidos y la actividad consultora de Zapatero, incluyendo anécdotas personales, pero no menciona la cifra global de 661.000 euros que incluye los pagos a la empresa de sus hijas."
+      },
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "Neutral",
+        "toneColor": "#4a90d9",
+        "summary": "Ofrece una crónica descriptiva y cronológica en la que Zapatero aparece sereno y combativo. Subraya su lenguaje enfático y distingue entre los dos Julio Martínez implicados en el caso, pero omite detalles sobre quién redactó realmente los informes atribuidos al expresidente."
+      },
+      {
+        "sourceName": "OKDiario",
+        "tone": "Crítico / Acusatorio",
+        "toneColor": "#e05c5c",
+        "summary": "Estructura la comparecencia como un inventario de negaciones sucesivas, sugiriendo que su acumulación resulta sospechosa. Destaca las conexiones con Venezuela y el chavismo y el rechazo de Zapatero a entregar sus mensajes privados, pero prescinde del contexto de su actividad internacional y su tono tranquilo ante la comisión."
+      },
+      {
+        "sourceName": "elDiario.es",
+        "tone": "Favorable a Zapatero",
+        "toneColor": "#5cb85c",
+        "summary": "Se centra en rebatir la tesis del PP sobre la naturaleza instrumental de Análisis Relevante, presentando la sesión principalmente como el rechazo de una acusación política. Omite casi todos los datos económicos concretos y no aborda la participación de terceros en la redacción de los informes."
+      },
+      {
+        "sourceName": "El Confidencial",
+        "tone": "Investigación independiente",
+        "toneColor": "#f0a500",
+        "summary": "Amplía el foco más allá de la comparecencia parlamentaria para revelar que Javier de Paz, adjunto al presidente de Telefónica, presionó para contratar y proteger a Sergio Sánchez, cofundador de Análisis Relevante. Es el único medio que cifra el total cobrado por Zapatero y sus hijas en 661.000 euros, aunque apenas cubre lo dicho por Zapatero en el Senado ese día."
+      },
+      {
+        "sourceName": "El Español",
+        "tone": "Sensacionalista",
+        "toneColor": "#e07b39",
+        "summary": "Presenta la sesión como un duelo verbal de alto voltaje entre Zapatero y el PP, con abundantes citas de impacto. Dedica espacio llamativo a las declaraciones de Zapatero sobre política exterior (guerra Irán-Israel) en detrimento de los datos económicos y los hechos investigados."
+      },
+      {
+        "sourceName": "20 Minutos",
+        "tone": "Moderado / Informativo",
+        "toneColor": "#7b7b7b",
+        "summary": "Ofrece una visión panorámica que equilibra acusaciones y respuestas, y aporta el dato de los 198.000 euros percibidos por las hijas del expresidente. No profundiza en el papel de terceros en la redacción de informes ni en las conexiones con Telefónica."
+      }
+    ],
+    "hidden": "El dato que más diverge entre medios es la **cifra total de dinero vinculado a Zapatero**: la mayoría se quedan en los 463.000 euros que él mismo reconoció, mientras que solo El Confidencial eleva la cifra a **661.000 euros** al sumar los pagos a la empresa de sus hijas. Esta diferencia no es menor: implica que la relación económica entre la familia Zapatero y Análisis Relevante fue más amplia de lo que el propio expresidente puso en primer plano ante la comisión. Que los medios progresistas omitan este dato y que los conservadores tampoco lo desarrollen con precisión sugiere que ambos bloques prefieren un encuadre más simple —defensa o ataque— antes que profundizar en la complejidad real de los flujos económicos.\n\nOtra omisión relevante es la figura de **Sergio Sánchez**, cofundador de Análisis Relevante, cuya participación en la redacción de los informes atribuidos a Zapatero apenas se menciona en la mayoría de coberturas. Si una parte sustancial del trabajo intelectual lo realizó otra persona mientras Zapatero firmaba o avalaba con su nombre, eso afecta directamente a la naturaleza real de la consultoría y a si el precio cobrado corresponde a un servicio efectivo. El Confidencial es prácticamente el único medio que desarrolla este ángulo, al conectarlo además con las presiones de **Javier de Paz** en Telefónica para colocar y proteger a ese mismo Sergio Sánchez, lo que dibuja una red de influencias que el resto de la prensa —tanto de izquierda como de derecha— silencia casi por completo. La razón puede ser que este hilo lleva a actores (como el entorno de Telefónica o del CNI) con conexiones transversales que incomodan a distintos espectros políticos.\n\nFinalmente, la negativa de Zapatero a entregar sus **mensajes de WhatsApp** con Martínez Martínez fue encuadrada por OKDiario como evidencia de ocultación y por elDiario.es como un derecho legítimo a la privacidad, sin que casi ningún medio analice el punto intermedio: en qué circunstancias legales y procesales podría o debería un investigado o testigo aportar comunicaciones privadas, y qué peso tiene esa negativa en el contexto de una investigación bajo secreto de sumario.",
+    "context": "**José Luis Rodríguez Zapatero** fue presidente del Gobierno de España entre 2004 y 2011, liderando dos legislaturas del Partido Socialista Obrero Español (PSOE). Desde que abandonó La Moncloa, ha desarrollado una intensa actividad como conferenciante y consultor en el ámbito internacional, especialmente en América Latina. No ocupa ningún cargo público desde entonces.\n\n**Plus Ultra** es una aerolínea española de bajo coste con rutas principalmente hacia América Latina. En 2020, en plena pandemia de COVID-19, el Gobierno de Pedro Sánchez le concedió un préstamo de **53 millones de euros** a través de la **SEPI** (Sociedad Estatal de Participaciones Industriales), el holding público de empresas del Estado. Esa decisión generó polémica porque varios informes técnicos cuestionaron la viabilidad de la compañía y porque se produjeron con poco tiempo entre la solicitud y la aprobación del rescate. En diciembre de 2025, la Policía Nacional detuvo al presidente de la aerolínea, **Julio Martínez Solá**, a su CEO, **Roberto Roselli**, y a **Julio Martínez Martínez**, empresario y amigo personal de Zapatero, en el marco de una investigación de la Fiscalía Anticorrupción por presunto blanqueo de capitales. En el domicilio de este último se hallaron más de 300.000 euros en efectivo.\n\n**Análisis Relevante SL** es la empresa de consultoría cuyo administrador único es Julio Martínez Martínez. Según la acusación del PP, habría tenido como único cliente a Plus Ultra y habría canalizado parte del dinero del rescate público hacia el entorno de Zapatero. El expresidente sostiene que se trató de una relación laboral legítima por la que prestó servicios reales de consultoría. La investigación sobre esta sociedad se tramita en la **Audiencia Nacional** bajo secreto de sumario, lo que limita la información disponible para el público.\n\nLa **comisión de investigación del Senado** es un órgano parlamentario creado para examinar hechos de relevancia pública. En este caso, la comisión fue impulsada por el Partido Popular (**PP**), actualmente en la oposición, para investigar el llamado **caso Koldo**, un escándalo de corrupción más amplio relacionado con contratos de mascarillas durante la pandemia que ha salpicado a varios dirigentes socialistas. Zapatero compareció en calidad de ciudadano —no de investigado en esa sede— aunque su nombre aparece vinculado al caso a través de sus relaciones económicas y personales con los detenidos.",
+    "questions": [
+      "1. Si Análisis Relevante tuvo efectivamente a Plus Ultra como cliente único, ¿cómo se distingue legalmente una consultoría legítima de una sociedad instrumental para canalizar fondos?",
+      "2. ¿Debería un expresidente de Gobierno estar obligado a someterse a mayores niveles de transparencia en sus actividades económicas privadas, dado su acceso a redes de influencia política?",
+      "3. ¿Qué importancia tiene que parte del trabajo intelectual de una consultoría lo realice un tercero mientras el nombre del consultor principal es lo que tiene valor de mercado?",
+      "4. ¿La negativa a entregar mensajes privados es un ejercicio legítimo del derecho a la intimidad o debería tener consecuencias en una investigación parlamentaria o judicial?",
+      "5. ¿Resulta suficiente la supervisión parlamentaria cuando la investigación judicial sobre los mismos hechos está bajo secreto de sumario?"
+    ]
+  },
+  "category": "política",
+  "categories": [
+    "política",
+    "economía"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/P7HVCXFT25CZXPK6GWUSAYGN3A.jpg?auth=003549c37587014c59797403e5d171b19e7e516d2aa27e5039693f790719ff69&amp;width=1200",
+  "sourcesCount": 7,
+  "createdAt": "2026-03-02T13:40:31.668Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/P7HVCXFT25CZXPK6GWUSAYGN3A.jpg?auth=003549c37587014c59797403e5d171b19e7e516d2aa27e5039693f790719ff69&amp;width=1200",
+      "source": "El País"
+    },
+    {
+      "url": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/03/02/69a557ce6d7ab.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/zapatero1.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/zapatero-senado-comparecencia.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/9951e9c1-9c4c-4d2f-a908-969976eff335_facebook-watermarked-aspect-ratio_default_0_x447y63.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/fc309b19-d080-49e0-b358-63d4cc4372d4_facebook-watermarked-aspect-ratio_default_0_x534y81.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/6c297e41-84e9-40f1-848c-804d07600119_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/ee10627b-40bb-41d9-833e-70ac613ce9cd_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/452986c3-3ea4-45c3-bad4-b202aec9b681_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://static.eldiario.es/clip/cec22f98-d0ac-4fe0-9ecf-ce2263652e3b_facebook-watermarked-aspect-ratio_default_0.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://images.ecestaticos.com/hyTsoeviDKKtuvVMv_FKapOpYYI=/0x0:1200x675/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/706/abe/a5f/706abea5f44db09be9c654ab54c9c66a.jpg",
+      "source": "El Confidencial"
+    },
+    {
+      "url": "https://images.ecestaticos.com/hLF9pLfdkMUeMmkrhsPX4o0s5uU=/0x0:2272x1520/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/f6b/916/588/f6b916588c1a34ce89e570e2931d5dc2.jpg",
+      "source": "El Confidencial"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744152059_261710296_1706x960.jpg?fmt=jpeg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151849_261708120_1706x960.jpg?fmt=jpeg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/03/02/actualidad/1003744151415_261702736_1706x960.jpg?fmt=jpeg",
+      "source": "El Español"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/03/02/69a57d23ef6512-22912295.r_d.1058-325.jpeg",
+      "source": "20 Minutos"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 58,
+      "title": "Zapatero reconoce los cobros de Análisis Relevante por informes escritos y orales pero niega irregularidades",
+      "url": "https://elpais.com/espana/2026-03-02/comparecencia-de-zapatero-en-la-comision-del-caso-koldo-del-senado-para-explicar-su-relacion-con-plus-ultra-en-directo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 307,
+      "title": "Zapatero: “Todo lo que se ha dicho de mí sobre Plus Ultra son falsedades, enormes falsedades”",
+      "url": "https://www.lavanguardia.com/politica/20260302/11478939/zapatero-dicho-mi-sobre-plus-ultra-son-falsedades-enormes-falsedades.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 482,
+      "title": "El PP acorrala a Zapatero por los whatsapp con Julio Martínez: \"¿Los ha borrado como el fiscal general?\"",
+      "url": "https://okdiario.com/espana/pp-acorrala-zapatero-whatsapp-julio-martinez-borrado-como-fiscal-general-16334183",
+      "sourceId": 7,
+      "source": {
+        "id": 7,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 483,
+      "title": "Las 16 negaciones de Zapatero en el Senado: ni comisión por el rescate de Plus Ultra ni pagos del chavismo",
+      "url": "https://okdiario.com/espana/16-negaciones-zapatero-senado-ni-comision-rescate-plus-ultra-ni-pagos-del-chavismo-16332688",
+      "sourceId": 7,
+      "source": {
+        "id": 7,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 730,
+      "title": "Zapatero niega la acusación del PP de que la empresa a la que facturó como consultor era una sociedad instrumental para cobrar de Plus Ultra",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119459.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 731,
+      "title": "Zapatero afirma que el empresario que lo contrató como consultor “nunca” le pidió “nada extraño”",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119455.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 734,
+      "title": "Zapatero admite que “facilitó” que Maduro recibiera a Javier Hidalgo para negociar una deuda de Air Europa",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119442.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 739,
+      "title": "Zapatero recuerda la carta en la que el 'Pollo' Carvajal desmentía que le hubieran regalado una mina de oro en Venezuela",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119432.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 741,
+      "title": "Zapatero: “Yo sí tengo sentido de estado y defendí a Aznar ante el señor Chávez”",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119429.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 742,
+      "title": "Zapatero admite que la contratación de sus hijas por la empresa que asesoró a Plus Ultra fue idea suya: \"Fue parte del acuerdo\"",
+      "url": "https://www.eldiario.es/politica/ultima-hora-actualidad-politica-directo_6_13031718_1119427.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 793,
+      "title": "Javier de Paz evitó el despido de Telefónica del directivo que pagó 661.000 € a Zapatero y sus hijas",
+      "url": "https://www.elconfidencial.com/empresas/2026-03-02/zapatero-telefonica-javier-paz-plus-ultra-sergio-sanchez_4312218",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 795,
+      "title": "Zapatero reconoce que pidió a la consultora de Plus Ultra fichar a la agencia de sus hijas",
+      "url": "https://www.elconfidencial.com/espana/2026-03-02/zapatero-reconoce-que-pidio-a-la-consultora-de-plus-ultra-fichar-a-la-agencia-de-sus-hijas_4312443",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 986,
+      "title": "Comparecencia de Zapatero en el Senado, en directo | El PP acusa a Zapatero de ser un \"lobista de regímenes totalitarios\" y él avisa: \"Ganaré pese a sus mentiras\"",
+      "url": "https://www.elespanol.com/espana/politica/20260302/zapatero-directo-senado-ultima-hora-plus-ultra-venezuela-koldo-caso/1003744151288_10.html",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 995,
+      "title": "Maíllo califica de \"estafa\" los informes de Zapatero para ‘Julito' Martínez tras analizarlos con IA : \"Son un corta y pega\"",
+      "url": "https://www.elespanol.com/espana/politica/20260302/maillo-acusa-estafa-zapatero-informes-julito-martinez-analizarlos-ia-corta-pega/1003744151822_0.html",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 996,
+      "title": "Zapatero admite en el Senado que sabía que 'Julito' Martínez trabajaba para la aerolínea Plus Ultra cuando le pagaba a él como consultor",
+      "url": "https://www.elespanol.com/espana/politica/20260302/zapatero-admite-sabia-julito-martinez-trabajaba-plus-ultra-pagaba-consultor/1003744151348_0.html",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    },
+    {
+      "id": 1342,
+      "title": "Zapatero niega estar involucrado en el rescate de Plus Ultra pero admite que cobró 70.000 € anuales de la empresa de su \"amigo\" detenido | P. B. / A. M.",
+      "url": "https://www.20minutos.es/nacional/zapatero-niega-estar-involucrado-rescate-plus-ultra-pero-admite-que-cobro-70-000-anuales-empresa-su-amigo-detenido_6940584_0.html",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 8,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 9,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 11,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 12,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 13,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 14,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    }
+  ]
+}

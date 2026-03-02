@@ -1,0 +1,149 @@
+{
+  "id": 46,
+  "clusterId": 6638,
+  "editionId": 9,
+  "slug": "adif-retiro-pruebas-de-adamuz-sin-avisar-a-la-jueza-mientras-la-investigacion-de",
+  "headline": "Adif retiró pruebas de Adamuz sin avisar a la jueza mientras la investigación descarta sabotaje",
+  "summary": "La Guardia Civil considera \"altamente improbable\" que el accidente ferroviario de Adamuz fuera un sabotaje y enfoca sus pesquisas en problemas de soldadura. Adif retiró material del lugar días después sin comunicarlo a la autoridad judicial, según reconoce el ministro Puente.",
+  "sections": {
+    "facts": "La **Guardia Civil** ha informado a la jueza que considera \"altamente improbable\" un sabotaje o acción terrorista en el accidente ferroviario de **Adamuz** del 18 de enero. Los agentes han interrogado a **19 maquinistas** de diferentes compañías, de los cuales solo uno reportó haber notado \"un golpe en el lado derecho\" del tren. La investigación se centra ahora en posibles defectos en una **soldadura** realizada el 24 de mayo de 2023 por un profesional cualificado con más de cinco años de experiencia.\n\nLa **Comisión de Investigación de Accidentes Ferroviarios (CIAF)** detectó \"incongruencias\" en la documentación presentada por **AYESA**, la empresa supervisora de la soldadura. Según el ministro de Transportes **Óscar Puente**, \"la tesis que más fuerza tiene es un posible defecto de la soldadura\".\n\n**Adif** retiró material del lugar del accidente los días **22 y 23 de febrero**, después de que tanto la Guardia Civil como la CIAF concluyeran sus trabajos in situ. Según Puente, se trataba de restos situados \"a más de 100 metros del lugar del accidente y los más lejanos a más de 300 metros\". El ministro reconoció que \"el error puede ser no comunicarlo a la autoridad judicial\", aunque defendió que no hubo \"mala fe\" y que el material había sido descartado previamente por los otros organismos investigadores.",
+    "coverage": [
+      {
+        "sourceName": "La Razón",
+        "tone": "Defensa institucional",
+        "toneColor": "#4CAF50",
+        "summary": "Centra su cobertura en justificar las acciones de Adif y las explicaciones del ministro Puente. Minimiza el error como un simple fallo de comunicación y rechaza cualquier cuestionamiento sobre dimisiones ministeriales."
+      },
+      {
+        "sourceName": "20 Minutos",
+        "tone": "Enfoque investigativo",
+        "toneColor": "#2196F3",
+        "summary": "Prioriza los avances técnicos de la investigación judicial y los hallazgos sobre las causas del accidente. Destaca el descarte de la hipótesis terrorista y las incongruencias detectadas por la CIAF en la documentación."
+      }
+    ],
+    "hidden": "Existe una notable **diferencia de prioridades** entre los medios analizados. La Razón omite completamente el informe de la CIAF sobre incongruencias en la documentación de supervisión, un elemento clave que podría señalar responsabilidades en la cadena de control de calidad. Esta omisión resulta significativa porque las incongruencias detectadas por un organismo técnico independiente apuntan a posibles fallos en los procedimientos de supervisión, algo que va más allá del simple \"error humano\" que el medio presenta como explicación principal.\n\nPor su parte, 20 Minutos apenas menciona las declaraciones completas del ministro defendiendo la actuación de Adif, centrándose más en los aspectos técnicos. Esta diferencia de enfoque **revela estrategias editoriales distintas**: mientras un medio construye una narrativa de defensa institucional que minimiza las irregularidades procedimentales, el otro prioriza la información técnica que podría señalar responsabilidades más amplias en el sistema de control ferroviario.\n\nLa **ausencia de contexto** sobre las competencias de cada organismo investigador en ambos medios también limita la comprensión del lector sobre por qué es relevante que Adif retire material sin coordinarse con la autoridad judicial, especialmente cuando hay una investigación penal en curso.",
+    "context": "El **accidente ferroviario de Adamuz** ocurrió el 18 de enero cuando un tren de alta velocidad de la compañía **Iryo** descarriló en esta localidad cordobesa. Se trata de uno de los accidentes más graves en la red ferroviaria española en los últimos años, lo que ha puesto bajo escrutinio todo el sistema de seguridad y mantenimiento de la infraestructura.\n\n**Adif** (Administrador de Infraestructuras Ferroviarias) es la empresa pública responsable del mantenimiento y gestión de las vías férreas en España, mientras que la **CIAF** es el organismo técnico independiente encargado de investigar accidentes de transporte para determinar sus causas y proponer mejoras de seguridad. La **Guardia Civil**, por su parte, lleva a cabo la investigación judicial bajo la supervisión de un juez instructor.\n\n**AYESA** es una empresa de ingeniería que actúa como supervisora en trabajos de infraestructura ferroviaria, verificando que las obras cumplan con los estándares técnicos requeridos. Las soldaduras en las vías férreas son elementos críticos de seguridad, ya que unen los tramos de carril y deben soportar el peso y la velocidad de los trenes. Un defecto en una soldadura puede provocar la fractura del carril y, consecuentemente, un descarrilamiento.\n\nEl ministro **Óscar Puente** es el titular del Ministerio de Transportes y Movilidad Sostenible desde la formación del actual gobierno, siendo responsable político de supervisar organismos como Adif.",
+    "questions": [
+      "¿Por qué Adif retiró material del lugar del accidente sin coordinarse previamente con la autoridad judicial que instruye la causa?",
+      "¿Qué implicaciones tienen las incongruencias detectadas por la CIAF en la documentación de supervisión de la empresa AYESA?",
+      "¿Es suficiente calificar como \"error de comunicación\" la retirada no autorizada de material de un lugar donde se investiga un accidente grave?",
+      "¿Qué responsabilidades corresponden a cada organismo en la investigación de accidentes ferroviarios y cómo deberían coordinarse?",
+      "¿Deberían existir protocolos más estrictos para preservar las pruebas en accidentes de transporte mientras hay investigaciones en curso?"
+    ]
+  },
+  "category": "sociedad",
+  "categories": [
+    "sociedad",
+    "política"
+  ],
+  "imageUrl": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/17/51C6F4D6-B08E-42EF-93B4-AA5D42AA8DCF/96.jpg?crop=1920,1080,x0,y99&width=1200&height=675&optimize=low&format=webply",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T11:58:59.835Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://fotografias-2.larazon.es/clipping/cmsimages01/2026/02/17/51C6F4D6-B08E-42EF-93B4-AA5D42AA8DCF/96.jpg?crop=1920,1080,x0,y99&width=1200&height=675&optimize=low&format=webply",
+      "source": "La Razón"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/19/69970d49051064-59807355.jpeg",
+      "source": "20 Minutos"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4171,
+      "title": "Óscar Puente asegura que no hubo mala fe de Adif al retirar pruebas de Adamuz y que el error fue no comunicarlo a la jueza",
+      "url": "https://www.larazon.es/economia/oscar-puente-asegura-que-hubo-mala-adif-retirar-pruebas-adamuz-que-error-fue-comunicarlo-jueza_2026030269a55d0e9243cc133c6c6ace.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 4719,
+      "title": "La CIAF informó de \"incongruencias\" en las soldaduras a la Guardia Civil, que ya ve muy \"improbable\" un sabotaje en Adamuz",
+      "url": "https://www.20minutos.es/nacional/ciaf-informo-incongruencias-las-soldaduras-guardia-civil-que-ya-ve-muy-improbable-un-sabotaje-adamuz_6940546_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "id": 74,
+  "clusterId": 7503,
+  "editionId": 10,
+  "slug": "la-audiencia-nacional-rechaza-la-denuncia-contra-laporta-por-blanqueo-por-compet",
+  "headline": "La Audiencia Nacional rechaza la denuncia contra Laporta por blanqueo por competencia",
+  "summary": "El magistrado Santiago Pedraz declina investigar las acusaciones contra el presidente del FC Barcelona por falta de competencia territorial. La denuncia puede trasladarse ahora a los juzgados de Barcelona.",
+  "sections": {
+    "facts": "El magistrado **Santiago Pedraz** de la Audiencia Nacional ha rechazado una denuncia presentada contra **Joan Laporta**, presidente del FC Barcelona, por presuntos delitos de **blanqueo de capitales**, administración desleal y organización criminal, entre otros. La decisión se basa únicamente en criterios de **competencia territorial**, sin entrar a valorar el fondo de las acusaciones.\n\nLa denuncia, interpuesta en febrero por el socio del club **Isidro Segundo Navarro**, señalaba irregularidades en diversas operaciones durante el mandato de Laporta, incluyendo la **renovación del contrato con Nike**, la venta de activos digitales a través de **Barça Vision**, y la adjudicación de contratos del Camp Nou. El denunciante alegaba que parte del dinero habría circulado por sociedades en **Dubái, Chipre, Croacia y Estonia**.\n\nLa **Fiscalía** se había opuesto previamente a la admisión de la denuncia, argumentando que las operaciones se desarrollaron principalmente en España. Pedraz siguió este criterio, explicando que para que la Audiencia Nacional asuma competencia es necesario que el delito se cometa \"en su integridad en el extranjero\". La decisión puede ser **recurrida** ante la Sala de lo Penal, y el denunciante mantiene la opción de dirigirse a los juzgados ordinarios de Barcelona.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "neutral-técnico",
+        "toneColor": "#4A90E2",
+        "summary": "Enfoque jurídico detallado sobre los criterios de competencia territorial. Explica minuciosamente la línea coherente entre Fiscalía y juez, sin mencionar el contexto electoral ni las implicaciones para Laporta."
+      },
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "básico",
+        "toneColor": "#7ED321",
+        "summary": "Cobertura superficial limitada al titular. Omite prácticamente toda información sustantiva sobre los hechos denunciados, criterios jurídicos aplicados y contexto del caso."
+      },
+      {
+        "sourceName": "OKDiario",
+        "tone": "desviado",
+        "toneColor": "#F5A623",
+        "summary": "Ignora completamente la noticia judicial y se centra en un supuesto 'complot' electoral entre candidaturas rivales. Presenta alianzas electorales como maniobras conspirativas contra Laporta."
+      },
+      {
+        "sourceName": "El Español",
+        "tone": "equilibrado",
+        "toneColor": "#50E3C2",
+        "summary": "Análisis jurídico completo que detalla las operaciones específicas denunciadas y las consecuencias prácticas de la decisión. Explica tanto los aspectos técnicos como las vías abiertas para continuar el caso."
+      }
+    ],
+    "hidden": "La cobertura revela **estrategias editoriales divergentes** que condicionan la comprensión del caso. Mientras algunos medios optan por un enfoque puramente técnico-jurídico, otros desvían completamente la atención hacia narrativas electorales, lo que plantea interrogantes sobre las **prioridades informativas** en momentos de tensión política.\n\nLa **omisión generalizada del contexto electoral** resulta llamativa, considerando que Laporta se encuentra en plena campaña para su reelección. Esta ausencia impide al lector evaluar las posibles repercusiones de un caso judicial abierto sobre la candidatura. Además, la **desigual profundidad** en el tratamiento de las operaciones financieras denunciadas sugiere diferentes niveles de acceso a fuentes o distintas estrategias de verificación.\n\nParticularmente revelador resulta que un medio **ignore completamente la noticia judicial** para centrarse en movimientos electorales, lo que puede indicar una agenda editorial específica o una estrategia de **distracción informativa** que beneficia determinados intereses en el contexto barcelonista.",
+    "context": "**Joan Laporta** es el actual presidente del FC Barcelona, cargo que ocupa desde 2021 tras ganar unas elecciones que lo devolvieron al poder después de haber dirigido el club entre 2003 y 2010. Durante su anterior mandato, Laporta transformó al Barcelona en una potencia mundial, fichando a figuras como **Ronaldinho** y **Pep Guardiola**, quien como entrenador conquistó el histórico triplete en 2009.\n\nLa **Audiencia Nacional** es un tribunal español con competencias especiales para casos de terrorismo, narcotráfico y delitos económicos de gran envergadura, especialmente aquellos con ramificaciones internacionales. Su competencia se limita a casos donde existe un componente transfronterizo significativo, razón por la cual el magistrado **Santiago Pedraz** ha declinado investigar este caso.\n\nEl FC Barcelona atraviesa actualmente una **crisis financiera** que ha condicionado su actividad en los últimos años, obligando al club a vender activos y reestructurar contratos para cumplir con el fair play financiero. En este contexto, operaciones como la creación de **Barça Vision** (plataforma de contenidos digitales) y la venta de porcentajes de derechos televisivos han generado controversia entre socios y aficionados por su impacto en la estabilidad económica del club.",
+    "questions": [
+      "¿Por qué algunos medios omiten sistemáticamente el contexto electoral en casos judiciales que afectan a figuras públicas?",
+      "¿Qué criterios deberían aplicar los tribunales para determinar su competencia en casos con ramificaciones internacionales?",
+      "¿Cómo pueden los lectores identificar cuándo la cobertura mediática desvía la atención de los hechos principales?",
+      "¿Qué responsabilidad tienen los medios en proporcionar el contexto necesario para que los ciudadanos comprendan las implicaciones de las decisiones judiciales?",
+      "¿Es legítimo que un medio ignore completamente una noticia judicial para centrarse en aspectos electorales del mismo protagonista?"
+    ]
+  },
+  "category": "deportes",
+  "categories": [
+    "deportes",
+    "política"
+  ],
+  "imageUrl": "https://www.lavanguardia.com/files/image_40_40/uploads/2025/11/18/691c62299cadb.jpeg",
+  "sourcesCount": 4,
+  "createdAt": "2026-03-02T13:06:35.782Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://www.lavanguardia.com/files/image_40_40/uploads/2025/11/18/691c62299cadb.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://okdiario.com/img/2026/03/02/imagen_recortada-635x358.jpg",
+      "source": "OKDiario"
+    },
+    {
+      "url": "https://s3.elespanol.com/2026/01/11/actualidad/1003744085233_260860239_320x180.jpg",
+      "source": "El Español"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7346,
+      "title": "La Audiencia Nacional rechaza la denuncia presentada contra Laporta por blanqueo",
+      "url": "https://elpais.com/deportes/2026-03-02/la-audiencia-nacional-rechaza-la-denuncia-presentada-contra-laporta-por-blanqueo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7536,
+      "title": "El juez de la Audiencia Nacional no admite la denuncia del socio del Barça contra Laporta",
+      "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260302/11479031/juez-audiencia-nacional-admite-denuncia-socio-barca-laporta.html",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 7917,
+      "title": "Complot entre las otras candidaturas del Barça para unirse a Font e intentar derrotar a Laporta",
+      "url": "https://okdiario.com/deportes/complot-otras-candidaturas-del-barca-unirse-font-intentar-derrotar-laporta-16331231",
+      "sourceId": 8,
+      "source": {
+        "id": 8,
+        "name": "OKDiario",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 8662,
+      "title": "El juez no admite la denuncia contra Laporta por blanqueo de capitales, pero abre la puerta a que se investigue en Barcelona",
+      "url": "https://www.elespanol.com/deportes/futbol/20260302/juez-no-admite-denuncia-laporta-blanqueo-capitales-abre-puerta-investigue-barcelona/1003744151651_0.html",
+      "sourceId": 14,
+      "source": {
+        "id": 14,
+        "name": "El Español",
+        "politicalLean": "center-right"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

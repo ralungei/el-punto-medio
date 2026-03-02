@@ -1,0 +1,261 @@
+{
+  "id": 64,
+  "clusterId": 7107,
+  "editionId": 10,
+  "slug": "el-mwc-2026-arranca-en-barcelona-con-la-ia-como-foco-pero-marcado-por-la-tension",
+  "headline": "El MWC 2026 arranca en Barcelona con la IA como foco pero marcado por la tensión geopolítica",
+  "summary": "La vigésima edición del Mobile World Congress ha comenzado en Barcelona con expectativas de reunir a más de 110.000 profesionales, aunque el conflicto de Oriente Próximo ha afectado a la asistencia con cancelaciones de vuelos y actividades suspendidas.",
+  "sections": {
+    "facts": "El **Mobile World Congress** ha iniciado su vigésima edición en Barcelona bajo el lema **\"The IQ Era\"**, poniendo el foco en la inteligencia artificial y las nuevas tecnologías de conectividad. El evento, que se desarrolla hasta el jueves en **Fira Gran Via**, esperaba recibir a más de **110.000 congresistas** de 200 países y cuenta con **2.900 empresas expositoras**.\n\nSin embargo, la escalada del conflicto en Oriente Próximo tras los ataques del fin de semana ha generado disrupciones logísticas significativas. Múltiples vuelos han sido cancelados debido al cierre del espacio aéreo en la región, afectando especialmente a asistentes que debían hacer escala en países del Golfo Pérsico. **Pau Relat**, presidente de Fira de Barcelona, ha calificado el impacto como \"pequeño\" ya que la mayoría de participantes llegaron durante el fin de semana, aunque reconoce la incertidumbre para los vuelos de regreso.\n\nLas cancelaciones han alcanzado también a la programación oficial. **Teresa Ribera**, vicepresidenta ejecutiva de la Comisión Europea, ha suspendido su participación debido a una reunión extraordinaria del Ejecutivo comunitario convocada por la crisis internacional. Varias reuniones y actividades programadas para la jornada inaugural también han sido aplazadas.\n\nEntre las novedades tecnológicas presentadas destaca el **Motorola Razr Fold**, primer plegable tipo libro de la marca, con pantalla exterior de 6,6 pulgadas que se extiende a 8,1 pulgadas y batería de 6.000 mAh. Samsung ha anunciado que sus futuros **Galaxy Watch** incorporarán procesadores **Snapdragon Wear Elite** de 3 nanómetros, abandonando los chips Exynos. El congreso mantiene su estructura de precios con entradas desde 899 euros para el pase básico hasta 4.999 euros para el acceso VIP.",
+    "coverage": [
+      {
+        "sourceName": "El País",
+        "tone": "Alarmista",
+        "toneColor": "#ff6b6b",
+        "summary": "Enfoca la cobertura desde una perspectiva geopolítica, presentando el conflicto de Oriente Próximo como el factor disruptivo principal que ensombrece el evento. Destaca las cancelaciones, menor asistencia y la incertidumbre de los participantes por la situación bélica."
+      },
+      {
+        "sourceName": "La Razón",
+        "tone": "Neutral",
+        "toneColor": "#4ecdc4",
+        "summary": "Adopta un enfoque puramente comercial y técnico, centrándose en las cifras de participación, el impacto económico y las innovaciones presentadas. Omite completamente cualquier referencia al contexto geopolítico internacional."
+      },
+      {
+        "sourceName": "20 Minutos",
+        "tone": "Favorable",
+        "toneColor": "#45b7d1",
+        "summary": "Se especializa en la cobertura de productos específicos, tratando el MWC como plataforma comercial. Se centra exclusivamente en los lanzamientos de Motorola sin abordar el contexto general del evento ni las dificultades logísticas."
+      },
+      {
+        "sourceName": "RTVE",
+        "tone": "Moderado",
+        "toneColor": "#96ceb4",
+        "summary": "Presenta una perspectiva histórica y evolutiva, destacando los 20 años del congreso en Barcelona y su transformación en epicentro tecnológico. Enfatiza la evolución desde la 3G hasta la era de la inteligencia artificial sin mencionar las disrupciones actuales."
+      },
+      {
+        "sourceName": "El Confidencial",
+        "tone": "Neutral",
+        "toneColor": "#4ecdc4",
+        "summary": "Adopta un enfoque práctico e informativo, proporcionando datos operativos como horarios, precios y logística del transporte. Trata el evento como una cita profesional consolidada sin profundizar en controversias o innovaciones específicas."
+      }
+    ],
+    "hidden": "La cobertura mediática revela una **fragmentación notable** en el tratamiento de la noticia, con cada medio priorizando aspectos diferentes según su línea editorial. **El País** es el único que contextualiza plenamente el impacto geopolítico, mientras que medios como **La Razón** y **El Confidencial** omiten completamente esta dimensión, presentando una imagen de normalidad que no refleja la realidad del evento.\n\nEsta disparidad de enfoques **limita la comprensión integral** del lector sobre un evento que, siendo un termómetro de la industria tecnológica global, inevitablemente se ve afectado por las tensiones internacionales. La omisión del contexto geopolítico por parte de varios medios puede responder a una estrategia de **mantener el foco comercial** del evento, evitando narrativas que puedan dañar la imagen de Barcelona como destino de negocios.\n\nPor otro lado, la **especialización extrema** de algunos medios en productos específicos (como 20 Minutos con Motorola) genera una cobertura fragmentada que dificulta obtener una visión panorámica del congreso. Esta tendencia hacia el marketing disfrazado de periodismo tecnológico es especialmente relevante en eventos donde las marcas invierten millones en presencia mediática.",
+    "context": "El **Mobile World Congress** es el evento tecnológico más importante del mundo, organizado por la **GSMA** (asociación mundial de operadores móviles) desde 1987. Desde 2006 se celebra en Barcelona tras trasladarse desde Cannes, convirtiéndose en el motor económico más importante de la ciudad con un impacto estimado de **585 millones de euros** anuales.\n\nEl congreso ha evolucionado desde ser una feria centrada en la telefonía móvil básica hasta convertirse en el escaparate mundial de tecnologías emergentes. En sus primeros años en Barcelona se centraba en la **tecnología 3G** y los primeros smartphones, pero ha ido incorporando áreas como inteligencia artificial, Internet de las Cosas, realidad aumentada y, más recientemente, la **computación cuántica** y los gemelos digitales.\n\n**Pau Relat**, presidente de Fira de Barcelona, es el responsable de gestionar la infraestructura del evento, mientras que **Teresa Ribera**, vicepresidenta ejecutiva de la Comisión Europea para la Transición Limpia, Justa y Competitiva, representa la dimensión regulatoria europea en temas tecnológicos. Su cancelación refleja cómo las crisis geopolíticas impactan incluso en eventos aparentemente ajenos a la política internacional.\n\nEl actual conflicto de **Oriente Próximo** se intensificó tras los ataques coordinados entre Israel y Estados Unidos contra objetivos iraníes el fin de semana, provocando el cierre temporal del espacio aéreo en varios países de la región y afectando a las conexiones aéreas globales que dependen de estas rutas comerciales estratégicas.",
+    "questions": [
+      "¿Hasta qué punto los eventos tecnológicos globales pueden mantenerse al margen de las crisis geopolíticas internacionales?",
+      "¿Es apropiado que algunos medios omitan completamente el contexto geopolítico que afecta a un evento de esta magnitud?",
+      "¿Cómo equilibrar la promoción comercial de Barcelona como destino tecnológico con la transparencia sobre las dificultades logísticas reales?",
+      "¿Qué revela la fragmentación mediática sobre este evento acerca del estado actual del periodismo tecnológico especializado?",
+      "¿Pueden los avances en inteligencia artificial presentados en el MWC mantener su relevancia en un contexto de creciente inestabilidad global?"
+    ]
+  },
+  "category": "tecnología",
+  "categories": [
+    "tecnología",
+    "internacional",
+    "economía"
+  ],
+  "imageUrl": "https://imagenes.elpais.com/resizer/v2/3LK7PB2LIVDB7NKK3PFCA3Q6RU.jpg?auth=51f47bf96a2fa2a052fb33a5419e1447f5dc98cc4082b136d2ee14f231a3d4b3&amp;width=414",
+  "sourcesCount": 5,
+  "createdAt": "2026-03-02T13:04:22.143Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://imagenes.elpais.com/resizer/v2/3LK7PB2LIVDB7NKK3PFCA3Q6RU.jpg?auth=51f47bf96a2fa2a052fb33a5419e1447f5dc98cc4082b136d2ee14f231a3d4b3&amp;width=414",
+      "source": "El País"
+    },
+    {
+      "url": "https://img2.rtve.es/im/16960210/?w=900",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNDMzNDk3MzUxNzcyNDQ2NDkyX2JybnprbV9zXzAwa2I4ejE3Ymtka19fdzdjY3Rodi5tcDQifQ.izvIUE35LCWBIxLeKEv2nK0mf8VA327U9H4z0FPbwOWEcjlFji7z1IOL_jcxUTaqyK9ejoHpN5m1c6w-jxbyyP7Pek1O1gLvlbE1XcLqVfTnJYOL5ru9sGMkI1AOSfGJtIYjkSXQaz5_LrB-nBytoCm_KCdMepFV0rmQh47q_GW3ZQC_YF9QSkbDLQ2QdZuRYy_-19GoQrumNui8_8N0XP6xsc-5HRhMus5MmM8HfYJ-YivdD-lFL-muZmqsE3rhMdLPHcEEmLV6vwDh0FlzI21lIvPzDaGdjVDTbm0kWpEt38cWxdpCiJUxhAEJIvLUx-gtYeOaLN7MfektM5dBeo0QHEjH2Uhta6d4lER0zg6gKBd_zlhDvydmGwt78MLk0Humevj8hzGzTbE3GnOApzMwnxpP5RzipPDvfhDbzFw2NruJyCPwLU5e3HCjijS-Q7x1G1MV5T_LCwEMktqfG9RfIYnZIGZ6BWiiA8BZ6gkhjGjVXv9Y5ULjrxrBWbpF/media-uploads/files/_20/202603/TVEE/upload_433497351772446492_brnzkm_s_00kb8z17bkdk__w7ccthv.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfNjM1NDY4MzExNzcyMzk4ODI0X3JmaGxiMXJtM3M0bnJxYzZzM3Y3OV9iendfOG5iZC5tcDQifQ.On3L-3qONJYQSjfJ6u3FYpGxDRk538oGsJGr7PEjuZZFvGtwCk3SbqzVd3aO5jYb_-h7oeuAuMqxy5sOE4qe-GkvJwJMROEqrxxJmnAo5lM2AOWsZRv5Z59Z6L3jNa8vUpS0w06O-TbOi6SH1Cn0iVZIM9perMD4Int86IV72Y_hqqJKcvKZYJMLWhf_QhSe-FRa1XfOlwFLk9cZfUWWVwQqYkh3aEo2vq11QVB0LGMjqo7eQ3uvyXC52KXAwrw9Rn5EU2GTcxp6zKXqPzn5DCdIO1X89uAZJmdO0gsDVI9RkRVpVqVitMI4yNVE7SDxP3xM7b0hQym0LypO6WUVgS7Cssf1tkCHhRnYgMA-uRlfSbwriSYLWBHyyKc9BfOf6mUe0FhE15JOMXiYxfGS_toDss_JeuG8N6c-LTvOEJGYIU8vkfSZi4gEkw1_COdf09ei59GSoooSls6ReTcduZPlOdY4XRM5qx7fMOi9VZmna0SKUS1rdDgQLOZmMShO/media-uploads/files/_20/202603/TVEE/upload_635468311772398824_rfhlb1rm3s4nrqc6s3v79_bzw_8nbd.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://cdn.socy.cloud/TVEE/v3/SSFC/st50x50x26021976_270_480/https://cdn.socy.cloud/TVEE/m/thumb/eyJmIjoiMF8xMCIsImsiOiJzUFo0UHZFWk54NHNhZC9vZTBGQXRGQ0lNbUtmMTBid3MwalUxak1MdWxjPSIsInUiOiJtZWRpYS11cGxvYWRzL2ZpbGVzL18yMC8yMDI2MDMvVFZFRS91cGxvYWRfMTE1MzIxMjIxNzcyMzkyOTY5X2ZkX3RienFxM21oMDd3YndjNXdmcm5iYmxzY2JiYy5tcDQifQ.pI-Po7N4t4u6iqP_3107mFrad2Ce5CR-7juYaBQbmjq8o5oEnzI37-gZL5bx1hkpjxeDDFSeLlQTs4jyZ41PDcAhLhg-60R5IpXIC8lgvIIw1b06hJO0W0P53_6GT4gV8uv2H4R7RVocaQqHaNNTBXNy_lSog2AnLXxKiXuP-8zfVcFqSOZfgApjN3KFxvZ_iIaxaYJRq_hAaGyFZGjznlUdmYEdiq-f7p_AoH2FpnmPZTt26NCVosOdPU7dEq0-LCI9ZgVugw9a9G5p77j-qEPAJ45HR21qNinbgE3-EBkLzaCL2q5-sD4zxAoT8JWmTGoRRYgJPc5AQUpDPT34N3auUqDhwy9HBOKka0qVRZN0ga6DTgu71krO3w1_SmW-3YSsILgJrClWxpZ23_kLP2FhgOTxHfFANMxSMMAqk-yatHNyNfT5dQNP_oR5eEhe2-XB8MzjMQ_gGCjM0VHrRlC-qsU44DZr0zEXHyIO1D39IjDbyDhbEedUgtdciQjH/media-uploads/files/_20/202603/TVEE/upload_115321221772392969_fd_tbzqq3mh07wbwc5wfrnbblscbbc.mp4.0_10.jpg",
+      "source": "RTVE"
+    },
+    {
+      "url": "https://images.ecestaticos.com/WipJ18R4DteLjfQu0eIyiqd8Mno=/0x0:1200x691/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F788%2Fc8a%2F134%2F788c8a134ff8149eee4b56a1b11780a6.jpg",
+      "source": "El Confidencial"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7290,
+      "title": "Arranca el MWC en Barcelona con los líderes mundiales de la tecnología pendientes de la guerra en Oriente Próximo",
+      "url": "https://elpais.com/economia/2026-03-02/arranca-el-mobile-en-barcelona-con-los-lideres-mundiales-de-la-tecnologia-pendientes-de-la-guerra-en-oriente-proximo.html",
+      "sourceId": 1,
+      "source": {
+        "id": 1,
+        "name": "El País",
+        "politicalLean": "center-left"
+      }
+    },
+    {
+      "id": 7803,
+      "title": "Mobile World Congress 2026 en directo: todas las novedades desde Barcelona",
+      "url": "https://www.larazon.es/tecnologia/moblie-world-congress-2026-directo-todas-novedades-barcelona_2026030269a567891817b41eb66c1e97.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 7816,
+      "title": "El MWC 2026 arranca en Barcelona con la IA como gran protagonista",
+      "url": "https://www.larazon.es/cataluna/mwc-2026-arranca-barcelona-como-gran-protagonista_2026030169a402c29243cc133c6a70ac.html",
+      "sourceId": 6,
+      "source": {
+        "id": 6,
+        "name": "La Razón",
+        "politicalLean": "right"
+      }
+    },
+    {
+      "id": 8079,
+      "title": "Motorola apuesta por los plegables, la IA y el diseño en MWC 2026, con el nuevo razr fold como protagonista",
+      "url": "https://www.20minutos.es/tecnologia/moviles-dispositivos/motorola-mwc-2026-razr-fold-edge-70-fusion-moto-buds-fifa_6940476_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8141,
+      "title": "De la 3G a la IA autónoma: 20 años del MWC en Barcelona marcando las tendencias del futuro",
+      "url": "https://www.rtve.es/noticias/20260302/3g-a-ia-autonoma-20-anos-del-mwc-barcelona-marcando-tendencias-del-futuro/16960132.shtml",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8143,
+      "title": "Salvador Illa, president de la Generalitat de Cataluña, desde el Mobile World Congress de Barcelona, sobre la regulación de las nuevas tecnologías: \"Apelar a que sean tecnologías gobernadas en función del interés público, del bien común, con normas acordadas entre todos y con una presencia clara de ",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/10f2d4746486f278ad35",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8146,
+      "title": "Felipe VI preside hoy la cena de bienvenida del #MobileWorldCongress.",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/0840ea54fc08701d26e7",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8147,
+      "title": "El MWC prevé dejar un impacto económico de casi 600 millones de euros en Barcelona",
+      "url": "https://stories.rtve.es/noticias/newstory/stories/87d93459134ca04f0a0a",
+      "sourceId": 11,
+      "source": {
+        "id": 11,
+        "name": "RTVE",
+        "politicalLean": "public"
+      }
+    },
+    {
+      "id": 8314,
+      "title": "Ferrocarrils desconvoca la huelga de maquinistas: así será el servicio durante el Mobile World Congress en Barcelona",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-02-27/fechas-y-detalles-mobile-world-congress-2026_4310253",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

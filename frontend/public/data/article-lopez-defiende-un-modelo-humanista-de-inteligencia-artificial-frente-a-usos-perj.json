@@ -1,0 +1,150 @@
+{
+  "id": 28,
+  "clusterId": 1395,
+  "editionId": 9,
+  "slug": "lopez-defiende-un-modelo-humanista-de-inteligencia-artificial-frente-a-usos-perj",
+  "headline": "López defiende un modelo humanista de inteligencia artificial frente a usos perjudiciales",
+  "summary": "El ministro de Transformación Digital clausura unas jornadas sobre inteligencia artificial defendiendo aplicaciones beneficiosas como el descubrimiento de fármacos frente a usos dañinos. La intervención se produce mientras la industria musical debate sobre los derechos de autor en contenidos generados por algoritmos.",
+  "sections": {
+    "facts": "El **ministro de Transformación Digital y Función Pública**, **Óscar López**, participó este jueves en la clausura de las III Jornadas de Inteligencia Artificial y Tecnología, donde defendió un **modelo humanista** de desarrollo tecnológico. En su intervención, López contrapuso aplicaciones beneficiosas de la inteligencia artificial, como el \"descubrimiento de fármacos o planetas nuevos\", frente a usos perjudiciales como \"sexualizar imágenes de menores\" o \"expandir muros antidemocráticos\".\n\nEl ministro planteó que \"la libertad de lucro de las big tech acaba donde comienzan los derechos de los ciudadanos\", posicionando al Gobierno como \"guardián frente a tecnoligargas\" que buscan convertir la IA en un \"modelo de lenguaje de odio\". López enfatizó que la estrategia gubernamental prioriza los \"beneficios sociales\" de esta tecnología por encima de las \"tácticas perniciosas\" de las grandes compañías tecnológicas.\n\nParalelamente, la industria musical enfrenta dilemas similares con la proliferación de herramientas como **Suno** y **ACE Studio**, que permiten generar canciones completas mediante algoritmos. Productores musicales observan cómo estas plataformas pueden crear \"temas sorprendentemente acabados\" en segundos, mientras surgen grupos como **The Velvet Sundown** y **Breaking Rust** que publican álbumes generados íntegramente por inteligencia artificial en plataformas como Spotify.",
+    "coverage": [
+      {
+        "sourceName": "elDiario.es",
+        "tone": "Favorable al gobierno",
+        "toneColor": "#e74c3c",
+        "summary": "Presenta al ministro López como defensor de valores humanistas frente a los abusos de las grandes tecnológicas. Enfatiza la postura combativa del Ejecutivo contra las 'tecnoligargas' y su apuesta por un modelo ético de inteligencia artificial que priorice los beneficios sociales."
+      },
+      {
+        "sourceName": "20 Minutos",
+        "tone": "Exploratorio",
+        "toneColor": "#3498db",
+        "summary": "Se centra en el impacto de la IA en la industria musical, explorando casos concretos de música generada por algoritmos y testimonios de productores. Aborda las lagunas jurídicas en derechos de autor sin mencionar las declaraciones gubernamentales sobre regulación."
+      }
+    ],
+    "hidden": "La cobertura revela **enfoques completamente divergentes** que dificultan una comprensión integral del debate sobre inteligencia artificial. Mientras elDiario.es se concentra exclusivamente en la posición gubernamental, presentándola como una batalla épica contra las grandes tecnológicas sin incluir voces críticas o alternativas, 20 Minutos ignora por completo las declaraciones ministeriales para centrarse únicamente en casos prácticos de la industria musical.\n\n**Esta fragmentación informativa es problemática** porque impide que los lectores conecten las políticas gubernamentales con sus aplicaciones reales en sectores específicos. El enfoque político de elDiario.es omite detalles técnicos sobre cómo se implementarían las medidas regulatorias propuestas, mientras que el análisis sectorial de 20 Minutos carece del marco regulatorio que podría resolver los dilemas jurídicos que identifica. **Ningún medio ofrece una visión crítica** sobre la viabilidad de las propuestas ministeriales ni contrasta la retórica gubernamental con expertos independientes en tecnología o derecho digital.\n\nAdemás, **ambos medios evitan abordar las tensiones económicas** entre la regulación estricta que propone el Gobierno y la competitividad de España en el sector tecnológico global, una omisión que priva a los lectores de entender las posibles consecuencias de estas políticas en la innovación y el empleo tecnológico nacional.",
+    "context": "**Óscar López** es el ministro de Transformación Digital y Función Pública del Gobierno de Pedro Sánchez, responsable de las políticas tecnológicas y la modernización de la administración pública española. Su ministerio lidera la estrategia nacional de inteligencia artificial y la regulación del sector tecnológico.\n\nEl debate sobre la **regulación de la inteligencia artificial** ha cobrado urgencia en Europa tras la aprobación de la Ley de Inteligencia Artificial de la UE, el primer marco regulatorio integral del mundo para esta tecnología. España debe implementar estas normas europeas mientras desarrolla su propia estrategia nacional, equilibrando la innovación tecnológica con la protección de derechos fundamentales.\n\nLas **\"big tech\"** o grandes tecnológicas (Meta, Google, Amazon, Microsoft, Apple) han sido objeto de creciente escrutinio por prácticas consideradas abusivas, desde el manejo de datos personales hasta la creación de contenidos problemáticos mediante IA. La **inteligencia artificial generativa**, que puede crear textos, imágenes, música y vídeos, plantea nuevos desafíos éticos y legales, especialmente en áreas como los derechos de autor, la desinformación y la protección de menores.\n\nEn el **sector musical**, herramientas como Suno permiten generar canciones completas mediante prompts de texto, revolucionando la creación musical pero planteando interrogantes sobre la originalidad artística y los derechos de los músicos cuyos trabajos entrenan estos algoritmos.",
+    "questions": [
+      "¿Es viable regular efectivamente a las grandes tecnológicas sin afectar la innovación y competitividad de España en el sector?",
+      "¿Cómo se puede determinar la línea entre el uso beneficioso y perjudicial de la inteligencia artificial cuando las mismas tecnologías pueden tener ambos usos?",
+      "¿Deberían los artistas recibir compensación cuando sus obras se utilizan para entrenar algoritmos que luego compiten con la creación musical humana?",
+      "¿Qué mecanismos concretos podría implementar el Gobierno para hacer cumplir sus propuestas éticas frente a empresas tecnológicas multinacionales?",
+      "¿Cómo afectará la proliferación de contenidos generados por IA a conceptos tradicionales como la autoría, la originalidad y la propiedad intelectual?"
+    ]
+  },
+  "category": "tecnología",
+  "categories": [
+    "tecnología",
+    "cultura",
+    "política"
+  ],
+  "imageUrl": "https://static.eldiario.es/clip/fb7ec320-bf0c-4aec-b876-2976d95ed64a_16-9-discover-aspect-ratio_default_1137459.jpg",
+  "sourcesCount": 2,
+  "createdAt": "2026-03-02T09:54:14.056Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://static.eldiario.es/clip/fb7ec320-bf0c-4aec-b876-2976d95ed64a_16-9-discover-aspect-ratio_default_1137459.jpg",
+      "source": "elDiario.es"
+    },
+    {
+      "url": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/02/26/69a07708bbbfe3-23389726.jpeg",
+      "source": "20 Minutos"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 4681,
+      "title": "Óscar López: \"Queremos una IA que sirva para descubrir fármacos y no para sexualizar imágenes de menores\"",
+      "url": "https://www.eldiario.es/tecnologia/oscar-lopez-queremos-ia-sirva-descubrir-farmacos-no-sexualizar-imagenes-menores_1_13022924.html",
+      "sourceId": 5,
+      "source": {
+        "id": 5,
+        "name": "elDiario.es",
+        "politicalLean": "left"
+      }
+    },
+    {
+      "id": 4760,
+      "title": "Música creada por IA, entre el atractivo y la laguna jurídica: \"Deberían pagar un cánon a los artistas por entrenar a los algoritmos\"",
+      "url": "https://www.20minutos.es/nacional/musica-creada-por-ia-entre-atractivo-laguna-juridica-deberian-pagar-un-canon-los-artistas-por-entrenar-los-algoritmos_6939516_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": 69,
+  "clusterId": 7395,
+  "editionId": 10,
+  "slug": "el-mwc-de-barcelona-afronta-su-vigesima-edicion-entre-celebracion-institucional-",
+  "headline": "El MWC de Barcelona afronta su vigésima edición entre celebración institucional y protesta",
+  "summary": "El Mobile World Congress arrancó este lunes en Barcelona con 3.000 expositores y previsión de 110.000 visitantes, mientras organizaciones sociales protestaban contra empresas israelíes y denunciaban el modelo tecnológico actual. TMB reforzó el transporte público con servicios especiales.",
+  "sections": {
+    "facts": "El **Mobile World Congress (MWC)** celebra su vigésima edición en el recinto **Fira Gran Via de l'Hospitalet** desde este lunes hasta el jueves, congregando a cerca de **3.000 expositores** procedentes de **200 países**. La organización prevé superar los **110.000 visitantes** registrados el año anterior, consolidando el certamen como uno de los principales escaparates mundiales de innovación tecnológica.\n\n**Transports Metropolitans de Barcelona (TMB)** ha implementado refuerzos especiales en el transporte público durante estos días. Las líneas **L9 Sud** y **L10 Sud** del metro cuentan con trenes adicionales en hora punta, reduciendo los intervalos de paso a aproximadamente **dos minutos**. Además, la organización del MWC ha contratado un servicio gratuito de autobuses lanzadera que conecta la **plaza de España** con los recintos feriales entre las 8 y las 20 horas, con frecuencias de **5-6 minutos**.\n\nUnas **cincuenta personas** se concentraron en la **plaza Europa** para protestar contra la participación de empresas israelíes en el evento. Los manifestantes, convocados por **SETEM Catalunya** y la **Coalició Prou Complicitat amb Israel**, corearon consignas como \"Boicot Israel\" e \"Israel asesina, la Fira patrocina\". Los organizadores entregaron una carta avalada por un centenar de entidades solicitando \"prohibir pabellones oficiales de Israel\" y establecer criterios de derechos humanos para admitir expositores.\n\n\"Queremos visibilizar la otra cara de la tecnología, la que queda oculta tras el discurso de innovación y progreso\", declaró **Claudia Bosch**, portavoz del **Mobile Social Congress**. Los activistas denunciaron que la fabricación de dispositivos electrónicos requiere la extracción de minerales en conflicto como **coltán, cobalto y oro**.",
+    "coverage": [
+      {
+        "sourceName": "La Vanguardia",
+        "tone": "Promocional",
+        "toneColor": "#2E8B57",
+        "summary": "Adopta un enfoque institucional celebratorio, destacando las cifras de participación y posicionando Barcelona como laboratorio urbano digital. Omite completamente las protestas y controversias del evento."
+      },
+      {
+        "sourceName": "20 Minutos",
+        "tone": "Neutral",
+        "toneColor": "#4682B4",
+        "summary": "Se centra exclusivamente en aspectos logísticos y de transporte público, detallando los refuerzos implementados por TMB. No aborda ni el contenido tecnológico ni las manifestaciones de protesta."
+      },
+      {
+        "sourceName": "El Confidencial",
+        "tone": "Crítico",
+        "toneColor": "#CD853F",
+        "summary": "Enfoca su cobertura en la contestación social, priorizando las protestas contra empresas israelíes y las denuncias sobre el extractivismo tecnológico. Omite información sobre el desarrollo técnico del congreso."
+      }
+    ],
+    "hidden": "La fragmentación mediática de esta noticia revela estrategias editoriales muy diferenciadas que impiden al lector obtener una visión completa. **La Vanguardia** silencia por completo las protestas, presentando un relato institucional que podría responder a intereses comerciales o de imagen de la ciudad, dado que el MWC representa un evento económicamente estratégico para Barcelona. Esta omisión es especialmente significativa considerando que las manifestaciones cuestionan aspectos éticos fundamentales del sector tecnológico.\n\n**20 Minutos** adopta una perspectiva puramente funcional que, aunque útil, despolitiza completamente el evento. Su enfoque exclusivo en la logística puede servir a lectores que buscan información práctica, pero evita abordar tanto las implicaciones tecnológicas como las controversias sociales. Por el contrario, **El Confidencial** prioriza el conflicto pero omite el contexto técnico y logístico, lo que puede distorsionar la importancia relativa de las protestas respecto al conjunto del evento.\n\nEsta segmentación informativa impide comprender que las **50 personas** que protestaron representan una contestación minoritaria pero simbólicamente relevante a un evento que mueve **miles de millones de euros** y define tendencias tecnológicas globales. Ningún medio ofrece datos sobre el impacto económico del MWC ni sobre cuántas empresas israelíes participan realmente, información clave para contextualizar tanto la celebración como la protesta.",
+    "context": "El **Mobile World Congress** es el mayor evento mundial de la industria de telecomunicaciones móviles, organizado anualmente por la **GSMA** (asociación que representa a operadores móviles globalmente). Barcelona acoge este certamen desde 2006, consolidándose como sede fija hasta al menos 2030 tras superar la competencia de ciudades como Londres o Milán.\n\nEl evento genera un impacto económico estimado en **500 millones de euros** anuales para Catalunya y posiciona a Barcelona como referente tecnológico europeo. **Mobile World Capital Barcelona** es la fundación creada para gestionar este ecosistema, impulsando proyectos de ciudad inteligente y transformación digital durante todo el año.\n\nLas protestas contra empresas israelíes se enmarcan en el contexto del conflicto en **Gaza**, que se intensificó tras los ataques de Hamás del 7 de octubre de 2023 y la posterior respuesta militar israelí. Diversos colectivos internacionales han promovido campañas de **boicot, desinversión y sanciones (BDS)** contra Israel, incluyendo el sector tecnológico. El **Mobile Social Congress** es una iniciativa paralela que desde 2017 organiza debates críticos sobre las implicaciones sociales de la tecnología.\n\nLa mención al **coltán, cobalto y oro** hace referencia a los llamados \"minerales en conflicto\", extraídos principalmente en África bajo condiciones laborales precarias y financiando grupos armados. Estas materias primas son esenciales para fabricar baterías, circuitos y componentes de dispositivos móviles, generando un debate creciente sobre la **sostenibilidad y ética** de la cadena de suministro tecnológica.",
+    "questions": [
+      "¿Es compatible celebrar la innovación tecnológica mientras se ignoran las implicaciones éticas de su producción?",
+      "¿Deberían los grandes eventos tecnológicos implementar criterios de derechos humanos para seleccionar participantes?",
+      "¿Cómo equilibrar los beneficios económicos de eventos como el MWC con las demandas de transparencia social?",
+      "¿Qué responsabilidad tienen los medios en ofrecer una cobertura integral que incluya tanto los aspectos promocionales como los críticos?",
+      "¿Es efectiva la estrategia de protesta en eventos masivos para generar conciencia sobre conflictos geopolíticos?"
+    ]
+  },
+  "category": "tecnología",
+  "categories": [
+    "tecnología",
+    "sociedad"
+  ],
+  "imageUrl": "https://www.lavanguardia.com/uploads/2026/02/27/69a172351b895.jpeg",
+  "sourcesCount": 3,
+  "createdAt": "2026-03-02T13:05:17.848Z",
+  "updatedAt": null,
+  "images": [
+    {
+      "url": "https://www.lavanguardia.com/uploads/2026/02/27/69a172351b895.jpeg",
+      "source": "La Vanguardia"
+    },
+    {
+      "url": "https://images.ecestaticos.com/PQZVc9SVQUPfIroU4VBUCbUzeuI=/0x0:2272x1381/1200x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F1a1%2F54e%2F091%2F1a154e09151f43059f171f3c7470eb9e.jpg",
+      "source": "El Confidencial"
+    }
+  ],
+  "clusterSources": [
+    {
+      "id": 7547,
+      "title": "Todo sobre MWC en LaVanguardia.com",
+      "url": "https://www.lavanguardia.com/temas/mwc",
+      "sourceId": 4,
+      "source": {
+        "id": 4,
+        "name": "La Vanguardia",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8098,
+      "title": "Más trenes, un bus gratuito...: TMB refuerza el transporte público de Barcelona desde este lunes y hasta el jueves por el Mobile",
+      "url": "https://www.20minutos.es/cataluna/barcelona/mas-trenes-un-bus-gratuito-tmb-refuerza-transporte-publico-barcelona-desde-este-lunes-hasta-jueves-por-mobile_6939777_0.html",
+      "sourceId": 10,
+      "source": {
+        "id": 10,
+        "name": "20 Minutos",
+        "politicalLean": "center"
+      }
+    },
+    {
+      "id": 8392,
+      "title": "Decenas de personas protestan contra Israel a las puertas del Mobile World Congress",
+      "url": "https://www.elconfidencial.com/espana/cataluna/2026-03-02/protesta-mobile-world-congress-israel-1tps_4312454",
+      "sourceId": 9,
+      "source": {
+        "id": 9,
+        "name": "El Confidencial",
+        "politicalLean": "center"
+      }
+    }
+  ],
+  "allSources": [
+    {
+      "id": 1,
+      "name": "El País",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 2,
+      "name": "El Mundo",
+      "politicalLean": "center-right"
+    },
+    {
+      "id": 3,
+      "name": "ABC",
+      "politicalLean": "right"
+    },
+    {
+      "id": 4,
+      "name": "La Vanguardia",
+      "politicalLean": "center"
+    },
+    {
+      "id": 5,
+      "name": "elDiario.es",
+      "politicalLean": "left"
+    },
+    {
+      "id": 6,
+      "name": "La Razón",
+      "politicalLean": "right"
+    },
+    {
+      "id": 7,
+      "name": "Público",
+      "politicalLean": "left"
+    },
+    {
+      "id": 8,
+      "name": "OKDiario",
+      "politicalLean": "right"
+    },
+    {
+      "id": 9,
+      "name": "El Confidencial",
+      "politicalLean": "center"
+    },
+    {
+      "id": 10,
+      "name": "20 Minutos",
+      "politicalLean": "center"
+    },
+    {
+      "id": 11,
+      "name": "RTVE",
+      "politicalLean": "public"
+    },
+    {
+      "id": 12,
+      "name": "El Periódico",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 13,
+      "name": "Newtral",
+      "politicalLean": "center-left"
+    },
+    {
+      "id": 14,
+      "name": "El Español",
+      "politicalLean": "center-right"
+    }
+  ]
+}
