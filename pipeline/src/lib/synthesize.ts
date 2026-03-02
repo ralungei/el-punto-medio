@@ -1,6 +1,6 @@
 import { llm } from "./usage";
 import { db, schema } from "./db";
-import { eq, inArray, desc } from "drizzle-orm";
+import { eq, desc } from "drizzle-orm";
 import { synthesisPrompt, slugify, SYSTEM_PROMPT } from "./prompts";
 import { runConcurrent, batchSelect } from "./concurrent";
 import { exportArticle } from "./export";

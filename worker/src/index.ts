@@ -101,47 +101,7 @@ function scoreArticles(
   return scored;
 }
 
-/** Get image candidates for a cluster */
-async function getClusterImages(db: ReturnType<typeof drizzle>, clusterId: number) {
-  const links = await db
-    .select()
-    .from(schema.clusterArticles)
-    .where(eq(schema.clusterArticles.clusterId, clusterId))
-    .all();
-
-  const rawIds = links.map((l) => l.rawArticleId);
-  if (rawIds.length === 0) return [];
-
-  const rawArticles = await db
-    .select({
-      imageUrl: schema.rawArticles.imageUrl,
-      sourceName: schema.sources.name,
-    })
-    .from(schema.rawArticles)
-    .innerJoin(
-      schema.sources,
-      eq(schema.rawArticles.sourceId, schema.sources.id)
-    )
-    .where(inArray(schema.rawArticles.id, rawIds))
-    .all();
-
-  const seen = new Set<string>();
-  const images: { url: string; source: string }[] = [];
-
-  for (const raw of rawArticles) {
-    if (raw.imageUrl && !seen.has(raw.imageUrl)) {
-      seen.add(raw.imageUrl);
-      images.push({
-        url: raw.imageUrl,
-        source: raw.sourceName || "Desconocido",
-      });
-    }
-  }
-
-  return images;
-}
-
-/** Get articles for an edition, enriched with images and categories */
+/** Get articles for an edition, enriched with images and categories (batched queries) */
 async function getEditionArticles(db: ReturnType<typeof drizzle>, editionId: number) {
   const rows = await db
     .select({
@@ -169,24 +129,76 @@ async function getEditionArticles(db: ReturnType<typeof drizzle>, editionId: num
     .orderBy(desc(schema.articles.sourcesCount))
     .all();
 
-  const result = [];
-  for (const { clusterId, categoriesRaw, ...row } of rows) {
-    const images = await getClusterImages(db, clusterId);
+  if (rows.length === 0) return [];
+
+  // Batch: fetch all cluster_articles for all clusterIds in 1 query
+  const clusterIds = [...new Set(rows.map((r) => r.clusterId))];
+  const allLinks = await db
+    .select()
+    .from(schema.clusterArticles)
+    .where(inArray(schema.clusterArticles.clusterId, clusterIds))
+    .all();
+
+  // Batch: fetch all raw_articles with source names in 1 query
+  const rawIds = [...new Set(allLinks.map((l) => l.rawArticleId))];
+  const allRawArticles = rawIds.length > 0
+    ? await db
+        .select({
+          id: schema.rawArticles.id,
+          imageUrl: schema.rawArticles.imageUrl,
+          sourceName: schema.sources.name,
+        })
+        .from(schema.rawArticles)
+        .innerJoin(schema.sources, eq(schema.rawArticles.sourceId, schema.sources.id))
+        .where(inArray(schema.rawArticles.id, rawIds))
+        .all()
+    : [];
+
+  // Build lookup: clusterId -> images[]
+  const linksByCluster = new Map<number, typeof allLinks>();
+  for (const link of allLinks) {
+    const list = linksByCluster.get(link.clusterId) || [];
+    list.push(link);
+    linksByCluster.set(link.clusterId, list);
+  }
+
+  const rawById = new Map(allRawArticles.map((a) => [a.id, a]));
+
+  function getClusterImages(clusterId: number) {
+    const links = linksByCluster.get(clusterId) || [];
+    const seen = new Set<string>();
+    const images: { url: string; source: string }[] = [];
+    for (const link of links) {
+      const raw = rawById.get(link.rawArticleId);
+      if (raw?.imageUrl && !seen.has(raw.imageUrl)) {
+        seen.add(raw.imageUrl);
+        images.push({ url: raw.imageUrl, source: raw.sourceName || "Desconocido" });
+      }
+    }
+    return images;
+  }
+
+  return rows.map(({ clusterId, categoriesRaw, ...row }) => {
+    const images = getClusterImages(clusterId);
     const categories: string[] = categoriesRaw
       ? JSON.parse(categoriesRaw)
       : row.category
         ? [row.category]
         : [];
-    result.push({
+    return {
       ...row,
       categories,
       imageUrl: row.imageUrl || images[0]?.url || null,
       images,
-    });
-  }
-
-  return result;
+    };
+  });
 }
+
+// Global error handler
+app.onError((err, c) => {
+  console.error(err);
+  return c.json({ error: err.message }, 500);
+});
 
 // ── Routes ──
 
@@ -281,7 +293,6 @@ app.get("/article-:slug.json", async (c) => {
 
   if (!article) return c.json({ error: "Article not found" }, 404);
 
-  const images = await getClusterImages(db, article.clusterId);
   const categories: string[] = article.categories
     ? JSON.parse(article.categories)
     : article.category
@@ -289,51 +300,52 @@ app.get("/article-:slug.json", async (c) => {
       : [];
   const sections = parseSections(article.sections);
 
-  // Get cluster sources
-  const clusterLinks = await db
-    .select()
-    .from(schema.clusterArticles)
-    .where(eq(schema.clusterArticles.clusterId, article.clusterId))
-    .all();
+  // Fetch cluster links + sources in parallel
+  const [clusterLinks, allSources] = await Promise.all([
+    db.select()
+      .from(schema.clusterArticles)
+      .where(eq(schema.clusterArticles.clusterId, article.clusterId))
+      .all(),
+    db.select().from(schema.sources).all(),
+  ]);
 
   const rawIds = clusterLinks.map((l) => l.rawArticleId);
-  const allSources = await db.select().from(schema.sources).all();
   const sourceMap = new Map(allSources.map((s) => [s.id, s]));
 
-  let clusterSources: {
-    id: number;
-    title: string;
-    url: string;
-    publishedAt: string | null;
-    sourceId: number;
-    source: { id: number; name: string; politicalLean: string } | null;
-  }[] = [];
+  // Fetch raw articles (images + source info) in one query
+  const rawArticles = rawIds.length > 0
+    ? await db
+        .select()
+        .from(schema.rawArticles)
+        .where(inArray(schema.rawArticles.id, rawIds))
+        .all()
+    : [];
 
-  if (rawIds.length > 0) {
-    const rawArticles = await db
-      .select()
-      .from(schema.rawArticles)
-      .where(inArray(schema.rawArticles.id, rawIds))
-      .all();
-
-    clusterSources = rawArticles.map((a) => {
-      const source = sourceMap.get(a.sourceId);
-      return {
-        id: a.id,
-        title: a.title,
-        url: a.url,
-        publishedAt: a.publishedAt ?? null,
-        sourceId: a.sourceId,
-        source: source
-          ? {
-              id: source.id,
-              name: source.name,
-              politicalLean: source.politicalLean,
-            }
-          : null,
-      };
-    });
+  // Build images list (deduplicated)
+  const seenUrls = new Set<string>();
+  const images: { url: string; source: string }[] = [];
+  for (const raw of rawArticles) {
+    if (raw.imageUrl && !seenUrls.has(raw.imageUrl)) {
+      seenUrls.add(raw.imageUrl);
+      const source = sourceMap.get(raw.sourceId);
+      images.push({ url: raw.imageUrl, source: source?.name || "Desconocido" });
+    }
   }
+
+  // Build cluster sources
+  const clusterSources = rawArticles.map((a) => {
+    const source = sourceMap.get(a.sourceId);
+    return {
+      id: a.id,
+      title: a.title,
+      url: a.url,
+      publishedAt: a.publishedAt ?? null,
+      sourceId: a.sourceId,
+      source: source
+        ? { id: source.id, name: source.name, politicalLean: source.politicalLean }
+        : null,
+    };
+  });
 
   return c.json({
     ...article,

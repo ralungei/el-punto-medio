@@ -1,6 +1,6 @@
 import { llm } from "./usage";
 import { db, schema } from "./db";
-import { eq, gte, inArray, count } from "drizzle-orm";
+import { eq, gte, count } from "drizzle-orm";
 import { clusteringPrompt, deduplicationPrompt, mergePrompt, rescuePrompt } from "./prompts";
 import { runConcurrent, batchSelect } from "./concurrent";
 

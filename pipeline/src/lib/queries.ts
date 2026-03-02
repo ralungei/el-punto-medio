@@ -1,5 +1,5 @@
 import { db, schema } from "./db";
-import { eq, desc, inArray } from "drizzle-orm";
+import { eq, desc } from "drizzle-orm";
 import { batchSelect } from "./concurrent";
 
 export interface CarouselImage {

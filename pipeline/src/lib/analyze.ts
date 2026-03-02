@@ -1,6 +1,6 @@
 import { llm } from "./usage";
 import { db, schema } from "./db";
-import { eq, inArray } from "drizzle-orm";
+import { eq } from "drizzle-orm";
 import { analysisPrompt, categorizationPrompt, SYSTEM_PROMPT } from "./prompts";
 import { runConcurrent, batchSelect } from "./concurrent";
 
@@ -233,7 +233,7 @@ export async function analyzeEdition(
 
   // Run analysis in parallel (concurrency=15)
   const total = toAnalyze.length;
-  console.log(`  Analyzing ${total} clusters (concurrency=3)...`);
+  console.log(`  Analyzing ${total} clusters (concurrency=15)...`);
   let done = 0;
   const tasks = toAnalyze.map((cluster) => async () => {
     await analyzeCluster(cluster);
