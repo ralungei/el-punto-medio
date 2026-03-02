@@ -4,8 +4,6 @@ import type { ArticleWithMeta } from "../../types";
 export function BreakingTicker({ articles }: { articles: ArticleWithMeta[] }) {
   if (articles.length === 0) return null;
 
-  const text = articles.map((a) => a.headline).join("   ·   ");
-
   return (
     <div className="ticker-bar">
       <span className="ticker-label">MAYOR COBERTURA</span>

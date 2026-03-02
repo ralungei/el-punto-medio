@@ -22,28 +22,6 @@ function getCategories(article: { categories?: string[]; category: string | null
   return article.category ? [article.category] : [];
 }
 
-/* ── Kicker (category labels) ── */
-function Kicker({ article, large }: { article: { categories?: string[]; category: string | null }; large?: boolean }) {
-  const cats = getCategories(article);
-  if (cats.length === 0) return null;
-  return (
-    <span className="flex items-center gap-1.5">
-      {cats.map((cat) => {
-        const color = CATEGORY_COLORS[cat] || "var(--text-muted)";
-        return (
-          <span
-            key={cat}
-            className={`font-bold uppercase tracking-[0.5px] ${large ? "text-[12px]" : "text-[11px]"}`}
-            style={{ color }}
-          >
-            {cat}
-          </span>
-        );
-      })}
-    </span>
-  );
-}
-
 /* ── Sources count ── */
 function Sources({ count, large }: { count: number; large?: boolean }) {
   return (
