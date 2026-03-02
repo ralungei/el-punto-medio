@@ -2,7 +2,7 @@ import { llm } from "./usage";
 import { db, schema } from "./db";
 import { eq, gte, inArray, count } from "drizzle-orm";
 import { clusteringPrompt, deduplicationPrompt, mergePrompt, rescuePrompt } from "./prompts";
-import { runConcurrent } from "./concurrent";
+import { runConcurrent, batchSelect } from "./concurrent";
 
 interface RawArticle {
   id: number;
@@ -638,16 +638,11 @@ export async function clusterEdition(editionId: number): Promise<ClusterEditionR
   // 9. Map story_ids to existing clusters (enrichment) or create new ones
   const existingStoryClusterMap = new Map<string, number>();
   if (existingStories.length > 0) {
-    const existingClusterRows = await db
-      .select({ id: schema.clusters.id, storyId: schema.clusters.storyId })
-      .from(schema.clusters)
-      .where(
-        inArray(
-          schema.clusters.storyId,
-          existingStories.map((s) => s.storyId)
-        )
-      )
-      .all();
+    const existingClusterRows = await batchSelect(
+      (cond) => db.select({ id: schema.clusters.id, storyId: schema.clusters.storyId }).from(schema.clusters).where(cond).all(),
+      schema.clusters.storyId,
+      existingStories.map((s) => s.storyId)
+    );
 
     for (const row of existingClusterRows) {
       if (row.storyId) existingStoryClusterMap.set(row.storyId, row.id);

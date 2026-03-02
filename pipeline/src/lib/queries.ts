@@ -1,5 +1,6 @@
 import { db, schema } from "./db";
 import { eq, desc, inArray } from "drizzle-orm";
+import { batchSelect } from "./concurrent";
 
 export interface CarouselImage {
   url: string;
@@ -91,15 +92,16 @@ async function getClusterImageCandidates(clusterId: number): Promise<CarouselIma
   const rawIds = clusterLinks.map((l: { rawArticleId: number }) => l.rawArticleId);
   if (rawIds.length === 0) return [];
 
-  const rawArticles = await db
-    .select({
+  const rawArticles = await batchSelect(
+    (cond) => db.select({
       imageUrl: schema.rawArticles.imageUrl,
       sourceName: schema.sources.name,
-    })
-    .from(schema.rawArticles)
-    .innerJoin(schema.sources, eq(schema.rawArticles.sourceId, schema.sources.id))
-    .where(inArray(schema.rawArticles.id, rawIds))
-    .all();
+    }).from(schema.rawArticles)
+      .innerJoin(schema.sources, eq(schema.rawArticles.sourceId, schema.sources.id))
+      .where(cond).all(),
+    schema.rawArticles.id,
+    rawIds
+  );
 
   const seen = new Set<string>();
   const candidates: CarouselImage[] = [];
@@ -149,11 +151,11 @@ export async function getClusterSources(clusterId: number) {
   const allSources = await db.select().from(schema.sources).all();
   const sourceMap = new Map(allSources.map((s: { id: number }) => [s.id, s]));
 
-  const rawArticles = await db
-    .select()
-    .from(schema.rawArticles)
-    .where(inArray(schema.rawArticles.id, rawArticleIds))
-    .all();
+  const rawArticles = await batchSelect(
+    (cond) => db.select().from(schema.rawArticles).where(cond).all(),
+    schema.rawArticles.id,
+    rawArticleIds
+  );
 
   return rawArticles.map((a: { sourceId: number }) => ({
     ...a,

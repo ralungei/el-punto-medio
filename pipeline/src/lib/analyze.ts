@@ -2,7 +2,7 @@ import { llm } from "./usage";
 import { db, schema } from "./db";
 import { eq, inArray } from "drizzle-orm";
 import { analysisPrompt, categorizationPrompt, SYSTEM_PROMPT } from "./prompts";
-import { runConcurrent } from "./concurrent";
+import { runConcurrent, batchSelect } from "./concurrent";
 
 interface ClusterWithArticles {
   clusterId: number;
@@ -136,11 +136,11 @@ export async function analyzeEdition(
 
   // Also include enriched clusters from previous editions
   const enrichedClusters = enrichedClusterIds.length > 0
-    ? await db
-        .select()
-        .from(schema.clusters)
-        .where(inArray(schema.clusters.id, enrichedClusterIds))
-        .all()
+    ? await batchSelect(
+        (cond) => db.select().from(schema.clusters).where(cond).all(),
+        schema.clusters.id,
+        enrichedClusterIds
+      )
     : [];
 
   // Deduplicate (enriched clusters might already be in this edition)
@@ -168,11 +168,11 @@ export async function analyzeEdition(
     const rawArticleIds = clusterArticleLinks.map((ca: { rawArticleId: number }) => ca.rawArticleId);
     if (rawArticleIds.length === 0) continue;
 
-    const rawArticles = await db
-      .select()
-      .from(schema.rawArticles)
-      .where(inArray(schema.rawArticles.id, rawArticleIds))
-      .all();
+    const rawArticles = await batchSelect(
+      (cond) => db.select().from(schema.rawArticles).where(cond).all(),
+      schema.rawArticles.id,
+      rawArticleIds
+    );
 
     const uniqueSources = new Set(rawArticles.map((a: { sourceId: number }) => a.sourceId));
     if (uniqueSources.size < 2) continue;

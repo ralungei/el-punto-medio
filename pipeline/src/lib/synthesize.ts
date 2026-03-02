@@ -2,7 +2,7 @@ import { llm } from "./usage";
 import { db, schema } from "./db";
 import { eq, inArray, desc } from "drizzle-orm";
 import { synthesisPrompt, slugify, SYSTEM_PROMPT } from "./prompts";
-import { runConcurrent } from "./concurrent";
+import { runConcurrent, batchSelect } from "./concurrent";
 import { exportArticle } from "./export";
 
 const isCI = !!process.env.CF_D1_TOKEN;
@@ -70,16 +70,11 @@ export async function synthesizeCluster(
     .where(eq(schema.clusterArticles.clusterId, clusterId))
     .all();
 
-  const rawArticles = await db
-    .select()
-    .from(schema.rawArticles)
-    .where(
-      inArray(
-        schema.rawArticles.id,
-        clusterArticleLinks.map((ca: { rawArticleId: number }) => ca.rawArticleId)
-      )
-    )
-    .all();
+  const rawArticles = await batchSelect(
+    (cond) => db.select().from(schema.rawArticles).where(cond).all(),
+    schema.rawArticles.id,
+    clusterArticleLinks.map((ca: { rawArticleId: number }) => ca.rawArticleId)
+  );
 
   const sources = await db.select().from(schema.sources).all();
   const sourceMap = new Map(sources.map((s: { id: number }) => [s.id, s]));
