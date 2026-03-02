@@ -2,7 +2,7 @@ import { Hono } from "hono";
 import { cors } from "hono/cors";
 import { drizzle } from "drizzle-orm/d1";
 import { eq, desc, inArray } from "drizzle-orm";
-import * as schema from "../../pipeline/db/schema";
+import * as schema from "./schema";
 
 type Bindings = {
   DB: D1Database;
