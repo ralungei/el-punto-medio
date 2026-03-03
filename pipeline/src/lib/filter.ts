@@ -10,8 +10,8 @@ const FILTER_PROMPT = `Eres un editor jefe de un periódico serio. Tu trabajo es
 
 DESCARTA (responde "no") artículos que sean:
 - Clickbait o sensacionalismo vacío (ej: "No creerás lo que hizo...", "El impactante cambio de look de...")
-- Cotilleos sobre famosos, vida personal de celebridades, reality shows
-- Contenido sobre el físico, vestimenta o vida sentimental de personas públicas sin relevancia informativa
+- Cotilleos, prensa rosa o vida privada: bodas, rupturas, embarazos, relaciones sentimentales, rumores sobre famosos, declaraciones de estilistas/amigos/familiares sobre la vida personal de celebridades. Aunque mencionen un evento cultural (alfombra roja, gala, premios), si el foco es la vida privada → DESCARTAR
+- Reality shows, influencers, contenido sobre físico/vestimenta/looks de personas públicas
 - Horóscopos, tests, rankings subjetivos sin base
 - Publicidad encubierta o contenido patrocinado
 - Noticias hiperlocales sin interés general (ej: corte de agua en una calle específica)
@@ -25,7 +25,7 @@ CONSERVA (responde "sí") artículos que sean:
 - Justicia, legislación, derechos
 - Medio ambiente, clima
 - Tecnología con impacto social
-- Cultura con relevancia (estrenos importantes, premios, debates culturales)
+- Cultura con relevancia informativa real (política cultural, industria del cine/música, censura, debates). NO conservar cotilleos disfrazados de cultura
 - Deportes de alto nivel (La Liga, Champions, Juegos Olímpicos, selecciones)
 - Sucesos graves (accidentes, catástrofes, crímenes importantes)
 - Educación, sociedad

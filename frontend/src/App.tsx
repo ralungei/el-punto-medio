@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import { Outlet, useNavigation, useMatches, ScrollRestoration } from "react-router-dom";
 import type { ArticleWithMeta } from "./types";
 import { TopBar } from "./components/layout/TopBar";
@@ -7,15 +7,34 @@ import { NavBar } from "./components/layout/NavBar";
 import { Footer } from "./components/layout/Footer";
 import { BreakingTicker } from "./components/layout/BreakingTicker";
 import { SearchOverlay } from "./components/layout/SearchOverlay";
+import { getHiddenCats, setHiddenCats as persistHiddenCats } from "./lib/storage";
 
 export interface AppContext {
   hideNegative: boolean;
+  hiddenCats: Set<string>;
 }
 
 export default function App() {
   const navigation = useNavigation();
   const [searchOpen, setSearchOpen] = useState(false);
-  const [hideNegative, setHideNegative] = useState(false);
+  const [hideNegative, setHideNegative] = useState(
+    () => localStorage.getItem("epm:hideNegative") === "true"
+  );
+
+  useEffect(() => {
+    localStorage.setItem("epm:hideNegative", String(hideNegative));
+  }, [hideNegative]);
+
+  const [hiddenCats, setHiddenCats] = useState<Set<string>>(() => getHiddenCats());
+  useEffect(() => { persistHiddenCats(hiddenCats); }, [hiddenCats]);
+  const toggleCat = useCallback((cat: string) => {
+    setHiddenCats((prev) => {
+      const next = new Set(prev);
+      if (next.has(cat)) next.delete(cat); else next.add(cat);
+      return next;
+    });
+  }, []);
+
   const [tickerArticles, setTickerArticles] = useState<ArticleWithMeta[]>([]);
 
   /* Extract articles from homepage loader data for the ticker */
@@ -50,6 +69,8 @@ export default function App() {
         onSearchOpen={() => setSearchOpen(true)}
         hideNegative={hideNegative}
         onToggleHideNegative={() => setHideNegative((v) => !v)}
+        hiddenCats={hiddenCats}
+        toggleCat={toggleCat}
       />
       <NavBar />
       <BreakingTicker articles={tickerArticles} />
@@ -62,7 +83,7 @@ export default function App() {
           transition: "opacity 0.2s ease",
         }}
       >
-        <Outlet context={{ hideNegative } satisfies AppContext} />
+        <Outlet context={{ hideNegative, hiddenCats } satisfies AppContext} />
       </main>
 
       <Footer />

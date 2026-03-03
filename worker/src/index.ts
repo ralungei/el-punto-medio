@@ -1,16 +1,17 @@
 import { Hono } from "hono";
 import { cors } from "hono/cors";
 import { drizzle } from "drizzle-orm/d1";
-import { eq, desc, inArray } from "drizzle-orm";
+import { eq, desc, inArray, and, gte } from "drizzle-orm";
 import * as schema from "./schema";
 
 type Bindings = {
   DB: D1Database;
+  ENVIRONMENT: string;
 };
 
 const app = new Hono<{ Bindings: Bindings }>();
 
-// CORS for Pages domain
+// CORS
 app.use(
   "*",
   cors({
@@ -22,15 +23,76 @@ app.use(
   })
 );
 
-// Cache headers middleware
+// Token validation
+const TOKEN_SALT = "epm$7kQ2x";
+const TOKEN_MAX_AGE = 300; // 5 minutes
+
+async function verifyToken(token: string, path: string): Promise<boolean> {
+  const dot = token.indexOf(".");
+  if (dot < 0) return false;
+  const ts = parseInt(token.slice(0, dot));
+  const hash = token.slice(dot + 1);
+  if (isNaN(ts)) return false;
+  const now = Math.floor(Date.now() / 1000);
+  if (Math.abs(now - ts) > TOKEN_MAX_AGE) return false;
+  const msg = `${ts}:${path}:${TOKEN_SALT}`;
+  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(msg));
+  const expected = Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, "0")).join("").slice(0, 16);
+  return hash === expected;
+}
+
+app.use("*", async (c, next) => {
+  if (c.req.method === "OPTIONS") return next(); // CORS preflight
+  if (c.env.ENVIRONMENT !== "production") return next(); // skip in dev
+  const token = c.req.header("x-epm-token");
+  if (!token) return c.json({ error: "Forbidden" }, 403);
+  const path = c.req.path.replace(/^\//, "");
+  if (!(await verifyToken(token, path))) {
+    return c.json({ error: "Forbidden" }, 403);
+  }
+  await next();
+});
+
+// Rate limiting (best-effort, per isolate)
+const RATE_LIMIT = 120;
+const RATE_WINDOW = 60_000;
+const rateCounts = new Map<string, { count: number; reset: number }>();
+
+app.use("*", async (c, next) => {
+  const ip = c.req.header("cf-connecting-ip") || "unknown";
+  const now = Date.now();
+  const entry = rateCounts.get(ip);
+  if (!entry || now > entry.reset) {
+    rateCounts.set(ip, { count: 1, reset: now + RATE_WINDOW });
+  } else {
+    entry.count++;
+    if (entry.count > RATE_LIMIT) {
+      return c.json({ error: "Too many requests" }, 429);
+    }
+  }
+  await next();
+});
+
+// Cache + security headers
 app.use("*", async (c, next) => {
   await next();
   if (c.res.ok) {
     c.res.headers.set("Cache-Control", "public, s-maxage=3600, max-age=300");
   }
+  c.res.headers.set("X-Content-Type-Options", "nosniff");
+  c.res.headers.set("X-Frame-Options", "DENY");
+  c.res.headers.set("Referrer-Policy", "strict-origin-when-cross-origin");
+  c.res.headers.set("X-Robots-Tag", "noindex, nofollow");
 });
 
 // ── Helpers ──
+
+/** Split array into chunks (for SQLite's 999-variable limit) */
+function chunks<T>(arr: T[], size: number): T[][] {
+  const out: T[][] = [];
+  for (let i = 0; i < arr.length; i += size) out.push(arr.slice(i, i + size));
+  return out;
+}
 
 /** Parse sections JSON, handling nested stringified fields */
 function parseSections(raw: string): Record<string, unknown> {
@@ -59,14 +121,12 @@ function parseSections(raw: string): Record<string, unknown> {
 }
 
 /** Score articles for editorial prominence */
-function scoreArticles(
-  articles: {
-    sourcesCount: number;
-    imageUrl: string | null;
-    categories: string[];
-    category: string | null;
-  }[]
-) {
+function scoreArticles<T extends {
+  sourcesCount: number;
+  imageUrl: string | null;
+  categories: string[];
+  category: string | null;
+}>(articles: T[]) {
   const scored = articles.map((a) => ({
     ...a,
     _score:
@@ -131,28 +191,29 @@ async function getEditionArticles(db: ReturnType<typeof drizzle>, editionId: num
 
   if (rows.length === 0) return [];
 
-  // Batch: fetch all cluster_articles for all clusterIds in 1 query
+  // Batch: fetch all cluster_articles (chunked to stay under SQLite 999-var limit)
   const clusterIds = [...new Set(rows.map((r) => r.clusterId))];
-  const allLinks = await db
-    .select()
-    .from(schema.clusterArticles)
-    .where(inArray(schema.clusterArticles.clusterId, clusterIds))
-    .all();
+  const allLinks = (await Promise.all(
+    chunks(clusterIds, 100).map((chunk) =>
+      db.select().from(schema.clusterArticles)
+        .where(inArray(schema.clusterArticles.clusterId, chunk)).all()
+    )
+  )).flat();
 
-  // Batch: fetch all raw_articles with source names in 1 query
+  // Batch: fetch all raw_articles with source names (chunked)
   const rawIds = [...new Set(allLinks.map((l) => l.rawArticleId))];
-  const allRawArticles = rawIds.length > 0
-    ? await db
-        .select({
+  const allRawArticles = (await Promise.all(
+    chunks(rawIds, 100).map((chunk) =>
+      db.select({
           id: schema.rawArticles.id,
           imageUrl: schema.rawArticles.imageUrl,
           sourceName: schema.sources.name,
         })
         .from(schema.rawArticles)
         .innerJoin(schema.sources, eq(schema.rawArticles.sourceId, schema.sources.id))
-        .where(inArray(schema.rawArticles.id, rawIds))
-        .all()
-    : [];
+        .where(inArray(schema.rawArticles.id, chunk)).all()
+    )
+  )).flat();
 
   // Build lookup: clusterId -> images[]
   const linksByCluster = new Map<number, typeof allLinks>();
@@ -194,13 +255,204 @@ async function getEditionArticles(db: ReturnType<typeof drizzle>, editionId: num
   });
 }
 
+/** Get deduplicated feed articles from the last N days across all published editions */
+async function getFeedArticles(db: ReturnType<typeof drizzle>, days = 7) {
+  const cutoff = new Date(Date.now() - days * 24 * 60 * 60 * 1000).toISOString();
+
+  // 1. Get published editions from the last N days
+  const recentEditions = await db
+    .select()
+    .from(schema.editions)
+    .where(
+      and(
+        eq(schema.editions.status, "published"),
+        gte(schema.editions.publishedAt, cutoff)
+      )
+    )
+    .orderBy(desc(schema.editions.publishedAt))
+    .all();
+
+  if (recentEditions.length === 0) return { editions: [], articles: [] };
+
+  const editionIds = recentEditions.map((e) => e.id);
+
+  // 2. Get all articles from those editions, joined with clusters for storyId
+  const allRows = (
+    await Promise.all(
+      chunks(editionIds, 50).map((chunk) =>
+        db
+          .select({
+            id: schema.articles.id,
+            slug: schema.articles.slug,
+            headline: schema.articles.headline,
+            summary: schema.articles.summary,
+            sections: schema.articles.sections,
+            sentiment: schema.articles.sentiment,
+            category: schema.articles.category,
+            categoriesRaw: schema.articles.categories,
+            imageUrl: schema.articles.imageUrl,
+            sourcesCount: schema.articles.sourcesCount,
+            createdAt: schema.articles.createdAt,
+            updatedAt: schema.articles.updatedAt,
+            editionType: schema.editions.type,
+            clusterId: schema.articles.clusterId,
+            storyId: schema.clusters.storyId,
+          })
+          .from(schema.articles)
+          .innerJoin(schema.editions, eq(schema.articles.editionId, schema.editions.id))
+          .innerJoin(schema.clusters, eq(schema.articles.clusterId, schema.clusters.id))
+          .where(inArray(schema.articles.editionId, chunk))
+          .orderBy(desc(schema.articles.sourcesCount))
+          .all()
+      )
+    )
+  ).flat();
+
+  // 3. Deduplicate by storyId: keep article with most sources (tiebreak: newest)
+  const bestByStory = new Map<string, (typeof allRows)[0]>();
+  const noStory: (typeof allRows)[0][] = [];
+
+  for (const row of allRows) {
+    if (!row.storyId) {
+      noStory.push(row);
+      continue;
+    }
+    const existing = bestByStory.get(row.storyId);
+    if (
+      !existing ||
+      row.sourcesCount > existing.sourcesCount ||
+      (row.sourcesCount === existing.sourcesCount && row.createdAt > existing.createdAt)
+    ) {
+      bestByStory.set(row.storyId, row);
+    }
+  }
+
+  const dedupedRows = [...bestByStory.values(), ...noStory];
+
+  if (dedupedRows.length === 0) return { editions: recentEditions, articles: [] };
+
+  // 4. Enrich with images (same chunked logic as getEditionArticles)
+  const clusterIds = [...new Set(dedupedRows.map((r) => r.clusterId))];
+  const allLinks = (
+    await Promise.all(
+      chunks(clusterIds, 100).map((chunk) =>
+        db
+          .select()
+          .from(schema.clusterArticles)
+          .where(inArray(schema.clusterArticles.clusterId, chunk))
+          .all()
+      )
+    )
+  ).flat();
+
+  const rawIds = [...new Set(allLinks.map((l) => l.rawArticleId))];
+  const allRawArticles = (
+    await Promise.all(
+      chunks(rawIds, 100).map((chunk) =>
+        db
+          .select({
+            id: schema.rawArticles.id,
+            imageUrl: schema.rawArticles.imageUrl,
+            sourceName: schema.sources.name,
+          })
+          .from(schema.rawArticles)
+          .innerJoin(schema.sources, eq(schema.rawArticles.sourceId, schema.sources.id))
+          .where(inArray(schema.rawArticles.id, chunk))
+          .all()
+      )
+    )
+  ).flat();
+
+  const linksByCluster = new Map<number, typeof allLinks>();
+  for (const link of allLinks) {
+    const list = linksByCluster.get(link.clusterId) || [];
+    list.push(link);
+    linksByCluster.set(link.clusterId, list);
+  }
+
+  const rawById = new Map(allRawArticles.map((a) => [a.id, a]));
+
+  function getClusterImages(clusterId: number) {
+    const links = linksByCluster.get(clusterId) || [];
+    const seen = new Set<string>();
+    const images: { url: string; source: string }[] = [];
+    for (const link of links) {
+      const raw = rawById.get(link.rawArticleId);
+      if (raw?.imageUrl && !seen.has(raw.imageUrl)) {
+        seen.add(raw.imageUrl);
+        images.push({ url: raw.imageUrl, source: raw.sourceName || "Desconocido" });
+      }
+    }
+    return images;
+  }
+
+  const articles = dedupedRows.map(({ clusterId, categoriesRaw, storyId, ...row }) => {
+    const images = getClusterImages(clusterId);
+    const categories: string[] = categoriesRaw
+      ? JSON.parse(categoriesRaw)
+      : row.category
+        ? [row.category]
+        : [];
+    return {
+      ...row,
+      categories,
+      imageUrl: row.imageUrl || images[0]?.url || null,
+      images,
+    };
+  });
+
+  return { editions: recentEditions, articles };
+}
+
 // Global error handler
 app.onError((err, c) => {
   console.error(err);
-  return c.json({ error: err.message }, 500);
+  return c.json({ error: "Internal server error" }, 500);
 });
 
 // ── Routes ──
+
+// GET /feed.json — weekly deduplicated feed
+app.get("/feed.json", async (c) => {
+  const db = drizzle(c.env.DB, { schema });
+  const { editions, articles: raw } = await getFeedArticles(db, 7);
+
+  if (raw.length === 0) {
+    return c.json({ meta: { days: 7, editionCount: 0, articleCount: 0, latestEdition: null }, articles: [] });
+  }
+
+  const scored = scoreArticles(raw);
+  const latest = editions[0];
+
+  return c.json({
+    meta: {
+      days: 7,
+      editionCount: editions.length,
+      articleCount: scored.length,
+      latestEdition: {
+        id: latest.id,
+        type: latest.type,
+        publishedAt: latest.publishedAt,
+        articleCount: latest.articleCount,
+      },
+    },
+    articles: scored.map(({ _score, ...a }) => ({
+      id: a.id,
+      slug: a.slug,
+      headline: a.headline,
+      summary: a.summary,
+      category: a.category,
+      categories: a.categories,
+      imageUrl: a.imageUrl,
+      images: a.images,
+      sentiment: a.sentiment ?? null,
+      sourcesCount: a.sourcesCount,
+      createdAt: a.createdAt,
+      updatedAt: a.updatedAt,
+      editionType: a.editionType,
+    })),
+  });
+});
 
 // GET /sources.json
 app.get("/sources.json", async (c) => {
@@ -313,14 +565,13 @@ app.get("/articles/:slug", async (c) => {
   const rawIds = clusterLinks.map((l) => l.rawArticleId);
   const sourceMap = new Map(allSources.map((s) => [s.id, s]));
 
-  // Fetch raw articles (images + source info) in one query
-  const rawArticles = rawIds.length > 0
-    ? await db
-        .select()
-        .from(schema.rawArticles)
-        .where(inArray(schema.rawArticles.id, rawIds))
-        .all()
-    : [];
+  // Fetch raw articles (images + source info), chunked
+  const rawArticles = (await Promise.all(
+    chunks(rawIds, 100).map((chunk) =>
+      db.select().from(schema.rawArticles)
+        .where(inArray(schema.rawArticles.id, chunk)).all()
+    )
+  )).flat();
 
   // Build images list (deduplicated)
   const seenUrls = new Set<string>();

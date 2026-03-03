@@ -1,4 +1,4 @@
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { useLoaderData, Link } from "react-router-dom";
 import type { ArticleDetail, ClusterSource } from "../types";
 import { LEAN_COLORS, getFavicon } from "../constants";
@@ -8,6 +8,7 @@ import { ArticleSections } from "../components/article/ArticleSections";
 import { SpectrumBar } from "../components/article/SpectrumBar";
 import { RichParagraphs } from "../lib/richtext";
 import { ImageCarousel } from "../components/shared/ImageCarousel";
+import { markRead } from "../lib/storage";
 
 /* ── Tab definitions ── */
 const TABS = [
@@ -238,6 +239,10 @@ export default function ArticlePage() {
   const article = useLoaderData() as ArticleDetail | null;
   const [activeTab, setActiveTab] = useState<TabId>("medios");
   const [contextOpen, setContextOpen] = useState(false);
+
+  useEffect(() => {
+    if (article?.slug) markRead(article.slug);
+  }, [article?.slug]);
 
   if (!article) {
     return (

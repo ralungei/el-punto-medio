@@ -51,7 +51,7 @@ export function Footer() {
           style={{ borderTop: "1px solid var(--border)", color: "var(--text-light)" }}
         >
           <span>&copy; 2026 El Punto·Medio</span>
-          <span>14 medios · Todo el espectro político</span>
+          <span>16 medios · Todo el espectro político</span>
         </div>
       </div>
     </footer>

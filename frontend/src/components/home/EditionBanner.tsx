@@ -29,7 +29,7 @@ export function EditionBanner({
       )}
       <span style={{ color: "var(--border-dark)" }}>&middot;</span>
       <span style={{ fontSize: "13px", color: "var(--text-muted)" }}>
-        {articleCount} artículos · 14 medios
+        {articleCount} artículos · 16 medios
       </span>
     </div>
   );

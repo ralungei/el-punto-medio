@@ -81,6 +81,13 @@ export const SOURCE_DOMAIN: Record<string, string> = {
   "El Periódico": "elperiodico.com",
   Newtral: "newtral.es",
   "El Español": "elespanol.com",
+  "Agencia SINC": "agenciasinc.es",
+  "Redacción Médica": "redaccionmedica.com",
+  "Europa Press": "europapress.es",
+  Xataka: "xataka.com",
+  Hipertextual: "hipertextual.com",
+  "National Geographic España": "nationalgeographic.com.es",
+  EFE: "efe.com",
 };
 
 export function getFavicon(name: string): string | null {

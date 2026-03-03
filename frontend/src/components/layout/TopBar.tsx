@@ -50,7 +50,7 @@ export function TopBar() {
     >
       <div className="mx-auto max-w-[1120px] px-6 flex items-center justify-between">
         <span style={{ fontSize: "11px", fontWeight: 500, color: "rgba(255,255,255,0.6)", lineHeight: 1 }}>
-          14 medios <span style={{ opacity: 0.5, margin: "0 3px" }}>·</span> Todo el espectro político
+          16 medios <span style={{ opacity: 0.5, margin: "0 3px" }}>·</span> Todo el espectro político
         </span>
         <div className="flex items-center gap-3" style={{ fontSize: "11px", fontWeight: 500, color: "rgba(255,255,255,0.5)", lineHeight: 1 }}>
           <span className="hidden sm:flex items-center gap-1.5">

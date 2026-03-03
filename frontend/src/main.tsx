@@ -7,7 +7,7 @@ import HomePage from "./pages/HomePage";
 import ArticlePage from "./pages/ArticlePage";
 import ArchivePage from "./pages/ArchivePage";
 import NotFoundPage from "./pages/NotFoundPage";
-import { loadLatestEdition, loadArticle, loadEditions } from "./lib/data";
+import { loadFeed, loadArticle, loadEditions } from "./lib/data";
 
 const router = createBrowserRouter([
   {
@@ -17,7 +17,7 @@ const router = createBrowserRouter([
         id: "home",
         path: "/",
         element: <HomePage />,
-        loader: () => loadLatestEdition(),
+        loader: () => loadFeed(),
       },
       {
         path: "/articulo/:slug",

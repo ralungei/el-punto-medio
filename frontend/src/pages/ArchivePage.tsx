@@ -1,11 +1,14 @@
+import { useMemo } from "react";
 import { useLoaderData, Link } from "react-router-dom";
 import type { Edition } from "../types";
 import { EDITION_LABELS } from "../constants";
 import { formatDate, formatTime } from "../lib/format";
+import { getReadSlugs } from "../lib/storage";
 
 
 export default function ArchivePage() {
   const editions = useLoaderData() as Edition[];
+  const readSlugs = useMemo(() => getReadSlugs(), []);
 
   return (
     <div className="mx-auto max-w-3xl">
@@ -50,7 +53,10 @@ export default function ArchivePage() {
                           className="group flex items-center gap-3"
                         >
                           <div className="min-w-0">
-                            <p className="text-[13px] font-semibold truncate group-hover:text-[var(--blue)] transition-colors">
+                            <p
+                            className="text-[13px] font-semibold truncate group-hover:text-[var(--blue)] transition-colors"
+                            style={readSlugs.has(article.slug) ? { opacity: 0.55, color: "var(--text-muted)" } : undefined}
+                          >
                               {article.headline}
                             </p>
                             <span className="text-[11px]" style={{ color: "var(--text-muted)" }}>

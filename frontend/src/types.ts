@@ -87,6 +87,23 @@ export interface ClusterSource {
   } | null;
 }
 
+export interface FeedMeta {
+  days: number;
+  editionCount: number;
+  articleCount: number;
+  latestEdition: {
+    id: number;
+    type: string;
+    publishedAt: string | null;
+    articleCount: number;
+  } | null;
+}
+
+export interface FeedData {
+  meta: FeedMeta;
+  articles: ArticleWithMeta[];
+}
+
 export interface ArticleDetail {
   id: number;
   clusterId: number;

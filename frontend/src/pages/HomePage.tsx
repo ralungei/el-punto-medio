@@ -1,14 +1,13 @@
+import { useMemo, useState } from "react";
 import { useLoaderData, useSearchParams, Link, useOutletContext } from "react-router-dom";
-import type { Edition, ArticleWithMeta } from "../types";
+import type { ArticleWithMeta, FeedData } from "../types";
 import type { AppContext } from "../App";
 import { EditionBanner } from "../components/home/EditionBanner";
 import { ImageCarousel } from "../components/shared/ImageCarousel";
 import { CATEGORY_COLORS, SOURCE_DOMAIN, getFavicon } from "../constants";
+import { getReadSlugs } from "../lib/storage";
 
-interface HomeData {
-  edition: Edition;
-  articles: ArticleWithMeta[];
-}
+const OVERFLOW_PAGE_SIZE = 12;
 
 /* ── helpers ── */
 
@@ -67,7 +66,7 @@ function ImagePlaceholder({ count, className }: { count: number; className?: str
 }
 
 /* ── Hero card (large, spans 2 columns) ── */
-function HeroCard({ article }: { article: ArticleWithMeta }) {
+function HeroCard({ article, read }: { article: ArticleWithMeta; read?: boolean }) {
   return (
     <div className="group">
       <Link to={`/articulo/${article.slug}`} className="block mb-3 overflow-hidden">
@@ -85,7 +84,7 @@ function HeroCard({ article }: { article: ArticleWithMeta }) {
       <Link to={`/articulo/${article.slug}`} className="block">
         <h3
           className="text-[24px] font-black leading-[1.2] group-hover:text-[var(--blue)] transition-colors"
-          style={{ fontFamily: "var(--font-serif)" }}
+          style={{ fontFamily: "var(--font-serif)", ...(read ? { opacity: 0.55, color: "var(--text-muted)" } : {}) }}
         >
           {article.headline}
         </h3>
@@ -103,7 +102,7 @@ function HeroCard({ article }: { article: ArticleWithMeta }) {
 }
 
 /* ── Side card (stacked on the right of the hero) ── */
-function SideCard({ article }: { article: ArticleWithMeta }) {
+function SideCard({ article, read }: { article: ArticleWithMeta; read?: boolean }) {
   return (
     <div
       className="group py-3 first:pt-0 last:pb-0"
@@ -127,7 +126,7 @@ function SideCard({ article }: { article: ArticleWithMeta }) {
           <Link to={`/articulo/${article.slug}`} className="block">
             <h3
               className="text-[15px] font-bold leading-[1.3] group-hover:text-[var(--blue)] transition-colors"
-              style={{ fontFamily: "var(--font-serif)" }}
+              style={{ fontFamily: "var(--font-serif)", ...(read ? { opacity: 0.55, color: "var(--text-muted)" } : {}) }}
             >
               {article.headline}
             </h3>
@@ -139,7 +138,7 @@ function SideCard({ article }: { article: ArticleWithMeta }) {
 }
 
 /* ── Standard grid card ── */
-function ArticleCard({ article }: { article: ArticleWithMeta }) {
+function ArticleCard({ article, read }: { article: ArticleWithMeta; read?: boolean }) {
   return (
     <div className="group">
       <Link to={`/articulo/${article.slug}`} className="block mb-2 overflow-hidden">
@@ -158,7 +157,7 @@ function ArticleCard({ article }: { article: ArticleWithMeta }) {
       <Link to={`/articulo/${article.slug}`} className="block">
         <h3
           className="text-[16px] font-bold leading-[1.25] group-hover:text-[var(--blue)] transition-colors"
-          style={{ fontFamily: "var(--font-serif)" }}
+          style={{ fontFamily: "var(--font-serif)", ...(read ? { opacity: 0.55, color: "var(--text-muted)" } : {}) }}
         >
           {article.headline}
         </h3>
@@ -199,7 +198,7 @@ function PromoCard() {
       </div>
 
       <p className="text-[13px] leading-[1.7] mb-5" style={{ color: "var(--text-secondary)" }}>
-        Un equipo de inteligencias artificiales lee 14 medios de todo el espectro político español,
+        Un equipo de inteligencias artificiales lee 16 medios de todo el espectro político español,
         cruza sus coberturas y redacta cada noticia con sesgo mínimo. Tú formas tu propia opinión.
       </p>
 
@@ -228,7 +227,7 @@ function PromoCard() {
 }
 
 /* ── Hero + grid layout for a group of articles ── */
-function HeroGrid({ articles, showPromo }: { articles: ArticleWithMeta[]; showPromo?: boolean }) {
+function HeroGrid({ articles, showPromo, readSlugs }: { articles: ArticleWithMeta[]; showPromo?: boolean; readSlugs: Set<string> }) {
   if (articles.length === 0) return null;
 
   const [hero, ...rest] = articles;
@@ -239,11 +238,11 @@ function HeroGrid({ articles, showPromo }: { articles: ArticleWithMeta[]; showPr
     <>
       {/* Top row: hero (2 cols) + side stack (1 col) */}
       <div className="grid grid-cols-1 lg:grid-cols-[2fr_1fr] gap-5">
-        <HeroCard article={hero} />
+        <HeroCard article={hero} read={readSlugs.has(hero.slug)} />
         {sideCards.length > 0 && (
           <div className="flex flex-col gap-1">
             {sideCards.map((a) => (
-              <SideCard key={a.id} article={a} />
+              <SideCard key={a.id} article={a} read={readSlugs.has(a.slug)} />
             ))}
             {showPromo && <PromoCard />}
           </div>
@@ -254,7 +253,7 @@ function HeroGrid({ articles, showPromo }: { articles: ArticleWithMeta[]; showPr
       {gridCards.length > 0 && (
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 mt-5">
           {gridCards.map((a) => (
-            <ArticleCard key={a.id} article={a} />
+            <ArticleCard key={a.id} article={a} read={readSlugs.has(a.slug)} />
           ))}
         </div>
       )}
@@ -267,10 +266,12 @@ function CategorySection({
   title,
   articles,
   color,
+  readSlugs,
 }: {
   title: string;
   articles: ArticleWithMeta[];
   color: string;
+  readSlugs: Set<string>;
 }) {
   const bgColor = `${color}14`;
   return (
@@ -285,7 +286,7 @@ function CategorySection({
           </h2>
           <div style={{ height: 3, width: 60, backgroundColor: color }} />
         </div>
-        <HeroGrid articles={articles} />
+        <HeroGrid articles={articles} readSlugs={readSlugs} />
       </div>
     </section>
   );
@@ -293,9 +294,12 @@ function CategorySection({
 
 /* ── Main page ── */
 export default function HomePage() {
-  const data = useLoaderData() as HomeData | null;
+  const data = useLoaderData() as FeedData | null;
   const [searchParams] = useSearchParams();
   const catFilter = searchParams.get("cat");
+  const [overflowVisible, setOverflowVisible] = useState(OVERFLOW_PAGE_SIZE);
+  const { hideNegative, hiddenCats } = useOutletContext<AppContext>();
+  const readSlugs = useMemo(() => getReadSlugs(), []);
 
   if (!data || data.articles.length === 0) {
     return (
@@ -312,12 +316,20 @@ export default function HomePage() {
     );
   }
 
-  const { edition, articles: rawArticles } = data;
-  const { hideNegative } = useOutletContext<AppContext>();
+  const { meta, articles: rawArticles } = data;
+  const latest = meta.latestEdition;
 
-  const allArticles = hideNegative
+  const visible = hideNegative
     ? rawArticles.filter((a) => a.sentiment !== "negative")
     : rawArticles;
+
+  // Apply hidden categories only when no explicit catFilter
+  const allArticles = catFilter
+    ? visible
+    : visible.filter((a) => {
+        const primary = getPrimaryCategory(a);
+        return !primary || !hiddenCats.has(primary);
+      });
 
   /* ── Filtered view: single category ── */
   if (catFilter) {
@@ -327,11 +339,13 @@ export default function HomePage() {
     if (filtered.length === 0) {
       return (
         <div>
-          <EditionBanner
-            type={edition.type}
-            publishedAt={edition.publishedAt}
-            articleCount={edition.articleCount}
-          />
+          {latest && (
+            <EditionBanner
+              type={latest.type}
+              publishedAt={latest.publishedAt}
+              articleCount={meta.articleCount}
+            />
+          )}
           <div className="py-20 text-center">
             <span
               className="inline-block text-[12px] font-bold uppercase tracking-wide px-3 py-1 rounded mb-4"
@@ -340,7 +354,7 @@ export default function HomePage() {
               {catFilter}
             </span>
             <h2 className="text-xl font-semibold" style={{ color: "var(--text-secondary)" }}>
-              No hay noticias de {catFilter} en esta edición
+              No hay noticias de {catFilter} esta semana
             </h2>
           </div>
         </div>
@@ -349,11 +363,13 @@ export default function HomePage() {
 
     return (
       <div>
-        <EditionBanner
-          type={edition.type}
-          publishedAt={edition.publishedAt}
-          articleCount={edition.articleCount}
-        />
+        {latest && (
+          <EditionBanner
+            type={latest.type}
+            publishedAt={latest.publishedAt}
+            articleCount={meta.articleCount}
+          />
+        )}
         <section className="py-6">
           <div className="mx-auto max-w-[1100px] px-5">
             <div className="mb-5">
@@ -365,7 +381,7 @@ export default function HomePage() {
               </h2>
               <div style={{ height: 3, width: 60, backgroundColor: catColor }} />
             </div>
-            <HeroGrid articles={filtered} />
+            <HeroGrid articles={filtered} readSlugs={readSlugs} />
           </div>
         </section>
       </div>
@@ -405,19 +421,24 @@ export default function HomePage() {
   // Sort full sections by number of articles descending
   fullSections.sort((a, b) => b.articles.length - a.articles.length);
 
+  const visibleOverflow = overflowArticles.slice(0, overflowVisible);
+  const hasMoreOverflow = overflowVisible < overflowArticles.length;
+
   return (
     <div>
-      <EditionBanner
-        type={edition.type}
-        publishedAt={edition.publishedAt}
-        articleCount={edition.articleCount}
-      />
+      {latest && (
+        <EditionBanner
+          type={latest.type}
+          publishedAt={latest.publishedAt}
+          articleCount={meta.articleCount}
+        />
+      )}
 
       {/* ━━━ Principal section ━━━ */}
       {topArticles.length > 0 && (
         <section className="pb-6">
           <div className="mx-auto max-w-[1100px] px-5">
-            <HeroGrid articles={topArticles} showPromo />
+            <HeroGrid articles={topArticles} showPromo readSlugs={readSlugs} />
           </div>
         </section>
       )}
@@ -429,6 +450,7 @@ export default function HomePage() {
           title={category}
           articles={articles}
           color={color}
+          readSlugs={readSlugs}
         />
       ))}
 
@@ -446,10 +468,26 @@ export default function HomePage() {
               <div style={{ height: 3, width: 60, backgroundColor: "var(--text-light)" }} />
             </div>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-              {overflowArticles.map((a) => (
-                <ArticleCard key={a.id} article={a} />
+              {visibleOverflow.map((a) => (
+                <ArticleCard key={a.id} article={a} read={readSlugs.has(a.slug)} />
               ))}
             </div>
+            {hasMoreOverflow && (
+              <div className="mt-8 text-center">
+                <button
+                  onClick={() => setOverflowVisible((v) => v + OVERFLOW_PAGE_SIZE)}
+                  className="px-6 py-2.5 text-[14px] font-semibold transition-colors"
+                  style={{
+                    color: "var(--blue)",
+                    border: "1px solid var(--blue)",
+                    background: "transparent",
+                    cursor: "pointer",
+                  }}
+                >
+                  Cargar más
+                </button>
+              </div>
+            )}
           </div>
         </section>
       )}

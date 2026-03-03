@@ -1,4 +1,4 @@
--- Seed 14 Spanish media sources for El Punto Medio
+-- Seed 16 Spanish media sources for El Punto Medio
 INSERT INTO sources (name, url, rss_url, political_lean, active) VALUES
   ('El País', 'https://elpais.com', 'https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada', 'center-left', 1),
   ('El Mundo', 'https://elmundo.es', 'https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml', 'center-right', 1),
@@ -13,4 +13,6 @@ INSERT INTO sources (name, url, rss_url, political_lean, active) VALUES
   ('El Español', 'https://elespanol.com', 'https://www.elespanol.com/rss/', 'center-right', 1),
   ('Público', 'https://publico.es', '', 'left', 1),
   ('RTVE', 'https://rtve.es', '', 'public', 1),
-  ('El Periódico', 'https://elperiodico.com', 'https://www.elperiodico.com/es/cds/rss/?id=board.xml', 'center-left', 1);
+  ('El Periódico', 'https://elperiodico.com', 'https://www.elperiodico.com/es/cds/rss/?id=board.xml', 'center-left', 1),
+  ('Agencia SINC', 'https://agenciasinc.es', '', 'public', 1),
+  ('Redacción Médica', 'https://redaccionmedica.com', '', 'public', 1);

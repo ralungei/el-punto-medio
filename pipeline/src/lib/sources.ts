@@ -102,6 +102,55 @@ export const SOURCES: SourceConfig[] = [
     rssUrl: "https://www.elperiodico.com/es/cds/rss/?id=board.xml",
     politicalLean: "center-left",
   },
+  {
+    name: "Agencia SINC",
+    url: "https://agenciasinc.es",
+    rssUrl: "",
+    politicalLean: "public",
+    scrapeUrl: "https://www.agenciasinc.es/",
+  },
+  {
+    name: "Redacción Médica",
+    url: "https://redaccionmedica.com",
+    rssUrl: "",
+    politicalLean: "public",
+    scrapeUrl: "https://www.redaccionmedica.com/",
+  },
+  {
+    name: "Europa Press",
+    url: "https://europapress.es",
+    rssUrl: "",
+    politicalLean: "center",
+    scrapeUrl: "https://www.europapress.es/",
+  },
+  {
+    name: "Xataka",
+    url: "https://xataka.com",
+    rssUrl: "",
+    politicalLean: "center",
+    scrapeUrl: "https://www.xataka.com/",
+  },
+  {
+    name: "Hipertextual",
+    url: "https://hipertextual.com",
+    rssUrl: "",
+    politicalLean: "center",
+    scrapeUrl: "https://hipertextual.com/",
+  },
+  {
+    name: "National Geographic España",
+    url: "https://nationalgeographic.com.es",
+    rssUrl: "",
+    politicalLean: "public",
+    scrapeUrl: "https://www.nationalgeographic.com.es/",
+  },
+  {
+    name: "EFE",
+    url: "https://efe.com",
+    rssUrl: "",
+    politicalLean: "public",
+    scrapeUrl: "https://efe.com/ultimas-noticias/",
+  },
 ];
 
 export const LEAN_LABELS: Record<PoliticalLean, string> = {
