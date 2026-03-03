@@ -144,7 +144,7 @@ export function SpectrumBar({
           const isAbove = sideMap.get(source.id) ?? true;
           const isCovered = coveredIds.has(source.id);
           const favicon = getFavicon(source.name);
-          const CIRCLE = 22;
+          const CIRCLE = 28;
           const CONN = 14;
 
           const faviconEl = (
@@ -166,8 +166,8 @@ export function SpectrumBar({
                 <img
                   src={favicon}
                   alt=""
-                  width={14}
-                  height={14}
+                  width={18}
+                  height={18}
                   loading="lazy"
                   style={{ filter: isCovered ? "none" : "grayscale(1)" }}
                 />

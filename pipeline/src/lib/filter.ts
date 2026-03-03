@@ -57,8 +57,15 @@ async function filterBatch(articles: ArticleToFilter[]): Promise<Set<number>> {
   });
 
   const text = response.content[0].type === "text" ? response.content[0].text : "";
-  const cleaned = text.replace(/^```(?:json)?\s*/m, "").replace(/\s*```\s*$/m, "");
-  const decisions: string[] = JSON.parse(cleaned);
+  const arrayMatch = text.match(/\[[\s\S]*\]/);
+  if (!arrayMatch) {
+    throw new Error(`No JSON array found in LLM response: ${text.slice(0, 200)}`);
+  }
+  const decisions: string[] = JSON.parse(arrayMatch[0]);
+
+  if (decisions.length !== articles.length) {
+    console.log(`    ⚠ Decision count mismatch: got ${decisions.length}, expected ${articles.length}`);
+  }
 
   for (let i = 0; i < articles.length && i < decisions.length; i++) {
     if (decisions[i].toLowerCase().startsWith("sí") || decisions[i].toLowerCase() === "si") {

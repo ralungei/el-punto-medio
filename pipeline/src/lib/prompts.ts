@@ -13,14 +13,14 @@ Los textos fuente son SOLO material de referencia para extraer HECHOS verificabl
 
 export function analysisPrompt(
   clusterTopic: string,
-  articles: { sourceName: string; politicalLean: string; title: string; description: string; content?: string | null }[]
+  articles: { sourceId: number; sourceName: string; politicalLean: string; title: string; description: string; content?: string | null }[]
 ): string {
   const articlesText = articles
     .map((a, i) => {
       const body = a.content
         ? `Contenido:\n${a.content.slice(0, 3000)}`
         : `Descripción: ${a.description}`;
-      return `[${i + 1}] ${a.sourceName} (${a.politicalLean}):\nTitular: ${a.title}\n${body}`;
+      return `[${i + 1}] sourceId=${a.sourceId} ${a.sourceName} (${a.politicalLean}):\nTitular: ${a.title}\n${body}`;
     })
     .join("\n\n");
 
@@ -36,10 +36,11 @@ Tema del cluster: ${clusterTopic}
 Artículos:
 ${articlesText}
 
-Responde SOLO con JSON válido, sin markdown. Formato:
+Responde con JSON. Para cada análisis, incluye el sourceId numérico exacto del medio (proporcionado arriba). Formato:
 {
   "analyses": [
     {
+      "sourceId": 123,
       "sourceName": "nombre del medio",
       "tone": "tono detectado",
       "framing": "descripción del encuadre en 1-2 frases",

@@ -3,6 +3,32 @@ import { db, schema } from "./db";
 import { eq } from "drizzle-orm";
 import { analysisPrompt, categorizationPrompt, SYSTEM_PROMPT } from "./prompts";
 import { runConcurrent, batchSelect } from "./concurrent";
+import { inputHash } from "./hash";
+
+const ANALYSIS_SCHEMA = {
+  type: "object" as const,
+  properties: {
+    analyses: {
+      type: "array" as const,
+      items: {
+        type: "object" as const,
+        properties: {
+          sourceId: { type: "integer" as const },
+          sourceName: { type: "string" as const },
+          tone: { type: "string" as const },
+          framing: { type: "string" as const },
+          emphasis: { type: "string" as const },
+          omissions: { type: "string" as const },
+        },
+        required: ["sourceName", "tone", "framing", "emphasis", "omissions"] as const,
+        additionalProperties: false as const,
+      },
+    },
+    topicSummary: { type: "string" as const },
+  },
+  required: ["analyses", "topicSummary"] as const,
+  additionalProperties: false as const,
+};
 
 interface ClusterWithArticles {
   clusterId: number;
@@ -22,6 +48,32 @@ export async function analyzeCluster(cluster: ClusterWithArticles): Promise<void
   // Skip single-source clusters (no comparison to make)
   const uniqueSources = new Set(cluster.articles.map((a) => a.sourceId));
   if (uniqueSources.size < 2) return;
+
+  // Cache check: skip if inputs haven't changed
+  const { forceRegenerate } = await import("../../scripts/pipeline.js");
+  const hashInput = JSON.stringify(
+    cluster.articles.map((a) => ({
+      sourceId: a.sourceId,
+      title: a.title,
+      content: a.content?.slice(0, 3000),
+    }))
+  );
+  const hash = inputHash(hashInput);
+
+  if (!forceRegenerate) {
+    const existing = await db
+      .select({ analysisHash: schema.clusters.analysisHash })
+      .from(schema.clusters)
+      .where(eq(schema.clusters.id, cluster.clusterId))
+      .get();
+
+    if (existing?.analysisHash === hash) {
+      console.log(
+        `  ⊘ Cached, skipping: "${cluster.topicSummary.slice(0, 60)}..."`
+      );
+      return;
+    }
+  }
 
   console.log(
     `  Analyzing: "${cluster.topicSummary.slice(0, 60)}..." (${cluster.articles.length} articles, ${uniqueSources.size} sources)`
@@ -71,6 +123,12 @@ export async function analyzeCluster(cluster: ClusterWithArticles): Promise<void
     model: "claude-sonnet-4-6",
     max_tokens: 2000,
     system: SYSTEM_PROMPT,
+    output_config: {
+      format: {
+        type: "json_schema",
+        schema: ANALYSIS_SCHEMA,
+      },
+    },
     messages: [
       {
         role: "user",
@@ -83,8 +141,7 @@ export async function analyzeCluster(cluster: ClusterWithArticles): Promise<void
     response.content[0].type === "text" ? response.content[0].text : "";
 
   try {
-    const cleaned = text.replace(/^```(?:json)?\s*/m, "").replace(/\s*```\s*$/m, "");
-    const parsed = JSON.parse(cleaned);
+    const parsed = JSON.parse(text);
 
     // Update topic summary if Claude provided a better one
     if (parsed.topicSummary) {
@@ -96,9 +153,10 @@ export async function analyzeCluster(cluster: ClusterWithArticles): Promise<void
 
     // Store per-source analyses
     for (const analysis of parsed.analyses || []) {
-      const article = cluster.articles.find(
-        (a) => a.sourceName === analysis.sourceName
-      );
+      // Match by sourceId first, fall back to sourceName
+      const article =
+        (analysis.sourceId && cluster.articles.find((a) => a.sourceId === analysis.sourceId)) ||
+        cluster.articles.find((a) => a.sourceName === analysis.sourceName);
       if (!article) continue;
 
       await db.insert(schema.sourceAnalyses)
@@ -111,8 +169,24 @@ export async function analyzeCluster(cluster: ClusterWithArticles): Promise<void
           omissions: analysis.omissions,
           rawJson: JSON.stringify(analysis),
         })
+        .onConflictDoUpdate({
+          target: [schema.sourceAnalyses.clusterId, schema.sourceAnalyses.sourceId],
+          set: {
+            tone: analysis.tone,
+            framing: analysis.framing,
+            emphasis: analysis.emphasis,
+            omissions: analysis.omissions,
+            rawJson: JSON.stringify(analysis),
+          },
+        })
         .run();
     }
+
+    // Store input hash for cache
+    await db.update(schema.clusters)
+      .set({ analysisHash: hash })
+      .where(eq(schema.clusters.id, cluster.clusterId))
+      .run();
 
     console.log(
       `    ✓ ${parsed.analyses?.length || 0} source analyses stored [${categories.join(",")}]`

@@ -4,11 +4,20 @@ import { eq } from "drizzle-orm";
 import { SOURCES } from "./sources";
 import { runConcurrent } from "./concurrent";
 
+const TRACKING_PARAMS = new Set([
+  "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
+  "ref", "source", "fbclid", "gclid", "msclkid", "dclid",
+]);
+
 function normalizeUrl(url: string): string {
   try {
     const u = new URL(url);
-    u.search = "";
     u.hash = "";
+    for (const key of [...u.searchParams.keys()]) {
+      if (TRACKING_PARAMS.has(key) || key.startsWith("utm_")) {
+        u.searchParams.delete(key);
+      }
+    }
     return u.toString().replace(/\/$/, "");
   } catch {
     return url;
@@ -146,30 +155,33 @@ export async function ingest(editionId: number): Promise<IngestResult[]> {
   console.log(`Launching browser for ${activeSources.length} sources (concurrency=${SCRAPE_CONCURRENCY})...`);
 
   const browser = await chromium.launch({ headless: true });
-  const context = await browser.newContext({
-    extraHTTPHeaders: { "Accept-Language": "es-ES,es;q=0.9" },
-  });
+  let ingestResults: IngestResult[];
+  try {
+    const context = await browser.newContext({
+      extraHTTPHeaders: { "Accept-Language": "es-ES,es;q=0.9" },
+    });
 
-  const tasks = activeSources.map((source: { id: number; name: string }) => async () => {
-    const page = await context.newPage();
-    try {
-      return await fetchSource(source, page, editionId);
-    } finally {
-      await page.close();
+    const tasks = activeSources.map((source: { id: number; name: string }) => async () => {
+      const page = await context.newPage();
+      try {
+        return await fetchSource(source, page, editionId);
+      } finally {
+        await page.close();
+      }
+    });
+
+    ingestResults = await runConcurrent(tasks, SCRAPE_CONCURRENCY);
+
+    for (const r of ingestResults) {
+      const icon = r.errors.length > 0 ? "⚠" : "✓";
+      console.log(`  ${icon} ${r.sourceName}: ${r.inserted}/${r.fetched} articles`);
+      for (const err of r.errors) {
+        console.log(`    → ${err}`);
+      }
     }
-  });
-
-  const ingestResults = await runConcurrent(tasks, SCRAPE_CONCURRENCY);
-
-  for (const r of ingestResults) {
-    const icon = r.errors.length > 0 ? "⚠" : "✓";
-    console.log(`  ${icon} ${r.sourceName}: ${r.inserted}/${r.fetched} articles`);
-    for (const err of r.errors) {
-      console.log(`    → ${err}`);
-    }
+  } finally {
+    await browser.close();
   }
-
-  await browser.close();
 
   const totalInserted = ingestResults.reduce((s, r) => s + r.inserted, 0);
   console.log(`Total: ${totalInserted} new articles ingested`);

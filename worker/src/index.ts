@@ -99,7 +99,10 @@ function parseSections(raw: string): Record<string, unknown> {
   const s = JSON.parse(raw);
 
   if (typeof s.coverage === "string") {
-    try { s.coverage = JSON.parse(s.coverage); } catch { /* keep */ }
+    try { s.coverage = JSON.parse(s.coverage); } catch { s.coverage = []; }
+  }
+  if (!Array.isArray(s.coverage)) {
+    s.coverage = [];
   }
 
   if (typeof s.questions === "string") {

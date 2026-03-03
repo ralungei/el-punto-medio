@@ -11,8 +11,8 @@ const FETCH_TIMEOUT_MS = 15000;
 // Suppress JSDOM CSS parsing warnings
 const virtualConsole = new VirtualConsole();
 
-// Track last fetch time per domain for rate limiting
-const domainLastFetch = new Map<string, number>();
+// Per-domain promise chain for race-free rate limiting
+const domainChain = new Map<string, Promise<void>>();
 
 function getDomain(url: string): string {
   try {
@@ -23,14 +23,12 @@ function getDomain(url: string): string {
 }
 
 async function waitForDomain(domain: string): Promise<void> {
-  const last = domainLastFetch.get(domain);
-  if (last) {
-    const elapsed = Date.now() - last;
-    if (elapsed < DOMAIN_DELAY_MS) {
-      await new Promise((r) => setTimeout(r, DOMAIN_DELAY_MS - elapsed));
-    }
-  }
-  domainLastFetch.set(domain, Date.now());
+  const prev = domainChain.get(domain) ?? Promise.resolve();
+  const next = prev.then(
+    () => new Promise<void>((r) => setTimeout(r, DOMAIN_DELAY_MS))
+  );
+  domainChain.set(domain, next);
+  await prev;
 }
 
 interface ScrapeResult {

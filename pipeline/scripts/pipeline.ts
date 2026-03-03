@@ -8,11 +8,14 @@ import { analyzeEdition } from "../src/lib/analyze.js";
 import { synthesizeEdition } from "../src/lib/synthesize.js";
 import { exportEditionIndex } from "../src/lib/export.js";
 import { setStage, printUsageSummary } from "../src/lib/usage.js";
-import { eq } from "drizzle-orm";
+import { eq, and, isNull, isNotNull, sql } from "drizzle-orm";
 
 const isCI = !!process.env.CF_D1_TOKEN;
 
 type Stage = "ingest" | "filter" | "scrape" | "cluster" | "analyze" | "synthesize" | "all";
+
+/** When true, analyze/synthesize skip input-hash cache and re-call LLM. */
+export let forceRegenerate = false;
 
 function getEditionType(): "morning" | "midday" | "night" {
   const hour = new Date().getHours();
@@ -21,10 +24,11 @@ function getEditionType(): "morning" | "midday" | "night" {
   return "night";
 }
 
-function parseArgs(): { stage: Stage; editionId?: number } {
+function parseArgs(): { stage: Stage; editionId?: number; force: boolean } {
   const args = process.argv.slice(2);
   let stage: Stage = "all";
   let editionId: number | undefined;
+  let force = false;
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === "--stage" && args[i + 1]) {
@@ -35,9 +39,12 @@ function parseArgs(): { stage: Stage; editionId?: number } {
       editionId = parseInt(args[i + 1]);
       i++;
     }
+    if (args[i] === "--force") {
+      force = true;
+    }
   }
 
-  return { stage, editionId };
+  return { stage, editionId, force };
 }
 
 function elapsed(start: number): string {
@@ -47,12 +54,13 @@ function elapsed(start: number): string {
 async function run() {
   await initDb();
 
-  const { stage, editionId: existingEditionId } = parseArgs();
+  const { stage, editionId: existingEditionId, force } = parseArgs();
+  forceRegenerate = force;
   const start = Date.now();
 
   console.log(`\n══════════════════════════════════════`);
   console.log(`  EL PUNTO MEDIO — Pipeline`);
-  console.log(`  Stage: ${stage}`);
+  console.log(`  Stage: ${stage}${force ? " (--force)" : ""}`);
   console.log(`  Mode: ${isCI ? "production (D1)" : "local (SQLite)"}`);
   console.log(`  Time: ${new Date().toLocaleString("es-ES")}`);
   console.log(`══════════════════════════════════════\n`);
@@ -131,6 +139,35 @@ async function run() {
 
   // ── Stage 4: Analyze ──
   if (stage === "all" || stage === "analyze") {
+    // When running standalone, discover enriched clusters from DB
+    if (stage === "analyze" && enrichedClusterIds.length === 0) {
+      const unanalyzed = await db
+        .select({ id: schema.clusters.id })
+        .from(schema.clusters)
+        .where(eq(schema.clusters.editionId, editionId))
+        .all();
+      // Include clusters that have articles but no analyses yet
+      for (const c of unanalyzed) {
+        const hasArticles = await db
+          .select({ id: schema.clusterArticles.clusterId })
+          .from(schema.clusterArticles)
+          .where(eq(schema.clusterArticles.clusterId, c.id))
+          .limit(1)
+          .get();
+        if (!hasArticles) continue;
+        const hasAnalysis = await db
+          .select({ id: schema.sourceAnalyses.clusterId })
+          .from(schema.sourceAnalyses)
+          .where(eq(schema.sourceAnalyses.clusterId, c.id))
+          .limit(1)
+          .get();
+        if (!hasAnalysis) enrichedClusterIds.push(c.id);
+      }
+      if (enrichedClusterIds.length > 0) {
+        console.log(`  Discovered ${enrichedClusterIds.length} unanalyzed clusters from DB`);
+      }
+    }
+
     const t = Date.now();
     setStage("analyze");
     console.log(`── STAGE 4: Análisis ─────────────────`);

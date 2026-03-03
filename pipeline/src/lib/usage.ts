@@ -17,11 +17,20 @@ export function setStage(stage: string) {
   currentStage = stage;
 }
 
+const LLM_TIMEOUT_MS = 120_000;
+
 /** Drop-in replacement for anthropic.messages.create() with auto-tracking */
 export async function llm(
   params: Anthropic.MessageCreateParamsNonStreaming
 ): Promise<Anthropic.Message> {
-  const response = await _anthropic.messages.create(params);
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), LLM_TIMEOUT_MS);
+  let response: Anthropic.Message;
+  try {
+    response = await _anthropic.messages.create(params, { signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
   const usage = response.usage as unknown as Record<string, number>;
   records.push({
     stage: currentStage,

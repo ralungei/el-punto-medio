@@ -2,7 +2,7 @@ import type { ArticleSections as Sections, ClusterSource } from "../../types";
 import { CoverageCard } from "./CoverageCard";
 
 export function ArticleSections({
-  sections,
+  sections: rawSections,
   onlyCoverage,
   clusterSources,
 }: {
@@ -10,6 +10,11 @@ export function ArticleSections({
   onlyCoverage?: boolean;
   clusterSources?: ClusterSource[];
 }) {
+  const sections = {
+    ...rawSections,
+    coverage: Array.isArray(rawSections.coverage) ? rawSections.coverage : [],
+    questions: Array.isArray(rawSections.questions) ? rawSections.questions : [],
+  };
   /* Build a map: source name → first article URL */
   const sourceUrlMap = new Map<string, { title: string; url: string }>();
   if (clusterSources) {

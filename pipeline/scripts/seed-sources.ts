@@ -16,10 +16,20 @@ async function seed() {
       .get();
 
     if (existing) {
-      // Update rssUrl and url if they changed
-      if (existing.rssUrl !== source.rssUrl || existing.url !== source.url) {
+      // Update all mutable fields if any changed
+      if (
+        existing.rssUrl !== source.rssUrl ||
+        existing.url !== source.url ||
+        existing.politicalLean !== source.politicalLean ||
+        existing.active !== true
+      ) {
         await db.update(schema.sources)
-          .set({ rssUrl: source.rssUrl, url: source.url })
+          .set({
+            rssUrl: source.rssUrl,
+            url: source.url,
+            politicalLean: source.politicalLean,
+            active: true,
+          })
           .where(eq(schema.sources.id, existing.id))
           .run();
         console.log(`  ↻ ${source.name} (updated)`);

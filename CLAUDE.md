@@ -74,6 +74,35 @@ npm run deploy    # Deploy a Workers
 
 Config en `pipeline/src/lib/sources.ts`. Favicons en `frontend/src/constants.ts` (`SOURCE_DOMAIN`).
 
+## Despliegue
+
+### URLs de producción
+- **Frontend**: https://el-punto-medio.pages.dev (Cloudflare Pages)
+- **API**: https://el-punto-medio-api.ras-alungei.workers.dev (Cloudflare Workers)
+- **D1 Database**: `el-punto-medio-db` (ID: `15a88e33-e880-4f87-9ddc-c88c9aacee43`)
+
+### GitHub Actions (`.github/workflows/`)
+- **`deploy.yml`**: Despliega frontend a Cloudflare Pages en push a `main` (solo si cambia `frontend/`)
+- **`pipeline.yml`**: Ejecuta pipeline cada 6h (cron: `0 0,6,12,18 * * *`) + dispatch manual. Timeout 45min.
+
+### Secrets necesarios
+| Secret | Uso |
+|--------|-----|
+| `ANTHROPIC_API_KEY` | Claude API (pipeline) |
+| `CF_D1_TOKEN` | Cloudflare API token (deploy + pipeline) |
+| `CF_ACCOUNT_ID` | Cloudflare account ID |
+| `CF_D1_DATABASE_ID` | D1 database ID (pipeline escribe via REST API) |
+
+### Worker (`worker/wrangler.toml`)
+- Nombre: `el-punto-medio-api`
+- Binding D1: `DB`
+- Deploy manual: `cd worker && npm run deploy`
+
+### Entorno local vs producción
+- **Local**: SQLite en `pipeline/data/panorama.db` (better-sqlite3)
+- **Producción**: Cloudflare D1 via HTTP REST adapter (pipeline en CI) + D1 binding (worker)
+- Variable `CF_D1_TOKEN` presente → modo producción (D1); ausente → modo local (SQLite)
+
 ## Convenciones
 
 - **TypeScript** en todo. Strict mode.

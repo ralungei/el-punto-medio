@@ -4,6 +4,7 @@ import {
   integer,
   real,
   primaryKey,
+  uniqueIndex,
 } from "drizzle-orm/sqlite-core";
 
 export const sources = sqliteTable("sources", {
@@ -59,6 +60,7 @@ export const clusters = sqliteTable("clusters", {
   category: text("category"), // deprecated — kept for backwards compat
   categories: text("categories"), // JSON array: ["deportes","sociedad"]
   avgSimilarity: real("avg_similarity"),
+  analysisHash: text("analysis_hash"),
 });
 
 export const clusterArticles = sqliteTable(
@@ -87,7 +89,9 @@ export const sourceAnalyses = sqliteTable("source_analyses", {
   emphasis: text("emphasis"),
   omissions: text("omissions"),
   rawJson: text("raw_json"), // full analysis JSON
-});
+}, (table) => [
+  uniqueIndex("source_analyses_cluster_source_idx").on(table.clusterId, table.sourceId),
+]);
 
 export const articles = sqliteTable("articles", {
   id: integer("id").primaryKey({ autoIncrement: true }),
@@ -110,4 +114,5 @@ export const articles = sqliteTable("articles", {
     .notNull()
     .$defaultFn(() => new Date().toISOString()),
   updatedAt: text("updated_at"),
+  synthesisHash: text("synthesis_hash"),
 });

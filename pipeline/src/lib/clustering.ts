@@ -704,6 +704,7 @@ export async function clusterEdition(editionId: number): Promise<ClusterEditionR
       for (const article of clusterArticles) {
         await db.insert(schema.clusterArticles)
           .values({ clusterId: row.id, rawArticleId: article.id })
+          .onConflictDoNothing()
           .run();
       }
 

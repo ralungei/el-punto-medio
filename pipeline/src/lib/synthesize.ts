@@ -1,9 +1,10 @@
 import { llm } from "./usage";
 import { db, schema } from "./db";
-import { eq, desc } from "drizzle-orm";
+import { eq, desc, count } from "drizzle-orm";
 import { synthesisPrompt, slugify, SYSTEM_PROMPT } from "./prompts";
 import { runConcurrent, batchSelect } from "./concurrent";
 import { exportArticle } from "./export";
+import { inputHash } from "./hash";
 
 const isCI = !!process.env.CF_D1_TOKEN;
 
@@ -17,10 +18,25 @@ const SYNTHESIS_SCHEMA = {
       items: { type: "string" as const },
     },
     facts: { type: "string" as const },
-    coverage: { type: "string" as const },
+    coverage: {
+      type: "array" as const,
+      items: {
+        type: "object" as const,
+        properties: {
+          sourceName: { type: "string" as const },
+          tone: { type: "string" as const },
+          summary: { type: "string" as const },
+        },
+        required: ["sourceName", "tone", "summary"] as const,
+        additionalProperties: false as const,
+      },
+    },
     hidden: { type: "string" as const },
     context: { type: "string" as const },
-    questions: { type: "string" as const },
+    questions: {
+      type: "array" as const,
+      items: { type: "string" as const },
+    },
     sentiment: { type: "string" as const },
     related_slugs: {
       type: "array" as const,
@@ -96,6 +112,35 @@ export async function synthesizeCluster(
     };
   });
 
+  // Cache check: skip if inputs haven't changed
+  const { forceRegenerate } = await import("../../scripts/pipeline.js");
+  const categoriesJson = cluster.categories
+    ? JSON.parse(cluster.categories).join(", ")
+    : cluster.category || "sociedad";
+  const hashData = JSON.stringify(
+    enrichedAnalyses.map((a: Record<string, unknown>) => ({
+      sourceId: a.sourceName,
+      tone: a.tone,
+      framing: a.framing,
+      content: (a.content as string | undefined)?.slice(0, 2000),
+    }))
+  ) + cluster.topicSummary + categoriesJson;
+  const hash = inputHash(hashData);
+
+  // Check if an article already exists for this cluster
+  const existingByCluster = await db
+    .select()
+    .from(schema.articles)
+    .where(eq(schema.articles.clusterId, clusterId))
+    .get();
+
+  if (!forceRegenerate && existingByCluster?.synthesisHash === hash) {
+    console.log(
+      `  ⊘ Cached, skipping: "${cluster.topicSummary?.slice(0, 60)}..."`
+    );
+    return existingByCluster.slug;
+  }
+
   // Get previous articles for internal linking
   const previousArticles = await db
     .select({ slug: schema.articles.slug, headline: schema.articles.headline })
@@ -124,9 +169,7 @@ export async function synthesizeCluster(
         content: synthesisPrompt(
           cluster.topicSummary || "Sin tema",
           enrichedAnalyses,
-          cluster.categories
-            ? JSON.parse(cluster.categories).join(", ")
-            : cluster.category || "sociedad",
+          categoriesJson,
           previousArticles,
           isEnrichment
         ),
@@ -158,14 +201,7 @@ export async function synthesizeCluster(
         ? [parsed.category.trim().toLowerCase()]
         : [];
     const categories = parsedCats.length > 0 ? parsedCats : clusterCats;
-    const categoriesJson = JSON.stringify(categories);
-
-    // Check if an article already exists for this cluster (enrichment case)
-    const existingByCluster = await db
-      .select()
-      .from(schema.articles)
-      .where(eq(schema.articles.clusterId, clusterId))
-      .get();
+    const finalCategoriesJson = JSON.stringify(categories);
 
     if (existingByCluster) {
       // Re-synthesized with all analyses — UPDATE existing article
@@ -176,8 +212,9 @@ export async function synthesizeCluster(
           sections: sectionsJson,
           sentiment: parsed.sentiment || null,
           category: categories[0],
-          categories: categoriesJson,
+          categories: finalCategoriesJson,
           sourcesCount: enrichedAnalyses.length,
+          synthesisHash: hash,
           updatedAt: new Date().toISOString(),
         })
         .where(eq(schema.articles.id, existingByCluster.id))
@@ -189,18 +226,19 @@ export async function synthesizeCluster(
       return existingByCluster.slug;
     }
 
-    const slug = slugify(parsed.headline || cluster.topicSummary || "noticia");
+    let slug = slugify(parsed.headline || cluster.topicSummary || "noticia");
 
-    // Check for duplicate — if same slug already exists, skip (same story already published)
-    const existingBySlug = await db
-      .select()
-      .from(schema.articles)
-      .where(eq(schema.articles.slug, slug))
-      .get();
-
-    if (existingBySlug) {
-      console.log(`    ⊘ Skipped duplicate: "${slug}" already exists`);
-      return null;
+    // Find a free slug by appending numeric suffix if needed
+    let suffix = 1;
+    while (true) {
+      const existingBySlug = await db
+        .select({ id: schema.articles.id })
+        .from(schema.articles)
+        .where(eq(schema.articles.slug, slug))
+        .get();
+      if (!existingBySlug) break;
+      suffix++;
+      slug = `${slugify(parsed.headline || cluster.topicSummary || "noticia")}-${suffix}`;
     }
 
     await db.insert(schema.articles)
@@ -213,7 +251,8 @@ export async function synthesizeCluster(
         sections: sectionsJson,
         sentiment: parsed.sentiment || null,
         category: categories[0],
-        categories: categoriesJson,
+        categories: finalCategoriesJson,
+        synthesisHash: hash,
         sourcesCount: enrichedAnalyses.length,
       })
       .run();
@@ -277,18 +316,25 @@ export async function synthesizeEdition(
     return slug;
   });
 
-  const results = await runConcurrent(tasks, 15);
-  const created = results.filter((slug) => slug !== null).length;
+  await runConcurrent(tasks, 15);
+
+  // Query actual article count for this edition from DB
+  const [{ articleCount }] = await db
+    .select({ articleCount: count() })
+    .from(schema.articles)
+    .where(eq(schema.articles.editionId, editionId))
+    .all();
 
   // Update edition
   await db.update(schema.editions)
     .set({
-      articleCount: created,
+      articleCount,
       status: "published",
       publishedAt: new Date().toISOString(),
     })
     .where(eq(schema.editions.id, editionId))
     .run();
+  const created = articleCount;
 
   console.log(`Published edition #${editionId} with ${created} articles`);
   return created;
