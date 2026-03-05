@@ -22,7 +22,6 @@ on:
       force:
         description: "Force regenerate (skip cache)"
         type: boolean
-        required: false
         default: false
 
 jobs:
