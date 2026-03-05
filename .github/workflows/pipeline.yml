@@ -7,9 +7,18 @@ on:
   workflow_dispatch:
     inputs:
       stage:
-        description: "Pipeline stage (all, ingest, filter, scrape, cluster, analyze, synthesize)"
+        description: "Pipeline stage"
+        type: choice
         required: false
         default: "all"
+        options:
+          - all
+          - ingest
+          - filter
+          - scrape
+          - cluster
+          - analyze
+          - synthesize
       force:
         description: "Force regenerate (skip cache)"
         type: boolean
