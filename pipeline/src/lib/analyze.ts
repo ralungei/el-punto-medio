@@ -192,8 +192,12 @@ export async function analyzeCluster(cluster: ClusterWithArticles): Promise<void
       `    ✓ ${parsed.analyses?.length || 0} source analyses stored [${categories.join(",")}]`
     );
   } catch (e) {
-    console.log(`    ✗ Failed to parse analysis: ${e}`);
-    console.log(`    Raw: ${text.slice(0, 200)}`);
+    if (e instanceof SyntaxError) {
+      console.log(`    ✗ Failed to parse analysis: ${e}`);
+      console.log(`    Raw: ${text.slice(0, 200)}`);
+    } else {
+      throw e; // DB errors — rethrow to stop the pipeline
+    }
   }
 }
 

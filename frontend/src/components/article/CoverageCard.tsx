@@ -35,9 +35,9 @@ export function CoverageCard({
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-1.5 mt-3 text-[12px] font-medium transition-colors"
-          style={{ color: "var(--text-light)" }}
-          onMouseEnter={(e) => (e.currentTarget.style.color = "var(--blue)")}
-          onMouseLeave={(e) => (e.currentTarget.style.color = "var(--text-light)")}
+          style={{ color: "var(--blue)" }}
+          onMouseEnter={(e) => (e.currentTarget.style.color = "var(--blue-deep)")}
+          onMouseLeave={(e) => (e.currentTarget.style.color = "var(--blue)")}
         >
           <svg
             width="11"

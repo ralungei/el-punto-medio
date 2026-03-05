@@ -8,6 +8,7 @@ import { analyzeEdition } from "../src/lib/analyze.js";
 import { synthesizeEdition } from "../src/lib/synthesize.js";
 import { exportEditionIndex } from "../src/lib/export.js";
 import { setStage, printUsageSummary } from "../src/lib/usage.js";
+import { validateSchema } from "../src/lib/schema-check.js";
 import { eq, and, isNull, isNotNull, sql } from "drizzle-orm";
 
 const isCI = !!process.env.CF_D1_TOKEN;
@@ -53,6 +54,15 @@ function elapsed(start: number): string {
 
 async function run() {
   await initDb();
+
+  // Pre-flight: validate DB schema before any API calls
+  const check = await validateSchema();
+  if (!check.valid) {
+    console.error(`\n✗ Schema validation failed:`);
+    for (const err of check.errors) console.error(`  - ${err}`);
+    console.error(`\nFix the schema before running the pipeline.`);
+    process.exit(1);
+  }
 
   const { stage, editionId: existingEditionId, force } = parseArgs();
   forceRegenerate = force;

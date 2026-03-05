@@ -260,9 +260,13 @@ export async function synthesizeCluster(
     console.log(`    ✓ Article created: ${slug}`);
     return slug;
   } catch (e) {
-    console.log(`    ✗ Failed to parse synthesis: ${e}`);
-    console.log(`    Raw: ${text.slice(0, 200)}`);
-    return null;
+    if (e instanceof SyntaxError) {
+      console.log(`    ✗ Failed to parse synthesis: ${e}`);
+      console.log(`    Raw: ${text.slice(0, 200)}`);
+      return null;
+    } else {
+      throw e; // DB errors — rethrow to stop the pipeline
+    }
   }
 }
 

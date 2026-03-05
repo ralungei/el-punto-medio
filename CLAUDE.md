@@ -103,6 +103,13 @@ Config en `pipeline/src/lib/sources.ts`. Favicons en `frontend/src/constants.ts`
 - **Producción**: Cloudflare D1 via HTTP REST adapter (pipeline en CI) + D1 binding (worker)
 - Variable `CF_D1_TOKEN` presente → modo producción (D1); ausente → modo local (SQLite)
 
+### Migraciones D1 (IMPORTANTE)
+Drizzle NO auto-migra D1. Al modificar `pipeline/db/schema.ts` (añadir/eliminar columnas), hay que ejecutar manualmente:
+```bash
+npx wrangler d1 execute el-punto-medio-db --remote --command="ALTER TABLE <tabla> ADD COLUMN <col> <tipo>;"
+```
+Si no se hace, el pipeline falla en producción con `SQLITE_ERROR: table X has no column named Y`.
+
 ## Convenciones
 
 - **TypeScript** en todo. Strict mode.

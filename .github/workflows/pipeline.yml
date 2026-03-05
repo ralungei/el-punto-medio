@@ -4,7 +4,17 @@ on:
   schedule:
     # Every 6 hours: 06:00, 12:00, 18:00, 00:00 UTC
     - cron: "0 0,6,12,18 * * *"
-  workflow_dispatch: # Manual trigger
+  workflow_dispatch:
+    inputs:
+      stage:
+        description: "Pipeline stage (all, ingest, filter, scrape, cluster, analyze, synthesize)"
+        required: false
+        default: "all"
+      force:
+        description: "Force regenerate (skip cache)"
+        type: boolean
+        required: false
+        default: false
 
 jobs:
   pipeline:
@@ -35,4 +45,12 @@ jobs:
           CF_D1_TOKEN: ${{ secrets.CF_D1_TOKEN }}
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_D1_DATABASE_ID: ${{ secrets.CF_D1_DATABASE_ID }}
-        run: npm run pipeline
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.stage }}" != "" ] && [ "${{ github.event.inputs.stage }}" != "all" ]; then
+            ARGS="--stage ${{ github.event.inputs.stage }}"
+          fi
+          if [ "${{ github.event.inputs.force }}" == "true" ]; then
+            ARGS="$ARGS --force"
+          fi
+          npm run pipeline -- $ARGS

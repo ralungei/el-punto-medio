@@ -23,6 +23,13 @@ const SOURCE_DOMAIN: Record<string, string> = {
   "El Periódico": "elperiodico.com",
   Newtral: "newtral.es",
   "El Español": "elespanol.com",
+  "Agencia SINC": "agenciasinc.es",
+  "Redacción Médica": "redaccionmedica.com",
+  "Europa Press": "europapress.es",
+  Hipertextual: "hipertextual.com",
+  "NatGeo España": "nationalgeographic.com.es",
+  EFE: "efe.com",
+  Xataka: "xataka.com",
 };
 
 const SHORT_NAME: Record<string, string> = {
@@ -40,6 +47,13 @@ const SHORT_NAME: Record<string, string> = {
   "El Periódico": "Periódico",
   Newtral: "Newtral",
   "El Español": "Español",
+  "Agencia SINC": "SINC",
+  "Redacción Médica": "RedMédica",
+  "Europa Press": "EuropaP",
+  Hipertextual: "Hipertext",
+  "NatGeo España": "NatGeo",
+  EFE: "EFE",
+  Xataka: "Xataka",
 };
 
 function getFavicon(name: string) {
@@ -88,12 +102,19 @@ export function SpectrumBar({
     return { source, pos, off, visualX: pos * 9 + off * 10 };
   });
 
-  /* Sort by visual X position, assign alternating above/below */
+  /* Sort by visual X position, assign alternating above/below + staggered heights */
   const byX = [...items].sort((a, b) => a.visualX - b.visualX);
   const sideMap = new Map<number, boolean>();
-  byX.forEach((it, i) => sideMap.set(it.source.id, i % 2 !== 0));
+  const heightMap = new Map<number, number>();
+  let aboveIdx = 0;
+  let belowIdx = 0;
+  byX.forEach((it, i) => {
+    const isAbove = i % 2 !== 0;
+    sideMap.set(it.source.id, isAbove);
+    heightMap.set(it.source.id, isAbove ? aboveIdx++ : belowIdx++);
+  });
 
-  const BAR_Y = 46;
+  const BAR_Y = 100;
   const BAR_H = 4;
 
   return (
@@ -114,7 +135,7 @@ export function SpectrumBar({
       </div>
 
       {/* Spectrum timeline */}
-      <div className="relative mx-5" style={{ height: 130 }}>
+      <div className="relative mx-5" style={{ height: 260 }}>
         {/* Gradient bar */}
         <div
           className="absolute left-0 right-0"
@@ -145,11 +166,11 @@ export function SpectrumBar({
           const isCovered = coveredIds.has(source.id);
           const favicon = getFavicon(source.name);
           const CIRCLE = 28;
-          const CONN = 14;
+          const CONN = 30;
 
           const faviconEl = (
             <div
-              className="flex items-center justify-center flex-shrink-0"
+              className="flex items-center justify-center flex-shrink-0 transition-transform group-hover:scale-115"
               style={{
                 width: CIRCLE,
                 height: CIRCLE,
@@ -159,7 +180,7 @@ export function SpectrumBar({
                   ? "1.5px solid var(--border)"
                   : "1.5px dashed var(--border)",
                 overflow: "hidden",
-                opacity: isCovered ? 1 : 0.4,
+                opacity: isCovered ? 1 : 0.6,
               }}
             >
               {favicon ? (
@@ -169,7 +190,7 @@ export function SpectrumBar({
                   width={18}
                   height={18}
                   loading="lazy"
-                  style={{ filter: isCovered ? "none" : "grayscale(1)" }}
+                  style={{ filter: isCovered ? "none" : "grayscale(0.8)" }}
                 />
               ) : (
                 <span className="text-[8px] font-bold" style={{ color: "var(--text-muted)" }}>
@@ -179,80 +200,85 @@ export function SpectrumBar({
             </div>
           );
 
-          const connEl = (
-            <div
-              className="flex-shrink-0"
-              style={{
-                width: 1,
-                height: CONN,
-                background: "var(--border)",
-              }}
-            />
-          );
-
           const nameEl = (
             <span
               className="text-[8px] font-semibold text-center leading-tight whitespace-nowrap"
               style={{
-                color: isCovered ? "var(--text)" : "var(--text-light)",
-                opacity: isCovered ? 1 : 0.4,
+                color: isCovered ? "var(--text)" : "var(--text-muted)",
+                opacity: isCovered ? 1 : 0.6,
               }}
             >
               {SHORT_NAME[source.name] ?? source.name}
             </span>
           );
 
-          return (
+          const hIdx = heightMap.get(source.id) ?? 0;
+          const STAGGER = 20;
+          const connHeight = CONN + (hIdx % 3) * STAGGER;
+
+          const connEl = (
             <div
+              className="flex-shrink-0"
+              style={{
+                width: 1,
+                height: connHeight,
+                background: "var(--border)",
+              }}
+            />
+          );
+
+          const domain = SOURCE_DOMAIN[source.name];
+          const href = domain ? `https://${domain}` : undefined;
+
+          return (
+            <a
               key={source.id}
-              className="absolute flex flex-col items-center"
-              title={`${source.name} — ${isCovered ? "Cubrió" : "No cubrió"}`}
+              href={href}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="absolute flex flex-col items-center cursor-pointer group"
+              title={source.name}
               style={{
                 left: `calc(${pos}% + ${off * 10}px)`,
                 transform: "translateX(-50%)",
-                /* Above: name+conn+circle stacks down, bottom touches bar top
-                   Below: circle+conn+name stacks down, top starts at bar bottom */
                 top: isAbove
-                  ? BAR_Y - CIRCLE - CONN - 12   /* 46 - 22 - 8 - 12 = 4 */
-                  : BAR_Y + BAR_H,                /* 46 + 4 = 50 */
+                  ? BAR_Y - CIRCLE - connHeight - 12
+                  : BAR_Y + BAR_H,
                 width: 52,
+                textDecoration: "none",
               }}
             >
               {isAbove ? (
-                /* Top→bottom: name, connector, circle (circle sits on bar) */
-                <>{nameEl}{connEl}{faviconEl}</>
+                <>{nameEl}{faviconEl}{connEl}</>
               ) : (
-                /* Top→bottom: circle (sits on bar), connector, name */
-                <>{faviconEl}{connEl}{nameEl}</>
+                <>{connEl}{faviconEl}{nameEl}</>
               )}
-            </div>
+            </a>
           );
         })}
 
-        {/* Izquierda / Centro / Derecha labels */}
-        <div
-          className="absolute flex justify-between w-full"
-          style={{ top: 110, left: 0, right: 0 }}
-        >
-          <span
-            className="text-[9px] font-bold uppercase tracking-wide"
-            style={{ color: "#E03131", opacity: 0.6 }}
+        {/* Izquierda / Centro / Derecha chips on bar */}
+        {[
+          { label: "Izquierda", left: "0%", color: "#E03131", bg: "#FFF0F0", align: "left" },
+          { label: "Centro", left: "50%", color: "#868E96", bg: "#F8F9FA", align: "center" },
+          { label: "Derecha", left: "100%", color: "#2563EB", bg: "#EDF2FF", align: "right" },
+        ].map((chip) => (
+          <div
+            key={chip.label}
+            className="absolute text-[8px] font-bold uppercase tracking-[0.5px] px-2 py-[2px] rounded-full whitespace-nowrap"
+            style={{
+              left: chip.left,
+              top: BAR_Y + BAR_H / 2,
+              transform: `translate(${chip.align === "left" ? "0" : chip.align === "right" ? "-100%" : "-50%"}, -50%)`,
+              color: chip.color,
+              background: chip.bg,
+              border: `1px solid ${chip.color}30`,
+              zIndex: 1,
+            }}
           >
-            ← Izquierda
-          </span>
-          <span
-            className="text-[9px] font-medium"
-            style={{ color: "var(--text-light)" }}
-          >
-            Centro
-          </span>
-          <span
-            className="text-[9px] font-bold uppercase tracking-wide"
-            style={{ color: "#2563EB", opacity: 0.6 }}
-          >
-            Derecha →
-          </span>
-        </div>
+            {chip.label}
+          </div>
+        ))}
       </div>
 
       {/* Legend */}
