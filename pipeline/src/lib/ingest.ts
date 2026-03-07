@@ -61,6 +61,8 @@ async function scrapePage(
 
       if (!href.includes(domain)) return;
       if (href.match(/\.(css|js|png|jpg|jpeg|svg|ico|gif|woff|ttf|pdf)(\?|#|$)/)) return;
+      if (href.match(/\/(tag|tags|autor|author|juegos|games)\//i)) return;
+      if (href.includes("stories.rtve.es/")) return;
 
       try {
         const path = new URL(href).pathname;

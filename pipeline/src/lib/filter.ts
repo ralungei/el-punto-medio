@@ -10,7 +10,8 @@ const FILTER_PROMPT = `Eres un editor jefe de un periódico serio. Tu trabajo es
 
 DESCARTA (responde "no") artículos que sean:
 - Clickbait o sensacionalismo vacío (ej: "No creerás lo que hizo...", "El impactante cambio de look de...")
-- Cotilleos, prensa rosa o vida privada: bodas, rupturas, embarazos, relaciones sentimentales, rumores sobre famosos, declaraciones de estilistas/amigos/familiares sobre la vida personal de celebridades. Aunque mencionen un evento cultural (alfombra roja, gala, premios), si el foco es la vida privada → DESCARTAR
+- Cotilleos, prensa rosa o vida privada: bodas, rupturas, embarazos, relaciones sentimentales, rumores sobre famosos, declaraciones de estilistas/amigos/familiares sobre la vida personal de celebridades. Aunque mencionen un evento cultural (alfombra roja, gala, premios), si el foco es la vida privada → DESCARTAR. Ejemplos concretos: "X confirma su relación con Y", "X y Y se separan", "X embarazada", "X pillada besándose con Y" → SIEMPRE DESCARTAR
+- Detenciones, arrestos o incidentes menores de celebridades que no tengan relevancia penal/judicial seria (ej: conducción ebria de un famoso, peleas en discoteca de un futbolista) → DESCARTAR. Solo conservar si hay implicaciones legales o sociales serias
 - Reality shows, influencers, contenido sobre físico/vestimenta/looks de personas públicas
 - Horóscopos, tests, rankings subjetivos sin base
 - Publicidad encubierta o contenido patrocinado

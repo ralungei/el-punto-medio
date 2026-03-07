@@ -17,7 +17,7 @@ export function setStage(stage: string) {
   currentStage = stage;
 }
 
-const LLM_TIMEOUT_MS = 120_000;
+const LLM_TIMEOUT_MS = 180_000;
 
 /** Drop-in replacement for anthropic.messages.create() with auto-tracking */
 export async function llm(

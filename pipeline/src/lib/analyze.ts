@@ -44,12 +44,80 @@ interface ClusterWithArticles {
   }[];
 }
 
+// ── Verify each article in a cluster actually covers the same topic ──
+
+const COHERENCE_SCHEMA = {
+  type: "object" as const,
+  properties: {
+    relevant: {
+      type: "array" as const,
+      items: { type: "boolean" as const },
+    },
+  },
+  required: ["relevant"] as const,
+  additionalProperties: false as const,
+};
+
+async function verifyClusterCoherence(
+  topicSummary: string,
+  articles: ClusterWithArticles["articles"]
+): Promise<ClusterWithArticles["articles"]> {
+  if (articles.length <= 1) return articles;
+
+  const list = articles
+    .map((a, i) => {
+      const desc = a.description ? ` — ${a.description.slice(0, 150)}` : "";
+      return `[${i}] (${a.sourceName}) ${a.title}${desc}`;
+    })
+    .join("\n");
+
+  const response = await llm({
+    model: "claude-haiku-4-5",
+    max_tokens: 200,
+    output_config: {
+      format: {
+        type: "json_schema",
+        schema: COHERENCE_SCHEMA,
+      },
+    },
+    messages: [
+      {
+        role: "user",
+        content: `¿Cada artículo cubre el MISMO acontecimiento específico que este tema?
+
+Tema del cluster: "${topicSummary}"
+
+${list}
+
+Para cada artículo, responde true si cubre este mismo evento concreto, false si trata de otro tema distinto.
+Un artículo sobre un tema diferente (aunque comparta palabras clave, región o temática genérica) debe ser false.`,
+      },
+    ],
+  });
+
+  const text = response.content[0].type === "text" ? response.content[0].text : "";
+  try {
+    const result: { relevant: boolean[] } = JSON.parse(text);
+    const verified = articles.filter((_, i) => i < result.relevant.length && result.relevant[i]);
+    const removed = articles.length - verified.length;
+    if (removed > 0) {
+      const removedNames = articles
+        .filter((_, i) => i >= result.relevant.length || !result.relevant[i])
+        .map((a) => a.sourceName);
+      console.log(`    ⚠ Removed ${removed} irrelevant source(s) from cluster: ${removedNames.join(", ")}`);
+    }
+    return verified;
+  } catch {
+    return articles; // on parse error, keep all
+  }
+}
+
 export async function analyzeCluster(cluster: ClusterWithArticles): Promise<void> {
   // Skip single-source clusters (no comparison to make)
   const uniqueSources = new Set(cluster.articles.map((a) => a.sourceId));
   if (uniqueSources.size < 2) return;
 
-  // Cache check: skip if inputs haven't changed
+  // Cache check FIRST: skip before any API calls
   const { forceRegenerate } = await import("../../scripts/pipeline.js");
   const hashInput = JSON.stringify(
     cluster.articles.map((a) => ({
@@ -75,8 +143,16 @@ export async function analyzeCluster(cluster: ClusterWithArticles): Promise<void
     }
   }
 
+  // Verify cluster coherence — remove articles that don't match the topic
+  const verifiedArticles = await verifyClusterCoherence(cluster.topicSummary, cluster.articles);
+  const verifiedSources = new Set(verifiedArticles.map((a) => a.sourceId));
+  if (verifiedSources.size < 2) {
+    console.log(`    ⊘ Cluster "${cluster.topicSummary.slice(0, 60)}..." has <2 verified sources, skipping`);
+    return;
+  }
+
   console.log(
-    `  Analyzing: "${cluster.topicSummary.slice(0, 60)}..." (${cluster.articles.length} articles, ${uniqueSources.size} sources)`
+    `  Analyzing: "${cluster.topicSummary.slice(0, 60)}..." (${verifiedArticles.length} articles, ${verifiedSources.size} sources)`
   );
 
   // Step 1: Categorize
@@ -86,7 +162,7 @@ export async function analyzeCluster(cluster: ClusterWithArticles): Promise<void
     messages: [
       {
         role: "user",
-        content: categorizationPrompt(cluster.articles),
+        content: categorizationPrompt(verifiedArticles),
       },
     ],
   });
@@ -132,7 +208,7 @@ export async function analyzeCluster(cluster: ClusterWithArticles): Promise<void
     messages: [
       {
         role: "user",
-        content: analysisPrompt(cluster.topicSummary, cluster.articles),
+        content: analysisPrompt(cluster.topicSummary, verifiedArticles),
       },
     ],
   });
@@ -155,8 +231,8 @@ export async function analyzeCluster(cluster: ClusterWithArticles): Promise<void
     for (const analysis of parsed.analyses || []) {
       // Match by sourceId first, fall back to sourceName
       const article =
-        (analysis.sourceId && cluster.articles.find((a) => a.sourceId === analysis.sourceId)) ||
-        cluster.articles.find((a) => a.sourceName === analysis.sourceName);
+        (analysis.sourceId && verifiedArticles.find((a) => a.sourceId === analysis.sourceId)) ||
+        verifiedArticles.find((a) => a.sourceName === analysis.sourceName);
       if (!article) continue;
 
       await db.insert(schema.sourceAnalyses)

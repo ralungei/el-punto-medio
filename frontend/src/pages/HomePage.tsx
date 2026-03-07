@@ -8,6 +8,7 @@ import { CATEGORY_COLORS, SOURCE_DOMAIN, getFavicon } from "../constants";
 import { getReadSlugs } from "../lib/storage";
 
 const OVERFLOW_PAGE_SIZE = 12;
+const SECTION_MAX = 6;
 
 /* ── helpers ── */
 
@@ -274,19 +275,32 @@ function CategorySection({
   readSlugs: Set<string>;
 }) {
   const bgColor = `${color}14`;
+  const limited = articles.slice(0, SECTION_MAX);
+  const hasMore = articles.length > SECTION_MAX;
   return (
     <section style={{ backgroundColor: bgColor }} className="py-10 mt-2">
       <div className="mx-auto max-w-[1100px] px-5">
-        <div className="mb-5">
-          <h2
-            className="text-[18px] font-extrabold uppercase tracking-[1.5px] mb-2"
-            style={{ fontFamily: "var(--font-serif)", color: "var(--text)" }}
-          >
-            {title}
-          </h2>
-          <div style={{ height: 3, width: 60, backgroundColor: color }} />
+        <div className="mb-5 flex items-end justify-between">
+          <div>
+            <h2
+              className="text-[18px] font-extrabold uppercase tracking-[1.5px] mb-2"
+              style={{ fontFamily: "var(--font-serif)", color: "var(--text)" }}
+            >
+              {title}
+            </h2>
+            <div style={{ height: 3, width: 60, backgroundColor: color }} />
+          </div>
+          {hasMore && (
+            <Link
+              to={`/?cat=${encodeURIComponent(title)}`}
+              className="text-[13px] font-semibold shrink-0 mb-1 hover:underline"
+              style={{ color }}
+            >
+              Ver todos ({articles.length})
+            </Link>
+          )}
         </div>
-        <HeroGrid articles={articles} readSlugs={readSlugs} />
+        <HeroGrid articles={limited} readSlugs={readSlugs} />
       </div>
     </section>
   );

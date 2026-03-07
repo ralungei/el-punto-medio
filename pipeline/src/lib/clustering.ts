@@ -254,6 +254,7 @@ async function clusterSingleCall(
     index: i,
     sourceName: sourceMap.get(a.sourceId) || `source-${a.sourceId}`,
     title: a.title,
+    description: a.description?.slice(0, 150) || "",
   }));
 
   const prompt = clusteringPrompt(promptArticles, existingStories);
@@ -495,6 +496,7 @@ async function rescueSingleSourceClusters(
     index: i,
     storyId: o.storyId,
     title: o.arts[0].title,
+    description: o.arts[0].description?.slice(0, 150) || "",
   }));
 
   const targets = Array.from(multiSourceIds).map((storyId) => ({
@@ -504,8 +506,9 @@ async function rescueSingleSourceClusters(
 
   const prompt = rescuePrompt(promptOrphans, targets);
 
+  // Use Sonnet for rescue — precision matters more than cost here
   const response = await llm({
-    model: "claude-haiku-4-5",
+    model: "claude-sonnet-4-6",
     max_tokens: 4096,
     output_config: {
       format: {

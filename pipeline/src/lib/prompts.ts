@@ -122,9 +122,10 @@ El artículo debe tener EXACTAMENTE estas secciones:
    - No abuses: máx 3-5 negritas y 2-4 links por párrafo.
 4. **coverage**: "Cómo lo cuentan" — array de objetos, uno por medio, con:
    - sourceName, tone (SOLO uno de: neutral, favorable, crítico, alarmista, sensacionalista, defensivo), summary (2-3 frases explicando su enfoque)
+   - IMPORTANTE: Si algún medio en "Análisis por medio" NO cubre realmente este tema (su artículo trata de otro asunto completamente distinto), EXCLÚYELO del array de coverage. No lo menciones en hidden. Ese medio simplemente no cubrió esta noticia.
 5. **hidden**: "Entre líneas" — análisis profundo de lo que se omite, se minimiza o se enmarca de forma sesgada en la cobertura. No solo listes omisiones: explica POR QUÉ importan, qué interés puede haber detrás de cada omisión, y qué cambia en la comprensión del lector al conocerlas. Señala si algún medio destaca algo que otros ignoran deliberadamente. 2-3 párrafos bien desarrollados. Si no hay omisiones significativas, indica "Todos los medios consultados han cubierto los aspectos principales de esta noticia." Puede usar **negritas** y [links].
 6. **context**: "Contexto" — explica los antecedentes como si el lector no supiera NADA del tema. Define quiénes son las personas mencionadas, qué son las organizaciones o instituciones, por qué existe el conflicto, qué pasó antes para llegar a esta situación. No asumas conocimientos previos: si mencionas un tratado, explica qué es; si mencionas un líder, explica quién es y por qué importa; si hay tensiones entre países, explica el origen. 2-4 párrafos, lenguaje claro y accesible. Puede usar **negritas** y [links] igual que en facts.
-7. **questions**: "Saca tus conclusiones" — 3-5 preguntas abiertas para que el lector reflexione. NO numeres ni pongas guiones: solo el texto de cada pregunta, sin prefijo.
+7. **questions**: "Saca tus conclusiones" — Exactamente 3 preguntas abiertas para que el lector reflexione. NO numeres ni pongas guiones: solo el texto de cada pregunta, sin prefijo. Cada pregunta max 2 líneas. Varía los ángulos: no siempre preguntes sobre "la responsabilidad de los medios". Prioriza preguntas sobre los hechos y sus consecuencias directas para el ciudadano.
 8. **sentiment**: Sentimiento general de la noticia (NO del tono de los medios). ¿Los hechos en sí son positivos, negativos o neutros para la sociedad? SOLO uno de: "positive", "negative", "neutral". Clasifica como "negative" cualquier noticia sobre: conflictos, violencia, corrupción, escándalos, polémicas políticas, crispación, protestas, crisis, desastres, muertes, recortes, despidos, subidas de precios, guerras, tensiones geopolíticas, acusaciones judiciales o investigaciones penales. Clasifica como "positive" solo noticias genuinamente buenas: avances científicos, logros deportivos, bajadas de impuestos/paro, acuerdos de paz, mejoras sociales. En caso de duda entre neutral y negative, elige "negative".
 
 Responde SOLO con JSON válido, sin markdown. Formato:
@@ -203,19 +204,25 @@ IMPORTANTE — NO fusionar:
 - Clusters relacionados pero sobre hechos distintos: "ataque-iran" y "petroleo-sube-iran" son consecuencia uno del otro, pero NO son el mismo acontecimiento
 - Clusters que comparten un actor: "zapatero-plus-ultra" y "zapatero-venezuela" son de Zapatero pero son hechos distintos
 - Clusters que comparten tema genérico: "tiroteo-texas" y "ataque-iran" NO se fusionan aunque ambos sean violencia
+- Clusters que comparten ciudad o región: "muerte-marbella" y "robo-marbella" NO se fusionan
+- Clusters que comparten tipo de suceso: "muerte-custodia-marbella" y "testigo-mafia-italia" NO se fusionan aunque ambos traten de justicia/crimen
+- DOS HISTORIAS DISTINTAS nunca son el mismo acontecimiento aunque compartan temática
 
-Solo fusiona si los titulares describen LITERALMENTE los mismos hechos. En caso de duda, NO fusiones. Devuelve una lista vacía si no hay duplicados claros.
+Solo fusiona si los titulares describen LITERALMENTE los mismos hechos. En caso de duda, NO fusiones. Devuelve una lista vacía si no hay duplicados claros. Es preferible tener clusters duplicados que fusionar historias diferentes.
 
 Clusters:
 ${clustersText}`;
 }
 
 export function rescuePrompt(
-  orphans: { index: number; storyId: string; title: string }[],
+  orphans: { index: number; storyId: string; title: string; description?: string }[],
   targets: { storyId: string; titles: string[] }[]
 ): string {
   const orphanText = orphans
-    .map((o) => `[${o.index}] "${o.storyId}": ${o.title}`)
+    .map((o) => {
+      const desc = o.description ? ` — ${o.description}` : "";
+      return `[${o.index}] "${o.storyId}": ${o.title}${desc}`;
+    })
     .join("\n");
 
   const targetText = targets
@@ -232,15 +239,24 @@ ${targetText}
 
 Para cada huérfano que encaje, devuelve su índice y el story_id del cluster destino.
 Si un huérfano no encaja con ninguno, NO lo incluyas.
-Solo asigna si cubren LITERALMENTE el mismo acontecimiento. Tema genérico compartido NO basta.`;
+
+REGLAS ESTRICTAS:
+- Solo asigna si los titulares y descripciones describen EXACTAMENTE los mismos hechos concretos.
+- Tema genérico compartido NO basta (ej: "política regional", "desastres naturales", "muertes").
+- Misma ciudad NO basta. Mismo sector NO basta. Mismo país NO basta.
+- Es PREFERIBLE dejar un huérfano sin asignar que contaminar un cluster existente con un artículo irrelevante.
+- En caso de duda, NO asignes.`;
 }
 
 export function clusteringPrompt(
-  articles: { index: number; sourceName: string; title: string }[],
+  articles: { index: number; sourceName: string; title: string; description?: string }[],
   existingStories: { storyId: string; titles: string[] }[]
 ): string {
   const articlesText = articles
-    .map((a) => `[${a.index}] (${a.sourceName}) ${a.title}`)
+    .map((a) => {
+      const desc = a.description ? ` — ${a.description}` : "";
+      return `[${a.index}] (${a.sourceName}) ${a.title}${desc}`;
+    })
     .join("\n");
 
   const existingText =
